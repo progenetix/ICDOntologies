@@ -1,0 +1,11 @@
+equivalents:
+- term: B-Cell Prolymphocytic Leukemia
+  term_id: ncit:C4753
+- term_id: seer:35013
+examples:
+- term: B-cell prolymphocytic leukemia [cell line jvm-3]
+input:
+- term: Prolymphocytic leukemia, b-cell type
+  term_id: icdom:9833_3
+- term: Hematopoietic and reticuloendothelial systems
+  term_id: icdot:C42

@@ -1,0 +1,11 @@
+equivalents:
+- term: Multiple Endocrine Neoplasia Type 1
+  term_id: ncit:C3225
+- term_id: seer:37000
+examples:
+- term: Multiple endocrine neoplasia [type 1, lymph node metastasis]
+input:
+- term: Multiple endocrine adenomas
+  term_id: icdom:8360_1
+- term: Lymph nodes
+  term_id: icdot:C77

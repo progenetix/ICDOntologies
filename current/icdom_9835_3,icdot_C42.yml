@@ -1,0 +1,11 @@
+equivalents:
+- term: Adult T Acute Lymphoblastic Leukemia
+  term_id: ncit:C9142
+- term_id: 'seer:'
+examples:
+- term: Adult T acute lymphoblastic leukemia [cell line MOLT-4]
+input:
+- term: Precursor cell lymphoblastic leukemia, NOS
+  term_id: icdom:9835_3
+- term: Hematopoietic and reticuloendothelial systems
+  term_id: icdot:C42

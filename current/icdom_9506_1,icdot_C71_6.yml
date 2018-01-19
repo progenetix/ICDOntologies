@@ -1,0 +1,11 @@
+equivalents:
+- term: Central Neurocytoma
+  term_id: ncit:C3791
+- term_id: seer:31010
+examples:
+- term: Central neurocytoma
+input:
+- term: Central neurocytoma
+  term_id: icdom:9506_1
+- term: Cerebellum, nos
+  term_id: icdot:C71_6

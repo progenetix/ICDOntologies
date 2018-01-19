@@ -1,0 +1,11 @@
+equivalents:
+- term: Hidradenocarcinoma
+  term_id: ncit:C54664
+- term_id: seer:25020
+examples:
+- term: Hidradenocarcinoma [sweat gland]
+input:
+- term: Nodular hidradenoma
+  term_id: icdom:8402_3
+- term: Skin
+  term_id: icdot:C44

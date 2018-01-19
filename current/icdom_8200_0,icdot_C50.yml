@@ -1,0 +1,11 @@
+equivalents:
+- term: Cylindroma
+  term_id: ncit:C27094
+- term_id: seer:26000
+examples:
+- term: Breast cylindroma
+input:
+- term: Eccrine dermal cylindroma
+  term_id: icdom:8200_0
+- term: Breast
+  term_id: icdot:C50

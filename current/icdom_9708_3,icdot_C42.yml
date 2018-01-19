@@ -1,0 +1,11 @@
+equivalents:
+- term: Subcutaneous Panniculitis-Like T-Cell Lymphoma
+  term_id: ncit:C6918
+- term_id: seer:33042
+examples:
+- term: Subcutaneous panniculitis-like t-cell lymphoma
+input:
+- term: Subcutaneous panniculitis-like t-cell lymphoma
+  term_id: icdom:9708_3
+- term: Hematopoietic and reticuloendothelial systems
+  term_id: icdot:C42

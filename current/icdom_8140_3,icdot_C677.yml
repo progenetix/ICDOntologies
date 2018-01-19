@@ -1,0 +1,11 @@
+equivalents:
+- term: Bladder Urachal Adenocarcinoma
+  term_id: ncit:C39843
+- term_id: seer:29010
+examples:
+- term: Urachal adenocarcinoma
+input:
+- term: Adenocarcinoma, nos
+  term_id: icdom:8140_3
+- term: Urachus
+  term_id: icdot:C677

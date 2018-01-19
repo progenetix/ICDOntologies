@@ -1,0 +1,11 @@
+equivalents:
+- term: Salivary Duct Carcinoma
+  term_id: ncit:C5904
+- term_id: seer:20030
+examples:
+- term: Salivary duct carcinoma
+input:
+- term: Infiltrating duct carcinoma, nos
+  term_id: icdom:8500_3
+- term: Salivary glands
+  term_id: icdot:C07

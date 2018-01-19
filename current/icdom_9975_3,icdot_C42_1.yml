@@ -1,0 +1,11 @@
+equivalents:
+- term: "\_Myelodysplastic/Myeloproliferative Neoplasm"
+  term_id: ncit:C27262
+- term_id: seer:37000
+examples:
+- term: Myelodysplastic/myeloproliferative neoplasm
+input:
+- term: Myloproliferative neoplasm, unclassifiable
+  term_id: icdom:9975_3
+- term: Bone marrow
+  term_id: icdot:C42_1

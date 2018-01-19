@@ -1,0 +1,11 @@
+equivalents:
+- term: Pleomorphic Adenoma
+  term_id: ncit:C8602
+- term_id: seer:20030
+examples:
+- term: Ex-pleomorphic adenoma
+input:
+- term: Pleomorphic adenoma, nos
+  term_id: icdom:8940_0
+- term: Parotid Gland
+  term_id: icdot:C07_9

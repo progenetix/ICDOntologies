@@ -1,0 +1,11 @@
+equivalents:
+- term: Pancreatic Neuroendocrine Carcinoma
+  term_id: ncit:C3770
+- term_id: seer:21100
+examples:
+- term: Pancreatic endocrine tumor
+input:
+- term: Pancreatic endocrine tumor, nos
+  term_id: icdom:8150_1
+- term: Pancreas
+  term_id: icdot:C25

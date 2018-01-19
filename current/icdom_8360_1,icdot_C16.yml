@@ -1,0 +1,11 @@
+equivalents:
+- term: Multiple Endocrine Neoplasia Type 1
+  term_id: ncit:C3225
+- term_id: seer:21020
+examples:
+- term: Multiple endocrine neoplasia [type 1, stomach]
+input:
+- term: Multiple endocrine adenomas
+  term_id: icdom:8360_1
+- term: Stomach
+  term_id: icdot:C16

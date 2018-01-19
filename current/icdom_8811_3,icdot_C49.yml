@@ -1,0 +1,11 @@
+equivalents:
+- term: Low Grade Fibromyxoid Sarcoma
+  term_id: ncit:C45202
+- term_id: seer:24000
+examples:
+- term: Fibromyxoid sarcoma [low-grade]
+input:
+- term: Fibromyxosarcoma
+  term_id: icdom:8811_3
+- term: Connective, subcutaneous and other soft tissues
+  term_id: icdot:C49

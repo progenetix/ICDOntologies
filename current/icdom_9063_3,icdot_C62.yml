@@ -1,0 +1,11 @@
+equivalents:
+- term: Testicular Spermatocytic Seminoma
+  term_id: ncit:C39921
+- term_id: seer:28020
+examples:
+- term: Spermatocytic seminoma
+input:
+- term: Spermatocytic seminoma
+  term_id: icdom:9063_3
+- term: Testis
+  term_id: icdot:C62

@@ -1,0 +1,11 @@
+equivalents:
+- term: Blastic Plasmacytoid Dendritic Cell Neoplasm
+  term_id: ncit:C7203
+- term_id: seer:25020
+examples:
+- term: Desmoplastic small round cell tumor
+input:
+- term: Desmoplastic small round cell tumor
+  term_id: icdom:8806_3
+- term: Skin
+  term_id: icdot:C44

@@ -1,0 +1,11 @@
+equivalents:
+- term: Atypical Lipomatous Tumor
+  term_id: ncit:C6505
+- term_id: seer:24000
+examples:
+- term: Atypical lipomatous tumor/well-differentiated liposarcoma
+input:
+- term: Atypical lipoma
+  term_id: icdom:8850_1
+- term: Connective, subcutaneous and other soft tissues
+  term_id: icdot:C49

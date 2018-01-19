@@ -1,0 +1,11 @@
+equivalents:
+- term: Childhood T Acute Lymphoblastic Leukemia
+  term_id: ncit:C7953
+- term_id: seer:35011
+examples:
+- term: Childhood t acute lymphoblastic leukemia [cell line p12-ichikawa]
+input:
+- term: T lymphoblastic leukemia/lymphoma
+  term_id: icdom:9837_3
+- term: Hematopoietic and reticuloendothelial systems
+  term_id: icdot:C42

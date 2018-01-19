@@ -1,0 +1,11 @@
+equivalents:
+- term: Tenosynovial Giant Cell Tumor
+  term_id: ncit:C3402
+- term_id: seer:24000
+examples:
+- term: Tenosynovial giant cell tumor
+input:
+- term: Tenosynovial giant cell tumor
+  term_id: icdom:9252_0
+- term: Connective, subcutaneous and other soft tissues
+  term_id: icdot:C49

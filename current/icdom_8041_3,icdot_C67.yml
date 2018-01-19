@@ -1,0 +1,11 @@
+equivalents:
+- term: Bladder Small Cell Neuroendocrine Carcinoma
+  term_id: ncit:C9461
+- term_id: seer:29010
+examples:
+- term: Small cell carcinoma of the urinary bladder
+input:
+- term: Small cell neuroendocrine carcinoma
+  term_id: icdom:8041_3
+- term: Bladder
+  term_id: icdot:C67

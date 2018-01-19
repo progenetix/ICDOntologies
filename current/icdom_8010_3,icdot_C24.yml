@@ -1,0 +1,11 @@
+equivalents:
+- term: Bile Duct Carcinoma
+  term_id: ncit:C27814
+- term_id: seer:21090
+examples:
+- term: Bile duct cancer
+input:
+- term: Carcinoma, nos
+  term_id: icdom:8010_3
+- term: Other and unspecified parts of biliary tract
+  term_id: icdot:C24

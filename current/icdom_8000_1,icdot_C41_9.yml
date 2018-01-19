@@ -1,0 +1,11 @@
+equivalents:
+- term: Bone Neoplasm
+  term_id: ncit:C9343
+- term_id: seer:23000
+examples:
+- term: Bone cancer
+input:
+- term: Neoplasm, uncertain whether benign or malignant
+  term_id: icdom:8000_1
+- term: Bone, NOS
+  term_id: icdot:C41_9

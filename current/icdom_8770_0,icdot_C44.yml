@@ -1,0 +1,11 @@
+equivalents:
+- term: Melanocytic Neoplasm
+  term_id: ncit:C7058
+- term_id: seer:25010
+examples:
+- term: Melanocytic neoplasm [childhood]
+input:
+- term: Epithelioid and spindle cell nevus
+  term_id: icdom:8770_0
+- term: Skin
+  term_id: icdot:C44

@@ -1,0 +1,11 @@
+equivalents:
+- term: Carney Complex
+  term_id: ncit:C4705
+- term_id: seer:32020
+examples:
+- term: Pituitary tumor [carney complex]
+input:
+- term: Pituitary carcinoma, nos
+  term_id: icdom:8272_3
+- term: Pituitary gland
+  term_id: icdot:C75_1

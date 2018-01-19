@@ -1,0 +1,11 @@
+equivalents:
+- term: Atypical Meningioma
+  term_id: ncit:C4723
+- term_id: seer:31040
+examples:
+- term: Atypical meningioma
+input:
+- term: Atypical meningioma
+  term_id: icdom:9539_1
+- term: Brain
+  term_id: icdot:C71

@@ -1,0 +1,11 @@
+equivalents:
+- term: Nodular Lymphocyte Predominant Hodgkin Lymphoma
+  term_id: ncit:C7258
+- term_id: seer:33011
+examples:
+- term: Nodular lymphocyte predominant hodgkin lymphoma
+input:
+- term: Hodgkin lymphoma, nodular lymphocyte predominance
+  term_id: icdom:9659_3
+- term: Hematopoietic and reticuloendothelial systems
+  term_id: icdot:C42

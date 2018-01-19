@@ -1,0 +1,11 @@
+equivalents:
+- term: Nodular Sclerosis Classical Hodgkin Lymphoma
+  term_id: ncit:C3518
+- term_id: seer:33011
+examples:
+- term: 'Hodgkin lymphoma, nodular sclerosis '
+input:
+- term: Hodgkin lymphoma, nodular sclerosis, nos
+  term_id: icdom:9663_3
+- term: Hematopoietic and reticuloendothelial systems
+  term_id: icdot:C42

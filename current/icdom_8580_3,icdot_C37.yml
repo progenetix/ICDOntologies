@@ -1,0 +1,11 @@
+equivalents:
+- term: Metaplastic Thymoma
+  term_id: ncit:C45707
+- term_id: seer:32020
+examples:
+- term: Thymoma [metaplastic, mediastinum]
+input:
+- term: Thymoma, malignant, nos
+  term_id: icdom:8580_3
+- term: Thymus
+  term_id: icdot:C37

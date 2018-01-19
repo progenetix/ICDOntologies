@@ -1,0 +1,11 @@
+equivalents:
+- term: Plasmablastic Lymphoma
+  term_id: ncit:C7224
+- term_id: seer:33041
+examples:
+- term: Plasmablastic lymphoma
+input:
+- term: Plasmablastic lymphoma
+  term_id: icdom:9735_3
+- term: Hematopoietic and reticuloendothelial systems
+  term_id: icdot:C42

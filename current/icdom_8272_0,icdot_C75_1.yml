@@ -1,0 +1,11 @@
+equivalents:
+- term: Pituitary Gland Adenoma
+  term_id: ncit:C3329
+- term_id: seer:20060
+examples:
+- term: Pituitary adenoma
+input:
+- term: Pituitary adenoma, nos
+  term_id: icdom:8272_0
+- term: Pituitary gland
+  term_id: icdot:C75_1

@@ -1,0 +1,11 @@
+equivalents:
+- term: Chronic Eosinophilic Leukemia
+  term_id: ncit:C4563
+- term_id: seer:35023
+examples:
+- term: Chronic eosinophilic leukemia [cell line eol-1-cell]
+input:
+- term: Chronic eosinophilic leukemia
+  term_id: icdom:9964_3
+- term: Hematopoietic and reticuloendothelial systems
+  term_id: icdot:C42

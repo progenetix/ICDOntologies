@@ -1,0 +1,11 @@
+equivalents:
+- term: Myelodysplastic Syndrome with Ring Sideroblasts
+  term_id: ncit:C4036
+- term_id: seer:37000
+examples:
+- term: Refractory anemia with ringed sideroblasts
+input:
+- term: Refractory anemia with sideroblasts
+  term_id: icdom:9982_3
+- term: Bone marrow
+  term_id: icdot:C42_1

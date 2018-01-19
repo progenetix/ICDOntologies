@@ -1,0 +1,11 @@
+equivalents:
+- term: Carcinoma of the Collecting Ducts of Bellini
+  term_id: ncit:C6194
+- term_id: seer:29020
+examples:
+- term: 'Collecting duct carcinoma '
+input:
+- term: Collecting duct carcinoma
+  term_id: icdom:8319_3
+- term: Kidney, nos
+  term_id: icdot:C64_9

@@ -1,0 +1,11 @@
+equivalents:
+- term: Lung Papillary Adenoma
+  term_id: ncit:C3494
+- term_id: seer:22030
+examples:
+- term: Bronchial adenoma
+input:
+- term: Papillary adenoma, nos
+  term_id: icdom:8260_0
+- term: Bronchus and lung
+  term_id: icdot:C34

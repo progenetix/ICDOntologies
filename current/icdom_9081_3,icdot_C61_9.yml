@@ -1,0 +1,11 @@
+equivalents:
+- term: Mixed Embryonal Carcinoma and Teratoma
+  term_id: ncit:C3756
+- term_id: seer:28010
+examples:
+- term: Teratocarcinoma
+input:
+- term: Teratocarcinoma
+  term_id: icdom:9081_3
+- term: Prostate gland
+  term_id: icdot:C61_9

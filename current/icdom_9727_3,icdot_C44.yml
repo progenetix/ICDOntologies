@@ -1,0 +1,11 @@
+equivalents:
+- term: Blastic Plasmacytoid Dendritic Cell Neoplasm
+  term_id: ncit:C7203
+- term_id: seer:33042
+examples:
+- term: CD4+ CD56+ blastic tumor of the skin
+input:
+- term: Precursor cell lymphoblastic lymphoma, nos
+  term_id: icdom:9727_3
+- term: Skin
+  term_id: icdot:C44

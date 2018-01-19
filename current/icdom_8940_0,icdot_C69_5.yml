@@ -1,0 +1,11 @@
+equivalents:
+- term: Lacrimal Gland Pleomorphic Adenoma
+  term_id: ncit:C4542
+- term_id: seer:30000
+examples:
+- term: Pleomorphic adenoma [lacrimal gland]
+input:
+- term: Pleomorphic adenoma
+  term_id: icdom:8940_0
+- term: Lacrimal gland
+  term_id: icdot:C69_5

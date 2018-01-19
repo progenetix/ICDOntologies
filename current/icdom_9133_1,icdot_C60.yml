@@ -1,0 +1,11 @@
+equivalents:
+- term: Epithelioid Hemangioendothelioma
+  term_id: ncit:C3800
+- term_id: seer:28030
+examples:
+- term: Epithelioid hemangioendothelioma [penis parauerthral]
+input:
+- term: Epithelioid hemangioendothelioma, nos
+  term_id: icdom:9133_1
+- term: Penis
+  term_id: icdot:C60

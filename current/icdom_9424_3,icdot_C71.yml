@@ -1,0 +1,11 @@
+equivalents:
+- term: Pleomorphic Xanthoastrocytoma
+  term_id: ncit:C4323
+- term_id: seer:31010
+examples:
+- term: Pleomorphic xanthoastrocytoma
+input:
+- term: Pleomorphic xanthoastrocytoma
+  term_id: icdom:9424_3
+- term: Brain
+  term_id: icdot:C71

@@ -1,0 +1,11 @@
+equivalents:
+- term: PEComa
+  term_id: ncit:C38150
+- term_id: seer:24000
+examples:
+- term: Perivascular epithelioid cell tumor
+input:
+- term: Angiomyolipoma
+  term_id: icdom:8860_0
+- term: Connective, subcutaneous and other soft tissues
+  term_id: icdot:C49

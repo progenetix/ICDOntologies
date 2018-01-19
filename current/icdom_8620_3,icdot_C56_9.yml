@@ -1,0 +1,11 @@
+equivalents:
+- term: Ovarian Granulosa Cell Tumor
+  term_id: ncit:C6261
+- term_id: seer:27040
+examples:
+- term: Granulosa cell tumor [ovary]
+input:
+- term: Granulosa cell tumor, malignant
+  term_id: icdom:8620_3
+- term: Ovary
+  term_id: icdot:C56_9

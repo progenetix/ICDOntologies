@@ -1,0 +1,11 @@
+equivalents:
+- term: Embryonal Rhabdomyosarcoma
+  term_id: ncit:C8971
+- term_id: seer:24000
+examples:
+- term: Embryonal rhabdomyosarcoma
+input:
+- term: Embryonal rhabdomyosarcoma, nos
+  term_id: icdom:8910_3
+- term: Connective, subcutaneous and other soft tissues
+  term_id: icdot:C49

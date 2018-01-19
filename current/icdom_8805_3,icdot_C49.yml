@@ -1,0 +1,11 @@
+equivalents:
+- term: Undifferentiated (Embryonal) Sarcoma
+  term_id: ncit:C27096
+- term_id: seer:24000
+examples:
+- term: Undifferentiated sarcoma
+input:
+- term: Undifferentiated sarcoma
+  term_id: icdom:8805_3
+- term: Connective, subcutaneous and other soft tissues
+  term_id: icdot:C49

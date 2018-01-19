@@ -1,0 +1,11 @@
+equivalents:
+- term: Gallbladder Carcinoma
+  term_id: ncit:C3844
+- term_id: seer:21080
+examples:
+- term: Gallbladder carcinoma [cell line tgbc24tkb]
+input:
+- term: Carcinoma, nos
+  term_id: icdom:8010_3
+- term: Gallbladder
+  term_id: icdot:C23

@@ -1,0 +1,11 @@
+equivalents:
+- term: Krukenberg Tumor
+  term_id: ncit:C3153
+- term_id: seer:21130
+examples:
+- term: Krukenberg tumor [cell line ks-1]
+input:
+- term: Signet ring cell carcinoma
+  term_id: 'icdom:8490_3 '
+- term: 'Gastrointestinal tract, nos '
+  term_id: 'icdot:C26_9 '

@@ -1,0 +1,11 @@
+equivalents:
+- term: Fibroma
+  term_id: ncit:C3041
+- term_id: seer:24000
+examples:
+- term: Fibroma
+input:
+- term: Fibroma, nos
+  term_id: icdom:8810_0
+- term: Connective, subcutaneous and other soft tissues
+  term_id: icdot:C49

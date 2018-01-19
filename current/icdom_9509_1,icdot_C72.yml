@@ -1,0 +1,11 @@
+equivalents:
+- term: Papillary Glioneuronal Tumor
+  term_id: ncit:C92554
+- term_id: seer:31040
+examples:
+- term: Papillary glioneuronal tumor
+input:
+- term: Papillary glioneuronal tumor
+  term_id: icdom:9509_1
+- term: Spinal cord, cranial nerves, and other parts of central nervous system
+  term_id: icdot:C72

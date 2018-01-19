@@ -1,0 +1,11 @@
+equivalents:
+- term: Adult Acute Myeloid Leukemia
+  term_id: ncit:C9154
+- term_id: seer:35021
+examples:
+- term: Adult acute myeloid leukemia [cell line skm-1]
+input:
+- term: Acute myeloid leukemia, nos
+  term_id: icdom:9861_3
+- term: Hematopoietic and reticuloendothelial systems
+  term_id: icdot:C42

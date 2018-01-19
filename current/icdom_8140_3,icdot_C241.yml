@@ -1,0 +1,11 @@
+equivalents:
+- term: Ampulla of Vater Adenocarcinoma
+  term_id: ncit:C6650
+- term_id: seer:21090
+examples:
+- term: Ampullary cancer
+input:
+- term: Adenocarcinoma, nos
+  term_id: icdom:8140_3
+- term: Ampulla of vater
+  term_id: icdot:C241

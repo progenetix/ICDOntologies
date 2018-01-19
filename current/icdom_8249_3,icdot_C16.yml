@@ -1,0 +1,11 @@
+equivalents:
+- term: Small Intestinal Neuroendocrine Tumor
+  term_id: ncit:C96061
+- term_id: seer:21020
+examples:
+- term: Neuroendocrine tumor [small intestine]
+input:
+- term: Atypical carcinoid tumor
+  term_id: icdom:8249_3
+- term: Stomach
+  term_id: icdot:C16

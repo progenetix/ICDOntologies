@@ -1,0 +1,11 @@
+equivalents:
+- term: Endocervical Carcinoma
+  term_id: ncit:C28327
+- term_id: seer:27010
+examples:
+- term: Endocervical adenocarcinoma
+input:
+- term: Adenocarcinoma, endocervical type
+  term_id: icdom:84384_3
+- term: Cervix uteri
+  term_id: icdot:C53

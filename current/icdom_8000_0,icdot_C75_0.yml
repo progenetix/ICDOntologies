@@ -1,0 +1,11 @@
+equivalents:
+- term: Benign Parathyroid Gland Neoplasm
+  term_id: ncit:C3630
+- term_id: seer:32020
+examples:
+- term: Benign parathyroid tumor
+input:
+- term: Neoplasm, benign
+  term_id: icdom:8000_0
+- term: Parathyroid gland
+  term_id: icdot:C75_0

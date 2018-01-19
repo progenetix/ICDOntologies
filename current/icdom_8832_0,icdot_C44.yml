@@ -1,0 +1,11 @@
+equivalents:
+- term: Cutaneous Fibrous Histiocytoma
+  term_id: ncit:C6801
+- term_id: seer:25020
+examples:
+- term: Dermatofibroma
+input:
+- term: Dermatofibroma, nos
+  term_id: icdom:8832_0
+- term: Skin
+  term_id: icdot:C44

@@ -1,0 +1,11 @@
+equivalents:
+- term: Juvenile Myelomonocytic Leukemia
+  term_id: ncit:C9233
+- term_id: seer:35022
+examples:
+- term: Juvenile myelomonocytic leukemia
+input:
+- term: Juvenile myelomonocytic leukemia
+  term_id: icdom:9946_3
+- term: Hematopoietic and reticuloendothelial systems
+  term_id: icdot:C42

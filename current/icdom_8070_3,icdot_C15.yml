@@ -1,0 +1,11 @@
+equivalents:
+- term: Atypical Hyperplasia
+  term_id: ncit:C8355
+- term_id: seer:21010
+examples:
+- term: Primary esophageal high atypical hyperplasia
+input:
+- term: Squamous cell carcinoma, nos
+  term_id: icdom:8070_3
+- term: Esophagus
+  term_id: icdot:C15

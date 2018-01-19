@@ -1,0 +1,11 @@
+equivalents:
+- term: Hepatoblastoma
+  term_id: ncit:C3728
+- term_id: seer:21071
+examples:
+- term: Hepatoblastoma
+input:
+- term: Hepatoblastoma
+  term_id: icdom:8970_3
+- term: Liver
+  term_id: icdot:C22_0

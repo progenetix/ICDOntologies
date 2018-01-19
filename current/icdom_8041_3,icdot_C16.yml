@@ -1,0 +1,11 @@
+equivalents:
+- term: Gastric Small Cell Neuroendocrine Carcinoma
+  term_id: ncit:C6764
+- term_id: seer:21020
+examples:
+- term: Small cell neuroendocrine carcinoma [gastric, cell line ecc10]
+input:
+- term: Small cell carcinoma, nos
+  term_id: icdom:8041_3
+- term: Stomach
+  term_id: icdot:C16

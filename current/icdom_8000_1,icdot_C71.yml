@@ -1,0 +1,11 @@
+equivalents:
+- term: Brain Neoplasm
+  term_id: ncit:C2907
+- term_id: seer:31010
+examples:
+- term: Brain tumor
+input:
+- term: Neoplasm, uncertain whether benign or malignant
+  term_id: icdom:8000_1
+- term: Brain
+  term_id: icdot:C71
