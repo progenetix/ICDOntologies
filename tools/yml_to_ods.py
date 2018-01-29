@@ -8,7 +8,7 @@ from pyexcel_ods import save_data
 mapp = []
 mapp.append('diagnosistext'+'icdmorphologycode'+'icdmorphology'+'icdtopographycode'+'icdtopography'+'seer'+'ncit:term'+'ncit:code')
 
-for filename in os.listdir('/'): # Specify directory
+for filename in os.listdir('../current'): # Specify directory
     if filename.endswith("yml"):
         with open(filename, "r") as stream:
             data = yaml.load(stream)
