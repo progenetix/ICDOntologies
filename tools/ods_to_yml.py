@@ -1,6 +1,9 @@
 # Read mappings from ods into yaml file
 
 from pyexcel_ods import get_data
+
+# TODO: input file specification
+
 data = get_data("manual_mapping.ods")
 table = data['Sheet1']
 
@@ -45,7 +48,7 @@ for i in range(0, len(table)):
             ]
         }
 
-        with open((icdom_c).replace("/","_").replace(":","_") +','+ ((icdot_c).replace("/","_").replace(":","_")) +'.yml','w') as outfile:
+        with open((icdom_c).replace("/","_").replace(":","_") +','+ ((icdot_c).replace("/","_").replace(":","_")) +'.yaml','w') as outfile:
             yaml.safe_dump(mapping, outfile, default_flow_style=False)
 
     except:
