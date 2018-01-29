@@ -6,11 +6,13 @@ import collections
 from pyexcel_ods import save_data
 
 mapp = []
-mapp.append('diagnosistext'+'icdmorphologycode'+'icdmorphology'+'icdtopographycode'+'icdtopography'+'seer'+'ncit:term'+'ncit:code')
-
-for filename in os.listdir('../current'): # Specify directory
+mapp.append(['diagnosistext']+['icdmorphologycode']+['icdmorphology']+['icdtopographycode']+['icdtopography']+['seer']+['ncit:term']+['ncit:code'])
+yamldir = '../current/'
+odsdir = '../editing/'
+for filename in os.listdir(yamldir): # Specify directory
     if filename.endswith("yml"):
-        with open(filename, "r") as stream:
+        yamlfile = yamldir + filename
+        with open(yamlfile, "r") as stream:
             data = yaml.load(stream)
             #print data
             try:
@@ -31,4 +33,4 @@ for filename in os.listdir('../current'): # Specify directory
 mapping = collections.OrderedDict()
 
 sheetx = {"codes":mapp}
-save_data("updated_mappings.ods",sheetx)
+save_data(odsdir + "table_from_yaml.ods",sheetx)
