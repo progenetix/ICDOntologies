@@ -10,7 +10,7 @@ mapp.append(['diagnosistext']+['icdmorphologycode']+['icdmorphology']+['icdtopog
 yamldir = '../current/'
 odsdir = '../editing/'
 for filename in os.listdir(yamldir): # Specify directory
-    if filename.endswith("yml"):
+    if filename.endswith("yaml"):
         yamlfile = yamldir + filename
         with open(yamlfile, "r") as stream:
             data = yaml.load(stream)
