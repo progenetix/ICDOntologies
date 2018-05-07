@@ -43,7 +43,7 @@ for i in range(0, len(table)):
 
             'examples':[
             {
-                'term' : diagnosis
+                'label' : diagnosis
             }
             ]
         }
