@@ -1,0 +1,11 @@
+equivalents:
+- term: C2855
+  term_id: ncit:None
+- term_id: seer:21071
+examples:
+- labels: focal nodular hyperplasia
+input:
+- term: Adenoma, NOS
+  term_id: icdom:8140_0
+- term: Liver
+  term_id: icdot:C22_0

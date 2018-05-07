@@ -1,0 +1,11 @@
+equivalents:
+- term: C3850
+  term_id: ncit:Pancreatic carcinoma
+- term_id: seer:21100
+examples:
+- labels: Pancreatic carcinoma [cell line KP-4]
+input:
+- term: Carcinoma, NOS
+  term_id: icdom:8010_3
+- term: pancreas
+  term_id: icdot:C25

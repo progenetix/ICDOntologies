@@ -1,0 +1,11 @@
+equivalents:
+- term: C4646
+  term_id: ncit:Gestational choriocarcinoma
+- term_id: seer:27030
+examples:
+- labels: Gastational choriocarcinoma [cell line JAR]
+input:
+- term: Choriocarcinoma, NOS
+  term_id: icdom:9100_3
+- term: uterus, NOS
+  term_id: icdot:C55_9

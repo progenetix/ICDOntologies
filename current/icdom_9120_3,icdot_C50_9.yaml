@@ -1,0 +1,11 @@
+equivalents:
+- term: C3088
+  term_id: ncit:Angiosarcoma
+- term_id: seer:26000
+examples:
+- labels: Angiosarcoma
+input:
+- term: Hemangiosarcoma
+  term_id: icdom:9120_3
+- term: Breast, NOS
+  term_id: icdot:C50_9

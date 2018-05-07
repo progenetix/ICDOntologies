@@ -1,0 +1,11 @@
+equivalents:
+- term: C9306
+  term_id: ncit:Soft Tissue Sarcoma
+- term_id: seer:24000
+examples:
+- labels: Chordoid Sarcoma
+input:
+- term: Sarcoma, NOS
+  term_id: icdom:8800_3
+- term: connective and soft tissue, NOS
+  term_id: icdot:C49_9

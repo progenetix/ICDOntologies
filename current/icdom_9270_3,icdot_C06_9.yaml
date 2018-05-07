@@ -1,0 +1,11 @@
+equivalents:
+- term: C7492
+  term_id: ncit:None
+- term_id: seer:20050
+examples:
+- labels: Clear-cell odontogenic carcinoma, primary tumor
+input:
+- term: Odontogenic tumor, malignant
+  term_id: icdom:9270_3
+- term: mouth, NOS
+  term_id: icdot:C06_9

@@ -1,0 +1,11 @@
+equivalents:
+- term: C4325
+  term_id: ncit:Giant cell glioblastoma
+- term_id: seer:31010
+examples:
+- labels: Giant cell glioblastoma [cell line G179]
+input:
+- term: Glioblastoma, NOS
+  term_id: icdom:9440_3
+- term: Brain, NOS
+  term_id: icdot:C71_9

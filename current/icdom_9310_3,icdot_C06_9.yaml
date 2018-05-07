@@ -1,0 +1,11 @@
+equivalents:
+- term: ''
+  term_id: 'ncit:'
+- term_id: seer:20050
+examples:
+- labels: Ameloblastoma [Plexiform]
+input:
+- term: Ameloblastoma, malignant
+  term_id: icdom:9310_3
+- term: mouth, NOS
+  term_id: icdot:C06_9

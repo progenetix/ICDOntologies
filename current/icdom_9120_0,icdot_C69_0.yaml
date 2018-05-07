@@ -1,0 +1,11 @@
+equivalents:
+- term: C3085
+  term_id: ncit:Hemangioma
+- term_id: seer:30000
+examples:
+- labels: Cavernous hemangioma
+input:
+- term: Hemangioma, NOS
+  term_id: icdom:9120_0
+- term: orbit and lacrimal gland, excl. retina, eye, nos
+  term_id: icdot:C69_0

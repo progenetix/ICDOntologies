@@ -1,0 +1,11 @@
+equivalents:
+- term: C4001
+  term_id: ncit:Inflammatory breast carcinoma
+- term_id: seer:26000
+examples:
+- labels: Inflammatory breast carcinoma [cell line SUM149PT]
+input:
+- term: Inflammatory carcinoma
+  term_id: icdom:8530_3
+- term: Breast, NOS
+  term_id: icdot:C50_9

@@ -1,0 +1,11 @@
+equivalents:
+- term: C3379
+  term_id: ncit:None
+- term_id: seer:21100
+examples:
+- labels: Somatostatinoma
+input:
+- term: Somatostatinoma, NOS
+  term_id: icdom:8156_1
+- term: Pancreas, NOS
+  term_id: icdot:C25_9

@@ -1,0 +1,11 @@
+equivalents:
+- term: C9157
+  term_id: ncit:Gastric Intestinal Type Adenocarcinoma
+- term_id: seer:21020
+examples:
+- labels: carcinoma [gastric, intestinal]
+input:
+- term: Adenocarcinoma, intestinal type
+  term_id: icdom:8144_3
+- term: stomach
+  term_id: icdot:C16_9

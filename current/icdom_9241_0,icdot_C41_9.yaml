@@ -1,0 +1,11 @@
+equivalents:
+- term: C3830
+  term_id: ncit:None
+- term_id: seer:23000
+examples:
+- labels: Chondromyxoid fibroma
+input:
+- term: Chondromyxoid fibroma
+  term_id: icdom:9241_0
+- term: bone, NOS
+  term_id: icdot:C41_9

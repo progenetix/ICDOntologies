@@ -1,0 +1,11 @@
+equivalents:
+- term: C2916
+  term_id: ncit:Carcinoma
+- term_id: seer:21048
+examples:
+- labels: colon cancer
+input:
+- term: Carcinoma, NOS
+  term_id: icdom:8010_3
+- term: large intestine, excl. rectum and rectosigmoid junction
+  term_id: icdot:C18_9

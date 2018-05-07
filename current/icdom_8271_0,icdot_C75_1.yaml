@@ -1,11 +1,11 @@
 equivalents:
-- term: Prolactin-Producing Pituitary Gland Adenoma
-  term_id: ncit:C3342
+- term: C3342
+  term_id: ncit:Prolactin-Producing Pituitary Gland Adenoma
 - term_id: seer:32020
 examples:
-- term: Prolactinoma
+- labels: pituitary tumor [prolactin]
 input:
 - term: Prolactinoma
   term_id: icdom:8271_0
-- term: Pituitary gland
+- term: pituitary gland
   term_id: icdot:C75_1

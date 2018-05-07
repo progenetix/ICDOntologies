@@ -1,0 +1,11 @@
+equivalents:
+- term: C7027
+  term_id: ncit:Barrett adenocarcinoma
+- term_id: seer:21010
+examples:
+- labels: Barret adenocarcinoma [cell line OE33]
+input:
+- term: Carcinoma, NOS
+  term_id: icdom:8010_3
+- term: esophagus
+  term_id: icdot:C15

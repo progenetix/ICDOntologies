@@ -1,0 +1,11 @@
+equivalents:
+- term: C4247
+  term_id: ncit:Undifferentiated Pleomorphic Sarcoma
+- term_id: seer:24000
+examples:
+- labels: malignant    brous histiocytoma [myxoid, metastasized]
+input:
+- term: Malignant fibrous histiocytoma
+  term_id: icdom:8830_3
+- term: connective and soft tissue, NOS
+  term_id: icdot:C49_9

@@ -1,0 +1,11 @@
+equivalents:
+- term: C7402
+  term_id: ncit:Hairy cell leukemia
+- term_id: seer:33041
+examples:
+- labels: hairy cell leukemia [cell line MLMA]
+input:
+- term: Hairy cell leukemia
+  term_id: icdom:9940_3
+- term: lymph nodes
+  term_id: icdot:C77

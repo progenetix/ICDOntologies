@@ -1,0 +1,11 @@
+equivalents:
+- term: C3359
+  term_id: ncit:Rhabdomyosarcoma
+- term_id: seer:22050
+examples:
+- labels: Smooth muscle tumour, malignant
+input:
+- term: Rhabdomyosarcoma, NOS
+  term_id: icdom:8900_3
+- term: pleura
+  term_id: icdot:C38_4

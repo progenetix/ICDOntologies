@@ -1,0 +1,11 @@
+equivalents:
+- term: C2916
+  term_id: ncit:Carcinoma
+- term_id: seer:22030
+examples:
+- labels: carcinoma of the lung or bronchus
+input:
+- term: Carcinoma, NOS
+  term_id: icdom:8010_3
+- term: lung and bronchus
+  term_id: icdot:C34_9

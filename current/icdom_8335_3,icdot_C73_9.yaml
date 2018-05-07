@@ -1,0 +1,11 @@
+equivalents:
+- term: ''
+  term_id: 'ncit:'
+- term_id: seer:32010
+examples:
+- labels: folliculary carcinoma of the thyroid [minimally invasive]
+input:
+- term: Follicular carcinoma, minimally invasive
+  term_id: icdom:8335_3
+- term: thyroid gland
+  term_id: icdot:C73_9

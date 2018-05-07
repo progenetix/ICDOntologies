@@ -1,0 +1,11 @@
+equivalents:
+- term: None
+  term_id: ncit:Transformed cell line
+- term_id: seer:33041
+examples:
+- labels: transformed cell line WIL2 NS
+input:
+- term: Malignant lymphoma, non-Hodgkin, NOS
+  term_id: icdom:9591_3
+- term: lymph nodes
+  term_id: icdot:C77

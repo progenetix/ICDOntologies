@@ -16,7 +16,7 @@ for filename in os.listdir(yamldir): # Specify directory
             data = yaml.load(stream)
             #print data
             try:
-                diagnosis = [data['examples'][0]['term']]
+                diagnosis = [data['examples'][0]['labels']]
                 icdom_c = [data['input'][0]['term_id'].replace('icdom:','').replace("_","/")]
                 icdom = [data['input'][0]['term']]
                 icdot_c = [data['input'][1]['term_id'].replace('icdot:','').replace("_",".")]

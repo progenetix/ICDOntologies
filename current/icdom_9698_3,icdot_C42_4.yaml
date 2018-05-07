@@ -1,0 +1,11 @@
+equivalents:
+- term: C3460
+  term_id: ncit:Grade 3 Follicular Lymphoma
+- term_id: seer:33041
+examples:
+- labels: Follicular lymphoma, grade 3
+input:
+- term: Follicular lymphoma, grade 3
+  term_id: icdom:9698_3
+- term: Hematopoietic system, NOS
+  term_id: icdot:C42_4

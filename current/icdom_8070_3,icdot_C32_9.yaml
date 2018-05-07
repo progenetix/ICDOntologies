@@ -1,0 +1,11 @@
+equivalents:
+- term: C2929
+  term_id: ncit:Squamous Cell Carcinoma
+- term_id: seer:22020
+examples:
+- labels: larynx carcinoma [nodal negative]
+input:
+- term: Squamous cell carcinoma, NOS
+  term_id: icdom:8070_3
+- term: larynx
+  term_id: icdot:C32_9

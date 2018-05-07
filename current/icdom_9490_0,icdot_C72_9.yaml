@@ -1,0 +1,11 @@
+equivalents:
+- term: C3049
+  term_id: ncit:Ganglioneuroma
+- term_id: seer:31040
+examples:
+- labels: Ganglioneuroma [Abdominal]
+input:
+- term: Ganglioneuroma
+  term_id: icdom:9490_0
+- term: Nervous system, NOS
+  term_id: icdot:C72_9

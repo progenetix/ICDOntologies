@@ -1,0 +1,11 @@
+equivalents:
+- term: C4512
+  term_id: ncit:Ovarian Mucinous Cystadenoma
+- term_id: seer:99999
+examples:
+- labels: ovarian tumour [benign, mucinous]
+input:
+- term: Mucinous cystadenoma, NOS
+  term_id: icdom:8470_0
+- term: ovary
+  term_id: icdot:C56_9

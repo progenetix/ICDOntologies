@@ -1,0 +1,11 @@
+equivalents:
+- term: C27096
+  term_id: ncit:None
+- term_id: seer:21071
+examples:
+- labels: embryonal sarcoma [liver, undifferentiated]
+input:
+- term: Embryonal sarcoma
+  term_id: icdom:8991_3
+- term: Liver
+  term_id: icdot:C22_0

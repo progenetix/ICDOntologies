@@ -1,0 +1,11 @@
+equivalents:
+- term: C3867
+  term_id: ncit:Fallopian Tube Carcinoma
+- term_id: seer:27040
+examples:
+- labels: Fallopian tube carcinoma
+input:
+- term: Carcinoma, NOS
+  term_id: icdom:8010_3
+- term: fallopian tube
+  term_id: icdot:C57_0

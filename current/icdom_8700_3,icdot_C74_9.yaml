@@ -1,0 +1,11 @@
+equivalents:
+- term: C4220
+  term_id: ncit:Malignant Adrenal Gland Pheochromocytoma
+- term_id: seer:32020
+examples:
+- labels: malignant pheochromocytoma
+input:
+- term: Pheochromocytoma, malignant
+  term_id: icdom:8700_3
+- term: adrenal glands
+  term_id: icdot:C74_9

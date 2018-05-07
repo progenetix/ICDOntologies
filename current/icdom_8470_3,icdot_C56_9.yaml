@@ -1,0 +1,11 @@
+equivalents:
+- term: C3776
+  term_id: ncit:None
+- term_id: seer:27040
+examples:
+- labels: Mucinous cystadenocarcinoma
+input:
+- term: Mucinous cystadenocarcinoma, NOS
+  term_id: icdom:8470_3
+- term: ovary
+  term_id: icdot:C56_9

@@ -1,0 +1,11 @@
+equivalents:
+- term: ''
+  term_id: 'ncit:'
+- term_id: seer:37000
+examples:
+- labels: Solar keratosis
+input:
+- term: None
+  term_id: icdom:8071_0
+- term: Skin, NOS
+  term_id: icdot:C44_9

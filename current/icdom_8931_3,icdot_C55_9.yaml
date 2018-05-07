@@ -1,0 +1,11 @@
+equivalents:
+- term: C4263
+  term_id: ncit:Low Grade Endometrioid Stromal Sarcoma
+- term_id: seer:27030
+examples:
+- labels: Endometrial stromal sarcoma [low grade]
+input:
+- term: Endometrial stromal sarcoma, low grade
+  term_id: icdom:8931_3
+- term: uterus, nos
+  term_id: icdot:C55_9

@@ -1,0 +1,11 @@
+equivalents:
+- term: C7541
+  term_id: ncit:Retinoblastoma
+- term_id: seer:30000
+examples:
+- labels: Retinoblastoma
+input:
+- term: Retinoblastoma, NOS
+  term_id: icdom:9510_3
+- term: retina
+  term_id: icdot:C69_2

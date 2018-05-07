@@ -1,0 +1,11 @@
+equivalents:
+- term: ''
+  term_id: 'ncit:'
+- term_id: seer:24000
+examples:
+- labels: malignant paraganglioma
+input:
+- term: Extra-adrenal paraganglioma, malignant
+  term_id: icdom:8693_3
+- term: peripheral nervs incl. Autonomous
+  term_id: icdot:C47_9

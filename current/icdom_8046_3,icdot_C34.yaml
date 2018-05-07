@@ -1,0 +1,11 @@
+equivalents:
+- term: C4038
+  term_id: ncit:Lung carcinoid tumor
+- term_id: seer:22030
+examples:
+- labels: lung carcinoid tumor [cell line NCI-H727]
+input:
+- term: Non-small cell carcinoma
+  term_id: icdom:8046_3
+- term: lung and bronchus
+  term_id: icdot:C34

@@ -1,0 +1,11 @@
+equivalents:
+- term: ''
+  term_id: 'ncit:'
+- term_id: seer:21020
+examples:
+- labels: Gastrointestinal stromal tumor, benign
+input:
+- term: Gastrointestinal stromal tumor, benign
+  term_id: icdom:8936_0
+- term: stomach
+  term_id: icdot:C16_9

@@ -1,0 +1,11 @@
+equivalents:
+- term: None
+  term_id: ncit:hybrid cell line
+- term_id: seer:20060
+examples:
+- labels: hybrid cell line CNE-2
+input:
+- term: not in ICD-O (e.g. non-neoplastic, reference)
+  term_id: icdom:0000_0
+- term: nasopharynx
+  term_id: icdot:C11

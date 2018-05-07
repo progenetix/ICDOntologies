@@ -1,0 +1,11 @@
+equivalents:
+- term: ''
+  term_id: 'ncit:'
+- term_id: seer:99999
+examples:
+- labels: kidney cyst in polycystiv kidney disease [Cuboidal epithelium]
+input:
+- term: not in ICD-O (e.g. non-neoplastic, reference)
+  term_id: icdom:0000_0
+- term: kidney
+  term_id: icdot:C64_9

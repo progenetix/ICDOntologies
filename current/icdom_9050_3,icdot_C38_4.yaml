@@ -1,0 +1,11 @@
+equivalents:
+- term: C3234
+  term_id: ncit:Mesothelioma
+- term_id: seer:36010
+examples:
+- labels: fibromatous mesothelioma
+input:
+- term: Mesothelioma, malignant
+  term_id: icdom:9050_3
+- term: pleura
+  term_id: icdot:C38_4

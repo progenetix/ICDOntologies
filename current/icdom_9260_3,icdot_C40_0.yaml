@@ -1,0 +1,11 @@
+equivalents:
+- term: C4817
+  term_id: ncit:Ewing Sarcoma
+- term_id: seer:23000
+examples:
+- labels: Ewing Sarcoma [Cell Line TC71]
+input:
+- term: Ewing sarcoma
+  term_id: icdom:9260_3
+- term: bones and joints
+  term_id: icdot:C40_0

@@ -1,0 +1,11 @@
+equivalents:
+- term: C7506
+  term_id: ncit:Myelodysplastic Syndrome with Excess Blasts
+- term_id: seer:35023
+examples:
+- labels: Refractory anemia with excess of blasts (FAB)
+input:
+- term: Refractory anemia with excess blasts
+  term_id: icdom:9983_3
+- term: Hematopoietic system, NOS
+  term_id: icdot:C42_4

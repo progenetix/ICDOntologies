@@ -1,0 +1,11 @@
+equivalents:
+- term: C2916
+  term_id: ncit:Carcinoma
+- term_id: seer:20050
+examples:
+- labels: Spindle-cell ameloblastic carcinoma
+input:
+- term: Carcinoma, NOS
+  term_id: icdom:8010_3
+- term: mouth, NOS
+  term_id: icdot:C06_9

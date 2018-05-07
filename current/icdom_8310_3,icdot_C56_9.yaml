@@ -1,0 +1,11 @@
+equivalents:
+- term: C3766
+  term_id: ncit:Clear Cell Adenocarcinoma
+- term_id: seer:27040
+examples:
+- labels: Pleomorphic adenoma
+input:
+- term: Clear cell adenocarcinoma, NOS
+  term_id: icdom:8310_3
+- term: ovary
+  term_id: icdot:C56_9

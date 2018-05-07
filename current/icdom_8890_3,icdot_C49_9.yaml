@@ -1,0 +1,11 @@
+equivalents:
+- term: C3158
+  term_id: ncit:Leiomyosarcoma
+- term_id: seer:24000
+examples:
+- labels: Pleomorphic Leiomyosarcoma [grade III, primary]
+input:
+- term: Leiomyosarcoma, NOS
+  term_id: icdom:8890_3
+- term: connective and soft tissue, NOS
+  term_id: icdot:C49_9

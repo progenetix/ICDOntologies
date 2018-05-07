@@ -1,0 +1,11 @@
+equivalents:
+- term: C8591
+  term_id: ncit:Testicular Germ Cell Tumor
+- term_id: seer:28040
+examples:
+- labels: Primary Nonseminoma Testicular Germ Cell Tumour
+input:
+- term: Germ cell tumor, nonseminomatous
+  term_id: icdom:9065_3
+- term: epididymis, spermatic cord, male genital, nos
+  term_id: icdot:C63_9

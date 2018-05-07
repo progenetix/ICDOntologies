@@ -1,0 +1,11 @@
+equivalents:
+- term: C2855
+  term_id: ncit:None
+- term_id: seer:27040
+examples:
+- labels: Ovarian adenoma
+input:
+- term: Adenoma, NOS
+  term_id: icdom:8140_0
+- term: ovary
+  term_id: icdot:C56_9

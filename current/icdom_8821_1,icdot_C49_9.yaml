@@ -1,0 +1,11 @@
+equivalents:
+- term: C9182
+  term_id: ncit:Desmoid-Type Fibromatosis
+- term_id: seer:24000
+examples:
+- labels: Desmoid tumor
+input:
+- term: Aggressive fibromatosis
+  term_id: icdom:8821_1
+- term: connective and soft tissue, NOS
+  term_id: icdot:C49_9

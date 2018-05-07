@@ -1,0 +1,11 @@
+equivalents:
+- term: C3720
+  term_id: ncit:Anaplastic Large Cell Lymphoma
+- term_id: seer:33041
+examples:
+- labels: Anaplastic large cell lymphoma, systemic type [ALK pos.]
+input:
+- term: Anaplastic large cell lymphoma, T cell and Null cell type
+  term_id: icdom:9714_3
+- term: Lymph nodes, NOS
+  term_id: icdot:C77_9

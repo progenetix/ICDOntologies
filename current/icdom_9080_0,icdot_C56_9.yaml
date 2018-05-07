@@ -1,0 +1,11 @@
+equivalents:
+- term: C9014
+  term_id: ncit:Cystic Teratoma
+- term_id: seer:27040
+examples:
+- labels: Benign cystic teratoma of the ovary
+input:
+- term: Teratoma, benign
+  term_id: icdom:9080_0
+- term: ovary
+  term_id: icdot:C56_9

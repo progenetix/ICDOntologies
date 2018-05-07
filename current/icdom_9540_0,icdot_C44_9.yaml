@@ -1,0 +1,11 @@
+equivalents:
+- term: C3272
+  term_id: ncit:Neurofibroma
+- term_id: seer:25020
+examples:
+- labels: Cutaneous neurofibroma
+input:
+- term: Neurofibroma, NOS
+  term_id: icdom:9540_0
+- term: Skin, NOS
+  term_id: icdot:C44_9

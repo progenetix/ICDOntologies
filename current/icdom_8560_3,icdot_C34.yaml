@@ -1,0 +1,11 @@
+equivalents:
+- term: C9133
+  term_id: ncit:Adenosquamous lung carcinoma
+- term_id: seer:22030
+examples:
+- labels: adenosquamous lung carcinoma [cell line HCC366]
+input:
+- term: Adenosquamous carcinoma
+  term_id: icdom:8560_3
+- term: lung and bronchus
+  term_id: icdot:C34

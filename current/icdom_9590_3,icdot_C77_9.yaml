@@ -1,0 +1,11 @@
+equivalents:
+- term: C3208
+  term_id: ncit:Lymphoma
+- term_id: seer:33041
+examples:
+- labels: non-Hodgkin lymphoma, unclassified
+input:
+- term: Malignant lymphoma, NOS
+  term_id: icdom:9590_3
+- term: Lymph nodes, NOS
+  term_id: icdot:C77_9

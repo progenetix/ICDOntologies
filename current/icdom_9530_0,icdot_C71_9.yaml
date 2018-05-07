@@ -1,0 +1,11 @@
+equivalents:
+- term: C3230
+  term_id: ncit:Meningioma
+- term_id: seer:31040
+examples:
+- labels: atypical meningioma [12ys after radiotherapy of medulloblastoma]
+input:
+- term: Meningioma, NOS
+  term_id: icdom:9530_0
+- term: Brain, NOS
+  term_id: icdot:C71_9

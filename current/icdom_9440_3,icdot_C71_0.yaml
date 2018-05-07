@@ -1,0 +1,11 @@
+equivalents:
+- term: C3058
+  term_id: ncit:Glioblastoma
+- term_id: seer:31010
+examples:
+- labels: glioblastoma, familial
+input:
+- term: Glioblastoma, NOS
+  term_id: icdom:9440_3
+- term: cerebrum
+  term_id: icdot:C71_0

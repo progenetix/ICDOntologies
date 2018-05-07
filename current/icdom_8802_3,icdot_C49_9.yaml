@@ -1,0 +1,11 @@
+equivalents:
+- term: C4304
+  term_id: ncit:Malignant giant cell tumor of bone
+- term_id: seer:24000
+examples:
+- labels: Giant cell sarcoma [cell line Hs 737.T]
+input:
+- term: Giant cell sarcoma
+  term_id: icdom:8802_3
+- term: connective and soft tissue, nos
+  term_id: icdot:C49_9

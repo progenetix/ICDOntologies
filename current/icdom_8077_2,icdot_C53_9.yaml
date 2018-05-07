@@ -1,0 +1,11 @@
+equivalents:
+- term: C89476
+  term_id: ncit:None
+- term_id: seer:27010
+examples:
+- labels: Squamous intraepithelial neoplasia, grade III
+input:
+- term: Squamous intraepithelial neoplasia, grade III
+  term_id: icdom:8077_2
+- term: cervix uteri
+  term_id: icdot:C53_9

@@ -1,0 +1,11 @@
+equivalents:
+- term: C4915
+  term_id: ncit:Embryonal Tumor with Multilayered Rosettes, C19MC-Altered
+- term_id: seer:31010
+examples:
+- labels: Anaplastic ependymoma [grade 3, Post. fossa]
+input:
+- term: Ependymoma, anaplastic
+  term_id: icdom:9392_3
+- term: cerebellum
+  term_id: icdot:C71_6

@@ -1,0 +1,11 @@
+equivalents:
+- term: C4737
+  term_id: ncit:Enteropathy-Associated T-Cell Lymphoma
+- term_id: seer:33042
+examples:
+- labels: Enteropathy type T-cell lymphoma
+input:
+- term: Intestinal T-cell lymphoma
+  term_id: icdom:9717_3
+- term: small intestine
+  term_id: icdot:C17_9

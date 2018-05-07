@@ -1,0 +1,11 @@
+equivalents:
+- term: C65151
+  term_id: ncit:None
+- term_id: seer:22030
+examples:
+- labels: Non-small cell carcinoma [lung]
+input:
+- term: Non-small cell carcinoma
+  term_id: icdom:8046_3
+- term: lung and bronchus
+  term_id: icdot:C34_9

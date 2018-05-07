@@ -1,0 +1,12 @@
+equivalents:
+- term: C7230
+  term_id: ncit:Primary Cutaneous Marginal Zone Lymphoma of Mucosa-Associated Lymphoid
+    Tissue
+- term_id: seer:33042
+examples:
+- labels: Marginal Zone B-cell Lymphoma [Stomach]
+input:
+- term: Marginal zone B-cell lymphoma, NOS
+  term_id: icdom:9699_3
+- term: stomach
+  term_id: icdot:C16_9

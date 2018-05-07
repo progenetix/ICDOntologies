@@ -1,0 +1,11 @@
+equivalents:
+- term: C9014
+  term_id: ncit:Cystic Teratoma
+- term_id: seer:31040
+examples:
+- labels: CNS germ cell tumor [mature teratoma]
+input:
+- term: Teratoma, benign
+  term_id: icdom:9080_0
+- term: Spinal cord
+  term_id: icdot:C72_0

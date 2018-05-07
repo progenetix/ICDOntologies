@@ -1,0 +1,11 @@
+equivalents:
+- term: ''
+  term_id: 'ncit:'
+- term_id: seer:27040
+examples:
+- labels: Serous papillary cystic tumor of borderline malignancy
+input:
+- term: Mucinous cystic tumor of borderline malignancy
+  term_id: icdom:8472_1
+- term: ovary
+  term_id: icdot:C56_9

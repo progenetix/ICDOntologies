@@ -1,0 +1,11 @@
+equivalents:
+- term: C3494
+  term_id: ncit:Lung Papillary Adenoma
+- term_id: seer:21052
+examples:
+- labels: ulcerative colitis, dysplastic tissue [microsatellite stable]
+input:
+- term: Atypical adenoma
+  term_id: icdom:8140_1
+- term: Rectum, NOS
+  term_id: icdot:C20_9

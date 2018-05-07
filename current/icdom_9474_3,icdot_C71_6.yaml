@@ -1,0 +1,11 @@
+equivalents:
+- term: C6904
+  term_id: ncit:Large Cell Medulloblastoma
+- term_id: seer:31010
+examples:
+- labels: Large cell medulloblastoma
+input:
+- term: Large cell medulloblastoma
+  term_id: icdom:9474_3
+- term: cerebellum
+  term_id: icdot:C71_6

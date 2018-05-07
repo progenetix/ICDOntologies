@@ -1,0 +1,11 @@
+equivalents:
+- term: C8863
+  term_id: ncit:Nodal Marginal Zone Lymphoma
+- term_id: seer:33041
+examples:
+- labels: Marginal zone lymphoma, NOS
+input:
+- term: Marginal zone B-cell lymphoma, NOS
+  term_id: icdom:9699_3
+- term: Lymph nodes, NOS
+  term_id: icdot:C77_9

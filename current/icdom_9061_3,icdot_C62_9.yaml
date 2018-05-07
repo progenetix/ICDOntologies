@@ -1,0 +1,11 @@
+equivalents:
+- term: C9309
+  term_id: ncit:Seminoma
+- term_id: seer:28020
+examples:
+- labels: seminoma
+input:
+- term: Seminoma, NOS
+  term_id: icdom:9061_3
+- term: testis
+  term_id: icdot:C62_9

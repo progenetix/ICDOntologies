@@ -1,0 +1,11 @@
+equivalents:
+- term: C7440
+  term_id: ncit:Papilloma
+- term_id: seer:22030
+examples:
+- labels: flat ductal intraepithelial neoplasia
+input:
+- term: Papilloma, NOS
+  term_id: icdom:8050_0
+- term: lung and bronchus
+  term_id: icdot:C34_9

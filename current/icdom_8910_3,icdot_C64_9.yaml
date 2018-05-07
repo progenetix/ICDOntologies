@@ -1,0 +1,11 @@
+equivalents:
+- term: C8971
+  term_id: ncit:Embryonal rhabdomyosarcoma
+- term_id: seer:24000
+examples:
+- labels: Embryonal rhabdomyosarcoma [cell line RD]
+input:
+- term: embryonal rhabdomyosarcoma, NOS
+  term_id: icdom:8910_3
+- term: kidney
+  term_id: icdot:C64_9

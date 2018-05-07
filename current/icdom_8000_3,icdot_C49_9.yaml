@@ -1,0 +1,11 @@
+equivalents:
+- term: C2916
+  term_id: ncit:Carcinoma
+- term_id: seer:37000
+examples:
+- labels: cancer [Omentum]
+input:
+- term: Neoplasm, malignant
+  term_id: icdom:8000_3
+- term: connective and soft tissue, NOS
+  term_id: icdot:C49_9

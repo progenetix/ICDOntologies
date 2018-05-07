@@ -1,0 +1,11 @@
+equivalents:
+- term: C9357
+  term_id: ncit:Hodgkin lymphoma
+- term_id: seer:33041
+examples:
+- labels: Hodgkin lymphoma [cell line HDLM-2]
+input:
+- term: Hodgkin lymphoma, NOS
+  term_id: icdom:9650_3
+- term: lymph nodes
+  term_id: icdot:C77

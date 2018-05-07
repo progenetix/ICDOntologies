@@ -1,0 +1,11 @@
+equivalents:
+- term: C7979
+  term_id: ncit:Ovarian endometrioid adenocarcinoma
+- term_id: seer:27040
+examples:
+- labels: Ovarian cystoadenocarcinoma [cell line IGROV-1]
+input:
+- term: Cystadenocarcinoma, NOS
+  term_id: icdom:8440_3
+- term: ovary
+  term_id: icdot:C56_9

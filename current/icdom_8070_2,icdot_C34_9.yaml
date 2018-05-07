@@ -1,0 +1,11 @@
+equivalents:
+- term: C27093
+  term_id: ncit:Stage 0 Squamous Cell Carcinoma
+- term_id: seer:22030
+examples:
+- labels: Lung precursor metaplasia
+input:
+- term: Squamous cell carcinoma in situ, NOS
+  term_id: icdom:8070_2
+- term: lung and bronchus
+  term_id: icdot:C34_9

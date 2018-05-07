@@ -1,0 +1,11 @@
+equivalents:
+- term: C9430
+  term_id: ncit:Pigmented Dermatofibrosarcoma Protuberans
+- term_id: seer:25020
+examples:
+- labels: Dermatofibrosarcoma protuberans
+input:
+- term: Pigmented dermatofibrosarcoma protuberans
+  term_id: icdom:8833_3
+- term: Skin, NOS
+  term_id: icdot:C44_9

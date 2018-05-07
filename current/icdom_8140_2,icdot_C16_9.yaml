@@ -1,0 +1,11 @@
+equivalents:
+- term: C4004
+  term_id: ncit:Gastric Adenocarcinoma
+- term_id: seer:21020
+examples:
+- labels: gastric carcinoma in situ
+input:
+- term: Adenocarcinoma in situ, NOS
+  term_id: icdom:8140_2
+- term: stomach
+  term_id: icdot:C16_9

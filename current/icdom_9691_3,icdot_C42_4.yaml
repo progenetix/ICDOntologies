@@ -1,0 +1,11 @@
+equivalents:
+- term: C8968
+  term_id: ncit:Grade 2 Follicular Lymphoma
+- term_id: seer:33041
+examples:
+- labels: Follicular lymphoma, grade 2
+input:
+- term: Follicular lymphoma, grade 2
+  term_id: icdom:9691_3
+- term: Hematopoietic system, NOS
+  term_id: icdot:C42_4

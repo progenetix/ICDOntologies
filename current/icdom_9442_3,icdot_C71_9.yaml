@@ -1,0 +1,11 @@
+equivalents:
+- term: C3796
+  term_id: ncit:Gliosarcoma
+- term_id: seer:31010
+examples:
+- labels: Gliosarcoma
+input:
+- term: Gliosarcoma
+  term_id: icdom:9442_3
+- term: Brain, NOS
+  term_id: icdot:C71_9

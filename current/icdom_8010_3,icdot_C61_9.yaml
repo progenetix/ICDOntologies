@@ -1,0 +1,11 @@
+equivalents:
+- term: C4863
+  term_id: ncit:Prostate carcinoma
+- term_id: seer:28010
+examples:
+- labels: prostate carcinoma [cell line DU145]
+input:
+- term: Carcinoma, NOS
+  term_id: icdom:8010_3
+- term: Prostate gland
+  term_id: icdot:C61_9

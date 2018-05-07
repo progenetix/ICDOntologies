@@ -1,0 +1,11 @@
+equivalents:
+- term: C3714
+  term_id: ncit:None
+- term_id: seer:37000
+examples:
+- labels: Epithelioid sarcoma [cell line FU-EPS-1]
+input:
+- term: Epithelioid sarcoma
+  term_id: icdom:8804_3
+- term: Lymph nodes, NOS
+  term_id: icdot:C77_9

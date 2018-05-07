@@ -1,0 +1,11 @@
+equivalents:
+- term: C4033
+  term_id: ncit:Clear Cell Renal Cell Carcinoma
+- term_id: seer:29020
+examples:
+- labels: Renal carcinoma, clear cell [T2N0M0, G2, microsatellite alterations]
+input:
+- term: Renal cell carcinoma, NOS
+  term_id: icdom:8312_3
+- term: kidney
+  term_id: icdot:C64_9

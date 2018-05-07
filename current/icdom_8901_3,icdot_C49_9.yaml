@@ -1,0 +1,11 @@
+equivalents:
+- term: C4258
+  term_id: ncit:Pleomorphic Rhabdomyosarcoma
+- term_id: seer:24000
+examples:
+- labels: Pleomorphic rhabdomyosarcoma [PAX3-FKHR pos.]
+input:
+- term: Pleomorphic rhabdomyosarcoma, adult type
+  term_id: icdom:8901_3
+- term: connective and soft tissue, NOS
+  term_id: icdot:C49_9

@@ -1,0 +1,11 @@
+equivalents:
+- term: None
+  term_id: ncit:Transformed cell line
+- term_id: seer:20080
+examples:
+- labels: transformed cell line SVpgC2a-FOXM1B/SVFN8
+input:
+- term: not in ICD-O (e.g. non-neoplastic, reference)
+  term_id: icdom:0000_0
+- term: Oropharynx
+  term_id: icdot:C10

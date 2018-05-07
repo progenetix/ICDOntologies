@@ -1,0 +1,11 @@
+equivalents:
+- term: C35685
+  term_id: ncit:Mycosis Fungoides
+- term_id: seer:33042
+examples:
+- labels: Folliculotropic mycosis fungoides
+input:
+- term: mycosis fungoides
+  term_id: icdom:9700_3
+- term: Skin, NOS
+  term_id: icdot:C44_9

@@ -1,0 +1,11 @@
+equivalents:
+- term: C3163
+  term_id: ncit:Chronic Lymphocytic Leukemia
+- term_id: seer:35012
+examples:
+- labels: Chronic Lymphocytic Leukemia
+input:
+- term: B-cell chronic lymphocytic leukemia/small lymphocytic lymphoma
+  term_id: icdom:9823_3
+- term: Hematopoietic system, NOS
+  term_id: icdot:C42_4

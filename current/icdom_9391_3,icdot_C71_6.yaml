@@ -1,0 +1,11 @@
+equivalents:
+- term: C6903
+  term_id: ncit:Tanycytic Ependymoma
+- term_id: seer:31010
+examples:
+- labels: Ependymoma, benign [child, posterior fossa]
+input:
+- term: Ependymoma, NOS
+  term_id: icdom:9391_3
+- term: cerebellum
+  term_id: icdot:C71_6

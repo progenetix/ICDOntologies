@@ -1,0 +1,11 @@
+equivalents:
+- term: C9383
+  term_id: ncit:Rectal Adenocarcinoma
+- term_id: seer:21052
+examples:
+- labels: rectal adenoma
+input:
+- term: Adenoma, NOS
+  term_id: icdom:8140_0
+- term: Rectum, NOS
+  term_id: icdot:C20_9

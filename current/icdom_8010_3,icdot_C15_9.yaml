@@ -1,0 +1,11 @@
+equivalents:
+- term: C2916
+  term_id: ncit:Carcinoma
+- term_id: seer:21010
+examples:
+- labels: esophageal carcinoma
+input:
+- term: Carcinoma, NOS
+  term_id: icdom:8010_3
+- term: esophagus
+  term_id: icdot:C15_9

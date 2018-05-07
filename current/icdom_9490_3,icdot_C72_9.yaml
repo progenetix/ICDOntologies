@@ -1,0 +1,11 @@
+equivalents:
+- term: C3790
+  term_id: ncit:Ganglioneuroblastoma
+- term_id: seer:31040
+examples:
+- labels: Ganglioneuroblastoma intermixed [Schwannian stroma-rich]
+input:
+- term: Ganglioneuroblastoma
+  term_id: icdom:9490_3
+- term: Nervous system, NOS
+  term_id: icdot:C72_9

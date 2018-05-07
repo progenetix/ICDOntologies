@@ -1,0 +1,11 @@
+equivalents:
+- term: C4321
+  term_id: ncit:Gemistocytic Astrocytoma
+- term_id: seer:31010
+examples:
+- labels: Gemistocytic astrocytoma
+input:
+- term: Gemistocytic astrocytoma
+  term_id: icdom:9411_3
+- term: Brain, NOS
+  term_id: icdot:C71_9

@@ -1,0 +1,11 @@
+equivalents:
+- term: C7204
+  term_id: ncit:T-Zone Variant Peripheral T-Cell Lymphoma
+- term_id: seer:33041
+examples:
+- labels: T-NHL [stage IV]
+input:
+- term: Mature T-cell lymphoma, NOS
+  term_id: icdom:9702_3
+- term: Lymph nodes, NOS
+  term_id: icdot:C77_9

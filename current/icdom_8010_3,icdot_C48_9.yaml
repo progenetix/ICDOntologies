@@ -1,0 +1,11 @@
+equivalents:
+- term: C2916
+  term_id: ncit:Carcinoma
+- term_id: seer:21110
+examples:
+- labels: primary peritoneal carcinomatosis
+input:
+- term: Carcinoma, NOS
+  term_id: icdom:8010_3
+- term: retroperitoneum and peritoneum
+  term_id: icdot:C48_9

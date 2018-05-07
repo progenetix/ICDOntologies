@@ -1,0 +1,11 @@
+equivalents:
+- term: C3379
+  term_id: ncit:None
+- term_id: seer:32020
+examples:
+- labels: Growth hormone-secreting pituitary tumor
+input:
+- term: Somatostatinoma, NOS
+  term_id: icdom:8156_1
+- term: pituitary gland
+  term_id: icdot:C75_1

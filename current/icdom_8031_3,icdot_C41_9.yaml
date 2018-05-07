@@ -1,0 +1,11 @@
+equivalents:
+- term: C3779
+  term_id: ncit:Giant Cell Carcinoma
+- term_id: seer:23000
+examples:
+- labels: giant cell granuloma
+input:
+- term: Giant cell carcinoma
+  term_id: icdom:8031_3
+- term: bone, NOS
+  term_id: icdot:C41_9

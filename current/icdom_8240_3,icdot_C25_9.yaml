@@ -1,0 +1,11 @@
+equivalents:
+- term: C2915
+  term_id: ncit:Carcinoid Tumor
+- term_id: seer:21100
+examples:
+- labels: Malignant insuloma [carcinoid type]
+input:
+- term: Carcinoid tumor, NOS
+  term_id: icdom:8240_3
+- term: Pancreas, NOS
+  term_id: icdot:C25_9

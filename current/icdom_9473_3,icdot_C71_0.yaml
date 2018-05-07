@@ -1,0 +1,11 @@
+equivalents:
+- term: C5398
+  term_id: ncit:Central Nervous System Embryonal Tumor, Not Otherwise Specified
+- term_id: seer:31010
+examples:
+- labels: PNET with glial component [Supratentorial]
+input:
+- term: Primitive neuroectodermal tumor, NOS
+  term_id: icdom:9473_3
+- term: cerebrum
+  term_id: icdot:C71_0

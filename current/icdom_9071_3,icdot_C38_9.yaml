@@ -1,0 +1,11 @@
+equivalents:
+- term: C3011
+  term_id: ncit:Yolk Sac Tumor
+- term_id: seer:22060
+examples:
+- labels: yolk sac tumour
+input:
+- term: Yolk sac tumor
+  term_id: icdom:9071_3
+- term: mediastinum
+  term_id: icdot:C38_9

@@ -1,0 +1,11 @@
+equivalents:
+- term: None
+  term_id: ncit:Transformed cell line
+- term_id: seer:24000
+examples:
+- labels: Transformed cell line UE6E7T-2
+input:
+- term: not in ICD-O (e.g. non-neoplastic, reference)
+  term_id: icdom:0000_0
+- term: connective and soft tissue, nos
+  term_id: icdot:C49_9

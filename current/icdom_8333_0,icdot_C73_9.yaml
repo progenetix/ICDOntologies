@@ -1,0 +1,11 @@
+equivalents:
+- term: C4160
+  term_id: ncit:None
+- term_id: seer:32010
+examples:
+- labels: Fetal adenoma of the thyroid
+input:
+- term: Microfollicular adenoma, NOS
+  term_id: icdom:8333_0
+- term: thyroid gland
+  term_id: icdot:C73_9

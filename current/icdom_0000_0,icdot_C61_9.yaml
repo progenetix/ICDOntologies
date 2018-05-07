@@ -1,0 +1,11 @@
+equivalents:
+- term: None
+  term_id: ncit:Transformed cell line
+- term_id: seer:28010
+examples:
+- labels: transformed cell line WPE1-NB14
+input:
+- term: not in ICD-O (e.g. non-neoplastic, reference)
+  term_id: icdom:0000_0
+- term: Prostate gland
+  term_id: icdot:C61_9

@@ -1,0 +1,11 @@
+equivalents:
+- term: ''
+  term_id: 'ncit:'
+- term_id: seer:99999
+examples:
+- labels: Bladder biopsy [Brunn nest]
+input:
+- term: not in ICD-O (e.g. non-neoplastic, reference)
+  term_id: icdom:0000_0
+- term: urinary bladder
+  term_id: icdot:C67_0

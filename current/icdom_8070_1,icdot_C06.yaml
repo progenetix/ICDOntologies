@@ -1,0 +1,11 @@
+equivalents:
+- term: C129863
+  term_id: ncit:Oral dysplasia
+- term_id: seer:20050
+examples:
+- labels: Oral dysplasia [cell line DOK]
+input:
+- term: None
+  term_id: icdom:8070_1
+- term: mouth, NOS
+  term_id: icdot:C06

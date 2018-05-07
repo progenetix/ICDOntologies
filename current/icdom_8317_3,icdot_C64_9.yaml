@@ -1,0 +1,11 @@
+equivalents:
+- term: C4146
+  term_id: ncit:Chromophobe Renal Cell Carcinoma
+- term_id: seer:29020
+examples:
+- labels: Renal cell carcinoma, chromophobe type
+input:
+- term: Renal cell carcinoma, chromophobe type
+  term_id: icdom:8317_3
+- term: kidney
+  term_id: icdot:C64_9

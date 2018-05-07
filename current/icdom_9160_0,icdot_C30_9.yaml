@@ -1,0 +1,11 @@
+equivalents:
+- term: C3799
+  term_id: ncit:Angiofibroma
+- term_id: seer:22010
+examples:
+- labels: Angiofibroma [juvenile]
+input:
+- term: Angiofibroma, NOS
+  term_id: icdom:9160_0
+- term: nasal cavity including nasal cartilage
+  term_id: icdot:C30_9

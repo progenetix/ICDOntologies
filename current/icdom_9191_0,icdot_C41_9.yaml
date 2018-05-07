@@ -1,0 +1,11 @@
+equivalents:
+- term: C3297
+  term_id: ncit:Osteoid Osteoma
+- term_id: seer:23000
+examples:
+- labels: osteoid osteoma
+input:
+- term: Osteoid osteoma, NOS
+  term_id: icdom:9191_0
+- term: bone, NOS
+  term_id: icdot:C41_9

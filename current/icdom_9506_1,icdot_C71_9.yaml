@@ -1,0 +1,11 @@
+equivalents:
+- term: C6905
+  term_id: ncit:Cerebellar Liponeurocytoma
+- term_id: seer:31010
+examples:
+- labels: neurocytoma
+input:
+- term: Central neurocytoma
+  term_id: icdom:9506_1
+- term: brain, NOS
+  term_id: icdot:C71_9

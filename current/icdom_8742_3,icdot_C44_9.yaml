@@ -1,0 +1,11 @@
+equivalents:
+- term: C9151
+  term_id: ncit:Lentigo Maligna Melanoma
+- term_id: seer:25010
+examples:
+- labels: lentigo maligna melanoma
+input:
+- term: Lentigo maligna melanoma
+  term_id: icdom:8742_3
+- term: Skin, NOS
+  term_id: icdot:C44_9

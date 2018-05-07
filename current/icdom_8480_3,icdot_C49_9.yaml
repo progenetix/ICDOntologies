@@ -1,0 +1,11 @@
+equivalents:
+- term: C26712
+  term_id: ncit:Mucinous Adenocarcinoma
+- term_id: seer:24000
+examples:
+- labels: Mucinous adenocarcinoma [right palate]
+input:
+- term: Mucinous adenocarcinoma
+  term_id: icdom:8480_3
+- term: connective and soft tissue, NOS
+  term_id: icdot:C49_9

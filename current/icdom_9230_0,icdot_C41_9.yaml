@@ -1,0 +1,11 @@
+equivalents:
+- term: C2945
+  term_id: ncit:Chondroblastoma
+- term_id: seer:23000
+examples:
+- labels: chondroblastoma
+input:
+- term: Chondroblastoma, NOS
+  term_id: icdom:9230_0
+- term: bone, NOS
+  term_id: icdot:C41_9

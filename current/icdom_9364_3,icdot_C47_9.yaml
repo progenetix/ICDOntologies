@@ -1,0 +1,11 @@
+equivalents:
+- term: C9341
+  term_id: ncit:Peripheral Primitive Neuroectodermal Tumor
+- term_id: seer:24000
+examples:
+- labels: peripheral primitive neuroectodermal tumor
+input:
+- term: Peripheral neuroectodermal tumor
+  term_id: icdom:9364_3
+- term: peripheral nervs incl. autonomous
+  term_id: icdot:C47_9

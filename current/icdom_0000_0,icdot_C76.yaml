@@ -1,0 +1,11 @@
+equivalents:
+- term: C2897
+  term_id: ncit:Benign prostatic hyperplasia
+- term_id: seer:99999
+examples:
+- labels: benign prostate hyperplasia [cell line BPH-1]
+input:
+- term: not in ICD-O (e.g. non-neoplastic, reference)
+  term_id: icdom:0000_0
+- term: ill-defined
+  term_id: icdot:C76

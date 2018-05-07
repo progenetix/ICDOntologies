@@ -1,0 +1,11 @@
+equivalents:
+- term: ''
+  term_id: 'ncit:'
+- term_id: seer:27010
+examples:
+- labels: Squamous intraepithelial neoplasia [cervix]
+input:
+- term: None
+  term_id: icdom:8070_1
+- term: cervix uteri
+  term_id: icdot:C53_9

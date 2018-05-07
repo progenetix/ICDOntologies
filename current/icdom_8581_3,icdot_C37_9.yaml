@@ -1,0 +1,11 @@
+equivalents:
+- term: ''
+  term_id: 'ncit:'
+- term_id: seer:32020
+examples:
+- labels: Thymoma [WHO A]
+input:
+- term: Thymoma, type A, malignant
+  term_id: icdom:8581_3
+- term: thymus
+  term_id: icdot:C37_9

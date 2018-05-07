@@ -1,0 +1,11 @@
+equivalents:
+- term: C3099
+  term_id: ncit:Hepatocellular Carcinoma
+- term_id: seer:21071
+examples:
+- labels: hepatovellular carcinoma
+input:
+- term: Hepatocellular carcinoma, NOS
+  term_id: icdom:8170_3
+- term: Liver
+  term_id: icdot:C22_0

@@ -1,0 +1,11 @@
+equivalents:
+- term: C5474
+  term_id: ncit:Gastric adenosquamous carcinoma
+- term_id: seer:21020
+examples:
+- labels: Gastric adenosquamous carcinoma [cell line MKN1]
+input:
+- term: Adenosquamous carcinoma
+  term_id: icdom:8560_3
+- term: stomach
+  term_id: icdot:C16

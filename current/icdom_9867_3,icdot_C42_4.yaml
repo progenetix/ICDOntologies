@@ -1,0 +1,11 @@
+equivalents:
+- term: C7463
+  term_id: ncit:Acute myelomonocytic leukemia
+- term_id: seer:35043
+examples:
+- labels: Acute myelomonocytic leukemia [cell line KY821]
+input:
+- term: Acute myelomonocytic leukemia, NOS
+  term_id: icdom:9867_3
+- term: Hematopoietic system, NOS
+  term_id: icdot:C42_4

@@ -1,0 +1,11 @@
+equivalents:
+- term: None
+  term_id: ncit:Transformed cell line
+- term_id: seer:25010
+examples:
+- labels: transformed cell line LAU-Me246.M1-LCL
+input:
+- term: not in ICD-O (e.g. non-neoplastic, reference)
+  term_id: icdom:0000_0
+- term: skin
+  term_id: icdot:C44

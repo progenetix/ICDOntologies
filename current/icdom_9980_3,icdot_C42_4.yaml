@@ -1,0 +1,11 @@
+equivalents:
+- term: C2872
+  term_id: ncit:Refractory Anemia
+- term_id: seer:35023
+examples:
+- labels: Refractory anemia
+input:
+- term: Refractory anemia
+  term_id: icdom:9980_3
+- term: Hematopoietic system, NOS
+  term_id: icdot:C42_4

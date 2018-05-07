@@ -1,11 +1,11 @@
 equivalents:
-- term: Prostatic Intraepithelial Neoplasia
-  term_id: ncit:C4064
+- term: ''
+  term_id: 'ncit:'
 - term_id: seer:28010
 examples:
-- term: Prostatic intraepithelial neoplasia
+- labels: Prostatic intraepithelial neoplasia [high-grade]
 input:
 - term: Glandular intraepithelial neoplasia, high grade
   term_id: icdom:8148_2
-- term: Prostate gland
+- term: prostate gland
   term_id: icdot:C61_9

@@ -1,0 +1,11 @@
+equivalents:
+- term: C3898
+  term_id: ncit:Extranodal Marginal Zone Lymphoma of Mucosa-Associated Lymphoid Tissue
+- term_id: seer:33041
+examples:
+- labels: Lymphoplasmacytic Lymphoma
+input:
+- term: Malignant lymphoma, lymphoplasmacytic
+  term_id: icdom:9671_3
+- term: Lymph nodes, NOS
+  term_id: icdot:C77_9

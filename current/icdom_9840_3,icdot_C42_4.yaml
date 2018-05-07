@@ -1,0 +1,11 @@
+equivalents:
+- term: C7152
+  term_id: ncit:Erythroleukemia
+- term_id: seer:35041
+examples:
+- labels: Erythroleukemia [cell line HEL]
+input:
+- term: Erythroleukemia
+  term_id: icdom:9840_3
+- term: Hematopoietic system, NOS
+  term_id: icdot:C42_4

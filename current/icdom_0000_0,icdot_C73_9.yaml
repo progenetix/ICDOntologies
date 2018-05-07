@@ -1,0 +1,11 @@
+equivalents:
+- term: None
+  term_id: ncit:Transformed cell line
+- term_id: seer:32010
+examples:
+- labels: transformed cell line Nthy-ori 3-1
+input:
+- term: not in ICD-O (e.g. non-neoplastic, reference)
+  term_id: icdom:0000_0
+- term: thyroid gland
+  term_id: icdot:C73_9

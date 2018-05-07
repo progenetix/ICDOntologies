@@ -1,0 +1,11 @@
+equivalents:
+- term: C9357
+  term_id: ncit:Hodgkin Lymphoma
+- term_id: seer:33011
+examples:
+- labels: Classical Hodgkin lymphoma
+input:
+- term: Hodgkin lymphoma, NOS
+  term_id: icdom:9650_3
+- term: Lymph nodes, NOS
+  term_id: icdot:C77_9

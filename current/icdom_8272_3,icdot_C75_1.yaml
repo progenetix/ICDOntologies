@@ -1,11 +1,11 @@
 equivalents:
-- term: Carney Complex
-  term_id: ncit:C4705
+- term: C4536
+  term_id: ncit:Pituitary Gland Carcinoma
 - term_id: seer:32020
 examples:
-- term: Pituitary tumor [carney complex]
+- labels: Pituitary carcinoma [metatstasis]
 input:
-- term: Pituitary carcinoma, nos
+- term: Pituitary carcinoma, NOS
   term_id: icdom:8272_3
-- term: Pituitary gland
+- term: pituitary gland
   term_id: icdot:C75_1

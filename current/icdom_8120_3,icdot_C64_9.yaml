@@ -1,0 +1,11 @@
+equivalents:
+- term: C2930
+  term_id: ncit:Transitional Cell Carcinoma
+- term_id: seer:29020
+examples:
+- labels: transitional cell carcinoma [pT3, G3] in Balkan endemic nephropathy]
+input:
+- term: Transitional cell carcinoma, NOS
+  term_id: icdom:8120_3
+- term: kidney
+  term_id: icdot:C64_9

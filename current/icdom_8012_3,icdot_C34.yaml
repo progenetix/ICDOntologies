@@ -1,0 +1,11 @@
+equivalents:
+- term: C4450
+  term_id: ncit:Large Cell Lung Carcinoma
+- term_id: seer:22030
+examples:
+- labels: large lung cell carcinoma [cell line COR-L23/CPR]
+input:
+- term: Large cell carcinoma, NOS
+  term_id: icdom:8012_3
+- term: lung and bronchus
+  term_id: icdot:C34

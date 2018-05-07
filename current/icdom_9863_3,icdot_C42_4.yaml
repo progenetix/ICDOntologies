@@ -1,0 +1,11 @@
+equivalents:
+- term: C3174
+  term_id: ncit:Chronic Myelogenous Leukemia, BCR-ABL1 Positive
+- term_id: seer:35022
+examples:
+- labels: Chronic myeloid leukemia, NOS
+input:
+- term: Chronic myeloid leukemia, NOS
+  term_id: icdom:9863_3
+- term: Hematopoietic system, NOS
+  term_id: icdot:C42_4

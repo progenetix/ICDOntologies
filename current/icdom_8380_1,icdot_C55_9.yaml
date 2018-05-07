@@ -1,0 +1,11 @@
+equivalents:
+- term: C7983
+  term_id: ncit:None
+- term_id: seer:27030
+examples:
+- labels: endometrial hyperplasia [minimal atypia]
+input:
+- term: Endometrioid adenoma, borderline malignancy
+  term_id: icdom:8380_1
+- term: uterus, nos
+  term_id: icdot:C55_9

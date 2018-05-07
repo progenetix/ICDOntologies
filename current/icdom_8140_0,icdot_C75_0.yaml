@@ -1,0 +1,11 @@
+equivalents:
+- term: C2855
+  term_id: ncit:None
+- term_id: seer:32020
+examples:
+- labels: parathyroid tumor [multiple, primary hyperparathyroidism]
+input:
+- term: Adenoma, NOS
+  term_id: icdom:8140_0
+- term: parathyroid gland
+  term_id: icdot:C75_0

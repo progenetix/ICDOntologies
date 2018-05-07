@@ -1,0 +1,11 @@
+equivalents:
+- term: C3043
+  term_id: ncit:Fibrosarcoma
+- term_id: seer:24000
+examples:
+- labels: Fibrosarcoma G3 [local recurrence]
+input:
+- term: Fibrosarcoma, NOS
+  term_id: icdom:8810_3
+- term: connective and soft tissue, NOS
+  term_id: icdot:C49_9

@@ -1,0 +1,11 @@
+equivalents:
+- term: ''
+  term_id: 'ncit:'
+- term_id: seer:31010
+examples:
+- labels: Granular cell tumours [cerebral]
+input:
+- term: Granular cell tumor of the sellar region
+  term_id: icdom:9582_0
+- term: brain, NOS
+  term_id: icdot:C71_9

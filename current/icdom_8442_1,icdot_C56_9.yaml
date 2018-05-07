@@ -1,11 +1,11 @@
 equivalents:
-- term: Borderline Ovarian Serous Tumor
-  term_id: ncit:C5226
+- term: ''
+  term_id: 'ncit:'
 - term_id: seer:27040
 examples:
-- term: Serous borderline tumor [ovarian]
+- labels: Adenofibroma, NOS
 input:
 - term: Serous cystadenoma, borderline malignancy
   term_id: icdom:8442_1
-- term: Ovary
+- term: ovary
   term_id: icdot:C56_9

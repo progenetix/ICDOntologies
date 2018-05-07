@@ -1,0 +1,11 @@
+equivalents:
+- term: C3467
+  term_id: ncit:Cutaneous T-cell non-Hodgkin lymphoma
+- term_id: seer:33041
+examples:
+- labels: T cell non-Hodgkin lymphoma [cell line Mac-1]
+input:
+- term: Malignant lymphoma, non-Hodgkin, NOS
+  term_id: icdom:9591_3
+- term: Hematopoietic system, NOS
+  term_id: icdot:C42_4

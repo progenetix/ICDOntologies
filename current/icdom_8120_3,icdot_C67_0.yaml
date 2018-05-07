@@ -1,0 +1,11 @@
+equivalents:
+- term: C2930
+  term_id: ncit:Transitional Cell Carcinoma
+- term_id: seer:29010
+examples:
+- labels: papillary bladder adenocarcinoma
+input:
+- term: Transitional cell carcinoma, NOS
+  term_id: icdom:8120_3
+- term: urinary bladder
+  term_id: icdot:C67_0

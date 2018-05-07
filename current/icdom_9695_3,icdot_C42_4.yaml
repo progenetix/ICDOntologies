@@ -1,0 +1,11 @@
+equivalents:
+- term: C3465
+  term_id: ncit:Grade 1 Follicular Lymphoma
+- term_id: seer:33041
+examples:
+- labels: Follicular lymphoma, grade 1
+input:
+- term: Follicular lymphoma, grade 1
+  term_id: icdom:9695_3
+- term: Hematopoietic system, NOS
+  term_id: icdot:C42_4

@@ -1,0 +1,11 @@
+equivalents:
+- term: C3771
+  term_id: ncit:Lobular Breast Carcinoma
+- term_id: seer:26000
+examples:
+- labels: Invasive lobular Adenocarcinoma [breast, G2]
+input:
+- term: Lobular carcinoma, NOS
+  term_id: icdom:8520_3
+- term: Breast, NOS
+  term_id: icdot:C50_9

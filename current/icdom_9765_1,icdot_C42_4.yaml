@@ -1,0 +1,11 @@
+equivalents:
+- term: C3996
+  term_id: ncit:None
+- term_id: seer:34000
+examples:
+- labels: Monoclonal gammopathy
+input:
+- term: Monoclonal gammopathy of undetermined significance
+  term_id: icdom:9765_1
+- term: Hematopoietic system, NOS
+  term_id: icdot:C42_4

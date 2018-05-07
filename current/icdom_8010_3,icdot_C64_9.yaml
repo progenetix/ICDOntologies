@@ -1,0 +1,11 @@
+equivalents:
+- term: None
+  term_id: ncit:Transformed cell line
+- term_id: seer:29020
+examples:
+- labels: transformed cell line HK-2
+input:
+- term: Carcinoma, NOS
+  term_id: icdom:8010_3
+- term: kidney
+  term_id: icdot:C64_9

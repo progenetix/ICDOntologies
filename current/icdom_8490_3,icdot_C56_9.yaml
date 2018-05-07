@@ -1,0 +1,11 @@
+equivalents:
+- term: C3153
+  term_id: ncit:Krukenberg tumor
+- term_id: seer:27040
+examples:
+- labels: Krukenberg tumor [cell line KS-1]
+input:
+- term: Metastatic signet ring cell carcinoma
+  term_id: icdom:8490_3
+- term: ovary
+  term_id: icdot:C56_9

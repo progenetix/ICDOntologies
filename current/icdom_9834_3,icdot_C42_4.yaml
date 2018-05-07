@@ -1,0 +1,11 @@
+equivalents:
+- term: ''
+  term_id: 'ncit:'
+- term_id: seer:35013
+examples:
+- labels: T-prolymphocytic leukemia
+input:
+- term: Prolymphocytic leukemia, T-cell type
+  term_id: icdom:9834_3
+- term: Hematopoietic system, NOS
+  term_id: icdot:C42_4

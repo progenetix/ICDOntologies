@@ -1,0 +1,11 @@
+equivalents:
+- term: C6339
+  term_id: ncit:Uterine corpus sarcoma
+- term_id: seer:27030
+examples:
+- labels: uterus sarcoma [cell line MES-SA]
+input:
+- term: Sarcoma, NOS
+  term_id: icdom:8800_3
+- term: uterus, nos
+  term_id: icdot:C55_9

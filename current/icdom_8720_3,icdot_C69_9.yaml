@@ -1,0 +1,11 @@
+equivalents:
+- term: C3224
+  term_id: ncit:Melanoma
+- term_id: seer:30000
+examples:
+- labels: Malgnant melanoma [conjunctiva]
+input:
+- term: Malignant melanoma, NOS
+  term_id: icdom:8720_3
+- term: eye, nos
+  term_id: icdot:C69_9

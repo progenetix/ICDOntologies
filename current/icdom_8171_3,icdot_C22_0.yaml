@@ -1,9 +1,9 @@
 equivalents:
-- term: Fibrolamellar Carcinoma
-  term_id: ncit:C4131
+- term: ''
+  term_id: 'ncit:'
 - term_id: seer:21071
 examples:
-- term: Hepatocellular carcinoma, fibrolamellar
+- labels: fibrolamellar carcinoma [HBVneg, HCVneg]
 input:
 - term: Hepatocellular carcinoma, fibrolamellar
   term_id: icdom:8171_3

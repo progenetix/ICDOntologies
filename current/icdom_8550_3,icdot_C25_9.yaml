@@ -1,0 +1,11 @@
+equivalents:
+- term: C3768
+  term_id: ncit:Acinar Cell Carcinoma
+- term_id: seer:21100
+examples:
+- labels: pancreatic acinar carcinoma
+input:
+- term: Acinar cell carcinoma
+  term_id: icdom:8550_3
+- term: Pancreas, NOS
+  term_id: icdot:C25_9

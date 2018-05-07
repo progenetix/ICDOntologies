@@ -1,0 +1,11 @@
+equivalents:
+- term: C9325
+  term_id: ncit:Adrenal cortex carcinoma
+- term_id: seer:32020
+examples:
+- labels: Adrenal cortex carcinoma [cell line SW13]
+input:
+- term: Adrenal cortical carcinoma
+  term_id: icdom:8370_3
+- term: adrenal glands
+  term_id: icdot:C74

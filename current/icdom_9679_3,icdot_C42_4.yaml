@@ -1,0 +1,11 @@
+equivalents:
+- term: C9280
+  term_id: 'ncit:Mediastinal (thymic) large B-cell lymphoma '
+- term_id: seer:33041
+examples:
+- labels: Mediastinal large B-cell lymphoma [cell line MedB-1]
+input:
+- term: Mediastinal (thymic) large B-cell lymphoma (C38.3)
+  term_id: icdom:9679_3
+- term: Hematopoietic system, NOS
+  term_id: icdot:C42_4

@@ -1,0 +1,11 @@
+equivalents:
+- term: C8644
+  term_id: ncit:B Acute Lymphoblastic Leukemia
+- term_id: seer:35011
+examples:
+- labels: Burkitt cell leukemia
+input:
+- term: Burkitt cell leukemia
+  term_id: icdom:9826_3
+- term: Hematopoietic system, NOS
+  term_id: icdot:C42_4

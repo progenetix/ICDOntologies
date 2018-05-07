@@ -1,0 +1,11 @@
+equivalents:
+- term: C3294
+  term_id: ncit:Osteoblastoma
+- term_id: seer:23000
+examples:
+- labels: osteoblastoma
+input:
+- term: Osteoblastoma, NOS
+  term_id: icdom:9200_0
+- term: bone, NOS
+  term_id: icdot:C41_9

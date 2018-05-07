@@ -1,0 +1,11 @@
+equivalents:
+- term: ''
+  term_id: 'ncit:'
+- term_id: seer:33041
+examples:
+- labels: Follicular lymphoma I
+input:
+- term: Follicular lymphoma, grade 1
+  term_id: icdom:9695_3
+- term: Lymph nodes, NOS
+  term_id: icdot:C77_9

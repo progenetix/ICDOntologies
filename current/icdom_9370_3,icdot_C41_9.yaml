@@ -1,0 +1,11 @@
+equivalents:
+- term: C2947
+  term_id: ncit:Chordoma
+- term_id: seer:23000
+examples:
+- labels: Chordoma [Sacrum]
+input:
+- term: Chordoma, NOS
+  term_id: icdom:9370_3
+- term: bone, NOS
+  term_id: icdot:C41_9

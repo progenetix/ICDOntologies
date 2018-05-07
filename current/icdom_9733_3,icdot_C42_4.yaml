@@ -1,0 +1,11 @@
+equivalents:
+- term: C3180
+  term_id: ncit:Plasma Cell Leukemia
+- term_id: seer:35043
+examples:
+- labels: Plasma cell leukemia
+input:
+- term: Plasma cell leukemia
+  term_id: icdom:9733_3
+- term: Hematopoietic system, NOS
+  term_id: icdot:C42_4

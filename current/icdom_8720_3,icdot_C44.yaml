@@ -1,0 +1,11 @@
+equivalents:
+- term: C114828
+  term_id: ncit:Mucosal melanoma
+- term_id: seer:25010
+examples:
+- labels: mucosal melanoma [cell line MEL1]
+input:
+- term: Malignant melanoma, NOS
+  term_id: icdom:8720_3
+- term: skin
+  term_id: icdot:C44

@@ -1,0 +1,11 @@
+equivalents:
+- term: C46008
+  term_id: ncit:Thyroid Gland Squamous Cell Carcinoma
+- term_id: seer:32010
+examples:
+- labels: thyroid carcinoma [cell line TH7]
+input:
+- term: Carcinoma, NOS
+  term_id: icdom:8010_3
+- term: thyroid gland
+  term_id: icdot:C73_9

@@ -1,0 +1,11 @@
+equivalents:
+- term: C4320
+  term_id: ncit:Protoplasmic Astrocytoma
+- term_id: seer:31010
+examples:
+- labels: protoplasmic astrocytoma
+input:
+- term: Protoplasmic astrocytoma
+  term_id: icdom:9410_3
+- term: brain, NOS
+  term_id: icdot:C71_9

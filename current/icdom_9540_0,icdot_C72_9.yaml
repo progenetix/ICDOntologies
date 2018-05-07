@@ -1,0 +1,11 @@
+equivalents:
+- term: C3272
+  term_id: ncit:Neurofibroma
+- term_id: seer:31040
+examples:
+- labels: Plexiform neurofibroma
+input:
+- term: Neurofibroma, NOS
+  term_id: icdom:9540_0
+- term: Nervous system, NOS
+  term_id: icdot:C72_9

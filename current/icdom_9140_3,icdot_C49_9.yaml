@@ -1,0 +1,11 @@
+equivalents:
+- term: C9087
+  term_id: ncit:Kaposi Sarcoma
+- term_id: seer:36020
+examples:
+- labels: Kaposi sarcoma
+input:
+- term: Kaposi sarcoma
+  term_id: icdom:9140_3
+- term: connective and soft tissue, NOS
+  term_id: icdot:C49_9

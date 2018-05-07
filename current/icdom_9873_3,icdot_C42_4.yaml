@@ -1,0 +1,11 @@
+equivalents:
+- term: C3249
+  term_id: ncit:Acute Myeloid Leukemia without Maturation
+- term_id: seer:35021
+examples:
+- labels: Acute myeloblastic leukemia without maturation [FAB M1, refractory]
+input:
+- term: Acute myeloid leukemia without maturation
+  term_id: icdom:9873_3
+- term: Hematopoietic system, NOS
+  term_id: icdot:C42_4

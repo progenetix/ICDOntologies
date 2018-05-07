@@ -1,0 +1,11 @@
+equivalents:
+- term: C40407
+  term_id: ncit:Kidney Wilms Tumor
+- term_id: seer:29020
+examples:
+- labels: wilms tumor [anaplastic]
+input:
+- term: Nephroblastoma, NOS
+  term_id: icdom:8960_3
+- term: kidney
+  term_id: icdot:C64_9

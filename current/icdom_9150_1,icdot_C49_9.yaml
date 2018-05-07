@@ -1,0 +1,11 @@
+equivalents:
+- term: C3087
+  term_id: ncit:None
+- term_id: seer:24000
+examples:
+- labels: hemangiopericytoma
+input:
+- term: Hemangiopericytoma, NOS
+  term_id: icdom:9150_1
+- term: connective and soft tissue, NOS
+  term_id: icdot:C49_9

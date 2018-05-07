@@ -1,0 +1,11 @@
+equivalents:
+- term: C2946
+  term_id: ncit:Chondrosarcoma
+- term_id: seer:23000
+examples:
+- labels: chondrosarcoma
+input:
+- term: Chondrosarcoma, NOS
+  term_id: icdom:9220_3
+- term: bones and joints
+  term_id: icdot:C40_0

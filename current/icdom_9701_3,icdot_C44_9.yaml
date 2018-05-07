@@ -1,0 +1,11 @@
+equivalents:
+- term: C3366
+  term_id: ncit:Sezary Syndrome
+- term_id: seer:33042
+examples:
+- labels: Sezary syndrome
+input:
+- term: Sezary syndrome
+  term_id: icdom:9701_3
+- term: Skin, NOS
+  term_id: icdot:C44_9

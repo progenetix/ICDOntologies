@@ -1,0 +1,11 @@
+equivalents:
+- term: C8252
+  term_id: ncit:None
+- term_id: seer:35021
+examples:
+- labels: Therapy-related acute myeloid leukemia [cell line]
+input:
+- term: Therapy related myeloid neoplasm
+  term_id: icdom:9920_3
+- term: Hematopoietic system, NOS
+  term_id: icdot:C42_4
