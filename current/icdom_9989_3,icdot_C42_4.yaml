@@ -1,6 +1,6 @@
 equivalents:
-- term: C3247
-  term_id: ncit:Myelodysplastic Syndrome
+- term: Myelodysplastic Syndrome
+  term_id: ncit:C3247
 - term_id: seer:35023
 examples:
 - labels: Myelodysplastic syndrome, NOS

@@ -1,6 +1,6 @@
 equivalents:
-- term: C3779
-  term_id: ncit:Giant Cell Carcinoma
+- term: Giant Cell Carcinoma
+  term_id: ncit:C3779
 - term_id: seer:23000
 examples:
 - labels: giant cell granuloma

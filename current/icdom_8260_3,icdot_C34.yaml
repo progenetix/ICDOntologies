@@ -1,6 +1,6 @@
 equivalents:
-- term: C5650
-  term_id: ncit:Papillary lung adenocarcinoma
+- term: Papillary lung adenocarcinoma
+  term_id: ncit:C5650
 - term_id: seer:22030
 examples:
 - labels: papillary lung adenocarcinoma [cell line NCI-H820]

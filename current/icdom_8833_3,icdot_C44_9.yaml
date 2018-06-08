@@ -1,6 +1,6 @@
 equivalents:
-- term: C9430
-  term_id: ncit:Pigmented Dermatofibrosarcoma Protuberans
+- term: Pigmented Dermatofibrosarcoma Protuberans
+  term_id: ncit:C9430
 - term_id: seer:25020
 examples:
 - labels: Dermatofibrosarcoma protuberans

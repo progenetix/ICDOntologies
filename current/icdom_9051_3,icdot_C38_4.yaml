@@ -1,6 +1,6 @@
 equivalents:
-- term: C6747
-  term_id: ncit:Desmoplastic Mesothelioma
+- term: Desmoplastic Mesothelioma
+  term_id: ncit:C6747
 - term_id: seer:36010
 examples:
 - labels: Sarcomatoid mesothelioma

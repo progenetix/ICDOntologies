@@ -1,6 +1,6 @@
 equivalents:
-- term: C6906
-  term_id: ncit:Atypical Teratoid/Rhabdoid Tumor
+- term: Atypical Teratoid/Rhabdoid Tumor
+  term_id: ncit:C6906
 - term_id: seer:31010
 examples:
 - labels: atypical teratoid/rhabdoid tumour [infratentorial]

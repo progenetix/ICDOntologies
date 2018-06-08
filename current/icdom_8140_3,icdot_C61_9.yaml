@@ -1,6 +1,6 @@
 equivalents:
-- term: C2852
-  term_id: ncit:Adenocarcinoma
+- term: Adenocarcinoma
+  term_id: ncit:C2852
 - term_id: seer:28010
 examples:
 - labels: Tumor cells [cell line]

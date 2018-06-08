@@ -1,6 +1,6 @@
 equivalents:
-- term: C4024
-  term_id: ncit:Esophageal Squamous Cell Carcinoma
+- term: Esophageal Squamous Cell Carcinoma
+  term_id: ncit:C4024
 - term_id: seer:21010
 examples:
 - labels: Esphageal squamous cell carcinoma [cell line KYSE-220]

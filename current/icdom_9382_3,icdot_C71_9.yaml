@@ -1,6 +1,6 @@
 equivalents:
-- term: C4050
-  term_id: ncit:Oligoastrocytoma
+- term: Oligoastrocytoma
+  term_id: ncit:C4050
 - term_id: seer:31010
 examples:
 - labels: Grade II mixed oligoastrocytoma

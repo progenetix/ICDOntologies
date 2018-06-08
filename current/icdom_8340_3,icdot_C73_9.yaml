@@ -1,6 +1,6 @@
 equivalents:
-- term: C7380
-  term_id: ncit:Oncocytic Adenoma
+- term: Oncocytic Adenoma
+  term_id: ncit:C7380
 - term_id: seer:32010
 examples:
 - labels: Papillary carcinoma of thyroid, foll [stage PT4N1bM0, grade High]

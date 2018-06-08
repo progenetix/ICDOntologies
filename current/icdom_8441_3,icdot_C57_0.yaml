@@ -1,6 +1,6 @@
 equivalents:
-- term: C40101
-  term_id: ncit:Serous Adenocarcinoma
+- term: Serous Adenocarcinoma
+  term_id: ncit:C40101
 - term_id: seer:27070
 examples:
 - labels: Serous Fallopian tube carcinoma

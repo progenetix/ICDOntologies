@@ -1,6 +1,6 @@
 equivalents:
-- term: C3502
-  term_id: ncit:Thyroid Gland Follicular Adenoma
+- term: Thyroid Gland Follicular Adenoma
+  term_id: ncit:C3502
 - term_id: seer:32010
 examples:
 - labels: Follicular adenoma of the thyroid

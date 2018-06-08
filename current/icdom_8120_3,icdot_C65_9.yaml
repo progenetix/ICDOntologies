@@ -1,6 +1,6 @@
 equivalents:
-- term: C7355
-  term_id: ncit:Renal Pelvis Urothelial Carcinoma
+- term: Renal Pelvis Urothelial Carcinoma
+  term_id: ncit:C7355
 - term_id: seer:29020
 examples:
 - labels: Urothelial carcinoma

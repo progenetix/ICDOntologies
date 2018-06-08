@@ -1,6 +1,6 @@
 equivalents:
-- term: C4452
-  term_id: ncit:Lung giant cell carcinoma
+- term: Lung giant cell carcinoma
+  term_id: ncit:C4452
 - term_id: seer:22030
 examples:
 - labels: Lung giant cell carcinoma [cell line HCC1359]

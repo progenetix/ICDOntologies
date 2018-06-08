@@ -1,6 +1,6 @@
 equivalents:
-- term: C4323
-  term_id: ncit:Pleomorphic Xanthoastrocytoma
+- term: Pleomorphic Xanthoastrocytoma
+  term_id: ncit:C4323
 - term_id: seer:31010
 examples:
 - labels: pleomorphic xanthoastrocytoma [supratentorial]

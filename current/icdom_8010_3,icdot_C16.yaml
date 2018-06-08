@@ -1,6 +1,6 @@
 equivalents:
-- term: C4911
-  term_id: ncit:Gastric carcinoma
+- term: Gastric carcinoma
+  term_id: ncit:C4911
 - term_id: seer:21020
 examples:
 - labels: Gastric carcinoma [cell line SNU-1]

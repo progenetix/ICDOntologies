@@ -1,6 +1,6 @@
 equivalents:
-- term: C6917
-  term_id: ncit:Atypical Burkitt/Burkitt-Like Lymphoma
+- term: Atypical Burkitt/Burkitt-Like Lymphoma
+  term_id: ncit:C6917
 - term_id: seer:33041
 examples:
 - labels: Burkitt lymphoma/leukemia

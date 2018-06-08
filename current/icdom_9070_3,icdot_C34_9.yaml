@@ -1,6 +1,6 @@
 equivalents:
-- term: C3752
-  term_id: ncit:Embryonal Carcinoma
+- term: Embryonal Carcinoma
+  term_id: ncit:C3752
 - term_id: seer:22030
 examples:
 - labels: embryonal carcinoma

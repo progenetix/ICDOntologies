@@ -1,6 +1,6 @@
 equivalents:
-- term: C9003
-  term_id: ncit:Adrenal Cortex Adenoma
+- term: Adrenal Cortex Adenoma
+  term_id: ncit:C9003
 - term_id: seer:32020
 examples:
 - labels: Adrenocortical tumor [adenoma, left]

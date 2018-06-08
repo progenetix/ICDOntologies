@@ -1,6 +1,6 @@
 equivalents:
-- term: C6875
-  term_id: ncit:Large Cell Neuroendocrine Carcinoma
+- term: Large Cell Neuroendocrine Carcinoma
+  term_id: ncit:C6875
 - term_id: seer:22030
 examples:
 - labels: large cell neuroendocrine with small cell carcinoma [lung]

@@ -1,6 +1,6 @@
 equivalents:
-- term: C7979
-  term_id: ncit:Ovarian endometrioid adenocarcinoma
+- term: Ovarian endometrioid adenocarcinoma
+  term_id: ncit:C7979
 - term_id: seer:27040
 examples:
 - labels: Ovarian cystoadenocarcinoma [cell line IGROV-1]

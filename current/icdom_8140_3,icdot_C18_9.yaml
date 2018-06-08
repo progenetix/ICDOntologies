@@ -1,6 +1,6 @@
 equivalents:
-- term: C4349
-  term_id: ncit:Colon adenocarcinoma
+- term: Colon adenocarcinoma
+  term_id: ncit:C4349
 - term_id: seer:26000
 examples:
 - labels: colorectal adenocarcinoma [cell line MT-3]

@@ -1,6 +1,6 @@
 equivalents:
-- term: C9280
-  term_id: 'ncit:Mediastinal (thymic) large B-cell lymphoma '
+- term: 'Mediastinal (thymic) large B-cell lymphoma '
+  term_id: ncit:C9280
 - term_id: seer:33041
 examples:
 - labels: Mediastinal large B-cell lymphoma [cell line MedB-1]

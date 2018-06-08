@@ -1,6 +1,6 @@
 equivalents:
-- term: C27093
-  term_id: ncit:Stage 0 Squamous Cell Carcinoma
+- term: Stage 0 Squamous Cell Carcinoma
+  term_id: ncit:C27093
 - term_id: seer:22030
 examples:
 - labels: Lung precursor metaplasia

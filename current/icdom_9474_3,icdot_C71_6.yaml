@@ -1,6 +1,6 @@
 equivalents:
-- term: C6904
-  term_id: ncit:Large Cell Medulloblastoma
+- term: Large Cell Medulloblastoma
+  term_id: ncit:C6904
 - term_id: seer:31010
 examples:
 - labels: Large cell medulloblastoma

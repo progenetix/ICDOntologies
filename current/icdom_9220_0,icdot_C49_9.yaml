@@ -1,6 +1,6 @@
 equivalents:
-- term: C53459
-  term_id: ncit:Chondroma
+- term: Chondroma
+  term_id: ncit:C53459
 - term_id: seer:24000
 examples:
 - labels: enchondroma [Mafucci syndrome]

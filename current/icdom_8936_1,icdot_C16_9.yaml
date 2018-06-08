@@ -1,6 +1,6 @@
 equivalents:
-- term: C27940
-  term_id: ncit:None
+- term: None
+  term_id: ncit:C27940
 - term_id: seer:21020
 examples:
 - labels: Gastrointestinal stromal tumor, uncertain malignant potential

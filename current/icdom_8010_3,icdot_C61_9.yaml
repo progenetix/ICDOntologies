@@ -1,6 +1,6 @@
 equivalents:
-- term: C4863
-  term_id: ncit:Prostate carcinoma
+- term: Prostate carcinoma
+  term_id: ncit:C4863
 - term_id: seer:28010
 examples:
 - labels: prostate carcinoma [cell line DU145]

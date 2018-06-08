@@ -1,6 +1,6 @@
 equivalents:
-- term: C65192
-  term_id: ncit:None
+- term: None
+  term_id: ncit:C65192
 - term_id: seer:26000
 examples:
 - labels: tubular carcinoma of the breast [grade I, stage pT1c, 0 pos. LN, dist metast.

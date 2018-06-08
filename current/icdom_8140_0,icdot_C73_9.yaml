@@ -1,6 +1,6 @@
 equivalents:
-- term: C27380
-  term_id: ncit:Thyroid Gland Adenocarcinoma
+- term: Thyroid Gland Adenocarcinoma
+  term_id: ncit:C27380
 - term_id: seer:32010
 examples:
 - labels: Parathyroid adenoma

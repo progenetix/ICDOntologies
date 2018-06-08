@@ -1,6 +1,6 @@
 equivalents:
-- term: C3798
-  term_id: ncit:Malignant Peripheral Nerve Sheath Tumor
+- term: Malignant Peripheral Nerve Sheath Tumor
+  term_id: ncit:C3798
 - term_id: seer:31040
 examples:
 - labels: Malignant peripheral nerve sheath tumor

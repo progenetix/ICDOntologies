@@ -1,6 +1,6 @@
 equivalents:
-- term: C6915
-  term_id: ncit:Primary Effusion Lymphoma
+- term: Primary Effusion Lymphoma
+  term_id: ncit:C6915
 - term_id: seer:33042
 examples:
 - labels: Effusion Lymphoma [Ascites]

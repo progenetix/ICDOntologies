@@ -1,6 +1,6 @@
 equivalents:
-- term: C3474
-  term_id: ncit:Granular Cell Tumor
+- term: Granular Cell Tumor
+  term_id: ncit:C3474
 - term_id: seer:27040
 examples:
 - labels: Granular cell tumor

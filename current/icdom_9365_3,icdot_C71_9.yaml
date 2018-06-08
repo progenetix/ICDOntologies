@@ -1,6 +1,6 @@
 equivalents:
-- term: C7542
-  term_id: ncit:Askin tumor
+- term: Askin tumor
+  term_id: ncit:C7542
 - term_id: seer:23000
 examples:
 - labels: Askin tumor [cell line SK-N-MC]

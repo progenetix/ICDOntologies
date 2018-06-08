@@ -1,6 +1,6 @@
 equivalents:
-- term: C3209
-  term_id: ncit:Follicular Lymphoma
+- term: Follicular Lymphoma
+  term_id: ncit:C3209
 - term_id: seer:33041
 examples:
 - labels: follicular lymphoma

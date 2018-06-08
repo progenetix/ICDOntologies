@@ -1,6 +1,6 @@
 equivalents:
-- term: C4512
-  term_id: ncit:Ovarian Mucinous Cystadenoma
+- term: Ovarian Mucinous Cystadenoma
+  term_id: ncit:C4512
 - term_id: seer:99999
 examples:
 - labels: ovarian tumour [benign, mucinous]

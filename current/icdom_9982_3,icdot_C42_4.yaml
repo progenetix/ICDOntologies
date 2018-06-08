@@ -1,6 +1,6 @@
 equivalents:
-- term: C4036
-  term_id: ncit:Myelodysplastic Syndrome with Ring Sideroblasts
+- term: Myelodysplastic Syndrome with Ring Sideroblasts
+  term_id: ncit:C4036
 - term_id: seer:35023
 examples:
 - labels: Refractory anemia with ringed sideroblasts [RARS]

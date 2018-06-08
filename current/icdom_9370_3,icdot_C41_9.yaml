@@ -1,6 +1,6 @@
 equivalents:
-- term: C2947
-  term_id: ncit:Chordoma
+- term: Chordoma
+  term_id: ncit:C2947
 - term_id: seer:23000
 examples:
 - labels: Chordoma [Sacrum]

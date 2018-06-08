@@ -1,7 +1,7 @@
 equivalents:
-- term: C35689
-  term_id: ncit:Extranodal Marginal Zone Lymphoma of Mucosa-Associated Lymphoid Tissue
-    Ocular Adnexal Mucosa-Associated Lymphoid Tissue Lymphoma
+- term: Extranodal Marginal Zone Lymphoma of Mucosa-Associated Lymphoid Tissue Ocular
+    Adnexal Mucosa-Associated Lymphoid Tissue Lymphoma
+  term_id: ncit:C35689
 - term_id: seer:33042
 examples:
 - labels: Extranodal marginal zone B-cell lymphoma

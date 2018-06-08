@@ -1,6 +1,6 @@
 equivalents:
-- term: C3249
-  term_id: ncit:Acute Myeloid Leukemia without Maturation
+- term: Acute Myeloid Leukemia without Maturation
+  term_id: ncit:C3249
 - term_id: seer:35021
 examples:
 - labels: Acute myeloblastic leukemia without maturation [FAB M1, refractory]

@@ -1,6 +1,6 @@
 equivalents:
-- term: C3336
-  term_id: ncit:Polycythemia Vera
+- term: Polycythemia Vera
+  term_id: ncit:C3336
 - term_id: seer:35023
 examples:
 - labels: polycythemia vera

@@ -1,6 +1,6 @@
 equivalents:
-- term: C7992
-  term_id: ncit:Nasopharyngeal Keratinizing Squamous Cell Carcinoma
+- term: Nasopharyngeal Keratinizing Squamous Cell Carcinoma
+  term_id: ncit:C7992
 - term_id: seer:20060
 examples:
 - labels: head and neck carcinoma [cell line]

@@ -1,6 +1,6 @@
 equivalents:
-- term: C4047
-  term_id: ncit:Pilocytic Astrocytoma
+- term: Pilocytic Astrocytoma
+  term_id: ncit:C4047
 - term_id: seer:31010
 examples:
 - labels: Astrocytoma, pilocytic/juvenile [familial]

@@ -1,6 +1,6 @@
 equivalents:
-- term: C8026
-  term_id: ncit:Salivary Gland Adenoid Cystic Carcinoma
+- term: Salivary Gland Adenoid Cystic Carcinoma
+  term_id: ncit:C8026
 - term_id: seer:20030
 examples:
 - labels: Adenoid cystic carcinoma

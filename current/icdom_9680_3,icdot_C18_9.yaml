@@ -1,6 +1,6 @@
 equivalents:
-- term: C4342
-  term_id: ncit:Intravascular Large B-Cell Lymphoma
+- term: Intravascular Large B-Cell Lymphoma
+  term_id: ncit:C4342
 - term_id: seer:33042
 examples:
 - labels: Diffuse large B-cell lymphoma [Colon(Cecum)]

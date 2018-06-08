@@ -1,6 +1,6 @@
 equivalents:
-- term: C9476
-  term_id: ncit:Desmoplastic Infantile Astrocytoma
+- term: Desmoplastic Infantile Astrocytoma
+  term_id: ncit:C9476
 - term_id: seer:31010
 examples:
 - labels: desmoplastic infantile astrocytoma and ganglioglioma

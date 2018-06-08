@@ -1,6 +1,6 @@
 equivalents:
-- term: C3074
-  term_id: ncit:None
+- term: None
+  term_id: ncit:C3074
 - term_id: seer:25010
 examples:
 - labels: Melanocytic nevus [with proliferation simulating-superficial spreading melanoma

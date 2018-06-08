@@ -1,6 +1,6 @@
 equivalents:
-- term: C3157
-  term_id: ncit:Leiomyoma
+- term: Leiomyoma
+  term_id: ncit:C3157
 - term_id: seer:21010
 examples:
 - labels: Leiomyoma [Esophagus]

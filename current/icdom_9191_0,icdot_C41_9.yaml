@@ -1,6 +1,6 @@
 equivalents:
-- term: C3297
-  term_id: ncit:Osteoid Osteoma
+- term: Osteoid Osteoma
+  term_id: ncit:C3297
 - term_id: seer:23000
 examples:
 - labels: osteoid osteoma

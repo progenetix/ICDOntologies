@@ -1,6 +1,6 @@
 equivalents:
-- term: C27949
-  term_id: ncit:None
+- term: None
+  term_id: ncit:C27949
 - term_id: seer:26000
 examples:
 - labels: Metaplastic carcinoma, NOS

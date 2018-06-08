@@ -1,6 +1,6 @@
 equivalents:
-- term: C27093
-  term_id: ncit:Stage 0 Squamous Cell Carcinoma
+- term: Stage 0 Squamous Cell Carcinoma
+  term_id: ncit:C27093
 - term_id: seer:27010
 examples:
 - labels: Squamous cell carcinoma in situ [cervix]

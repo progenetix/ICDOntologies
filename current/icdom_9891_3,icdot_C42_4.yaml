@@ -1,6 +1,6 @@
 equivalents:
-- term: C7171
-  term_id: ncit:Acute Monoblastic Leukemia
+- term: Acute Monoblastic Leukemia
+  term_id: ncit:C7171
 - term_id: seer:35031
 examples:
 - labels: Acute monoblastic leukemia [FAB M5, refractory]

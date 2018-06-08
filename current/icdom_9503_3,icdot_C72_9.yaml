@@ -1,6 +1,6 @@
 equivalents:
-- term: C121963
-  term_id: ncit:Cribriform Neuroepithelial Tumor
+- term: Cribriform Neuroepithelial Tumor
+  term_id: ncit:C121963
 - term_id: seer:31040
 examples:
 - labels: Cribriform neuroepithelial tumor

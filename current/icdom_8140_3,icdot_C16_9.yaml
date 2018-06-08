@@ -1,6 +1,6 @@
 equivalents:
-- term: C4004
-  term_id: ncit:Gastric Adenocarcinoma
+- term: Gastric Adenocarcinoma
+  term_id: ncit:C4004
 - term_id: seer:21020
 examples:
 - labels: gastroesophageal adenocarcinoma

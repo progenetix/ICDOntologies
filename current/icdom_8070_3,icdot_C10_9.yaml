@@ -1,6 +1,6 @@
 equivalents:
-- term: C8181
-  term_id: ncit:Oropharyngeal Squamous Cell Carcinoma
+- term: Oropharyngeal Squamous Cell Carcinoma
+  term_id: ncit:C8181
 - term_id: seer:20080
 examples:
 - labels: head and neck squamous cell carcinoma

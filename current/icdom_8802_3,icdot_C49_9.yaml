@@ -1,6 +1,6 @@
 equivalents:
-- term: C4304
-  term_id: ncit:Malignant giant cell tumor of bone
+- term: Malignant giant cell tumor of bone
+  term_id: ncit:C4304
 - term_id: seer:24000
 examples:
 - labels: Giant cell sarcoma [cell line Hs 737.T]

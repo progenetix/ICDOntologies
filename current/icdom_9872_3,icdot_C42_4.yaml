@@ -1,6 +1,6 @@
 equivalents:
-- term: C3171
-  term_id: ncit:Acute Myeloid Leukemia
+- term: Acute Myeloid Leukemia
+  term_id: ncit:C3171
 - term_id: seer:35021
 examples:
 - labels: Acute myeloblastic leukemia with minimal differentiation (FAB type M0)

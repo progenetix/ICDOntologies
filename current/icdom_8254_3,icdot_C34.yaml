@@ -1,6 +1,6 @@
 equivalents:
-- term: C2923
-  term_id: ncit:Bronchioloalveolar carcinoma
+- term: Bronchioloalveolar carcinoma
+  term_id: ncit:C2923
 - term_id: seer:22030
 examples:
 - labels: Bronchioalveolar carcinoma [cell line NCI-H358]

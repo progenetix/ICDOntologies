@@ -1,6 +1,6 @@
 equivalents:
-- term: C2948
-  term_id: ncit:Choriocarcinoma
+- term: Choriocarcinoma
+  term_id: ncit:C2948
 - term_id: seer:99999
 examples:
 - labels: Choriocarcinoma

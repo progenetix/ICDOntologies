@@ -1,6 +1,6 @@
 equivalents:
-- term: C4526
-  term_id: ncit:Kidney Oncocytoma
+- term: Kidney Oncocytoma
+  term_id: ncit:C4526
 - term_id: seer:29020
 examples:
 - labels: Renal oncocytoma

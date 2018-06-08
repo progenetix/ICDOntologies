@@ -1,6 +1,6 @@
 equivalents:
-- term: C3494
-  term_id: ncit:Lung Papillary Adenoma
+- term: Atypical Adenoma
+  term_id: ncit:C7559
 - term_id: seer:21049
 examples:
 - labels: colon mucosa [low grade dysplastic tumor; fap; apcmut]

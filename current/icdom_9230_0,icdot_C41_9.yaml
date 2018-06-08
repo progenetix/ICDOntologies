@@ -1,6 +1,6 @@
 equivalents:
-- term: C2945
-  term_id: ncit:Chondroblastoma
+- term: Chondroblastoma
+  term_id: ncit:C2945
 - term_id: seer:23000
 examples:
 - labels: chondroblastoma

@@ -1,6 +1,6 @@
 equivalents:
-- term: C7985
-  term_id: ncit:Epithelioid Mesothelioma
+- term: Epithelioid Mesothelioma
+  term_id: ncit:C7985
 - term_id: seer:36010
 examples:
 - labels: malignant mesothelioma

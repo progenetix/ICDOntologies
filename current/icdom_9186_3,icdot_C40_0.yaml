@@ -1,6 +1,6 @@
 equivalents:
-- term: C35870
-  term_id: ncit:Conventional Osteosarcoma
+- term: Conventional Osteosarcoma
+  term_id: ncit:C35870
 - term_id: seer:23000
 examples:
 - labels: central osteosarcoma

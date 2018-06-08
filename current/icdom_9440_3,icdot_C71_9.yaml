@@ -1,6 +1,6 @@
 equivalents:
-- term: C4325
-  term_id: ncit:Giant cell glioblastoma
+- term: Giant cell glioblastoma
+  term_id: ncit:C4325
 - term_id: seer:31010
 examples:
 - labels: Giant cell glioblastoma [cell line G179]

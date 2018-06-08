@@ -1,6 +1,6 @@
 equivalents:
-- term: C9309
-  term_id: ncit:Seminoma
+- term: Seminoma
+  term_id: ncit:C9309
 - term_id: seer:28020
 examples:
 - labels: seminoma

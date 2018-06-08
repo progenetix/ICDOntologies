@@ -1,6 +1,6 @@
 equivalents:
-- term: C40407
-  term_id: ncit:Kidney Wilms Tumor
+- term: Kidney Wilms Tumor
+  term_id: ncit:C40407
 - term_id: seer:29020
 examples:
 - labels: wilms tumor [anaplastic]

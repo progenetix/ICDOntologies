@@ -1,6 +1,6 @@
 equivalents:
-- term: C3867
-  term_id: ncit:Fallopian Tube Carcinoma
+- term: Fallopian Tube Carcinoma
+  term_id: ncit:C3867
 - term_id: seer:27040
 examples:
 - labels: Fallopian tube carcinoma

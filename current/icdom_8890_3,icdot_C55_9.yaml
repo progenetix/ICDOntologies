@@ -1,6 +1,6 @@
 equivalents:
-- term: C3158
-  term_id: ncit:Leiomyosarcoma
+- term: Leiomyosarcoma
+  term_id: ncit:C3158
 - term_id: seer:27030
 examples:
 - labels: Uterine Leiomyosarcoma [grade I]

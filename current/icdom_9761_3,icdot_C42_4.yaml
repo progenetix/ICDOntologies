@@ -1,6 +1,6 @@
 equivalents:
-- term: C80307
-  term_id: ncit:Waldenstrom Macroglobulinemia
+- term: Waldenstrom Macroglobulinemia
+  term_id: ncit:C80307
 - term_id: seer:34000
 examples:
 - labels: Waldenstrom macroglobulinemia

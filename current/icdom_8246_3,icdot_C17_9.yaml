@@ -1,6 +1,6 @@
 equivalents:
-- term: C3773
-  term_id: ncit:Neuroendocrine Carcinoma
+- term: Neuroendocrine Carcinoma
+  term_id: ncit:C3773
 - term_id: seer:21030
 examples:
 - labels: Neuroendocrine gastroenteropancreatic tumour [ileum, Liver, ovary metastasis,

@@ -1,6 +1,6 @@
 equivalents:
-- term: C4673
-  term_id: ncit:Acute Biphenotypic Leukemia
+- term: Acute Biphenotypic Leukemia
+  term_id: ncit:C4673
 - term_id: seer:35041
 examples:
 - labels: Acute mixed lineage leukemia

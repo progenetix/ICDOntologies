@@ -1,6 +1,6 @@
 equivalents:
-- term: C9357
-  term_id: ncit:Hodgkin lymphoma
+- term: Hodgkin lymphoma
+  term_id: ncit:C9357
 - term_id: seer:33041
 examples:
 - labels: Hodgkin lymphoma [cell line HDLM-2]

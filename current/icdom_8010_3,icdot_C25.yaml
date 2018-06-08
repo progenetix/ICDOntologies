@@ -1,6 +1,6 @@
 equivalents:
-- term: C3850
-  term_id: ncit:Pancreatic carcinoma
+- term: Pancreatic carcinoma
+  term_id: ncit:C3850
 - term_id: seer:21100
 examples:
 - labels: Pancreatic carcinoma [cell line KP-4]

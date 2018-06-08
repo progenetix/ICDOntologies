@@ -1,6 +1,6 @@
 equivalents:
-- term: C3512
-  term_id: ncit:Lung Adenocarcinoma
+- term: Lung Adenocarcinoma
+  term_id: ncit:C3512
 - term_id: seer:22030
 examples:
 - labels: lung adenocarcinoma [cell line PC-3]]

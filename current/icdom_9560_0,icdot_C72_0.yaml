@@ -1,6 +1,6 @@
 equivalents:
-- term: C6970
-  term_id: ncit:None
+- term: None
+  term_id: ncit:C6970
 - term_id: seer:31040
 examples:
 - labels: Schwannoma [spinal [cellular schwannoma]]

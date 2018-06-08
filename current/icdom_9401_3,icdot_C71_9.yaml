@@ -1,6 +1,6 @@
 equivalents:
-- term: C9477
-  term_id: ncit:Anaplastic Astrocytoma
+- term: Anaplastic Astrocytoma
+  term_id: ncit:C9477
 - term_id: seer:31010
 examples:
 - labels: anaplastic astrocytoma

@@ -1,6 +1,6 @@
 equivalents:
-- term: C27677
-  term_id: ncit:Human papillomavirus-related endocervical adenocarcinoma
+- term: Human papillomavirus-related endocervical adenocarcinoma
+  term_id: ncit:C27677
 - term_id: seer:27010
 examples:
 - labels: Cervix adenocarcinoma [cell line HeLa]

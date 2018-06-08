@@ -1,6 +1,6 @@
 equivalents:
-- term: C129863
-  term_id: ncit:Oral dysplasia
+- term: Oral dysplasia
+  term_id: ncit:C129863
 - term_id: seer:20050
 examples:
 - labels: Oral dysplasia [cell line DOK]

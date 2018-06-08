@@ -1,6 +1,6 @@
 equivalents:
-- term: C2916
-  term_id: ncit:Carcinoma
+- term: Carcinoma
+  term_id: ncit:C2916
 - term_id: seer:21048
 examples:
 - labels: colon cancer

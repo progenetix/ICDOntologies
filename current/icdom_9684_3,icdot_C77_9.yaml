@@ -1,6 +1,6 @@
 equivalents:
-- term: C7224
-  term_id: ncit:Plasmablastic Lymphoma
+- term: Plasmablastic Lymphoma
+  term_id: ncit:C7224
 - term_id: seer:33041
 examples:
 - labels: Diffuse large cell lymphoma [immunoblastic, nodal]

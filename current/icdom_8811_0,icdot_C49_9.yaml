@@ -1,6 +1,6 @@
 equivalents:
-- term: C66760
-  term_id: ncit:None
+- term: None
+  term_id: ncit:C66760
 - term_id: seer:24000
 examples:
 - labels: Fibromyxoid tumor

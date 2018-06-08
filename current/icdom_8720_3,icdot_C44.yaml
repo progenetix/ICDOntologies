@@ -1,6 +1,6 @@
 equivalents:
-- term: C114828
-  term_id: ncit:Mucosal melanoma
+- term: Mucosal melanoma
+  term_id: ncit:C114828
 - term_id: seer:25010
 examples:
 - labels: mucosal melanoma [cell line MEL1]

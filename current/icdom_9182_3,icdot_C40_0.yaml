@@ -1,6 +1,6 @@
 equivalents:
-- term: C4020
-  term_id: ncit:Fibroblastic Osteosarcoma
+- term: Fibroblastic Osteosarcoma
+  term_id: ncit:C4020
 - term_id: seer:23000
 examples:
 - labels: Osteosarcoma, Fibroblastic

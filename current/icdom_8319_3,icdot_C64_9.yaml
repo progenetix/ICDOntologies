@@ -1,6 +1,6 @@
 equivalents:
-- term: C6194
-  term_id: ncit:Carcinoma of the Collecting Ducts of Bellini
+- term: Carcinoma of the Collecting Ducts of Bellini
+  term_id: ncit:C6194
 - term_id: seer:29020
 examples:
 - labels: Renal medullary carcinoma

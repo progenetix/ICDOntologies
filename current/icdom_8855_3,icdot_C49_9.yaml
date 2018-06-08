@@ -1,6 +1,6 @@
 equivalents:
-- term: C4253
-  term_id: ncit:Mixed Liposarcoma
+- term: Mixed Liposarcoma
+  term_id: ncit:C4253
 - term_id: seer:24000
 examples:
 - labels: double-component liposarcoma

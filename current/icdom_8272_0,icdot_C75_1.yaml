@@ -1,6 +1,6 @@
 equivalents:
-- term: C3329
-  term_id: ncit:Pituitary Gland Adenoma
+- term: Pituitary Gland Adenoma
+  term_id: ncit:C3329
 - term_id: seer:32020
 examples:
 - labels: ptituitary adenoma [endocrinologically inactive, primary]

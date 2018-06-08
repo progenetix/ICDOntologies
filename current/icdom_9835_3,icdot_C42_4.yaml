@@ -1,6 +1,6 @@
 equivalents:
-- term: C3167
-  term_id: ncit:Acute Lymphoblastic Leukemia
+- term: Acute Lymphoblastic Leukemia
+  term_id: ncit:C3167
 - term_id: seer:35011
 examples:
 - labels: Acute lymphoblastic leukemia/lymphoblastic lymphoma

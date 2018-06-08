@@ -1,6 +1,6 @@
 equivalents:
-- term: C4819
-  term_id: ncit:Skin Squamous Cell Carcinoma
+- term: Skin Squamous Cell Carcinoma
+  term_id: ncit:C4819
 - term_id: seer:37000
 examples:
 - labels: Cutaneous squamous cell carcinoma

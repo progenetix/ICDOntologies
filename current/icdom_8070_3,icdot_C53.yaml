@@ -1,6 +1,6 @@
 equivalents:
-- term: C27676
-  term_id: ncit:Human papillomavirus-related cervical squamous cell carcinoma
+- term: Human papillomavirus-related cervical squamous cell carcinoma
+  term_id: ncit:C27676
 - term_id: seer:27010
 examples:
 - labels: cervical squamous carcinoma [cell line CSCC-1]

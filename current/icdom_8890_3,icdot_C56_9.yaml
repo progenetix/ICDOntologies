@@ -1,6 +1,6 @@
 equivalents:
-- term: C5234
-  term_id: ncit:Ovarian leiomyosarcoma
+- term: Ovarian leiomyosarcoma
+  term_id: ncit:C5234
 - term_id: seer:27040
 examples:
 - labels: ovarian leiomyosarcoma [cell line RKN]

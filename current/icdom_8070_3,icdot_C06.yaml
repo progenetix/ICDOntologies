@@ -1,6 +1,6 @@
 equivalents:
-- term: C8173
-  term_id: ncit:Upper gingival squamous cell carcinoma
+- term: Upper gingival squamous cell carcinoma
+  term_id: ncit:C8173
 - term_id: seer:20050
 examples:
 - labels: Upper gingival squamous cell carcinoma [cell line Sa3]

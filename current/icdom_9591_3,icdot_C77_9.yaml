@@ -1,6 +1,6 @@
 equivalents:
-- term: C27824
-  term_id: ncit:None
+- term: None
+  term_id: ncit:C27824
 - term_id: seer:33041
 examples:
 - labels: Malignant lymphoma, B-cell NOS

@@ -1,6 +1,6 @@
 equivalents:
-- term: C4022
-  term_id: ncit:Acral lentiginous melanoma
+- term: Acral lentiginous melanoma
+  term_id: ncit:C4022
 - term_id: seer:25010
 examples:
 - labels: Acral lentiginous melanoma [cell line WM3211]

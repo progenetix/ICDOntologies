@@ -1,6 +1,6 @@
 equivalents:
-- term: C3828
-  term_id: ncit:Combined Hepatocellular Carcinoma and Cholangiocarcinoma
+- term: Combined Hepatocellular Carcinoma and Cholangiocarcinoma
+  term_id: ncit:C3828
 - term_id: seer:21072
 examples:
 - labels: combined hepatocellular carcinoma and cholangiocarcinoma [Chronic cholangitis]

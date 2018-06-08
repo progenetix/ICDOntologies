@@ -1,6 +1,6 @@
 equivalents:
-- term: C6339
-  term_id: ncit:Uterine corpus sarcoma
+- term: Uterine corpus sarcoma
+  term_id: ncit:C6339
 - term_id: seer:27030
 examples:
 - labels: uterus sarcoma [cell line MES-SA]

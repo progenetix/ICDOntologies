@@ -1,6 +1,6 @@
 equivalents:
-- term: C3799
-  term_id: ncit:Angiofibroma
+- term: Angiofibroma
+  term_id: ncit:C3799
 - term_id: seer:22010
 examples:
 - labels: Angiofibroma [juvenile]

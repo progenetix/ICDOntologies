@@ -1,6 +1,6 @@
 equivalents:
-- term: C7506
-  term_id: ncit:Myelodysplastic Syndrome with Excess Blasts
+- term: Myelodysplastic Syndrome with Excess Blasts
+  term_id: ncit:C7506
 - term_id: seer:35023
 examples:
 - labels: Refractory anemia with excess of blasts (FAB)

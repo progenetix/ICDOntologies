@@ -1,6 +1,6 @@
 equivalents:
-- term: C3180
-  term_id: ncit:Plasma Cell Leukemia
+- term: Plasma Cell Leukemia
+  term_id: ncit:C3180
 - term_id: seer:35043
 examples:
 - labels: Plasma cell leukemia

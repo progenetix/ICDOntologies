@@ -1,6 +1,6 @@
 equivalents:
-- term: C4436
-  term_id: ncit:Cholangiocarcinoma
+- term: Cholangiocarcinoma
+  term_id: ncit:C4436
 - term_id: seer:21090
 examples:
 - labels: Cholangiocarcinoma

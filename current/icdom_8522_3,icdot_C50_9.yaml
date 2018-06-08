@@ -1,6 +1,6 @@
 equivalents:
-- term: C7690
-  term_id: ncit:None
+- term: None
+  term_id: ncit:C7690
 - term_id: seer:26000
 examples:
 - labels: Infiltrating duct and lobular carcinoma

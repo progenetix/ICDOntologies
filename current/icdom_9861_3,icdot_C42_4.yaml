@@ -1,6 +1,6 @@
 equivalents:
-- term: C27753
-  term_id: ncit:Acute Myeloid Leukemia Not Otherwise Specified
+- term: Acute Myeloid Leukemia Not Otherwise Specified
+  term_id: ncit:C27753
 - term_id: seer:35021
 examples:
 - labels: Acute myeloid leukemia, NOS

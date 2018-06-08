@@ -1,6 +1,6 @@
 equivalents:
-- term: C92554
-  term_id: ncit:Papillary Glioneuronal Tumor
+- term: Papillary Glioneuronal Tumor
+  term_id: ncit:C92554
 - term_id: seer:31010
 examples:
 - labels: Papillary glioneural tumour [temporal]

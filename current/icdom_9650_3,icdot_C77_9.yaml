@@ -1,6 +1,6 @@
 equivalents:
-- term: C9357
-  term_id: ncit:Hodgkin Lymphoma
+- term: Hodgkin Lymphoma
+  term_id: ncit:C9357
 - term_id: seer:33011
 examples:
 - labels: Classical Hodgkin lymphoma

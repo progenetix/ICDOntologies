@@ -1,6 +1,6 @@
 equivalents:
-- term: C3182
-  term_id: ncit:Acute Promyelocytic Leukemia with PML-RARA
+- term: Acute Promyelocytic Leukemia with PML-RARA
+  term_id: ncit:C3182
 - term_id: seer:35021
 examples:
 - labels: acute promyelocytic leukemia

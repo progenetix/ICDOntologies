@@ -1,7 +1,6 @@
 equivalents:
-- term: C7230
-  term_id: ncit:Primary Cutaneous Marginal Zone Lymphoma of Mucosa-Associated Lymphoid
-    Tissue
+- term: Primary Cutaneous Marginal Zone Lymphoma of Mucosa-Associated Lymphoid Tissue
+  term_id: ncit:C7230
 - term_id: seer:33042
 examples:
 - labels: Marginal Zone B-cell Lymphoma [Stomach]

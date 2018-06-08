@@ -1,6 +1,6 @@
 equivalents:
-- term: C3170
-  term_id: ncit:Acute Megakaryoblastic Leukemia
+- term: Acute Megakaryoblastic Leukemia
+  term_id: ncit:C3170
 - term_id: seer:35021
 examples:
 - labels: acute megakaryoblastic leukemia [Down syndrome]

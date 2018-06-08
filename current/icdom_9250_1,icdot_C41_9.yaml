@@ -1,6 +1,6 @@
 equivalents:
-- term: C3738
-  term_id: ncit:Osteoclastic Giant Cell-Rich Tumor of Bone
+- term: Osteoclastic Giant Cell-Rich Tumor of Bone
+  term_id: ncit:C3738
 - term_id: seer:23000
 examples:
 - labels: Giant cell tumor of bone

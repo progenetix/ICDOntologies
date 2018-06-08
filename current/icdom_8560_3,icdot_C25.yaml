@@ -1,6 +1,6 @@
 equivalents:
-- term: C5721
-  term_id: ncit:Pancreatic adenosquamous carcinoma
+- term: Pancreatic adenosquamous carcinoma
+  term_id: ncit:C5721
 - term_id: seer:21100
 examples:
 - labels: Pancreatic adenosquamous carcinoma [cell line KP-3]

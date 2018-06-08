@@ -1,6 +1,6 @@
 equivalents:
-- term: C4683
-  term_id: ncit:Dermatofibrosarcoma Protuberans
+- term: Dermatofibrosarcoma Protuberans
+  term_id: ncit:C4683
 - term_id: seer:26000
 examples:
 - labels: Differentiating dermatofibrosarcoma protuberans

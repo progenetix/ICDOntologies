@@ -1,6 +1,6 @@
 equivalents:
-- term: C9087
-  term_id: ncit:Kaposi Sarcoma
+- term: Kaposi Sarcoma
+  term_id: ncit:C9087
 - term_id: seer:36020
 examples:
 - labels: Kaposi sarcoma

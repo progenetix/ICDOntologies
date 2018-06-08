@@ -1,6 +1,6 @@
 equivalents:
-- term: C3465
-  term_id: ncit:Grade 1 Follicular Lymphoma
+- term: Grade 1 Follicular Lymphoma
+  term_id: ncit:C3465
 - term_id: seer:33041
 examples:
 - labels: Follicular lymphoma, grade 1

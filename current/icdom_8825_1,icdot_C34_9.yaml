@@ -1,6 +1,6 @@
 equivalents:
-- term: C6481
-  term_id: ncit:Inflammatory Myofibroblastic Tumor
+- term: Inflammatory Myofibroblastic Tumor
+  term_id: ncit:C6481
 - term_id: seer:22030
 examples:
 - labels: Inflammatory myofibroblastic tumour [pulmonary]

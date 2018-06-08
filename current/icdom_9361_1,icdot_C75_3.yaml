@@ -1,6 +1,6 @@
 equivalents:
-- term: C6966
-  term_id: ncit:Pineocytoma
+- term: Pineocytoma
+  term_id: ncit:C6966
 - term_id: seer:32020
 examples:
 - labels: Pineocytoma

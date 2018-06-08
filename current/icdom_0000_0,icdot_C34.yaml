@@ -1,6 +1,6 @@
 equivalents:
-- term: None
-  term_id: ncit:Transformed cell line
+- term: Transformed cell line
+  term_id: ncit:None
 - term_id: seer:22030
 examples:
 - labels: transformed cell line WI-38 VA13 subline 2RA

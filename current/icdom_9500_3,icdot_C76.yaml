@@ -1,6 +1,6 @@
 equivalents:
-- term: C3270
-  term_id: ncit:Neuroblastoma
+- term: Neuroblastoma
+  term_id: ncit:C3270
 - term_id: seer:99999
 examples:
 - labels: neuroblastoma [cell line NB(TU)1]

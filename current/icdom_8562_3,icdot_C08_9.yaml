@@ -1,6 +1,6 @@
 equivalents:
-- term: C35700
-  term_id: ncit:Salivary Gland Myoepithelial Carcinoma
+- term: Salivary Gland Myoepithelial Carcinoma
+  term_id: ncit:C35700
 - term_id: seer:20030
 examples:
 - labels: salivary gland myoepitheliomas

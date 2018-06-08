@@ -1,6 +1,6 @@
 equivalents:
-- term: C49012
-  term_id: ncit:None
+- term: None
+  term_id: ncit:C49012
 - term_id: seer:24000
 examples:
 - labels: Myofibroblastoma

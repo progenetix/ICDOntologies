@@ -1,6 +1,6 @@
 equivalents:
-- term: C8644
-  term_id: ncit:B Acute Lymphoblastic Leukemia
+- term: B Acute Lymphoblastic Leukemia
+  term_id: ncit:C8644
 - term_id: seer:35011
 examples:
 - labels: Burkitt cell leukemia

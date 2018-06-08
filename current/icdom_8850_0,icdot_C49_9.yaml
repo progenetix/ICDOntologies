@@ -1,6 +1,6 @@
 equivalents:
-- term: C3192
-  term_id: ncit:Lipoma
+- term: Lipoma
+  term_id: ncit:C3192
 - term_id: seer:24000
 examples:
 - labels: Atypical lipomatous tumor/atypical lipoma/well-differentiated liposarcoma

@@ -1,6 +1,6 @@
 equivalents:
-- term: C27004
-  term_id: ncit:Sarcomatoid Carcinoma
+- term: Sarcomatoid Carcinoma
+  term_id: ncit:C27004
 - term_id: seer:24000
 examples:
 - labels: Sarcomatoid carcinoma

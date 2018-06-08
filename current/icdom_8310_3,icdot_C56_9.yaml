@@ -1,6 +1,6 @@
 equivalents:
-- term: C3766
-  term_id: ncit:Clear Cell Adenocarcinoma
+- term: Clear Cell Adenocarcinoma
+  term_id: ncit:C3766
 - term_id: seer:27040
 examples:
 - labels: Pleomorphic adenoma

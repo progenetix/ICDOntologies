@@ -1,6 +1,6 @@
 equivalents:
-- term: C4264
-  term_id: ncit:None
+- term: None
+  term_id: ncit:C4264
 - term_id: seer:29020
 examples:
 - labels: Clear cell sarcoma of kidney

@@ -1,6 +1,6 @@
 equivalents:
-- term: C3178
-  term_id: ncit:Chronic Myelomonocytic Leukemia
+- term: Chronic Myelomonocytic Leukemia
+  term_id: ncit:C3178
 - term_id: seer:35022
 examples:
 - labels: Chronic myelomonocytic leukemia

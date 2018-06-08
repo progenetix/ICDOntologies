@@ -1,6 +1,6 @@
 equivalents:
-- term: C95597
-  term_id: ncit:Pancreatic Glucagonoma
+- term: Pancreatic Glucagonoma
+  term_id: ncit:C95597
 - term_id: seer:21100
 examples:
 - labels: Glucagonoma

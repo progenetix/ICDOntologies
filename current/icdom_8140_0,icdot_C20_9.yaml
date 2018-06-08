@@ -1,6 +1,6 @@
 equivalents:
-- term: C9383
-  term_id: ncit:Rectal Adenocarcinoma
+- term: Rectal Adenocarcinoma
+  term_id: ncit:C9383
 - term_id: seer:21052
 examples:
 - labels: rectal adenoma

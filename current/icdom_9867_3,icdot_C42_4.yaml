@@ -1,6 +1,6 @@
 equivalents:
-- term: C7463
-  term_id: ncit:Acute myelomonocytic leukemia
+- term: Acute myelomonocytic leukemia
+  term_id: ncit:C7463
 - term_id: seer:35043
 examples:
 - labels: Acute myelomonocytic leukemia [cell line KY821]

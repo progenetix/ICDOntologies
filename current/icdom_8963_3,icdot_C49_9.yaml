@@ -1,6 +1,6 @@
 equivalents:
-- term: C3808
-  term_id: ncit:Rhabdoid Tumor
+- term: Rhabdoid Tumor
+  term_id: ncit:C3808
 - term_id: seer:24000
 examples:
 - labels: rhabdoid tumor [extrarenal]

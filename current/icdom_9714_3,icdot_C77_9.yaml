@@ -1,6 +1,6 @@
 equivalents:
-- term: C3720
-  term_id: ncit:Anaplastic Large Cell Lymphoma
+- term: Anaplastic Large Cell Lymphoma
+  term_id: ncit:C3720
 - term_id: seer:33041
 examples:
 - labels: Anaplastic large cell lymphoma, systemic type [ALK pos.]

@@ -1,6 +1,6 @@
 equivalents:
-- term: C9359
-  term_id: ncit:Skin Pigmented Basal Cell Carcinoma
+- term: Skin Pigmented Basal Cell Carcinoma
+  term_id: ncit:C9359
 - term_id: seer:37000
 examples:
 - labels: basal cell carcinoma [Temple, Nodular]

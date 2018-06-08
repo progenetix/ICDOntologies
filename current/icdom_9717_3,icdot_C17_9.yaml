@@ -1,6 +1,6 @@
 equivalents:
-- term: C4737
-  term_id: ncit:Enteropathy-Associated T-Cell Lymphoma
+- term: Enteropathy-Associated T-Cell Lymphoma
+  term_id: ncit:C4737
 - term_id: seer:33042
 examples:
 - labels: Enteropathy type T-cell lymphoma

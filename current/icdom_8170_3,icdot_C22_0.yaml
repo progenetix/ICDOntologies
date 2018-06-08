@@ -1,6 +1,6 @@
 equivalents:
-- term: C3099
-  term_id: ncit:Hepatocellular Carcinoma
+- term: Hepatocellular Carcinoma
+  term_id: ncit:C3099
 - term_id: seer:21071
 examples:
 - labels: hepatovellular carcinoma

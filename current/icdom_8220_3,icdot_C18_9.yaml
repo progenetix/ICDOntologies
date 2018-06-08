@@ -1,6 +1,6 @@
 equivalents:
-- term: C4134
-  term_id: ncit:Adenocarcinoma in Adenomatous Polyposis Coli
+- term: Adenocarcinoma in Adenomatous Polyposis Coli
+  term_id: ncit:C4134
 - term_id: seer:21052
 examples:
 - labels: Familial adenomatous polyposis

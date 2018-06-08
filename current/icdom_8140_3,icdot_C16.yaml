@@ -1,6 +1,6 @@
 equivalents:
-- term: C7889
-  term_id: ncit:Duodenal adenocarcinoma
+- term: Duodenal adenocarcinoma
+  term_id: ncit:C7889
 - term_id: seer:21020
 examples:
 - labels: Duodenal adenocarcinoma [cell line AZ-521]

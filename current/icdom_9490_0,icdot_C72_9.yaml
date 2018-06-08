@@ -1,6 +1,6 @@
 equivalents:
-- term: C3049
-  term_id: ncit:Ganglioneuroma
+- term: Ganglioneuroma
+  term_id: ncit:C3049
 - term_id: seer:31040
 examples:
 - labels: Ganglioneuroma [Abdominal]

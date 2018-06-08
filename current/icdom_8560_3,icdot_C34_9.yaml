@@ -1,6 +1,6 @@
 equivalents:
-- term: C3727
-  term_id: ncit:Adenosquamous Carcinoma
+- term: Adenosquamous Carcinoma
+  term_id: ncit:C3727
 - term_id: seer:22030
 examples:
 - labels: adenosquamous carcinoma [lung]

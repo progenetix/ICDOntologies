@@ -1,6 +1,6 @@
 equivalents:
-- term: C9325
-  term_id: ncit:Adrenal cortex carcinoma
+- term: Adrenal cortex carcinoma
+  term_id: ncit:C9325
 - term_id: seer:32020
 examples:
 - labels: Adrenal cortex carcinoma [cell line SW13]

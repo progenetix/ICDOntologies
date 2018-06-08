@@ -1,6 +1,6 @@
 equivalents:
-- term: C3407
-  term_id: ncit:Essential Thrombocythemia
+- term: Essential Thrombocythemia
+  term_id: ncit:C3407
 - term_id: seer:35023
 examples:
 - labels: essential thrombocythemia

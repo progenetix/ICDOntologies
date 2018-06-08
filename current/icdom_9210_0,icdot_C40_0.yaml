@@ -1,6 +1,6 @@
 equivalents:
-- term: C3295
-  term_id: ncit:None
+- term: None
+  term_id: ncit:C3295
 - term_id: seer:23000
 examples:
 - labels: osteochondroma [fibula]

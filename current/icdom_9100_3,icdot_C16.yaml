@@ -1,6 +1,6 @@
 equivalents:
-- term: C95749
-  term_id: ncit:Gastric choriocarcinoma
+- term: Gastric choriocarcinoma
+  term_id: ncit:C95749
 - term_id: seer:21020
 examples:
 - labels: Gastric choriocarcinoma [cell line SCH]

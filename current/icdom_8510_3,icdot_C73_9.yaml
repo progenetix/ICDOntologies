@@ -1,6 +1,6 @@
 equivalents:
-- term: C66718
-  term_id: ncit:None
+- term: None
+  term_id: ncit:C66718
 - term_id: seer:32010
 examples:
 - labels: Medullary carcinoma of the thyroid

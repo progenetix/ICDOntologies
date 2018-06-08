@@ -1,6 +1,6 @@
 equivalents:
-- term: C9298
-  term_id: ncit:Acute Undifferentiated Leukemia
+- term: Acute Undifferentiated Leukemia
+  term_id: ncit:C9298
 - term_id: seer:35041
 examples:
 - labels: Acute leukemia NOS [cell line KASUMI1]

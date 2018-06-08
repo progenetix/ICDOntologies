@@ -1,6 +1,6 @@
 equivalents:
-- term: C4265
-  term_id: ncit:Pancreatoblastoma
+- term: Pancreatoblastoma
+  term_id: ncit:C4265
 - term_id: seer:21100
 examples:
 - labels: Pediatric pancreatoblastoma

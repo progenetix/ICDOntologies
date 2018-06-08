@@ -1,6 +1,6 @@
 equivalents:
-- term: C2897
-  term_id: ncit:Benign prostatic hyperplasia
+- term: Benign prostatic hyperplasia
+  term_id: ncit:C2897
 - term_id: seer:99999
 examples:
 - labels: benign prostate hyperplasia [cell line BPH-1]

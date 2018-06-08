@@ -1,6 +1,6 @@
 equivalents:
-- term: C8863
-  term_id: ncit:Nodal Marginal Zone Lymphoma
+- term: Nodal Marginal Zone Lymphoma
+  term_id: ncit:C8863
 - term_id: seer:33041
 examples:
 - labels: Marginal zone lymphoma, NOS

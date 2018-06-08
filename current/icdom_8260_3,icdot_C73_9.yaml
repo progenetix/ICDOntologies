@@ -1,6 +1,6 @@
 equivalents:
-- term: C4035
-  term_id: ncit:Thyroid Gland Papillary Carcinoma
+- term: Thyroid Gland Papillary Carcinoma
+  term_id: ncit:C4035
 - term_id: seer:32010
 examples:
 - labels: Nodular thyroid hyperplasia [familial]

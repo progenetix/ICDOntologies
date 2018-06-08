@@ -1,6 +1,6 @@
 equivalents:
-- term: C8971
-  term_id: ncit:Embryonal rhabdomyosarcoma
+- term: Embryonal rhabdomyosarcoma
+  term_id: ncit:C8971
 - term_id: seer:24000
 examples:
 - labels: Embryonal rhabdomyosarcoma [cell line RD]

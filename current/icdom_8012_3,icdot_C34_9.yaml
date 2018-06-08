@@ -1,6 +1,6 @@
 equivalents:
-- term: C4450
-  term_id: ncit:Large Cell Lung Carcinoma
+- term: Large Cell Lung Carcinoma
+  term_id: ncit:C4450
 - term_id: seer:22030
 examples:
 - labels: Large cell carcinoma

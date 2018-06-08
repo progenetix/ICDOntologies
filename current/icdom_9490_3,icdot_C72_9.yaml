@@ -1,6 +1,6 @@
 equivalents:
-- term: C3790
-  term_id: ncit:Ganglioneuroblastoma
+- term: Ganglioneuroblastoma
+  term_id: ncit:C3790
 - term_id: seer:31040
 examples:
 - labels: Ganglioneuroblastoma intermixed [Schwannian stroma-rich]

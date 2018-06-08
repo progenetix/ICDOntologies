@@ -1,6 +1,6 @@
 equivalents:
-- term: C3519
-  term_id: ncit:Atypical Chronic Myeloid Leukemia, BCR-ABL1 Negative
+- term: Atypical Chronic Myeloid Leukemia, BCR-ABL1 Negative
+  term_id: ncit:C3519
 - term_id: seer:35022
 examples:
 - labels: Atypical chronic myeloid leukemia

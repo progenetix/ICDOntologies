@@ -1,6 +1,6 @@
 equivalents:
-- term: C3011
-  term_id: ncit:Yolk Sac Tumor
+- term: Yolk Sac Tumor
+  term_id: ncit:C3011
 - term_id: seer:22060
 examples:
 - labels: yolk sac tumour

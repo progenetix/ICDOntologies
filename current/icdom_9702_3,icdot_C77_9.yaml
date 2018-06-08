@@ -1,6 +1,6 @@
 equivalents:
-- term: C7204
-  term_id: ncit:T-Zone Variant Peripheral T-Cell Lymphoma
+- term: T-Zone Variant Peripheral T-Cell Lymphoma
+  term_id: ncit:C7204
 - term_id: seer:33041
 examples:
 - labels: T-NHL [stage IV]

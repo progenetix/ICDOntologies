@@ -1,6 +1,6 @@
 equivalents:
-- term: C4519
-  term_id: ncit:Cervical adenosquamous carcinoma
+- term: Cervical adenosquamous carcinoma
+  term_id: ncit:C4519
 - term_id: seer:27010
 examples:
 - labels: Cervical adenosquamous carcinoma [cell line CC-8]

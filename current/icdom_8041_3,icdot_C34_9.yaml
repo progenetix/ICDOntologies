@@ -1,6 +1,6 @@
 equivalents:
-- term: C3915
-  term_id: ncit:Small Cell Carcinoma
+- term: Small Cell Carcinoma
+  term_id: ncit:C3915
 - term_id: seer:22030
 examples:
 - labels: Small cell neuroendocrine carcinoma

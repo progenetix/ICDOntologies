@@ -1,6 +1,6 @@
 equivalents:
-- term: C4225
-  term_id: ncit:Nodular Melanoma
+- term: Nodular Melanoma
+  term_id: ncit:C4225
 - term_id: seer:25010
 examples:
 - labels: nodular melanoma

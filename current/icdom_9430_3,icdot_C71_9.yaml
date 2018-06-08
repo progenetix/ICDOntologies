@@ -1,6 +1,6 @@
 equivalents:
-- term: C4324
-  term_id: ncit:Astroblastoma
+- term: Astroblastoma
+  term_id: ncit:C4324
 - term_id: seer:31010
 examples:
 - labels: Malignant Astroblastoma

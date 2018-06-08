@@ -1,6 +1,6 @@
 equivalents:
-- term: C39921
-  term_id: ncit:None
+- term: None
+  term_id: ncit:C39921
 - term_id: seer:28020
 examples:
 - labels: spermatocytic seminoma

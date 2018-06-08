@@ -1,6 +1,6 @@
 equivalents:
-- term: C4322
-  term_id: ncit:Fibrillary Astrocytoma
+- term: Fibrillary Astrocytoma
+  term_id: ncit:C4322
 - term_id: seer:31010
 examples:
 - labels: Fibrillary astrocytoma

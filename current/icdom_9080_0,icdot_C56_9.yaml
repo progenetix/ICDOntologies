@@ -1,6 +1,6 @@
 equivalents:
-- term: C9014
-  term_id: ncit:Cystic Teratoma
+- term: Cystic Teratoma
+  term_id: ncit:C9014
 - term_id: seer:27040
 examples:
 - labels: Benign cystic teratoma of the ovary

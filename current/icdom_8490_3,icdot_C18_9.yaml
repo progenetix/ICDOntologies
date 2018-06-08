@@ -1,6 +1,6 @@
 equivalents:
-- term: C3774
-  term_id: ncit:Signet Ring Cell Carcinoma
+- term: Signet Ring Cell Carcinoma
+  term_id: ncit:C3774
 - term_id: seer:21049
 examples:
 - labels: Signet ring cell carcinoma

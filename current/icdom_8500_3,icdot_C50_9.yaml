@@ -1,6 +1,6 @@
 equivalents:
-- term: C4017
-  term_id: ncit:Ductal Breast Carcinoma
+- term: Ductal Breast Carcinoma
+  term_id: ncit:C4017
 - term_id: seer:26000
 examples:
 - labels: invasive breast adenocarcinoma

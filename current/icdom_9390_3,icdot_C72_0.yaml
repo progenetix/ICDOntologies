@@ -1,6 +1,6 @@
 equivalents:
-- term: C4715
-  term_id: ncit:Choroid Plexus Carcinoma
+- term: Choroid Plexus Carcinoma
+  term_id: ncit:C4715
 - term_id: seer:31040
 examples:
 - labels: Choroid plexus carcinoma

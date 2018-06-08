@@ -1,6 +1,6 @@
 equivalents:
-- term: C2852
-  term_id: ncit:Adenocarcinoma
+- term: Adenocarcinoma
+  term_id: ncit:C2852
 - term_id: seer:22030
 examples:
 - labels: Pulmonary adenocarcinoma [Mixed AC, papillary, tubular, bronchioloalveolar,

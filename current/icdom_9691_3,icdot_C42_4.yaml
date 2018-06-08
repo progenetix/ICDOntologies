@@ -1,6 +1,6 @@
 equivalents:
-- term: C8968
-  term_id: ncit:Grade 2 Follicular Lymphoma
+- term: Grade 2 Follicular Lymphoma
+  term_id: ncit:C8968
 - term_id: seer:33041
 examples:
 - labels: Follicular lymphoma, grade 2

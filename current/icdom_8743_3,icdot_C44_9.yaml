@@ -1,6 +1,6 @@
 equivalents:
-- term: C9152
-  term_id: ncit:Superficial Spreading Melanoma
+- term: Superficial Spreading Melanoma
+  term_id: ncit:C9152
 - term_id: seer:25010
 examples:
 - labels: Superficial spreading melanoma [neck]

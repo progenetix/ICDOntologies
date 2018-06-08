@@ -1,6 +1,6 @@
 equivalents:
-- term: C4883
-  term_id: ncit:None
+- term: None
+  term_id: ncit:C4883
 - term_id: seer:24000
 examples:
 - labels: Myosarcoma NOS [grade III, primary]

@@ -1,6 +1,6 @@
 equivalents:
-- term: C3758
-  term_id: ncit:Hepatocellular Adenoma
+- term: Hepatocellular Adenoma
+  term_id: ncit:C3758
 - term_id: seer:21071
 examples:
 - labels: Hepatocellular adenoma

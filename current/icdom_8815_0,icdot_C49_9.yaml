@@ -1,6 +1,6 @@
 equivalents:
-- term: C7634
-  term_id: ncit:Solitary Fibrous Tumor
+- term: Solitary Fibrous Tumor
+  term_id: ncit:C7634
 - term_id: seer:24000
 examples:
 - labels: solitary fibrous tumor

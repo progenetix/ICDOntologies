@@ -1,6 +1,6 @@
 equivalents:
-- term: C9306
-  term_id: ncit:Soft Tissue Sarcoma
+- term: Soft Tissue Sarcoma
+  term_id: ncit:C9306
 - term_id: seer:24000
 examples:
 - labels: Chordoid Sarcoma

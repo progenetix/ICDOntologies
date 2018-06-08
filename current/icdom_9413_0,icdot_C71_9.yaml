@@ -1,6 +1,6 @@
 equivalents:
-- term: C9505
-  term_id: ncit:Dysembryoplastic Neuroepithelial Tumor
+- term: Dysembryoplastic Neuroepithelial Tumor
+  term_id: ncit:C9505
 - term_id: seer:31010
 examples:
 - labels: Dysembryoplastic neuroepithelial tumour [parietal]

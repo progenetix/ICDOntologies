@@ -1,6 +1,6 @@
 equivalents:
-- term: C9015
-  term_id: ncit:Mature Teratoma
+- term: Mature Teratoma
+  term_id: ncit:C9015
 - term_id: seer:31010
 examples:
 - labels: pediatric germ cell tumor [mature teratoma, spinal]

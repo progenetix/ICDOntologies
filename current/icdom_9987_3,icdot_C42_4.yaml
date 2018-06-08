@@ -1,6 +1,6 @@
 equivalents:
-- term: C27722
-  term_id: ncit:Therapy-Related Myelodysplastic Syndrome
+- term: Therapy-Related Myelodysplastic Syndrome
+  term_id: ncit:C27722
 - term_id: seer:37000
 examples:
 - labels: Therapy-related myelodysplastic syndrome

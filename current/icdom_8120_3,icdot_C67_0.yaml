@@ -1,6 +1,6 @@
 equivalents:
-- term: C2930
-  term_id: ncit:Transitional Cell Carcinoma
+- term: Transitional Cell Carcinoma
+  term_id: ncit:C2930
 - term_id: seer:29010
 examples:
 - labels: papillary bladder adenocarcinoma

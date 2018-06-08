@@ -1,6 +1,6 @@
 equivalents:
-- term: C3712
-  term_id: ncit:Squamous Papilloma
+- term: Squamous Papilloma
+  term_id: ncit:C3712
 - term_id: seer:99999
 examples:
 - labels: Squamous cell papilloma

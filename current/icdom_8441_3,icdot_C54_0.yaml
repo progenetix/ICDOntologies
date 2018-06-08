@@ -1,6 +1,6 @@
 equivalents:
-- term: C3778
-  term_id: ncit:None
+- term: None
+  term_id: ncit:C3778
 - term_id: seer:27040
 examples:
 - labels: Fallopian tube tumor

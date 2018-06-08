@@ -1,6 +1,6 @@
 equivalents:
-- term: C95595
-  term_id: ncit:Pancreatic somatostatinoma
+- term: Pancreatic somatostatinoma
+  term_id: ncit:C95595
 - term_id: seer:21100
 examples:
 - labels: Pancreatic somatostatinoma [cell line QGP-1]

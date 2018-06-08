@@ -1,6 +1,6 @@
 equivalents:
-- term: C6915
-  term_id: ncit:Primary effusion lymphoma
+- term: Primary effusion lymphoma
+  term_id: ncit:C6915
 - term_id: seer:33041
 examples:
 - labels: primary effusion lymphoma [cell line JSC-1]

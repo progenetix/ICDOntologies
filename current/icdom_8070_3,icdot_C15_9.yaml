@@ -1,6 +1,6 @@
 equivalents:
-- term: C2929
-  term_id: ncit:Squamous Cell Carcinoma
+- term: Squamous Cell Carcinoma
+  term_id: ncit:C2929
 - term_id: seer:21010
 examples:
 - labels: Esophageal squamous

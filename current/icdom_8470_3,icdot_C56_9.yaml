@@ -1,6 +1,6 @@
 equivalents:
-- term: C3776
-  term_id: ncit:None
+- term: None
+  term_id: ncit:C3776
 - term_id: seer:27040
 examples:
 - labels: Mucinous cystadenocarcinoma

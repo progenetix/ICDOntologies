@@ -1,6 +1,6 @@
 equivalents:
-- term: C34448
-  term_id: ncit:Carcinosarcoma
+- term: Carcinosarcoma
+  term_id: ncit:C34448
 - term_id: seer:24000
 examples:
 - labels: carcinosarcoma

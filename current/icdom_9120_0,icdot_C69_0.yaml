@@ -1,6 +1,6 @@
 equivalents:
-- term: C3085
-  term_id: ncit:Hemangioma
+- term: Hemangioma
+  term_id: ncit:C3085
 - term_id: seer:30000
 examples:
 - labels: Cavernous hemangioma

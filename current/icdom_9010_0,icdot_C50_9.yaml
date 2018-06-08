@@ -1,6 +1,6 @@
 equivalents:
-- term: C3744
-  term_id: ncit:Breast Fibroadenoma
+- term: Breast Fibroadenoma
+  term_id: ncit:C3744
 - term_id: seer:26000
 examples:
 - labels: Fibroadenoma of the breast

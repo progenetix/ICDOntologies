@@ -1,6 +1,6 @@
 equivalents:
-- term: C4504
-  term_id: ncit:Malignant Breast Phyllodes Tumor
+- term: Malignant Breast Phyllodes Tumor
+  term_id: ncit:C4504
 - term_id: seer:26000
 examples:
 - labels: Malignant phyllodes tumor

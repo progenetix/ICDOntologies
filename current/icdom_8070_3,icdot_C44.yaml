@@ -1,6 +1,6 @@
 equivalents:
-- term: C4052
-  term_id: ncit:Vulvar squamous cell carcinoma
+- term: Vulvar squamous cell carcinoma
+  term_id: ncit:C4052
 - term_id: seer:37000
 examples:
 - labels: Vulvar squamous cell carcinoma [cell line A-431]

@@ -1,6 +1,6 @@
 equivalents:
-- term: C4337
-  term_id: ncit:Mantle Cell Lymphoma
+- term: Mantle Cell Lymphoma
+  term_id: ncit:C4337
 - term_id: seer:33041
 examples:
 - labels: Mantle cell lymphoma [t(11;14) positive]

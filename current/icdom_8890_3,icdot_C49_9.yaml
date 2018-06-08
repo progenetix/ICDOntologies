@@ -1,6 +1,6 @@
 equivalents:
-- term: C3158
-  term_id: ncit:Leiomyosarcoma
+- term: Leiomyosarcoma
+  term_id: ncit:C3158
 - term_id: seer:24000
 examples:
 - labels: Pleomorphic Leiomyosarcoma [grade III, primary]

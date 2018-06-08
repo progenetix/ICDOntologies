@@ -1,6 +1,6 @@
 equivalents:
-- term: C4956
-  term_id: ncit:Desmoplastic/Nodular Medulloblastoma
+- term: Desmoplastic/Nodular Medulloblastoma
+  term_id: ncit:C4956
 - term_id: seer:31010
 examples:
 - labels: Desmoplastic medulloblastoma

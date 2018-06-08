@@ -1,6 +1,6 @@
 equivalents:
-- term: C9151
-  term_id: ncit:Lentigo Maligna Melanoma
+- term: Lentigo Maligna Melanoma
+  term_id: ncit:C9151
 - term_id: seer:25010
 examples:
 - labels: lentigo maligna melanoma

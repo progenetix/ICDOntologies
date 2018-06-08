@@ -1,6 +1,6 @@
 equivalents:
-- term: C9010
-  term_id: ncit:Mixed Teratoma and Seminoma
+- term: Mixed Teratoma and Seminoma
+  term_id: ncit:C9010
 - term_id: seer:28020
 examples:
 - labels: Mixed germ cell tumor [embryonal carcinoma and seminoma]

@@ -1,6 +1,6 @@
 equivalents:
-- term: C3379
-  term_id: ncit:None
+- term: None
+  term_id: ncit:C3379
 - term_id: seer:21100
 examples:
 - labels: Somatostatinoma

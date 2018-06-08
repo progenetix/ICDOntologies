@@ -1,6 +1,6 @@
 equivalents:
-- term: C4044
-  term_id: ncit:Laryngeal squamous cell carcinoma
+- term: Laryngeal squamous cell carcinoma
+  term_id: ncit:C4044
 - term_id: seer:20080
 examples:
 - labels: Laryngeal squamous cell carcinoma [cell line PCI-04B]

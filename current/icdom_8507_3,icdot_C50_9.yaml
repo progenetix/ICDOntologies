@@ -1,6 +1,6 @@
 equivalents:
-- term: C4190
-  term_id: ncit:Intraductal Papillary Breast Carcinoma
+- term: Intraductal Papillary Breast Carcinoma
+  term_id: ncit:C4190
 - term_id: seer:26000
 examples:
 - labels: Invasive Micropapillary Carcinoma

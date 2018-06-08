@@ -1,6 +1,6 @@
 equivalents:
-- term: C8715
-  term_id: ncit:Rhabdoid tumor of the kidney
+- term: Rhabdoid tumor of the kidney
+  term_id: ncit:C8715
 - term_id: seer:29020
 examples:
 - labels: Rhabdoid tumor of the kidney [cell line G-401]

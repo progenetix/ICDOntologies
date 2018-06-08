@@ -1,6 +1,6 @@
 equivalents:
-- term: C2915
-  term_id: ncit:Carcinoid Tumor
+- term: Carcinoid Tumor
+  term_id: ncit:C2915
 - term_id: seer:22030
 examples:
 - labels: carcinoid [lung]

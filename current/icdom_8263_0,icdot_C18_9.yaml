@@ -1,6 +1,6 @@
 equivalents:
-- term: C4143
-  term_id: ncit:None
+- term: None
+  term_id: ncit:C4143
 - term_id: seer:21049
 examples:
 - labels: tubullovillous adenoma [colorectal]

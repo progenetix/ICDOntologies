@@ -1,6 +1,6 @@
 equivalents:
-- term: C8647
-  term_id: ncit:Aggressive NK-Cell Leukemia
+- term: Aggressive NK-Cell Leukemia
+  term_id: ncit:C8647
 - term_id: seer:35043
 examples:
 - labels: Aggressive NK-cell leukemia

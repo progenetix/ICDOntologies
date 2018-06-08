@@ -1,6 +1,6 @@
 equivalents:
-- term: C7440
-  term_id: ncit:Papilloma
+- term: Papilloma
+  term_id: ncit:C7440
 - term_id: seer:22030
 examples:
 - labels: flat ductal intraepithelial neoplasia

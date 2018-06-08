@@ -1,6 +1,6 @@
 equivalents:
-- term: C3877
-  term_id: ncit:Testicular teratoma
+- term: Testicular teratoma
+  term_id: ncit:C3877
 - term_id: seer:28020
 examples:
 - labels: testicular teratoma [cell line GCT 27]

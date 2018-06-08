@@ -1,6 +1,6 @@
 equivalents:
-- term: C4038
-  term_id: ncit:Lung carcinoid tumor
+- term: Lung carcinoid tumor
+  term_id: ncit:C4038
 - term_id: seer:22030
 examples:
 - labels: lung carcinoid tumor [cell line NCI-H727]

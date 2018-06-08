@@ -1,6 +1,6 @@
 equivalents:
-- term: C3434
-  term_id: ncit:Uterine Corpus Leiomyoma
+- term: Uterine Corpus Leiomyoma
+  term_id: ncit:C3434
 - term_id: seer:27020
 examples:
 - labels: Uterine Leiomyoma

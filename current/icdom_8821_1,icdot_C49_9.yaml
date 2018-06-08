@@ -1,6 +1,6 @@
 equivalents:
-- term: C9182
-  term_id: ncit:Desmoid-Type Fibromatosis
+- term: Desmoid-Type Fibromatosis
+  term_id: ncit:C9182
 - term_id: seer:24000
 examples:
 - labels: Desmoid tumor

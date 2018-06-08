@@ -1,6 +1,6 @@
 equivalents:
-- term: C7709
-  term_id: ncit:Digestive System Neuroendocrine Tumor G1
+- term: Digestive System Neuroendocrine Tumor G1
+  term_id: ncit:C7709
 - term_id: seer:21020
 examples:
 - labels: Gastrointestinal carcinoid

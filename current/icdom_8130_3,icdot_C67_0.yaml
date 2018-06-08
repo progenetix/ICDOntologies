@@ -1,6 +1,6 @@
 equivalents:
-- term: C4122
-  term_id: ncit:Papillary Transitional Cell Carcinoma
+- term: Papillary Transitional Cell Carcinoma
+  term_id: ncit:C4122
 - term_id: seer:29010
 examples:
 - labels: Papillary transitional cell carcinoma [low grade]

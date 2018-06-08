@@ -1,6 +1,6 @@
 equivalents:
-- term: C9480
-  term_id: ncit:Invasive Carcinoma
+- term: Invasive Carcinoma
+  term_id: ncit:C9480
 - term_id: seer:20030
 examples:
 - labels: ductal carcinoma of the salivary glands

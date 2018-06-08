@@ -1,6 +1,6 @@
 equivalents:
-- term: C46008
-  term_id: ncit:Thyroid Gland Squamous Cell Carcinoma
+- term: Thyroid Gland Squamous Cell Carcinoma
+  term_id: ncit:C46008
 - term_id: seer:32010
 examples:
 - labels: thyroid carcinoma [cell line TH7]

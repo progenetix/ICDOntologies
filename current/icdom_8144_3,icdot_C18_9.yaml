@@ -1,6 +1,6 @@
 equivalents:
-- term: C4349
-  term_id: ncit:Colon Adenocarcinoma
+- term: Colon Adenocarcinoma
+  term_id: ncit:C4349
 - term_id: seer:21049
 examples:
 - labels: colorectal carcinoma [left, well differentiated]

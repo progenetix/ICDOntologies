@@ -1,6 +1,6 @@
 equivalents:
-- term: C6905
-  term_id: ncit:Cerebellar Liponeurocytoma
+- term: Cerebellar Liponeurocytoma
+  term_id: ncit:C6905
 - term_id: seer:31010
 examples:
 - labels: neurocytoma

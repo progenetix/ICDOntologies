@@ -1,6 +1,6 @@
 equivalents:
-- term: C3728
-  term_id: ncit:Hepatoblastoma
+- term: Hepatoblastoma
+  term_id: ncit:C3728
 - term_id: seer:21071
 examples:
 - labels: hepatoblastoma

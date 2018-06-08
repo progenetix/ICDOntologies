@@ -1,6 +1,6 @@
 equivalents:
-- term: C4133
-  term_id: ncit:None
+- term: None
+  term_id: ncit:C4133
 - term_id: seer:21049
 examples:
 - labels: tubular adenoma [colorectal]

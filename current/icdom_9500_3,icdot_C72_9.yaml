@@ -1,6 +1,6 @@
 equivalents:
-- term: C3270
-  term_id: ncit:Neuroblastoma
+- term: Neuroblastoma
+  term_id: ncit:C3270
 - term_id: seer:31040
 examples:
 - labels: neuroblastoma, NOS

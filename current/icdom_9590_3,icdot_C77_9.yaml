@@ -1,6 +1,6 @@
 equivalents:
-- term: C3208
-  term_id: ncit:Lymphoma
+- term: Lymphoma
+  term_id: ncit:C3208
 - term_id: seer:33041
 examples:
 - labels: non-Hodgkin lymphoma, unclassified

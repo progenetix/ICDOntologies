@@ -1,6 +1,6 @@
 equivalents:
-- term: C3272
-  term_id: ncit:Neurofibroma
+- term: Neurofibroma
+  term_id: ncit:C3272
 - term_id: seer:25020
 examples:
 - labels: Cutaneous neurofibroma

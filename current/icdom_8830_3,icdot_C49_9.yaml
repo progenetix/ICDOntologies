@@ -1,6 +1,6 @@
 equivalents:
-- term: C4247
-  term_id: ncit:Undifferentiated Pleomorphic Sarcoma
+- term: Undifferentiated Pleomorphic Sarcoma
+  term_id: ncit:C4247
 - term_id: seer:24000
 examples:
 - labels: malignant    brous histiocytoma [myxoid, metastasized]

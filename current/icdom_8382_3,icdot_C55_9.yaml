@@ -1,6 +1,6 @@
 equivalents:
-- term: C7359
-  term_id: ncit:Endometrial Adenocarcinoma
+- term: Endometrial Adenocarcinoma
+  term_id: ncit:C7359
 - term_id: seer:27030
 examples:
 - labels: Endometrial adenocarcinoma [cell line Ishikawa (Heraklio) 02 ER-]

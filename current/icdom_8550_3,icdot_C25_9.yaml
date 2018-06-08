@@ -1,6 +1,6 @@
 equivalents:
-- term: C3768
-  term_id: ncit:Acinar Cell Carcinoma
+- term: Acinar Cell Carcinoma
+  term_id: ncit:C3768
 - term_id: seer:21100
 examples:
 - labels: pancreatic acinar carcinoma

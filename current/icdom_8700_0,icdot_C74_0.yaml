@@ -1,6 +1,6 @@
 equivalents:
-- term: C3326
-  term_id: ncit:Adrenal Gland Pheochromocytoma
+- term: Adrenal Gland Pheochromocytoma
+  term_id: ncit:C3326
 - term_id: seer:32020
 examples:
 - labels: Pheochromocytoma

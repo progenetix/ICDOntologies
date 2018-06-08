@@ -1,6 +1,6 @@
 equivalents:
-- term: C4001
-  term_id: ncit:Inflammatory breast carcinoma
+- term: Inflammatory breast carcinoma
+  term_id: ncit:C4001
 - term_id: seer:26000
 examples:
 - labels: Inflammatory breast carcinoma [cell line SUM149PT]

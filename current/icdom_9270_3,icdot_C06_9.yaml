@@ -1,6 +1,6 @@
 equivalents:
-- term: C7492
-  term_id: ncit:None
+- term: None
+  term_id: ncit:C7492
 - term_id: seer:20050
 examples:
 - labels: Clear-cell odontogenic carcinoma, primary tumor

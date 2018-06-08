@@ -1,6 +1,6 @@
 equivalents:
-- term: C3700
-  term_id: ncit:Epithelioid Leiomyosarcoma
+- term: Epithelioid Leiomyosarcoma
+  term_id: ncit:C3700
 - term_id: seer:24000
 examples:
 - labels: Epitheliod Leiomyosarcoma [grade III, primary]

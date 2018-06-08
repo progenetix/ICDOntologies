@@ -1,6 +1,6 @@
 equivalents:
-- term: C4915
-  term_id: ncit:Embryonal Tumor with Multilayered Rosettes, C19MC-Altered
+- term: Embryonal Tumor with Multilayered Rosettes, C19MC-Altered
+  term_id: ncit:C4915
 - term_id: seer:31010
 examples:
 - labels: Anaplastic ependymoma [grade 3, Post. fossa]

@@ -1,6 +1,6 @@
 equivalents:
-- term: C4286
-  term_id: ncit:Immature Teratoma
+- term: Immature Teratoma
+  term_id: ncit:C4286
 - term_id: seer:22060
 examples:
 - labels: mediastinal germ cell tumor [immature teratoma, stage I]

@@ -1,6 +1,6 @@
 equivalents:
-- term: C3705
-  term_id: ncit:Pleomorphic Liposarcoma
+- term: Pleomorphic Liposarcoma
+  term_id: ncit:C3705
 - term_id: seer:24000
 examples:
 - labels: Liposarcoma, pleomorphic

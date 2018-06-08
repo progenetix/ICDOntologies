@@ -1,6 +1,6 @@
 equivalents:
-- term: C4199
-  term_id: ncit:Epithelial-Myoepithelial Carcinoma
+- term: Epithelial-Myoepithelial Carcinoma
+  term_id: ncit:C4199
 - term_id: seer:24000
 examples:
 - labels: myoepithelioma

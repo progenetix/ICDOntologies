@@ -1,6 +1,6 @@
 equivalents:
-- term: C5669
-  term_id: ncit:Pleuropulmonary Blastoma
+- term: Pleuropulmonary Blastoma
+  term_id: ncit:C5669
 - term_id: seer:22030
 examples:
 - labels: pleuropulmonary blastoma

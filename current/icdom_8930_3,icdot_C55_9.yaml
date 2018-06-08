@@ -1,6 +1,6 @@
 equivalents:
-- term: C8973
-  term_id: ncit:Endometrioid Stromal Sarcoma
+- term: Endometrioid Stromal Sarcoma
+  term_id: ncit:C8973
 - term_id: seer:27030
 examples:
 - labels: endometrial sarcoma [undifferentiated]

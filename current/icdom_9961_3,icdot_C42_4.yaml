@@ -1,6 +1,6 @@
 equivalents:
-- term: C2862
-  term_id: ncit:Primary Myelofibrosis
+- term: Primary Myelofibrosis
+  term_id: ncit:C2862
 - term_id: seer:35023
 examples:
 - labels: Idiopathic myelofibrosis

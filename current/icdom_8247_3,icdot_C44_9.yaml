@@ -1,6 +1,6 @@
 equivalents:
-- term: C9231
-  term_id: ncit:Merkel Cell Carcinoma
+- term: Merkel Cell Carcinoma
+  term_id: ncit:C9231
 - term_id: seer:25020
 examples:
 - labels: Merkel Carcinoma [1cm, skin Left eyebrow]

@@ -1,6 +1,6 @@
 equivalents:
-- term: C2852
-  term_id: ncit:Adenocarcinoma
+- term: Adenocarcinoma
+  term_id: ncit:C2852
 - term_id: seer:20030
 examples:
 - labels: Adenocarcinoma [Basal cell adenocarcinoma, membranous type, palatal gland]]

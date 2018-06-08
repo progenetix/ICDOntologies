@@ -1,6 +1,6 @@
 equivalents:
-- term: C3043
-  term_id: ncit:Fibrosarcoma
+- term: Fibrosarcoma
+  term_id: ncit:C3043
 - term_id: seer:24000
 examples:
 - labels: Fibrosarcoma G3 [local recurrence]

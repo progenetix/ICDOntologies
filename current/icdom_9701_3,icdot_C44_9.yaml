@@ -1,6 +1,6 @@
 equivalents:
-- term: C3366
-  term_id: ncit:Sezary Syndrome
+- term: Sezary Syndrome
+  term_id: ncit:C3366
 - term_id: seer:33042
 examples:
 - labels: Sezary syndrome

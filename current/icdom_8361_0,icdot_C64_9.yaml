@@ -1,6 +1,6 @@
 equivalents:
-- term: C4162
-  term_id: ncit:None
+- term: None
+  term_id: ncit:C4162
 - term_id: seer:29020
 examples:
 - labels: Juxtaglomerular cell tumors [JGCT, reninoma]

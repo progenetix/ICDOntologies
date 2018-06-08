@@ -1,6 +1,6 @@
 equivalents:
-- term: C3871
-  term_id: ncit:Nasopharyngeal carcinoma
+- term: Nasopharyngeal carcinoma
+  term_id: ncit:C3871
 - term_id: seer:20060
 examples:
 - labels: Nasopharyngeal carcinoma [cell line 5-8F]

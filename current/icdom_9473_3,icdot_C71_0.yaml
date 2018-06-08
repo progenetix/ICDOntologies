@@ -1,6 +1,6 @@
 equivalents:
-- term: C5398
-  term_id: ncit:Central Nervous System Embryonal Tumor, Not Otherwise Specified
+- term: Central Nervous System Embryonal Tumor, Not Otherwise Specified
+  term_id: ncit:C5398
 - term_id: seer:31010
 examples:
 - labels: PNET with glial component [Supratentorial]

@@ -1,6 +1,6 @@
 equivalents:
-- term: C3359
-  term_id: ncit:Rhabdomyosarcoma
+- term: Rhabdomyosarcoma
+  term_id: ncit:C3359
 - term_id: seer:24000
 examples:
 - labels: pediatric rhabdomyosarcoma

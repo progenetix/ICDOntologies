@@ -1,6 +1,6 @@
 equivalents:
-- term: C5953
-  term_id: ncit:Minor Salivary Gland Mucoepidermoid Carcinoma
+- term: Minor Salivary Gland Mucoepidermoid Carcinoma
+  term_id: ncit:C5953
 - term_id: seer:20030
 examples:
 - labels: Mucoepidermoid carcinoma

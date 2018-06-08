@@ -1,6 +1,6 @@
 equivalents:
-- term: C4563
-  term_id: ncit:Chronic Eosinophilic Leukemia Not Otherwise Specified
+- term: Chronic Eosinophilic Leukemia Not Otherwise Specified
+  term_id: ncit:C4563
 - term_id: seer:35043
 examples:
 - labels: Hypereosinophilic syndrome

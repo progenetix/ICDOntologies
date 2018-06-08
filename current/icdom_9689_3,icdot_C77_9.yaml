@@ -1,6 +1,6 @@
 equivalents:
-- term: C4663
-  term_id: ncit:Splenic Marginal Zone Lymphoma
+- term: Splenic Marginal Zone Lymphoma
+  term_id: ncit:C4663
 - term_id: seer:33041
 examples:
 - labels: Splenic Marginal Zone Lymphoma

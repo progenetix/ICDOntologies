@@ -1,6 +1,6 @@
 equivalents:
-- term: C9360
-  term_id: ncit:Lymphoblastic Lymphoma
+- term: Lymphoblastic Lymphoma
+  term_id: ncit:C9360
 - term_id: seer:NA
 examples:
 - labels: lastic plasmacytoid dendritic cell neoplasm

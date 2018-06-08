@@ -1,6 +1,6 @@
 equivalents:
-- term: C3788
-  term_id: ncit:Ganglioglioma
+- term: Ganglioglioma
+  term_id: ncit:C3788
 - term_id: seer:31010
 examples:
 - labels: Ganglioglioma [temporooccipital]

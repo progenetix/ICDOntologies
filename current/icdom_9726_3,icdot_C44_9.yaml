@@ -1,6 +1,6 @@
 equivalents:
-- term: C45340
-  term_id: ncit:Primary cutaneous gamma-delta-T-cell lymphoma
+- term: Primary cutaneous gamma-delta-T-cell lymphoma
+  term_id: ncit:C45340
 - term_id: seer:33042
 examples:
 - labels: Primary cutaneous gamma-delta T-cell lymphoma

@@ -1,6 +1,6 @@
 equivalents:
-- term: C4342
-  term_id: ncit:Intravascular Large B-Cell Lymphoma
+- term: Intravascular Large B-Cell Lymphoma
+  term_id: ncit:C4342
 - term_id: seer:33041
 examples:
 - labels: Diffuse large B-cell lymphoma, T-Cell/Histiocyte-Rich [stage IA]

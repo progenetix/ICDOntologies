@@ -1,6 +1,6 @@
 equivalents:
-- term: C7528
-  term_id: ncit:Angioimmunoblastic T-Cell Lymphoma
+- term: Angioimmunoblastic T-Cell Lymphoma
+  term_id: ncit:C7528
 - term_id: seer:33041
 examples:
 - labels: Peripheral T-cell lymphoma, NOS [AIDS related]

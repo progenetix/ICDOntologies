@@ -1,6 +1,6 @@
 equivalents:
-- term: C8294
-  term_id: ncit:Pancreatic Adenocarcinoma
+- term: Pancreatic Adenocarcinoma
+  term_id: ncit:C8294
 - term_id: seer:21100
 examples:
 - labels: Pancreatic adenocarcinoma [cell line HuP-T4]]

@@ -1,6 +1,6 @@
 equivalents:
-- term: C3460
-  term_id: ncit:Grade 3 Follicular Lymphoma
+- term: Grade 3 Follicular Lymphoma
+  term_id: ncit:C3460
 - term_id: seer:33041
 examples:
 - labels: Follicular lymphoma, grade 3

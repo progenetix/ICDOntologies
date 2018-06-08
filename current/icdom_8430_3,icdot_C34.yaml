@@ -1,6 +1,6 @@
 equivalents:
-- term: C45544
-  term_id: ncit:Lung mucoepidermoid carcinoma
+- term: Lung mucoepidermoid carcinoma
+  term_id: ncit:C45544
 - term_id: seer:22030
 examples:
 - labels: Lung mucoepidermoid carcinoma [cell line EPLC-272H]

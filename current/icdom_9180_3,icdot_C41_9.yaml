@@ -1,6 +1,6 @@
 equivalents:
-- term: C9145
-  term_id: ncit:Osteosarcoma
+- term: Osteosarcoma
+  term_id: ncit:C9145
 - term_id: seer:23000
 examples:
 - labels: osteosarcoma [cell line  Hs 707(A).T]

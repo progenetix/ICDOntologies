@@ -1,6 +1,6 @@
 equivalents:
-- term: C5250
-  term_id: ncit:Signet ring cell gastric adenocarcinoma
+- term: Signet ring cell gastric adenocarcinoma
+  term_id: ncit:C5250
 - term_id: seer:21020
 examples:
 - labels: Signet ring cell gastric adenocarcinoma [cell line GP202]

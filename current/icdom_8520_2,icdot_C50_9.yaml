@@ -1,6 +1,6 @@
 equivalents:
-- term: C4018
-  term_id: ncit:Lobular Breast Carcinoma In Situ
+- term: Lobular Breast Carcinoma In Situ
+  term_id: ncit:C4018
 - term_id: seer:26000
 examples:
 - labels: pleomorphic lobular carcinoma in situ [breast]

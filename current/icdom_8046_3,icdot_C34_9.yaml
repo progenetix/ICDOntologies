@@ -1,6 +1,6 @@
 equivalents:
-- term: C65151
-  term_id: ncit:None
+- term: None
+  term_id: ncit:C65151
 - term_id: seer:22030
 examples:
 - labels: Non-small cell carcinoma [lung]

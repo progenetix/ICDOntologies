@@ -1,6 +1,6 @@
 equivalents:
-- term: C3194
-  term_id: ncit:Liposarcoma
+- term: Liposarcoma
+  term_id: ncit:C3194
 - term_id: seer:24000
 examples:
 - labels: Liposarcoma NOS [cell line LS14]

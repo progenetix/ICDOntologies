@@ -1,6 +1,6 @@
 equivalents:
-- term: C45665
-  term_id: ncit:Pleural biphasic mesothelioma
+- term: Pleural biphasic mesothelioma
+  term_id: ncit:C45665
 - term_id: seer:36010
 examples:
 - labels: Pleural biphasic mesothelioma [cell line NCI-H2452]

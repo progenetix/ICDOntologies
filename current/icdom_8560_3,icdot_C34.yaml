@@ -1,6 +1,6 @@
 equivalents:
-- term: C9133
-  term_id: ncit:Adenosquamous lung carcinoma
+- term: Adenosquamous lung carcinoma
+  term_id: ncit:C9133
 - term_id: seer:22030
 examples:
 - labels: adenosquamous lung carcinoma [cell line HCC366]

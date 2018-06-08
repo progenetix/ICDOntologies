@@ -1,6 +1,6 @@
 equivalents:
-- term: C46106
-  term_id: ncit:None
+- term: None
+  term_id: ncit:C46106
 - term_id: seer:32010
 examples:
 - labels: Carcinoma showing thymus-like elements

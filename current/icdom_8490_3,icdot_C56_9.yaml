@@ -1,6 +1,6 @@
 equivalents:
-- term: C3153
-  term_id: ncit:Krukenberg tumor
+- term: Krukenberg tumor
+  term_id: ncit:C3153
 - term_id: seer:27040
 examples:
 - labels: Krukenberg tumor [cell line KS-1]

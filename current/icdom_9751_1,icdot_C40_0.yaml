@@ -1,6 +1,6 @@
 equivalents:
-- term: C3107
-  term_id: ncit:Langerhans Cell Histiocytosis
+- term: Langerhans Cell Histiocytosis
+  term_id: ncit:C3107
 - term_id: seer:37000
 examples:
 - labels: Langerhans cell histiocytosis

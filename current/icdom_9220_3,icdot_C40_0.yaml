@@ -1,6 +1,6 @@
 equivalents:
-- term: C2946
-  term_id: ncit:Chondrosarcoma
+- term: Chondrosarcoma
+  term_id: ncit:C2946
 - term_id: seer:23000
 examples:
 - labels: chondrosarcoma

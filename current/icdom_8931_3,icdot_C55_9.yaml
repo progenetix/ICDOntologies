@@ -1,6 +1,6 @@
 equivalents:
-- term: C4263
-  term_id: ncit:Low Grade Endometrioid Stromal Sarcoma
+- term: Low Grade Endometrioid Stromal Sarcoma
+  term_id: ncit:C4263
 - term_id: seer:27030
 examples:
 - labels: Endometrial stromal sarcoma [low grade]

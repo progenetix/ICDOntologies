@@ -1,6 +1,6 @@
 equivalents:
-- term: C2872
-  term_id: ncit:Refractory Anemia
+- term: Refractory Anemia
+  term_id: ncit:C2872
 - term_id: seer:35023
 examples:
 - labels: Refractory anemia

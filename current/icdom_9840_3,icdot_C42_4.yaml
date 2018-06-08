@@ -1,6 +1,6 @@
 equivalents:
-- term: C7152
-  term_id: ncit:Erythroleukemia
+- term: Erythroleukemia
+  term_id: ncit:C7152
 - term_id: seer:35041
 examples:
 - labels: Erythroleukemia [cell line HEL]

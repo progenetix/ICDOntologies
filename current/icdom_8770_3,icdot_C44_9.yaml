@@ -1,6 +1,6 @@
 equivalents:
-- term: C66756
-  term_id: ncit:Mixed Epithelioid and Spindle Cell Melanoma
+- term: Mixed Epithelioid and Spindle Cell Melanoma
+  term_id: ncit:C66756
 - term_id: seer:25010
 examples:
 - labels: spitzoid malignant melanoma [primary]

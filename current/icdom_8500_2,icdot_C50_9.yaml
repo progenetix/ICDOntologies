@@ -1,6 +1,6 @@
 equivalents:
-- term: C7949
-  term_id: ncit:None
+- term: None
+  term_id: ncit:C7949
 - term_id: seer:26000
 examples:
 - labels: Ductal carcinoma in situ, recurrent

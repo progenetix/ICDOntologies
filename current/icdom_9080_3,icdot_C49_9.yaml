@@ -1,6 +1,6 @@
 equivalents:
-- term: C3403
-  term_id: ncit:Tetratoma
+- term: Tetratoma
+  term_id: ncit:C3403
 - term_id: seer:24000
 examples:
 - labels: germ cell tumor [mature and immature teratoma]

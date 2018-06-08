@@ -1,6 +1,6 @@
 equivalents:
-- term: C72074
-  term_id: ncit:Atypical Carcinoid Tumor
+- term: Atypical Carcinoid Tumor
+  term_id: ncit:C72074
 - term_id: seer:22030
 examples:
 - labels: atypical carcinoid tumor [lung]

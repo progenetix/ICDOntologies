@@ -1,6 +1,6 @@
 equivalents:
-- term: C5161
-  term_id: ncit:Pleomorphic breast carcinoma
+- term: Pleomorphic breast carcinoma
+  term_id: ncit:C5161
 - term_id: seer:26000
 examples:
 - labels: Pleomorphic breast carcinoma [cell line SUM159PT]

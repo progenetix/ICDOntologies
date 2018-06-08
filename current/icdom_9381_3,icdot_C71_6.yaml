@@ -1,6 +1,6 @@
 equivalents:
-- term: C4318
-  term_id: ncit:Gliomatosis Cerebri
+- term: Gliomatosis Cerebri
+  term_id: ncit:C4318
 - term_id: seer:31010
 examples:
 - labels: gliomatosis cerebri [infratentorial]

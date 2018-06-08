@@ -1,6 +1,6 @@
 equivalents:
-- term: C8936
-  term_id: ncit:B Lymphoblastic Leukemia/Lymphoma
+- term: B Lymphoblastic Leukemia/Lymphoma
+  term_id: ncit:C8936
 - term_id: seer:33041
 examples:
 - labels: lymphoblastic lymphoma [B-cell]

@@ -1,6 +1,6 @@
 equivalents:
-- term: None
-  term_id: ncit:Transformed cell line
+- term: Transformed cell line
+  term_id: ncit:None
 - term_id: seer:25010
 examples:
 - labels: transformed cell line LAU-Me246.M1-LCL

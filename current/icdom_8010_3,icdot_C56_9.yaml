@@ -1,6 +1,6 @@
 equivalents:
-- term: C8814
-  term_id: ncit:Ovarian mixed germ cell tumor
+- term: Ovarian mixed germ cell tumor
+  term_id: ncit:C8814
 - term_id: seer:27040
 examples:
 - labels: Ovarian carcinoma [cell line CH1

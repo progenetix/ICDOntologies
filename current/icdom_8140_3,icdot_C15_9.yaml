@@ -1,6 +1,6 @@
 equivalents:
-- term: C4025
-  term_id: ncit:Esophageal Adenocarcinoma
+- term: Esophageal Adenocarcinoma
+  term_id: ncit:C4025
 - term_id: seer:21010
 examples:
 - labels: Esophageal adenocarcinoma

@@ -1,6 +1,6 @@
 equivalents:
-- term: C6766
-  term_id: ncit:Prostate small cell carcinoma
+- term: Prostate small cell carcinoma
+  term_id: ncit:C6766
 - term_id: seer:28010
 examples:
 - labels: prostate small cell carcinoma [cell line NCI-H660]

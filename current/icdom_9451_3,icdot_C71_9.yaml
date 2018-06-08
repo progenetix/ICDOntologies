@@ -1,6 +1,6 @@
 equivalents:
-- term: C3288
-  term_id: ncit:Oligodendroglioma
+- term: Oligodendroglioma
+  term_id: ncit:C3288
 - term_id: seer:31010
 examples:
 - labels: Oligodendroglioma (Grade IV)

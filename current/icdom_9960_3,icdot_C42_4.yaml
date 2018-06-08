@@ -1,6 +1,6 @@
 equivalents:
-- term: C4345
-  term_id: ncit:Myeloproliferative Neoplasm
+- term: Myeloproliferative Neoplasm
+  term_id: ncit:C4345
 - term_id: seer:35023
 examples:
 - labels: myeloid proliferative disorder

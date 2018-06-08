@@ -1,6 +1,6 @@
 equivalents:
-- term: C3224
-  term_id: ncit:Melanoma
+- term: Melanoma
+  term_id: ncit:C3224
 - term_id: seer:25010
 examples:
 - labels: Melanoma, polyploid

@@ -1,6 +1,6 @@
 equivalents:
-- term: C3773
-  term_id: ncit:Neuroendocrine Carcinoma
+- term: Neuroendocrine Carcinoma
+  term_id: ncit:C3773
 - term_id: seer:32020
 examples:
 - labels: thymic neuroendocrine tumor

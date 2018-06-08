@@ -1,6 +1,6 @@
 equivalents:
-- term: C9341
-  term_id: ncit:Peripheral Primitive Neuroectodermal Tumor
+- term: Peripheral Primitive Neuroectodermal Tumor
+  term_id: ncit:C9341
 - term_id: seer:24000
 examples:
 - labels: peripheral primitive neuroectodermal tumor

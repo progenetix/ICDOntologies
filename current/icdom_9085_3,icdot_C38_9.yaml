@@ -1,6 +1,6 @@
 equivalents:
-- term: C9010
-  term_id: ncit:Mixed Teratoma and Seminoma
+- term: Mixed Teratoma and Seminoma
+  term_id: ncit:C9010
 - term_id: seer:22060
 examples:
 - labels: Combined germ cell tumor [mediastinal, immature teratoma, yolk sac tumor,

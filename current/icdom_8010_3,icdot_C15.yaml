@@ -1,6 +1,6 @@
 equivalents:
-- term: C7027
-  term_id: ncit:Barrett adenocarcinoma
+- term: Barrett adenocarcinoma
+  term_id: ncit:C7027
 - term_id: seer:21010
 examples:
 - labels: Barret adenocarcinoma [cell line OE33]

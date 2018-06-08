@@ -1,6 +1,6 @@
 equivalents:
-- term: C4917
-  term_id: ncit:Small cell lung carcinoma
+- term: Small cell lung carcinoma
+  term_id: ncit:C4917
 - term_id: seer:22030
 examples:
 - labels: Small cell lung carcinoma [cell line NCI-H748]

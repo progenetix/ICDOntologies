@@ -1,6 +1,6 @@
 equivalents:
-- term: C3242
-  term_id: ncit:Plasma cell myeloma
+- term: Plasma cell myeloma
+  term_id: ncit:C3242
 - term_id: seer:35043
 examples:
 - labels: plasma cell myeloma [cell line RPMI-8226]

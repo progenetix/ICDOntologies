@@ -1,6 +1,6 @@
 equivalents:
-- term: C3234
-  term_id: ncit:Mesothelioma
+- term: Mesothelioma
+  term_id: ncit:C3234
 - term_id: seer:36010
 examples:
 - labels: fibromatous mesothelioma

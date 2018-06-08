@@ -1,6 +1,6 @@
 equivalents:
-- term: C6341
-  term_id: ncit:Testicular embryonal carcinoma
+- term: Testicular embryonal carcinoma
+  term_id: ncit:C6341
 - term_id: seer:28020
 examples:
 - labels: testicular embryonal carcinoma [cell line NEC8]

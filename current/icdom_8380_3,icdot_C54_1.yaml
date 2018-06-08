@@ -1,6 +1,6 @@
 equivalents:
-- term: C7359
-  term_id: ncit:Endometrial adenocarcinoma
+- term: Endometrial adenocarcinoma
+  term_id: ncit:C7359
 - term_id: seer:27030
 examples:
 - labels: endometrial adenocarcinoma [cell line AN3-CA]

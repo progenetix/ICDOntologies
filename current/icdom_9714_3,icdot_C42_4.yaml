@@ -1,6 +1,6 @@
 equivalents:
-- term: C3720
-  term_id: ncit:Anaplastic large cell lymphoma
+- term: Anaplastic large cell lymphoma
+  term_id: ncit:C3720
 - term_id: seer:35043
 examples:
 - labels: anaplastic large cell lymphoma [cell line SR]

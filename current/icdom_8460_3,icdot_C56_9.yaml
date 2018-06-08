@@ -1,6 +1,6 @@
 equivalents:
-- term: C6882
-  term_id: ncit:Micropapillary Serous Carcinoma
+- term: Micropapillary Serous Carcinoma
+  term_id: ncit:C6882
 - term_id: seer:27040
 examples:
 - labels: Micropapillary serous carcinoma

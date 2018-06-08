@@ -1,6 +1,6 @@
 equivalents:
-- term: C2929
-  term_id: ncit:Squamous Cell Carcinoma
+- term: Squamous Cell Carcinoma
+  term_id: ncit:C2929
 - term_id: seer:28030
 examples:
 - labels: penile squamous cell carcinoma

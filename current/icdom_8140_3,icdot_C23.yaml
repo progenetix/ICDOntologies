@@ -1,6 +1,6 @@
 equivalents:
-- term: C3844
-  term_id: ncit:Gallbladder carcinoma
+- term: Gallbladder carcinoma
+  term_id: ncit:C3844
 - term_id: seer:21080
 examples:
 - labels: gallbladder carcinoma [cell line OCUG-1]

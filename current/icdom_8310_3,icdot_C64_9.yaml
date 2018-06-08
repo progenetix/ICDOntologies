@@ -1,6 +1,6 @@
 equivalents:
-- term: C4033
-  term_id: ncit:Clear Cell Renal Cell Carcinoma
+- term: Clear Cell Renal Cell Carcinoma
+  term_id: ncit:C4033
 - term_id: seer:29020
 examples:
 - labels: Clear cell renal cell carcinoma

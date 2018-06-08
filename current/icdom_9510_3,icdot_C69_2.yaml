@@ -1,6 +1,6 @@
 equivalents:
-- term: C7541
-  term_id: ncit:Retinoblastoma
+- term: Retinoblastoma
+  term_id: ncit:C7541
 - term_id: seer:30000
 examples:
 - labels: Retinoblastoma

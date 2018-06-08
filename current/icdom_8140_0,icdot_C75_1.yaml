@@ -1,6 +1,6 @@
 equivalents:
-- term: C2855
-  term_id: ncit:None
+- term: None
+  term_id: ncit:C2855
 - term_id: seer:32020
 examples:
 - labels: pituitary adenoma [gonadotroph cell adenoma]

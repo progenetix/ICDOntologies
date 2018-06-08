@@ -1,6 +1,6 @@
 equivalents:
-- term: C2930
-  term_id: ncit:Transitional Cell Carcinoma
+- term: Transitional Cell Carcinoma
+  term_id: ncit:C2930
 - term_id: seer:29020
 examples:
 - labels: transitional cell carcinoma [pT3, G3] in Balkan endemic nephropathy]

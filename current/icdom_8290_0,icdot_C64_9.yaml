@@ -1,6 +1,6 @@
 equivalents:
-- term: C3759
-  term_id: ncit:None
+- term: None
+  term_id: ncit:C3759
 - term_id: seer:29020
 examples:
 - labels: Oncocytoma

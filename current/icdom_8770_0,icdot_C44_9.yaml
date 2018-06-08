@@ -1,6 +1,6 @@
 equivalents:
-- term: C27007
-  term_id: ncit:Spitz Nevus
+- term: Spitz Nevus
+  term_id: ncit:C27007
 - term_id: seer:25010
 examples:
 - labels: Spitz nevi

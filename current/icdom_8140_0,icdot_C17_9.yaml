@@ -1,6 +1,6 @@
 equivalents:
-- term: C7888
-  term_id: ncit:Small Intestinal Adenocarcinoma
+- term: Small Intestinal Adenocarcinoma
+  term_id: ncit:C7888
 - term_id: seer:21030
 examples:
 - labels: Small bowel juvenile polyps

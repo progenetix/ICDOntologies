@@ -1,6 +1,6 @@
 equivalents:
-- term: C3467
-  term_id: ncit:Cutaneous T-cell non-Hodgkin lymphoma
+- term: Cutaneous T-cell non-Hodgkin lymphoma
+  term_id: ncit:C3467
 - term_id: seer:33041
 examples:
 - labels: T cell non-Hodgkin lymphoma [cell line Mac-1]

@@ -1,6 +1,6 @@
 equivalents:
-- term: C6919
-  term_id: ncit:T Lymphoblastic Lymphoma
+- term: T Lymphoblastic Lymphoma
+  term_id: ncit:C6919
 - term_id: seer:33041
 examples:
 - labels: T-cell lymphoblastic lymphoma

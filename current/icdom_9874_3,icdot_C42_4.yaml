@@ -1,6 +1,6 @@
 equivalents:
-- term: C3250
-  term_id: ncit:Acute Myeloid Leukemia with Maturation
+- term: Acute Myeloid Leukemia with Maturation
+  term_id: ncit:C3250
 - term_id: seer:35021
 examples:
 - labels: Acute myeloblastic leukemia with maturation [FAB M2]

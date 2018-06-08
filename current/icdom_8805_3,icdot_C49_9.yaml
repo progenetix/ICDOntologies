@@ -1,6 +1,6 @@
 equivalents:
-- term: C27096
-  term_id: ncit:None
+- term: None
+  term_id: ncit:C27096
 - term_id: seer:24000
 examples:
 - labels: Undifferentiated Sarcoma

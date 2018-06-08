@@ -1,6 +1,6 @@
 equivalents:
-- term: C9289
-  term_id: ncit:Acute Myeloid Leukemia with Multilineage Dysplasia
+- term: Acute Myeloid Leukemia with Multilineage Dysplasia
+  term_id: ncit:C9289
 - term_id: seer:35021
 examples:
 - labels: Acute myeloid leukemia with prior myelodysplastic syndrome [RAEB]

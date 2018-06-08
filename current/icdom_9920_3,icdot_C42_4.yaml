@@ -1,6 +1,6 @@
 equivalents:
-- term: C8252
-  term_id: ncit:None
+- term: None
+  term_id: ncit:C8252
 - term_id: seer:35021
 examples:
 - labels: Therapy-related acute myeloid leukemia [cell line]

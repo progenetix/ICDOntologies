@@ -1,6 +1,6 @@
 equivalents:
-- term: C4321
-  term_id: ncit:Gemistocytic Astrocytoma
+- term: Gemistocytic Astrocytoma
+  term_id: ncit:C4321
 - term_id: seer:31010
 examples:
 - labels: Gemistocytic astrocytoma

@@ -1,6 +1,6 @@
 equivalents:
-- term: C4684
-  term_id: ncit:Nasal Type Extranodal NK/T-Cell Lymphoma
+- term: Nasal Type Extranodal NK/T-Cell Lymphoma
+  term_id: ncit:C4684
 - term_id: seer:33042
 examples:
 - labels: NK/Tcell lymphoma [cutaneous]

@@ -1,6 +1,6 @@
 equivalents:
-- term: C4320
-  term_id: ncit:Protoplasmic Astrocytoma
+- term: Protoplasmic Astrocytoma
+  term_id: ncit:C4320
 - term_id: seer:31010
 examples:
 - labels: protoplasmic astrocytoma

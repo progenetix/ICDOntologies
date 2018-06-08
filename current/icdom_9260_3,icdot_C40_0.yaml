@@ -1,6 +1,6 @@
 equivalents:
-- term: C4817
-  term_id: ncit:Ewing Sarcoma
+- term: Ewing Sarcoma
+  term_id: ncit:C4817
 - term_id: seer:23000
 examples:
 - labels: Ewing Sarcoma [Cell Line TC71]

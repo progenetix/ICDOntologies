@@ -1,6 +1,6 @@
 equivalents:
-- term: C3493
-  term_id: ncit:Squamous Cell Lung Carcinoma
+- term: Squamous Cell Lung Carcinoma
+  term_id: ncit:C3493
 - term_id: seer:22030
 examples:
 - labels: Lung squamous cell lung carcinoma

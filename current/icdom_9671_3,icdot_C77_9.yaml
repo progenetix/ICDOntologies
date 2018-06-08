@@ -1,6 +1,6 @@
 equivalents:
-- term: C3898
-  term_id: ncit:Extranodal Marginal Zone Lymphoma of Mucosa-Associated Lymphoid Tissue
+- term: Extranodal Marginal Zone Lymphoma of Mucosa-Associated Lymphoid Tissue
+  term_id: ncit:C3898
 - term_id: seer:33041
 examples:
 - labels: Lymphoplasmacytic Lymphoma

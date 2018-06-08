@@ -1,6 +1,6 @@
 equivalents:
-- term: C35417
-  term_id: ncit:Intrahepatic cholangiocarcinoma
+- term: Intrahepatic cholangiocarcinoma
+  term_id: ncit:C35417
 - term_id: seer:21090
 examples:
 - labels: Intrahepatic cholangiocarcinoma [cell line HuCC-T1]

@@ -1,6 +1,6 @@
 equivalents:
-- term: C27720
-  term_id: ncit:Pancreatic Neuroendocrine Tumor
+- term: Pancreatic Neuroendocrine Tumor
+  term_id: ncit:C27720
 - term_id: seer:21100
 examples:
 - labels: PP-oma
