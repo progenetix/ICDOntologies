@@ -1,11 +1,11 @@
 equivalents:
-- term: None
-  term_id: ncit:C3759
-- term_id: seer:29020
+- label: None
+  id: ncit:C3759
+- id: seer:29020
 examples:
-- labels: Oncocytoma
+- label: Oncocytoma
 input:
-- term: Oxyphilic adenoma
-  term_id: icdom:8290_0
-- term: kidney
-  term_id: icdot:C64_9
+- label: Oxyphilic adenoma
+  id: icdom:8290_0
+- label: kidney
+  id: icdot:C64_9

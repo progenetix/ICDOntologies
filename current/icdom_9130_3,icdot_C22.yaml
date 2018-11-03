@@ -1,11 +1,11 @@
 equivalents:
-- term: Epithelioid hemangioendothelioma
-  term_id: ncit:C3800
-- term_id: seer:21071
+- label: Epithelioid hemangioendothelioma
+  id: ncit:C3800
+- id: seer:21071
 examples:
-- labels: Epithelioid hemangioendothelioma [cell line LI90]
+- label: Epithelioid hemangioendothelioma [cell line LI90]
 input:
-- term: Hemangioendothelioma, malignant
-  term_id: icdom:9130_3
-- term: liver
-  term_id: icdot:C22
+- label: Hemangioendothelioma, malignant
+  id: icdom:9130_3
+- label: liver
+  id: icdot:C22

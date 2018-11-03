@@ -1,11 +1,11 @@
 equivalents:
-- term: None
-  term_id: ncit:C3379
-- term_id: seer:21100
+- label: None
+  id: ncit:C3379
+- id: seer:21100
 examples:
-- labels: Somatostatinoma
+- label: Somatostatinoma
 input:
-- term: Somatostatinoma, NOS
-  term_id: icdom:8156_1
-- term: Pancreas, NOS
-  term_id: icdot:C25_9
+- label: Somatostatinoma, NOS
+  id: icdom:8156_1
+- label: Pancreas, NOS
+  id: icdot:C25_9

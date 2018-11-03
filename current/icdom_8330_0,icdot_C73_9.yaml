@@ -1,11 +1,11 @@
 equivalents:
-- term: Thyroid Gland Follicular Adenoma
-  term_id: ncit:C3502
-- term_id: seer:32010
+- label: Thyroid Gland Follicular Adenoma
+  id: ncit:C3502
+- id: seer:32010
 examples:
-- labels: Follicular adenoma of the thyroid
+- label: Follicular adenoma of the thyroid
 input:
-- term: Follicular adenoma
-  term_id: icdom:8330_0
-- term: thyroid gland
-  term_id: icdot:C73_9
+- label: Follicular adenoma
+  id: icdom:8330_0
+- label: thyroid gland
+  id: icdot:C73_9

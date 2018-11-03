@@ -1,11 +1,11 @@
 equivalents:
-- term: ''
-  term_id: 'ncit:'
-- term_id: seer:26000
+- label: ''
+  id: 'ncit:'
+- id: seer:26000
 examples:
-- labels: apocrine invasive ductal carcinoma
+- label: apocrine invasive ductal carcinoma
 input:
-- term: Apocrine adenocarcinoma
-  term_id: icdom:8401_3
-- term: Breast, NOS
-  term_id: icdot:C50_9
+- label: Apocrine adenocarcinoma
+  id: icdom:8401_3
+- label: Breast, NOS
+  id: icdot:C50_9

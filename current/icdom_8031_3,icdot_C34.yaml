@@ -1,11 +1,11 @@
 equivalents:
-- term: Lung giant cell carcinoma
-  term_id: ncit:C4452
-- term_id: seer:22030
+- label: Lung giant cell carcinoma
+  id: ncit:C4452
+- id: seer:22030
 examples:
-- labels: Lung giant cell carcinoma [cell line HCC1359]
+- label: Lung giant cell carcinoma [cell line HCC1359]
 input:
-- term: Giant cell carcinoma
-  term_id: icdom:8031_3
-- term: lung and bronchus
-  term_id: icdot:C34
+- label: Giant cell carcinoma
+  id: icdom:8031_3
+- label: lung and bronchus
+  id: icdot:C34

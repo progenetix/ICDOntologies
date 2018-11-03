@@ -1,11 +1,11 @@
 equivalents:
-- term: Large Cell Lung Carcinoma
-  term_id: ncit:C4450
-- term_id: seer:22030
+- label: Large Cell Lung Carcinoma
+  id: ncit:C4450
+- id: seer:22030
 examples:
-- labels: Large cell carcinoma
+- label: Large cell carcinoma
 input:
-- term: Large cell carcinoma, NOS
-  term_id: icdom:8012_3
-- term: lung and bronchus
-  term_id: icdot:C34_9
+- label: Large cell carcinoma, NOS
+  id: icdom:8012_3
+- label: lung and bronchus
+  id: icdot:C34_9

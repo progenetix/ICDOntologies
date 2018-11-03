@@ -1,11 +1,11 @@
 equivalents:
-- term: None
-  term_id: ncit:C53686
-- term_id: seer:31010
+- label: None
+  id: ncit:C53686
+- id: seer:31010
 examples:
-- labels: Choroid plexus papilloma [grade 1]
+- label: Choroid plexus papilloma [grade 1]
 input:
-- term: Atypical choroid plexus papilloma
-  term_id: icdom:9390_1
-- term: ventricle
-  term_id: icdot:C71_5
+- label: Atypical choroid plexus papilloma
+  id: icdom:9390_1
+- label: ventricle
+  id: icdot:C71_5

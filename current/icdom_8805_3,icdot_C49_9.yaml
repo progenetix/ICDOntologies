@@ -1,11 +1,11 @@
 equivalents:
-- term: None
-  term_id: ncit:C27096
-- term_id: seer:24000
+- label: None
+  id: ncit:C27096
+- id: seer:24000
 examples:
-- labels: Undifferentiated Sarcoma
+- label: Undifferentiated Sarcoma
 input:
-- term: Undifferentiated sarcoma
-  term_id: icdom:8805_3
-- term: connective and soft tissue, NOS
-  term_id: icdot:C49_9
+- label: Undifferentiated sarcoma
+  id: icdom:8805_3
+- label: connective and soft tissue, NOS
+  id: icdot:C49_9

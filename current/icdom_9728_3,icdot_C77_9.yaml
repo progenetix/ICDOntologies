@@ -1,11 +1,11 @@
 equivalents:
-- term: B Lymphoblastic Leukemia/Lymphoma
-  term_id: ncit:C8936
-- term_id: seer:33041
+- label: B Lymphoblastic Leukemia/Lymphoma
+  id: ncit:C8936
+- id: seer:33041
 examples:
-- labels: lymphoblastic lymphoma [B-cell]
+- label: lymphoblastic lymphoma [B-cell]
 input:
-- term: Precursor B-cell lymphoblastic lymphoma
-  term_id: icdom:9728_3
-- term: Lymph nodes, NOS
-  term_id: icdot:C77_9
+- label: Precursor B-cell lymphoblastic lymphoma
+  id: icdom:9728_3
+- label: Lymph nodes, NOS
+  id: icdot:C77_9

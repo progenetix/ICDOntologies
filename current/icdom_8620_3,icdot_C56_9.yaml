@@ -1,11 +1,11 @@
 equivalents:
-- term: ''
-  term_id: 'ncit:'
-- term_id: seer:27040
+- label: ''
+  id: 'ncit:'
+- id: seer:27040
 examples:
-- labels: Granulosa cell tumor
+- label: Granulosa cell tumor
 input:
-- term: Granulosa cell tumor, malignant
-  term_id: icdom:8620_3
-- term: ovary
-  term_id: icdot:C56_9
+- label: Granulosa cell tumor, malignant
+  id: icdom:8620_3
+- label: ovary
+  id: icdot:C56_9

@@ -1,11 +1,11 @@
 equivalents:
-- term: Renal Pelvis Urothelial Carcinoma
-  term_id: ncit:C7355
-- term_id: seer:29020
+- label: Renal Pelvis Urothelial Carcinoma
+  id: ncit:C7355
+- id: seer:29020
 examples:
-- labels: Urothelial carcinoma
+- label: Urothelial carcinoma
 input:
-- term: Transitional cell carcinoma, NOS
-  term_id: icdom:8120_3
-- term: renal pelvis, ureter
-  term_id: icdot:C65_9
+- label: Transitional cell carcinoma, NOS
+  id: icdom:8120_3
+- label: renal pelvis, ureter
+  id: icdot:C65_9

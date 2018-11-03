@@ -1,11 +1,11 @@
 equivalents:
-- term: None
-  term_id: ncit:C49012
-- term_id: seer:24000
+- label: None
+  id: ncit:C49012
+- id: seer:24000
 examples:
-- labels: Myofibroblastoma
+- label: Myofibroblastoma
 input:
-- term: Myofibroblastoma
-  term_id: icdom:8825_0
-- term: connective and soft tissue, NOS
-  term_id: icdot:C49_9
+- label: Myofibroblastoma
+  id: icdom:8825_0
+- label: connective and soft tissue, NOS
+  id: icdot:C49_9

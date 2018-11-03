@@ -1,11 +1,11 @@
 equivalents:
-- term: None
-  term_id: ncit:C27096
-- term_id: seer:21071
+- label: None
+  id: ncit:C27096
+- id: seer:21071
 examples:
-- labels: embryonal sarcoma [liver, undifferentiated]
+- label: embryonal sarcoma [liver, undifferentiated]
 input:
-- term: Embryonal sarcoma
-  term_id: icdom:8991_3
-- term: Liver
-  term_id: icdot:C22_0
+- label: Embryonal sarcoma
+  id: icdom:8991_3
+- label: Liver
+  id: icdot:C22_0

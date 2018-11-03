@@ -1,11 +1,11 @@
 equivalents:
-- term: Atypical Adenoma
-  term_id: ncit:C7559
-- term_id: seer:21052
+- label: Atypical Adenoma
+  id: ncit:C7559
+- id: seer:21052
 examples:
-- labels: ulcerative colitis, dysplastic tissue [microsatellite stable]
+- label: ulcerative colitis, dysplastic tissue [microsatellite stable]
 input:
-- term: Atypical adenoma
-  term_id: icdom:8140_1
-- term: Rectum, NOS
-  term_id: icdot:C20_9
+- label: Atypical adenoma
+  id: icdom:8140_1
+- label: Rectum, NOS
+  id: icdot:C20_9

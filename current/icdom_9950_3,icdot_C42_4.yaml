@@ -1,11 +1,11 @@
 equivalents:
-- term: Polycythemia Vera
-  term_id: ncit:C3336
-- term_id: seer:35023
+- label: Polycythemia Vera
+  id: ncit:C3336
+- id: seer:35023
 examples:
-- labels: polycythemia vera
+- label: polycythemia vera
 input:
-- term: Polycythemia vera
-  term_id: icdom:9950_3
-- term: Hematopoietic system, NOS
-  term_id: icdot:C42_4
+- label: Polycythemia vera
+  id: icdom:9950_3
+- label: Hematopoietic system, NOS
+  id: icdot:C42_4

@@ -1,11 +1,11 @@
 equivalents:
-- term: Pleuropulmonary Blastoma
-  term_id: ncit:C5669
-- term_id: seer:22030
+- label: Pleuropulmonary Blastoma
+  id: ncit:C5669
+- id: seer:22030
 examples:
-- labels: pleuropulmonary blastoma
+- label: pleuropulmonary blastoma
 input:
-- term: Pleuropulmonary blastoma
-  term_id: icdom:8973_3
-- term: lung and bronchus
-  term_id: icdot:C34_9
+- label: Pleuropulmonary blastoma
+  id: icdom:8973_3
+- label: lung and bronchus
+  id: icdot:C34_9

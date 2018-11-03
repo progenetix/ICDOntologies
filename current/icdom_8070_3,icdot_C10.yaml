@@ -1,11 +1,11 @@
 equivalents:
-- term: Laryngeal squamous cell carcinoma
-  term_id: ncit:C4044
-- term_id: seer:20080
+- label: Laryngeal squamous cell carcinoma
+  id: ncit:C4044
+- id: seer:20080
 examples:
-- labels: Laryngeal squamous cell carcinoma [cell line PCI-04B]
+- label: Laryngeal squamous cell carcinoma [cell line PCI-04B]
 input:
-- term: Squamous cell carcinoma, NOS
-  term_id: icdom:8070_3
-- term: Oropharynx
-  term_id: icdot:C10
+- label: Squamous cell carcinoma, NOS
+  id: icdom:8070_3
+- label: Oropharynx
+  id: icdot:C10

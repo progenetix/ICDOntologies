@@ -1,11 +1,11 @@
 equivalents:
-- term: Salivary Gland Adenoid Cystic Carcinoma
-  term_id: ncit:C8026
-- term_id: seer:20030
+- label: Salivary Gland Adenoid Cystic Carcinoma
+  id: ncit:C8026
+- id: seer:20030
 examples:
-- labels: Adenoid cystic carcinoma
+- label: Adenoid cystic carcinoma
 input:
-- term: Adenoid cystic carcinoma
-  term_id: icdom:8200_3
-- term: salivary gland, NOS
-  term_id: icdot:C08_9
+- label: Adenoid cystic carcinoma
+  id: icdom:8200_3
+- label: salivary gland, NOS
+  id: icdot:C08_9

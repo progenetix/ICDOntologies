@@ -1,11 +1,11 @@
 equivalents:
-- term: Endometrial Adenocarcinoma
-  term_id: ncit:C7359
-- term_id: seer:27030
+- label: Endometrial Adenocarcinoma
+  id: ncit:C7359
+- id: seer:27030
 examples:
-- labels: Endometrial adenocarcinoma [cell line Ishikawa (Heraklio) 02 ER-]
+- label: Endometrial adenocarcinoma [cell line Ishikawa (Heraklio) 02 ER-]
 input:
-- term: Endometrioid adenocarcinoma, secretory variant
-  term_id: icdom:8382_3
-- term: uterus, nos
-  term_id: icdot:C55_9
+- label: Endometrioid adenocarcinoma, secretory variant
+  id: icdom:8382_3
+- label: uterus, nos
+  id: icdot:C55_9

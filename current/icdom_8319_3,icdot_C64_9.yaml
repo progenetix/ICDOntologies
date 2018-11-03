@@ -1,11 +1,11 @@
 equivalents:
-- term: Carcinoma of the Collecting Ducts of Bellini
-  term_id: ncit:C6194
-- term_id: seer:29020
+- label: Carcinoma of the Collecting Ducts of Bellini
+  id: ncit:C6194
+- id: seer:29020
 examples:
-- labels: Renal medullary carcinoma
+- label: Renal medullary carcinoma
 input:
-- term: Collecting duct carcinoma
-  term_id: icdom:8319_3
-- term: kidney
-  term_id: icdot:C64_9
+- label: Collecting duct carcinoma
+  id: icdom:8319_3
+- label: kidney
+  id: icdot:C64_9

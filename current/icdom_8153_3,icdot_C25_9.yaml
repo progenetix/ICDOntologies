@@ -1,11 +1,11 @@
 equivalents:
-- term: ''
-  term_id: 'ncit:'
-- term_id: seer:21100
+- label: ''
+  id: 'ncit:'
+- id: seer:21100
 examples:
-- labels: neuroendocrine tumour [pancreas, gastrinoma, Liver metastasis, functional]
+- label: neuroendocrine tumour [pancreas, gastrinoma, Liver metastasis, functional]
 input:
-- term: Gastrinoma, malignant
-  term_id: icdom:8153_3
-- term: Pancreas, NOS
-  term_id: icdot:C25_9
+- label: Gastrinoma, malignant
+  id: icdom:8153_3
+- label: Pancreas, NOS
+  id: icdot:C25_9

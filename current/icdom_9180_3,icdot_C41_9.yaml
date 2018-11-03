@@ -1,11 +1,11 @@
 equivalents:
-- term: Osteosarcoma
-  term_id: ncit:C9145
-- term_id: seer:23000
+- label: Osteosarcoma
+  id: ncit:C9145
+- id: seer:23000
 examples:
-- labels: osteosarcoma [cell line  Hs 707(A).T]
+- label: osteosarcoma [cell line  Hs 707(A).T]
 input:
-- term: Osteosarcoma, NOS
-  term_id: icdom:9180_3
-- term: bone, NOS
-  term_id: icdot:C41_9
+- label: Osteosarcoma, NOS
+  id: icdom:9180_3
+- label: bone, NOS
+  id: icdot:C41_9

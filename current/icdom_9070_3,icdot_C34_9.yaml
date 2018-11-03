@@ -1,11 +1,11 @@
 equivalents:
-- term: Embryonal Carcinoma
-  term_id: ncit:C3752
-- term_id: seer:22030
+- label: Embryonal Carcinoma
+  id: ncit:C3752
+- id: seer:22030
 examples:
-- labels: embryonal carcinoma
+- label: embryonal carcinoma
 input:
-- term: Embryonal carcinoma, NOS
-  term_id: icdom:9070_3
-- term: lung and bronchus
-  term_id: icdot:C34_9
+- label: Embryonal carcinoma, NOS
+  id: icdom:9070_3
+- label: lung and bronchus
+  id: icdot:C34_9

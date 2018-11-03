@@ -1,11 +1,11 @@
 equivalents:
-- term: Rhabdomyosarcoma
-  term_id: ncit:C3359
-- term_id: seer:24000
+- label: Rhabdomyosarcoma
+  id: ncit:C3359
+- id: seer:24000
 examples:
-- labels: pediatric rhabdomyosarcoma
+- label: pediatric rhabdomyosarcoma
 input:
-- term: Rhabdomyosarcoma, NOS
-  term_id: icdom:8900_3
-- term: connective and soft tissue, NOS
-  term_id: icdot:C49_9
+- label: Rhabdomyosarcoma, NOS
+  id: icdom:8900_3
+- label: connective and soft tissue, NOS
+  id: icdot:C49_9

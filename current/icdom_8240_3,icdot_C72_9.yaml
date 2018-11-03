@@ -1,11 +1,11 @@
 equivalents:
-- term: Midgut carcinoid tumor
-  term_id: ncit:C6422
-- term_id: seer:31040
+- label: Midgut carcinoid tumor
+  id: ncit:C6422
+- id: seer:31040
 examples:
-- labels: midgut carcinoid tumor [cell line H-STS]
+- label: midgut carcinoid tumor [cell line H-STS]
 input:
-- term: Carcinoid tumor, NOS
-  term_id: icdom:8240_3
-- term: Nervous system, NOS
-  term_id: icdot:C72_9
+- label: Carcinoid tumor, NOS
+  id: icdom:8240_3
+- label: Nervous system, NOS
+  id: icdot:C72_9

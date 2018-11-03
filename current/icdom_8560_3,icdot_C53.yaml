@@ -1,11 +1,11 @@
 equivalents:
-- term: Cervical adenosquamous carcinoma
-  term_id: ncit:C4519
-- term_id: seer:27010
+- label: Cervical adenosquamous carcinoma
+  id: ncit:C4519
+- id: seer:27010
 examples:
-- labels: Cervical adenosquamous carcinoma [cell line CC-8]
+- label: Cervical adenosquamous carcinoma [cell line CC-8]
 input:
-- term: Adenosquamous carcinoma
-  term_id: icdom:8560_3
-- term: cervix uteri
-  term_id: icdot:C53
+- label: Adenosquamous carcinoma
+  id: icdom:8560_3
+- label: cervix uteri
+  id: icdot:C53

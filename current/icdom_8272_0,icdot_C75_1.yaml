@@ -1,11 +1,11 @@
 equivalents:
-- term: Pituitary Gland Adenoma
-  term_id: ncit:C3329
-- term_id: seer:32020
+- label: Pituitary Gland Adenoma
+  id: ncit:C3329
+- id: seer:32020
 examples:
-- labels: ptituitary adenoma [endocrinologically inactive, primary]
+- label: ptituitary adenoma [endocrinologically inactive, primary]
 input:
-- term: Pituitary adenoma, NOS
-  term_id: icdom:8272_0
-- term: pituitary gland
-  term_id: icdot:C75_1
+- label: Pituitary adenoma, NOS
+  id: icdom:8272_0
+- label: pituitary gland
+  id: icdot:C75_1

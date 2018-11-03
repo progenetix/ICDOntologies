@@ -1,11 +1,11 @@
 equivalents:
-- term: Primary Cutaneous Anaplastic Large Cell Lymphoma
-  term_id: ncit:C6860
-- term_id: seer:33042
+- label: Primary Cutaneous Anaplastic Large Cell Lymphoma
+  id: ncit:C6860
+- id: seer:33042
 examples:
-- labels: CD30+ LPD (ALCL type)
+- label: CD30+ LPD (ALCL type)
 input:
-- term: Primary cutaneous CD30+ T-cell lymphoproliferative disorder
-  term_id: icdom:9718_3
-- term: Skin, NOS
-  term_id: icdot:C44_9
+- label: Primary cutaneous CD30+ T-cell lymphoproliferative disorder
+  id: icdom:9718_3
+- label: Skin, NOS
+  id: icdot:C44_9

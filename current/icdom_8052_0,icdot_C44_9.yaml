@@ -1,11 +1,11 @@
 equivalents:
-- term: Squamous Papilloma
-  term_id: ncit:C3712
-- term_id: seer:99999
+- label: Squamous Papilloma
+  id: ncit:C3712
+- id: seer:99999
 examples:
-- labels: Squamous cell papilloma
+- label: Squamous cell papilloma
 input:
-- term: Squamous cell papilloma, NOS
-  term_id: icdom:8052_0
-- term: Skin, NOS
-  term_id: icdot:C44_9
+- label: Squamous cell papilloma, NOS
+  id: icdom:8052_0
+- label: Skin, NOS
+  id: icdot:C44_9

@@ -1,11 +1,11 @@
 equivalents:
-- term: Pleural biphasic mesothelioma
-  term_id: ncit:C45665
-- term_id: seer:36010
+- label: Pleural biphasic mesothelioma
+  id: ncit:C45665
+- id: seer:36010
 examples:
-- labels: Pleural biphasic mesothelioma [cell line NCI-H2452]
+- label: Pleural biphasic mesothelioma [cell line NCI-H2452]
 input:
-- term: Mesothelioma, malignant
-  term_id: icdom:9050_3
-- term: lung and bronchus
-  term_id: icdot:C34
+- label: Mesothelioma, malignant
+  id: icdom:9050_3
+- label: lung and bronchus
+  id: icdot:C34

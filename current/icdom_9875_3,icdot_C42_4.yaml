@@ -1,11 +1,11 @@
 equivalents:
-- term: ''
-  term_id: 'ncit:'
-- term_id: seer:35022
+- label: ''
+  id: 'ncit:'
+- id: seer:35022
 examples:
-- labels: Chronic myelogeneous leukemia [megekaryocytic blast crisis]
+- label: Chronic myelogeneous leukemia [megekaryocytic blast crisis]
 input:
-- term: Chronic myelogenous leukemia, BCR/ABL  positive
-  term_id: icdom:9875_3
-- term: Hematopoietic system, NOS
-  term_id: icdot:C42_4
+- label: Chronic myelogenous leukemia, BCR/ABL  positive
+  id: icdom:9875_3
+- label: Hematopoietic system, NOS
+  id: icdot:C42_4

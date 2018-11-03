@@ -1,11 +1,11 @@
 equivalents:
-- term: Primary Effusion Lymphoma
-  term_id: ncit:C6915
-- term_id: seer:33042
+- label: Primary Effusion Lymphoma
+  id: ncit:C6915
+- id: seer:33042
 examples:
-- labels: Effusion Lymphoma [Ascites]
+- label: Effusion Lymphoma [Ascites]
 input:
-- term: Primary effusion lymphoma
-  term_id: icdom:9678_3
-- term: retroperitoneum and peritoneum
-  term_id: icdot:C48_9
+- label: Primary effusion lymphoma
+  id: icdom:9678_3
+- label: retroperitoneum and peritoneum
+  id: icdot:C48_9

@@ -1,11 +1,11 @@
 equivalents:
-- term: Chondrosarcoma
-  term_id: ncit:C2946
-- term_id: seer:23000
+- label: Chondrosarcoma
+  id: ncit:C2946
+- id: seer:23000
 examples:
-- labels: chondrosarcoma
+- label: chondrosarcoma
 input:
-- term: Chondrosarcoma, NOS
-  term_id: icdom:9220_3
-- term: bones and joints
-  term_id: icdot:C40_0
+- label: Chondrosarcoma, NOS
+  id: icdom:9220_3
+- label: bones and joints
+  id: icdot:C40_0

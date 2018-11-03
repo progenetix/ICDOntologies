@@ -1,11 +1,11 @@
 equivalents:
-- term: None
-  term_id: ncit:C8997
-- term_id: seer:99999
+- label: None
+  id: ncit:C8997
+- id: seer:99999
 examples:
-- labels: cancers of unknown primary
+- label: cancers of unknown primary
 input:
-- term: Neoplasm, malignant
-  term_id: icdom:8000_3
-- term: ill-defined
-  term_id: icdot:C76_9
+- label: Neoplasm, malignant
+  id: icdom:8000_3
+- label: ill-defined
+  id: icdot:C76_9

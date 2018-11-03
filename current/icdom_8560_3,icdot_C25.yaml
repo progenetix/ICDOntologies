@@ -1,11 +1,11 @@
 equivalents:
-- term: Pancreatic adenosquamous carcinoma
-  term_id: ncit:C5721
-- term_id: seer:21100
+- label: Pancreatic adenosquamous carcinoma
+  id: ncit:C5721
+- id: seer:21100
 examples:
-- labels: Pancreatic adenosquamous carcinoma [cell line KP-3]
+- label: Pancreatic adenosquamous carcinoma [cell line KP-3]
 input:
-- term: Adenosquamous carcinoma
-  term_id: icdom:8560_3
-- term: pancreas
-  term_id: icdot:C25
+- label: Adenosquamous carcinoma
+  id: icdom:8560_3
+- label: pancreas
+  id: icdot:C25

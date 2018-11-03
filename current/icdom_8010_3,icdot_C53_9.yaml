@@ -1,11 +1,11 @@
 equivalents:
-- term: Carcinoma
-  term_id: ncit:C2916
-- term_id: seer:27010
+- label: Carcinoma
+  id: ncit:C2916
+- id: seer:27010
 examples:
-- labels: carcinoma, NOS [cervix, cell line C4I]
+- label: carcinoma, NOS [cervix, cell line C4I]
 input:
-- term: Carcinoma, NOS
-  term_id: icdom:8010_3
-- term: cervix uteri
-  term_id: icdot:C53_9
+- label: Carcinoma, NOS
+  id: icdom:8010_3
+- label: cervix uteri
+  id: icdot:C53_9

@@ -1,11 +1,11 @@
 equivalents:
-- term: None
-  term_id: ncit:C27940
-- term_id: seer:21020
+- label: None
+  id: ncit:C27940
+- id: seer:21020
 examples:
-- labels: Gastrointestinal stromal tumor, uncertain malignant potential
+- label: Gastrointestinal stromal tumor, uncertain malignant potential
 input:
-- term: Gastrointestinal stromal tumor, NOS
-  term_id: icdom:8936_1
-- term: stomach
-  term_id: icdot:C16_9
+- label: Gastrointestinal stromal tumor, NOS
+  id: icdom:8936_1
+- label: stomach
+  id: icdot:C16_9

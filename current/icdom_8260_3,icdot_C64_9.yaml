@@ -1,11 +1,11 @@
 equivalents:
-- term: Thyroid Gland Papillary Carcinoma
-  term_id: ncit:C4035
-- term_id: seer:29020
+- label: Thyroid Gland Papillary Carcinoma
+  id: ncit:C4035
+- id: seer:29020
 examples:
-- labels: Papillary renal carcinoma [lung metastasis derived cell line]
+- label: Papillary renal carcinoma [lung metastasis derived cell line]
 input:
-- term: Papillary adenocarcinoma, NOS
-  term_id: icdom:8260_3
-- term: kidney
-  term_id: icdot:C64_9
+- label: Papillary adenocarcinoma, NOS
+  id: icdom:8260_3
+- label: kidney
+  id: icdot:C64_9

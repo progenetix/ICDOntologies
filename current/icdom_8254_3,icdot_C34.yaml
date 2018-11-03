@@ -1,11 +1,11 @@
 equivalents:
-- term: Bronchioloalveolar carcinoma
-  term_id: ncit:C2923
-- term_id: seer:22030
+- label: Bronchioloalveolar carcinoma
+  id: ncit:C2923
+- id: seer:22030
 examples:
-- labels: Bronchioalveolar carcinoma [cell line NCI-H358]
+- label: Bronchioalveolar carcinoma [cell line NCI-H358]
 input:
-- term: Bronchiolo-alveolar carcinoma, mixed mucinous and non-mucinous
-  term_id: icdom:8254_3
-- term: lung and bronchus
-  term_id: icdot:C34
+- label: Bronchiolo-alveolar carcinoma, mixed mucinous and non-mucinous
+  id: icdom:8254_3
+- label: lung and bronchus
+  id: icdot:C34

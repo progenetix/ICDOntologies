@@ -1,11 +1,11 @@
 equivalents:
-- term: Fibroblastic Osteosarcoma
-  term_id: ncit:C4020
-- term_id: seer:23000
+- label: Fibroblastic Osteosarcoma
+  id: ncit:C4020
+- id: seer:23000
 examples:
-- labels: Osteosarcoma, Fibroblastic
+- label: Osteosarcoma, Fibroblastic
 input:
-- term: Fibroblastic osteosarcoma
-  term_id: icdom:9182_3
-- term: bones and joints
-  term_id: icdot:C40_0
+- label: Fibroblastic osteosarcoma
+  id: icdom:9182_3
+- label: bones and joints
+  id: icdot:C40_0

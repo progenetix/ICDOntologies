@@ -1,11 +1,11 @@
 equivalents:
-- term: Follicular Lymphoma
-  term_id: ncit:C3209
-- term_id: seer:33041
+- label: Follicular Lymphoma
+  id: ncit:C3209
+- id: seer:33041
 examples:
-- labels: Follicular lymphoma partial infiltration
+- label: Follicular lymphoma partial infiltration
 input:
-- term: Follicular lymphoma, NOS
-  term_id: icdom:9690_3
-- term: Hematopoietic system, NOS
-  term_id: icdot:C42_4
+- label: Follicular lymphoma, NOS
+  id: icdom:9690_3
+- label: Hematopoietic system, NOS
+  id: icdot:C42_4

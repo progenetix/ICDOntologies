@@ -1,11 +1,11 @@
 equivalents:
-- term: Liposarcoma
-  term_id: ncit:C3194
-- term_id: seer:24000
+- label: Liposarcoma
+  id: ncit:C3194
+- id: seer:24000
 examples:
-- labels: Liposarcoma NOS [cell line LS14]
+- label: Liposarcoma NOS [cell line LS14]
 input:
-- term: Liposarcoma, NOS
-  term_id: icdom:8850_3
-- term: connective and soft tissue, NOS
-  term_id: icdot:C49_9
+- label: Liposarcoma, NOS
+  id: icdom:8850_3
+- label: connective and soft tissue, NOS
+  id: icdot:C49_9

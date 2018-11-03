@@ -1,11 +1,11 @@
 equivalents:
-- term: Colon Adenocarcinoma
-  term_id: ncit:C4349
-- term_id: seer:21049
+- label: Colon Adenocarcinoma
+  id: ncit:C4349
+- id: seer:21049
 examples:
-- labels: colorectal carcinoma [left, well differentiated]
+- label: colorectal carcinoma [left, well differentiated]
 input:
-- term: Adenocarcinoma, intestinal type
-  term_id: icdom:8144_3
-- term: Colon, NOS
-  term_id: icdot:C18_9
+- label: Adenocarcinoma, intestinal type
+  id: icdom:8144_3
+- label: Colon, NOS
+  id: icdot:C18_9

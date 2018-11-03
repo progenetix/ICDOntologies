@@ -1,11 +1,11 @@
 equivalents:
-- term: Waldenstrom Macroglobulinemia
-  term_id: ncit:C80307
-- term_id: seer:34000
+- label: Waldenstrom Macroglobulinemia
+  id: ncit:C80307
+- id: seer:34000
 examples:
-- labels: Waldenstrom macroglobulinemia
+- label: Waldenstrom macroglobulinemia
 input:
-- term: Waldenstrom macroglobulinemia
-  term_id: icdom:9761_3
-- term: Hematopoietic system, NOS
-  term_id: icdot:C42_4
+- label: Waldenstrom macroglobulinemia
+  id: icdom:9761_3
+- label: Hematopoietic system, NOS
+  id: icdot:C42_4

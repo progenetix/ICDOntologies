@@ -1,11 +1,11 @@
 equivalents:
-- term: None
-  term_id: ncit:C7690
-- term_id: seer:26000
+- label: None
+  id: ncit:C7690
+- id: seer:26000
 examples:
-- labels: Infiltrating duct and lobular carcinoma
+- label: Infiltrating duct and lobular carcinoma
 input:
-- term: Infiltrating duct and lobular carcinoma
-  term_id: icdom:8522_3
-- term: Breast, NOS
-  term_id: icdot:C50_9
+- label: Infiltrating duct and lobular carcinoma
+  id: icdom:8522_3
+- label: Breast, NOS
+  id: icdot:C50_9

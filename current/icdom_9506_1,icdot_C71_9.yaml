@@ -1,11 +1,11 @@
 equivalents:
-- term: Cerebellar Liponeurocytoma
-  term_id: ncit:C6905
-- term_id: seer:31010
+- label: Cerebellar Liponeurocytoma
+  id: ncit:C6905
+- id: seer:31010
 examples:
-- labels: neurocytoma
+- label: neurocytoma
 input:
-- term: Central neurocytoma
-  term_id: icdom:9506_1
-- term: brain, NOS
-  term_id: icdot:C71_9
+- label: Central neurocytoma
+  id: icdom:9506_1
+- label: brain, NOS
+  id: icdot:C71_9

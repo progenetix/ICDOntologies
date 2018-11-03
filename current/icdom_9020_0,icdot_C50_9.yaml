@@ -1,11 +1,11 @@
 equivalents:
-- term: ''
-  term_id: 'ncit:'
-- term_id: seer:26000
+- label: ''
+  id: 'ncit:'
+- id: seer:26000
 examples:
-- labels: phyllodes tumor [breast, Benign]
+- label: phyllodes tumor [breast, Benign]
 input:
-- term: Phyllodes tumor, benign
-  term_id: icdom:9020_0
-- term: Breast, NOS
-  term_id: icdot:C50_9
+- label: Phyllodes tumor, benign
+  id: icdom:9020_0
+- label: Breast, NOS
+  id: icdot:C50_9

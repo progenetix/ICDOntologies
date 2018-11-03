@@ -1,11 +1,11 @@
 equivalents:
-- term: Pilocytic Astrocytoma
-  term_id: ncit:C4047
-- term_id: seer:31010
+- label: Pilocytic Astrocytoma
+  id: ncit:C4047
+- id: seer:31010
 examples:
-- labels: Astrocytoma, pilocytic/juvenile [familial]
+- label: Astrocytoma, pilocytic/juvenile [familial]
 input:
-- term: Pilocytic astrocytoma
-  term_id: icdom:9421_1
-- term: brain, NOS
-  term_id: icdot:C71_9
+- label: Pilocytic astrocytoma
+  id: icdom:9421_1
+- label: brain, NOS
+  id: icdot:C71_9

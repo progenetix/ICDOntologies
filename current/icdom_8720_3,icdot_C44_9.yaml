@@ -1,11 +1,11 @@
 equivalents:
-- term: Melanoma
-  term_id: ncit:C3224
-- term_id: seer:25010
+- label: Melanoma
+  id: ncit:C3224
+- id: seer:25010
 examples:
-- labels: Melanoma, polyploid
+- label: Melanoma, polyploid
 input:
-- term: Malignant melanoma, NOS
-  term_id: icdom:8720_3
-- term: Skin, NOS
-  term_id: icdot:C44_9
+- label: Malignant melanoma, NOS
+  id: icdom:8720_3
+- label: Skin, NOS
+  id: icdot:C44_9

@@ -1,12 +1,12 @@
 equivalents:
-- term: Adenocarcinoma
-  term_id: ncit:C2852
-- term_id: seer:22030
+- label: Adenocarcinoma
+  id: ncit:C2852
+- id: seer:22030
 examples:
-- labels: Pulmonary adenocarcinoma [Mixed AC, papillary, tubular, bronchioloalveolar,
+- label: Pulmonary adenocarcinoma [Mixed AC, papillary, tubular, bronchioloalveolar,
     solid, mucinous, CGH in adenocarcinomacomponent]
 input:
-- term: Adenocarcinoma, NOS
-  term_id: icdom:8140_3
-- term: lung and bronchus
-  term_id: icdot:C34_9
+- label: Adenocarcinoma, NOS
+  id: icdom:8140_3
+- label: lung and bronchus
+  id: icdot:C34_9

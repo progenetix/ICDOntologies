@@ -1,11 +1,11 @@
 equivalents:
-- term: ''
-  term_id: 'ncit:'
-- term_id: seer:20050
+- label: ''
+  id: 'ncit:'
+- id: seer:20050
 examples:
-- labels: Ameloblastoma [Plexiform]
+- label: Ameloblastoma [Plexiform]
 input:
-- term: Ameloblastoma, malignant
-  term_id: icdom:9310_3
-- term: mouth, NOS
-  term_id: icdot:C06_9
+- label: Ameloblastoma, malignant
+  id: icdom:9310_3
+- label: mouth, NOS
+  id: icdot:C06_9

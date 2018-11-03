@@ -1,11 +1,11 @@
 equivalents:
-- term: None
-  term_id: ncit:C3750
-- term_id: seer:24000
+- label: None
+  id: ncit:C3750
+- id: seer:24000
 examples:
-- labels: Alveolar soft part sarcoma
+- label: Alveolar soft part sarcoma
 input:
-- term: Alveolar soft part sarcoma
-  term_id: icdom:9581_3
-- term: connective and soft tissue, NOS
-  term_id: icdot:C49_9
+- label: Alveolar soft part sarcoma
+  id: icdom:9581_3
+- label: connective and soft tissue, NOS
+  id: icdot:C49_9

@@ -1,11 +1,11 @@
 equivalents:
-- term: ''
-  term_id: 'ncit:'
-- term_id: seer:29040
+- label: ''
+  id: 'ncit:'
+- id: seer:29040
 examples:
-- labels: Urothelial papilloma, NOS
+- label: Urothelial papilloma, NOS
 input:
-- term: Papillary transitional cell neoplasm of low malignant potential
-  term_id: icdom:8130_1
-- term: urinary bladder
-  term_id: icdot:C67_0
+- label: Papillary transitional cell neoplasm of low malignant potential
+  id: icdom:8130_1
+- label: urinary bladder
+  id: icdot:C67_0

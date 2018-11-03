@@ -1,11 +1,11 @@
 equivalents:
-- term: ''
-  term_id: 'ncit:'
-- term_id: seer:33042
+- label: ''
+  id: 'ncit:'
+- id: seer:33042
 examples:
-- labels: Primary mediastinal B-NHL
+- label: Primary mediastinal B-NHL
 input:
-- term: Mediastinal large B-cell lymphoma
-  term_id: icdom:9679_3
-- term: mediastinum
-  term_id: icdot:C38_9
+- label: Mediastinal large B-cell lymphoma
+  id: icdom:9679_3
+- label: mediastinum
+  id: icdot:C38_9

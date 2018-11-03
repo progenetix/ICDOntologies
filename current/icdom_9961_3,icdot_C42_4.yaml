@@ -1,11 +1,11 @@
 equivalents:
-- term: Primary Myelofibrosis
-  term_id: ncit:C2862
-- term_id: seer:35023
+- label: Primary Myelofibrosis
+  id: ncit:C2862
+- id: seer:35023
 examples:
-- labels: Idiopathic myelofibrosis
+- label: Idiopathic myelofibrosis
 input:
-- term: Primary myelofibrosis
-  term_id: icdom:9961_3
-- term: Hematopoietic system, NOS
-  term_id: icdot:C42_4
+- label: Primary myelofibrosis
+  id: icdom:9961_3
+- label: Hematopoietic system, NOS
+  id: icdot:C42_4

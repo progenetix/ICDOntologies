@@ -1,11 +1,11 @@
 equivalents:
-- term: Atypical Lipomatous Tumor
-  term_id: ncit:C6505
-- term_id: seer:24000
+- label: Atypical Lipomatous Tumor
+  id: ncit:C6505
+- id: seer:24000
 examples:
-- labels: Liposarcoma, well differentiated
+- label: Liposarcoma, well differentiated
 input:
-- term: Liposarcoma, well differentiated
-  term_id: icdom:8851_3
-- term: connective and soft tissue, NOS
-  term_id: icdot:C49_9
+- label: Liposarcoma, well differentiated
+  id: icdom:8851_3
+- label: connective and soft tissue, NOS
+  id: icdot:C49_9

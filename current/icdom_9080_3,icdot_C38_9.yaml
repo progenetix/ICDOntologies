@@ -1,11 +1,11 @@
 equivalents:
-- term: Immature Teratoma
-  term_id: ncit:C4286
-- term_id: seer:22060
+- label: Immature Teratoma
+  id: ncit:C4286
+- id: seer:22060
 examples:
-- labels: mediastinal germ cell tumor [immature teratoma, stage I]
+- label: mediastinal germ cell tumor [immature teratoma, stage I]
 input:
-- term: Teratoma, malignant, NOS
-  term_id: icdom:9080_3
-- term: mediastinum
-  term_id: icdot:C38_9
+- label: Teratoma, malignant, NOS
+  id: icdom:9080_3
+- label: mediastinum
+  id: icdot:C38_9

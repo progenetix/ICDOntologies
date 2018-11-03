@@ -1,11 +1,11 @@
 equivalents:
-- term: None
-  term_id: ncit:C3778
-- term_id: seer:27040
+- label: None
+  id: ncit:C3778
+- id: seer:27040
 examples:
-- labels: Fallopian tube tumor
+- label: Fallopian tube tumor
 input:
-- term: Serous cystadenocarcinoma, NOS
-  term_id: icdom:8441_3
-- term: fallopian tube
-  term_id: icdot:C54_0
+- label: Serous cystadenocarcinoma, NOS
+  id: icdom:8441_3
+- label: fallopian tube
+  id: icdot:C54_0

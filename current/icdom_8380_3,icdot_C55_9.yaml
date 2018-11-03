@@ -1,11 +1,11 @@
 equivalents:
-- term: None
-  term_id: ncit:C3769
-- term_id: seer:27030
+- label: None
+  id: ncit:C3769
+- id: seer:27030
 examples:
-- labels: Endometrial
+- label: Endometrial
 input:
-- term: Endometrioid adenocarcinoma, NOS
-  term_id: icdom:8380_3
-- term: uterus, NOS
-  term_id: icdot:C55_9
+- label: Endometrioid adenocarcinoma, NOS
+  id: icdom:8380_3
+- label: uterus, NOS
+  id: icdot:C55_9

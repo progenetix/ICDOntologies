@@ -1,11 +1,11 @@
 equivalents:
-- term: Tetratoma
-  term_id: ncit:C3403
-- term_id: seer:24000
+- label: Tetratoma
+  id: ncit:C3403
+- id: seer:24000
 examples:
-- labels: germ cell tumor [mature and immature teratoma]
+- label: germ cell tumor [mature and immature teratoma]
 input:
-- term: Teratoma, malignant, NOS
-  term_id: icdom:9080_3
-- term: connective and soft tissue, NOS
-  term_id: icdot:C49_9
+- label: Teratoma, malignant, NOS
+  id: icdom:9080_3
+- label: connective and soft tissue, NOS
+  id: icdot:C49_9

@@ -1,11 +1,11 @@
 equivalents:
-- term: ''
-  term_id: 'ncit:'
-- term_id: seer:35013
+- label: ''
+  id: 'ncit:'
+- id: seer:35013
 examples:
-- labels: Prolymphocytic leukemia, B-cell type
+- label: Prolymphocytic leukemia, B-cell type
 input:
-- term: Prolymphocytic leukemia, B-cell type
-  term_id: icdom:9833_3
-- term: Hematopoietic system, NOS
-  term_id: icdot:C42_4
+- label: Prolymphocytic leukemia, B-cell type
+  id: icdom:9833_3
+- label: Hematopoietic system, NOS
+  id: icdot:C42_4

@@ -1,11 +1,11 @@
 equivalents:
-- term: None
-  term_id: ncit:C4160
-- term_id: seer:32010
+- label: None
+  id: ncit:C4160
+- id: seer:32010
 examples:
-- labels: Fetal adenoma of the thyroid
+- label: Fetal adenoma of the thyroid
 input:
-- term: Microfollicular adenoma, NOS
-  term_id: icdom:8333_0
-- term: thyroid gland
-  term_id: icdot:C73_9
+- label: Microfollicular adenoma, NOS
+  id: icdom:8333_0
+- label: thyroid gland
+  id: icdot:C73_9

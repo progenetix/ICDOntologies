@@ -1,11 +1,11 @@
 equivalents:
-- term: Transformed cell line
-  term_id: ncit:None
-- term_id: seer:22030
+- label: Transformed cell line
+  id: ncit:None
+- id: seer:22030
 examples:
-- labels: transformed cell line WI-38 VA13 subline 2RA
+- label: transformed cell line WI-38 VA13 subline 2RA
 input:
-- term: not in ICD-O (e.g. non-neoplastic, reference)
-  term_id: icdom:0000_0
-- term: lung and bronchus
-  term_id: icdot:C34
+- label: not in ICD-O (e.g. non-neoplastic, reference)
+  id: icdom:0000_0
+- label: lung and bronchus
+  id: icdot:C34

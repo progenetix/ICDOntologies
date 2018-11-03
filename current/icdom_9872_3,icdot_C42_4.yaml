@@ -1,11 +1,11 @@
 equivalents:
-- term: Acute Myeloid Leukemia
-  term_id: ncit:C3171
-- term_id: seer:35021
+- label: Acute Myeloid Leukemia
+  id: ncit:C3171
+- id: seer:35021
 examples:
-- labels: Acute myeloblastic leukemia with minimal differentiation (FAB type M0)
+- label: Acute myeloblastic leukemia with minimal differentiation (FAB type M0)
 input:
-- term: Acute myeloid leukemia, minimal differentiation
-  term_id: icdom:9872_3
-- term: Hematopoietic system, NOS
-  term_id: icdot:C42_4
+- label: Acute myeloid leukemia, minimal differentiation
+  id: icdom:9872_3
+- label: Hematopoietic system, NOS
+  id: icdot:C42_4

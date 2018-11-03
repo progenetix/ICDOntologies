@@ -1,11 +1,11 @@
 equivalents:
-- term: Meningioma
-  term_id: ncit:C3230
-- term_id: seer:31040
+- label: Meningioma
+  id: ncit:C3230
+- id: seer:31040
 examples:
-- labels: Meningioma
+- label: Meningioma
 input:
-- term: Meningioma, NOS
-  term_id: icdom:9530_0
-- term: meninges cerebral, spinal
-  term_id: icdot:C70_0
+- label: Meningioma, NOS
+  id: icdom:9530_0
+- label: meninges cerebral, spinal
+  id: icdot:C70_0

@@ -1,11 +1,11 @@
 equivalents:
-- term: None
-  term_id: ncit:C27824
-- term_id: seer:33041
+- label: None
+  id: ncit:C27824
+- id: seer:33041
 examples:
-- labels: Malignant lymphoma, B-cell NOS
+- label: Malignant lymphoma, B-cell NOS
 input:
-- term: Malignant lymphoma, non-Hodgkin, NOS
-  term_id: icdom:9591_3
-- term: Lymph nodes, NOS
-  term_id: icdot:C77_9
+- label: Malignant lymphoma, non-Hodgkin, NOS
+  id: icdom:9591_3
+- label: Lymph nodes, NOS
+  id: icdot:C77_9

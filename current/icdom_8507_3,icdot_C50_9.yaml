@@ -1,11 +1,11 @@
 equivalents:
-- term: Intraductal Papillary Breast Carcinoma
-  term_id: ncit:C4190
-- term_id: seer:26000
+- label: Intraductal Papillary Breast Carcinoma
+  id: ncit:C4190
+- id: seer:26000
 examples:
-- labels: Invasive Micropapillary Carcinoma
+- label: Invasive Micropapillary Carcinoma
 input:
-- term: None
-  term_id: icdom:8507_3
-- term: Breast, NOS
-  term_id: icdot:C50_9
+- label: None
+  id: icdom:8507_3
+- label: Breast, NOS
+  id: icdot:C50_9

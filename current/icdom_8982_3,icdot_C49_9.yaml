@@ -1,11 +1,11 @@
 equivalents:
-- term: None
-  term_id: ncit:C7596
-- term_id: seer:24000
+- label: None
+  id: ncit:C7596
+- id: seer:24000
 examples:
-- labels: Soft tissue malignant myoepithelioma
+- label: Soft tissue malignant myoepithelioma
 input:
-- term: Malignant myoepithelioma
-  term_id: icdom:8982_3
-- term: connective and soft tissue, NOS
-  term_id: icdot:C49_9
+- label: Malignant myoepithelioma
+  id: icdom:8982_3
+- label: connective and soft tissue, NOS
+  id: icdot:C49_9

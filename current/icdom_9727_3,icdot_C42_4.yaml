@@ -1,11 +1,11 @@
 equivalents:
-- term: Lymphoblastic Lymphoma
-  term_id: ncit:C9360
-- term_id: seer:NA
+- label: Lymphoblastic Lymphoma
+  id: ncit:C9360
+- id: seer:NA
 examples:
-- labels: lastic plasmacytoid dendritic cell neoplasm
+- label: lastic plasmacytoid dendritic cell neoplasm
 input:
-- term: Precursor cell lymphoblastic lymphoma, NOS
-  term_id: icdom:9727_3
-- term: Hematopoietic system, NOS
-  term_id: icdot:C42_4
+- label: Precursor cell lymphoblastic lymphoma, NOS
+  id: icdom:9727_3
+- label: Hematopoietic system, NOS
+  id: icdot:C42_4

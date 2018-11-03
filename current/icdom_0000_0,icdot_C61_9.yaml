@@ -1,11 +1,11 @@
 equivalents:
-- term: Transformed cell line
-  term_id: ncit:None
-- term_id: seer:28010
+- label: Transformed cell line
+  id: ncit:None
+- id: seer:28010
 examples:
-- labels: transformed cell line WPE1-NB14
+- label: transformed cell line WPE1-NB14
 input:
-- term: not in ICD-O (e.g. non-neoplastic, reference)
-  term_id: icdom:0000_0
-- term: Prostate gland
-  term_id: icdot:C61_9
+- label: not in ICD-O (e.g. non-neoplastic, reference)
+  id: icdom:0000_0
+- label: Prostate gland
+  id: icdot:C61_9

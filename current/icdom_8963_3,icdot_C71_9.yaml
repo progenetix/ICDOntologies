@@ -1,11 +1,11 @@
 equivalents:
-- term: Rhabdoid Tumor
-  term_id: ncit:C3808
-- term_id: seer:31010
+- label: Rhabdoid Tumor
+  id: ncit:C3808
+- id: seer:31010
 examples:
-- labels: Extrarenal rhabdoid tumor
+- label: Extrarenal rhabdoid tumor
 input:
-- term: Malignant rhabdoid tumor
-  term_id: icdom:8963_3
-- term: brain, NOS
-  term_id: icdot:C71_9
+- label: Malignant rhabdoid tumor
+  id: icdom:8963_3
+- label: brain, NOS
+  id: icdot:C71_9

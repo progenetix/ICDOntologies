@@ -1,11 +1,11 @@
 equivalents:
-- term: None
-  term_id: ncit:C7949
-- term_id: seer:26000
+- label: None
+  id: ncit:C7949
+- id: seer:26000
 examples:
-- labels: Ductal carcinoma in situ, recurrent
+- label: Ductal carcinoma in situ, recurrent
 input:
-- term: Intraductal carcinoma, noninfiltrating, NOS
-  term_id: icdom:8500_2
-- term: Breast, NOS
-  term_id: icdot:C50_9
+- label: Intraductal carcinoma, noninfiltrating, NOS
+  id: icdom:8500_2
+- label: Breast, NOS
+  id: icdot:C50_9

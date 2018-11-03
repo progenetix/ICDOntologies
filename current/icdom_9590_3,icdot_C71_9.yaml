@@ -1,11 +1,11 @@
 equivalents:
-- term: Lymphoma
-  term_id: ncit:C3208
-- term_id: seer:33042
+- label: Lymphoma
+  id: ncit:C3208
+- id: seer:33042
 examples:
-- labels: Primary CNS lymphoma
+- label: Primary CNS lymphoma
 input:
-- term: Malignant lymphoma, NOS
-  term_id: icdom:9590_3
-- term: brain, NOS
-  term_id: icdot:C71_9
+- label: Malignant lymphoma, NOS
+  id: icdom:9590_3
+- label: brain, NOS
+  id: icdot:C71_9

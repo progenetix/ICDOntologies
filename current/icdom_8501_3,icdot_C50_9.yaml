@@ -1,11 +1,11 @@
 equivalents:
-- term: None
-  term_id: ncit:C4188
-- term_id: seer:26000
+- label: None
+  id: ncit:C4188
+- id: seer:26000
 examples:
-- labels: Comedocarcinoma
+- label: Comedocarcinoma
 input:
-- term: Comedocarcinoma, NOS
-  term_id: icdom:8501_3
-- term: Breast, NOS
-  term_id: icdot:C50_9
+- label: Comedocarcinoma, NOS
+  id: icdom:8501_3
+- label: Breast, NOS
+  id: icdot:C50_9

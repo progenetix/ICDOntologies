@@ -1,11 +1,11 @@
 equivalents:
-- term: None
-  term_id: ncit:C4143
-- term_id: seer:21049
+- label: None
+  id: ncit:C4143
+- id: seer:21049
 examples:
-- labels: tubullovillous adenoma [colorectal]
+- label: tubullovillous adenoma [colorectal]
 input:
-- term: Tubulovillous adenoma, NOS
-  term_id: icdom:8263_0
-- term: large intestine, excl. rectum and rectosigmoid junction
-  term_id: icdot:C18_9
+- label: Tubulovillous adenoma, NOS
+  id: icdom:8263_0
+- label: large intestine, excl. rectum and rectosigmoid junction
+  id: icdot:C18_9

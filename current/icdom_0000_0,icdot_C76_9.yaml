@@ -1,11 +1,11 @@
 equivalents:
-- term: ''
-  term_id: 'ncit:'
-- term_id: seer:99999
+- label: ''
+  id: 'ncit:'
+- id: seer:99999
 examples:
-- labels: blood
+- label: blood
 input:
-- term: not in ICD-O (e.g. non-neoplastic, reference)
-  term_id: icdom:0000_0
-- term: ill-defined
-  term_id: icdot:C76_9
+- label: not in ICD-O (e.g. non-neoplastic, reference)
+  id: icdom:0000_0
+- label: ill-defined
+  id: icdot:C76_9

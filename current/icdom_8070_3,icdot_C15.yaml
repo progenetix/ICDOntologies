@@ -1,11 +1,11 @@
 equivalents:
-- term: Esophageal Squamous Cell Carcinoma
-  term_id: ncit:C4024
-- term_id: seer:21010
+- label: Esophageal Squamous Cell Carcinoma
+  id: ncit:C4024
+- id: seer:21010
 examples:
-- labels: Esphageal squamous cell carcinoma [cell line KYSE-220]
+- label: Esphageal squamous cell carcinoma [cell line KYSE-220]
 input:
-- term: Squamous cell carcinoma, NOS
-  term_id: icdom:8070_3
-- term: esophagus
-  term_id: icdot:C15
+- label: Squamous cell carcinoma, NOS
+  id: icdom:8070_3
+- label: esophagus
+  id: icdot:C15

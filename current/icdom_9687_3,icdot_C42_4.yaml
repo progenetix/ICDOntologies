@@ -1,11 +1,11 @@
 equivalents:
-- term: Atypical Burkitt/Burkitt-Like Lymphoma
-  term_id: ncit:C6917
-- term_id: seer:33041
+- label: Atypical Burkitt/Burkitt-Like Lymphoma
+  id: ncit:C6917
+- id: seer:33041
 examples:
-- labels: Burkitt lymphoma/leukemia
+- label: Burkitt lymphoma/leukemia
 input:
-- term: Burkitt lymphoma, NOS
-  term_id: icdom:9687_3
-- term: Hematopoietic system, NOS
-  term_id: icdot:C42_4
+- label: Burkitt lymphoma, NOS
+  id: icdom:9687_3
+- label: Hematopoietic system, NOS
+  id: icdot:C42_4

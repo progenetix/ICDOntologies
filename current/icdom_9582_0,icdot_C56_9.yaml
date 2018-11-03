@@ -1,11 +1,11 @@
 equivalents:
-- term: Granular Cell Tumor
-  term_id: ncit:C3474
-- term_id: seer:27040
+- label: Granular Cell Tumor
+  id: ncit:C3474
+- id: seer:27040
 examples:
-- labels: Granular cell tumor
+- label: Granular cell tumor
 input:
-- term: Granular cell tumor of the sellar region
-  term_id: icdom:9582_0
-- term: ovary
-  term_id: icdot:C56_9
+- label: Granular cell tumor of the sellar region
+  id: icdom:9582_0
+- label: ovary
+  id: icdot:C56_9

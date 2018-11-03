@@ -1,11 +1,11 @@
 equivalents:
-- term: None
-  term_id: ncit:C3830
-- term_id: seer:23000
+- label: None
+  id: ncit:C3830
+- id: seer:23000
 examples:
-- labels: Chondromyxoid fibroma
+- label: Chondromyxoid fibroma
 input:
-- term: Chondromyxoid fibroma
-  term_id: icdom:9241_0
-- term: bone, NOS
-  term_id: icdot:C41_9
+- label: Chondromyxoid fibroma
+  id: icdom:9241_0
+- label: bone, NOS
+  id: icdot:C41_9

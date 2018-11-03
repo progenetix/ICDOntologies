@@ -1,11 +1,11 @@
 equivalents:
-- term: Acute Promyelocytic Leukemia with PML-RARA
-  term_id: ncit:C3182
-- term_id: seer:35021
+- label: Acute Promyelocytic Leukemia with PML-RARA
+  id: ncit:C3182
+- id: seer:35021
 examples:
-- labels: acute promyelocytic leukemia
+- label: acute promyelocytic leukemia
 input:
-- term: Acute promyelocytic leukemia
-  term_id: icdom:9866_3
-- term: Hematopoietic system, NOS
-  term_id: icdot:C42_4
+- label: Acute promyelocytic leukemia
+  id: icdom:9866_3
+- label: Hematopoietic system, NOS
+  id: icdot:C42_4

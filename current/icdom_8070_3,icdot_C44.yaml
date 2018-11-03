@@ -1,11 +1,11 @@
 equivalents:
-- term: Vulvar squamous cell carcinoma
-  term_id: ncit:C4052
-- term_id: seer:37000
+- label: Vulvar squamous cell carcinoma
+  id: ncit:C4052
+- id: seer:37000
 examples:
-- labels: Vulvar squamous cell carcinoma [cell line A-431]
+- label: Vulvar squamous cell carcinoma [cell line A-431]
 input:
-- term: Squamous cell carcinoma, NOS
-  term_id: icdom:8070_3
-- term: skin
-  term_id: icdot:C44
+- label: Squamous cell carcinoma, NOS
+  id: icdom:8070_3
+- label: skin
+  id: icdot:C44

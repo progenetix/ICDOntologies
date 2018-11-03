@@ -1,11 +1,11 @@
 equivalents:
-- term: Intravascular Large B-Cell Lymphoma
-  term_id: ncit:C4342
-- term_id: seer:33041
+- label: Intravascular Large B-Cell Lymphoma
+  id: ncit:C4342
+- id: seer:33041
 examples:
-- labels: Diffuse large B-cell lymphoma, T-Cell/Histiocyte-Rich [stage IA]
+- label: Diffuse large B-cell lymphoma, T-Cell/Histiocyte-Rich [stage IA]
 input:
-- term: Malignant lymphoma, large B-cell, diffuse, NOS
-  term_id: icdom:9680_3
-- term: Lymph nodes, NOS
-  term_id: icdot:C77_9
+- label: Malignant lymphoma, large B-cell, diffuse, NOS
+  id: icdom:9680_3
+- label: Lymph nodes, NOS
+  id: icdot:C77_9

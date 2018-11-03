@@ -1,11 +1,11 @@
 equivalents:
-- term: T Lymphoblastic Lymphoma
-  term_id: ncit:C6919
-- term_id: seer:33041
+- label: T Lymphoblastic Lymphoma
+  id: ncit:C6919
+- id: seer:33041
 examples:
-- labels: T-cell lymphoblastic lymphoma
+- label: T-cell lymphoblastic lymphoma
 input:
-- term: Precursor T-cell lymphoblastic lymphoma
-  term_id: icdom:9729_3
-- term: Lymph nodes, NOS
-  term_id: icdot:C77_9
+- label: Precursor T-cell lymphoblastic lymphoma
+  id: icdom:9729_3
+- label: Lymph nodes, NOS
+  id: icdot:C77_9

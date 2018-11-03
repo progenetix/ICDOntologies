@@ -1,11 +1,11 @@
 equivalents:
-- term: Nodular Melanoma
-  term_id: ncit:C4225
-- term_id: seer:25010
+- label: Nodular Melanoma
+  id: ncit:C4225
+- id: seer:25010
 examples:
-- labels: nodular melanoma
+- label: nodular melanoma
 input:
-- term: Nodular melanoma
-  term_id: icdom:8721_3
-- term: Skin, NOS
-  term_id: icdot:C44_9
+- label: Nodular melanoma
+  id: icdom:8721_3
+- label: Skin, NOS
+  id: icdot:C44_9

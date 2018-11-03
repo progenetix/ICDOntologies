@@ -1,11 +1,11 @@
 equivalents:
-- term: None
-  term_id: ncit:C46106
-- term_id: seer:32010
+- label: None
+  id: ncit:C46106
+- id: seer:32010
 examples:
-- labels: Carcinoma showing thymus-like elements
+- label: Carcinoma showing thymus-like elements
 input:
-- term: Carcinoma showing thymus-like element
-  term_id: icdom:8589_3
-- term: thyroid gland
-  term_id: icdot:C73_9
+- label: Carcinoma showing thymus-like element
+  id: icdom:8589_3
+- label: thyroid gland
+  id: icdot:C73_9

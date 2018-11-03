@@ -1,11 +1,11 @@
 equivalents:
-- term: Osteoblastoma
-  term_id: ncit:C3294
-- term_id: seer:23000
+- label: Osteoblastoma
+  id: ncit:C3294
+- id: seer:23000
 examples:
-- labels: osteoblastoma
+- label: osteoblastoma
 input:
-- term: Osteoblastoma, NOS
-  term_id: icdom:9200_0
-- term: bone, NOS
-  term_id: icdot:C41_9
+- label: Osteoblastoma, NOS
+  id: icdom:9200_0
+- label: bone, NOS
+  id: icdot:C41_9

@@ -1,11 +1,11 @@
 equivalents:
-- term: Pancreatic Neuroendocrine Tumor
-  term_id: ncit:C27720
-- term_id: seer:21100
+- label: Pancreatic Neuroendocrine Tumor
+  id: ncit:C27720
+- id: seer:21100
 examples:
-- labels: PP-oma
+- label: PP-oma
 input:
-- term: Pancreatic endocrine tumor, NOS (C25._)
-  term_id: icdom:8150_1
-- term: Pancreas, NOS
-  term_id: icdot:C25_9
+- label: Pancreatic endocrine tumor, NOS (C25._)
+  id: icdom:8150_1
+- label: Pancreas, NOS
+  id: icdot:C25_9

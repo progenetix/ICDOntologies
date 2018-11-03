@@ -1,11 +1,11 @@
 equivalents:
-- term: Nasopharyngeal carcinoma
-  term_id: ncit:C3871
-- term_id: seer:20060
+- label: Nasopharyngeal carcinoma
+  id: ncit:C3871
+- id: seer:20060
 examples:
-- labels: Nasopharyngeal carcinoma [cell line 5-8F]
+- label: Nasopharyngeal carcinoma [cell line 5-8F]
 input:
-- term: Squamous cell carcinoma, large cell, nonkeratinizing, NOS
-  term_id: icdom:8072_3
-- term: nasopharynx
-  term_id: icdot:C11
+- label: Squamous cell carcinoma, large cell, nonkeratinizing, NOS
+  id: icdom:8072_3
+- label: nasopharynx
+  id: icdot:C11

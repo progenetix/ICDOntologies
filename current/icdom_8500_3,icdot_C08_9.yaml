@@ -1,11 +1,11 @@
 equivalents:
-- term: Invasive Carcinoma
-  term_id: ncit:C9480
-- term_id: seer:20030
+- label: Invasive Carcinoma
+  id: ncit:C9480
+- id: seer:20030
 examples:
-- labels: ductal carcinoma of the salivary glands
+- label: ductal carcinoma of the salivary glands
 input:
-- term: Infiltrating duct carcinoma, NOS
-  term_id: icdom:8500_3
-- term: salivary gland, NOS
-  term_id: icdot:C08_9
+- label: Infiltrating duct carcinoma, NOS
+  id: icdom:8500_3
+- label: salivary gland, NOS
+  id: icdot:C08_9

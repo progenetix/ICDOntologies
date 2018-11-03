@@ -1,11 +1,11 @@
 equivalents:
-- term: Intrahepatic cholangiocarcinoma
-  term_id: ncit:C35417
-- term_id: seer:21090
+- label: Intrahepatic cholangiocarcinoma
+  id: ncit:C35417
+- id: seer:21090
 examples:
-- labels: Intrahepatic cholangiocarcinoma [cell line HuCC-T1]
+- label: Intrahepatic cholangiocarcinoma [cell line HuCC-T1]
 input:
-- term: Bile duct cystadenocarcinoma
-  term_id: icdom:8161_3
-- term: extrahepatic and unspecified bile ducts
-  term_id: icdot:C24
+- label: Bile duct cystadenocarcinoma
+  id: icdom:8161_3
+- label: extrahepatic and unspecified bile ducts
+  id: icdot:C24

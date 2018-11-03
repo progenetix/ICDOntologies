@@ -1,11 +1,11 @@
 equivalents:
-- term: Primary effusion lymphoma
-  term_id: ncit:C6915
-- term_id: seer:33041
+- label: Primary effusion lymphoma
+  id: ncit:C6915
+- id: seer:33041
 examples:
-- labels: primary effusion lymphoma [cell line JSC-1]
+- label: primary effusion lymphoma [cell line JSC-1]
 input:
-- term: Primary effusion lymphoma
-  term_id: icdom:9678_3
-- term: pleura
-  term_id: icdot:C38_4
+- label: Primary effusion lymphoma
+  id: icdom:9678_3
+- label: pleura
+  id: icdot:C38_4

@@ -1,11 +1,11 @@
 equivalents:
-- term: Acinar Cell Carcinoma
-  term_id: ncit:C3768
-- term_id: seer:21100
+- label: Acinar Cell Carcinoma
+  id: ncit:C3768
+- id: seer:21100
 examples:
-- labels: pancreatic acinar carcinoma
+- label: pancreatic acinar carcinoma
 input:
-- term: Acinar cell carcinoma
-  term_id: icdom:8550_3
-- term: Pancreas, NOS
-  term_id: icdot:C25_9
+- label: Acinar cell carcinoma
+  id: icdom:8550_3
+- label: Pancreas, NOS
+  id: icdot:C25_9

@@ -1,11 +1,11 @@
 equivalents:
-- term: None
-  term_id: ncit:C2855
-- term_id: seer:32020
+- label: None
+  id: ncit:C2855
+- id: seer:32020
 examples:
-- labels: parathyroid tumor [multiple, primary hyperparathyroidism]
+- label: parathyroid tumor [multiple, primary hyperparathyroidism]
 input:
-- term: Adenoma, NOS
-  term_id: icdom:8140_0
-- term: parathyroid gland
-  term_id: icdot:C75_0
+- label: Adenoma, NOS
+  id: icdom:8140_0
+- label: parathyroid gland
+  id: icdot:C75_0

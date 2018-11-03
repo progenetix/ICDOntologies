@@ -1,11 +1,11 @@
 equivalents:
-- term: Papillary Transitional Cell Carcinoma
-  term_id: ncit:C4122
-- term_id: seer:29010
+- label: Papillary Transitional Cell Carcinoma
+  id: ncit:C4122
+- id: seer:29010
 examples:
-- labels: Papillary transitional cell carcinoma [low grade]
+- label: Papillary transitional cell carcinoma [low grade]
 input:
-- term: Papillary transitional cell carcinoma
-  term_id: icdom:8130_3
-- term: urinary bladder
-  term_id: icdot:C67_0
+- label: Papillary transitional cell carcinoma
+  id: icdom:8130_3
+- label: urinary bladder
+  id: icdot:C67_0

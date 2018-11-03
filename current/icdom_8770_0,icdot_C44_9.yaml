@@ -1,11 +1,11 @@
 equivalents:
-- term: Spitz Nevus
-  term_id: ncit:C27007
-- term_id: seer:25010
+- label: Spitz Nevus
+  id: ncit:C27007
+- id: seer:25010
 examples:
-- labels: Spitz nevi
+- label: Spitz nevi
 input:
-- term: Epithelioid and spindle cell nevus
-  term_id: icdom:8770_0
-- term: Skin, NOS
-  term_id: icdot:C44_9
+- label: Epithelioid and spindle cell nevus
+  id: icdom:8770_0
+- label: Skin, NOS
+  id: icdot:C44_9

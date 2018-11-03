@@ -1,11 +1,11 @@
 equivalents:
-- term: Angioimmunoblastic T-Cell Lymphoma
-  term_id: ncit:C7528
-- term_id: seer:33041
+- label: Angioimmunoblastic T-Cell Lymphoma
+  id: ncit:C7528
+- id: seer:33041
 examples:
-- labels: Angioimmunoblastic T-cell lymphoma
+- label: Angioimmunoblastic T-cell lymphoma
 input:
-- term: Angioimmunoblastic T-cell lymphoma
-  term_id: icdom:9705_3
-- term: Lymph nodes, NOS
-  term_id: icdot:C77_9
+- label: Angioimmunoblastic T-cell lymphoma
+  id: icdom:9705_3
+- label: Lymph nodes, NOS
+  id: icdot:C77_9

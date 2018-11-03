@@ -1,11 +1,11 @@
 equivalents:
-- term: Adenoid Cystic Carcinoma
-  term_id: ncit:C2970
-- term_id: seer:22060
+- label: Adenoid Cystic Carcinoma
+  id: ncit:C2970
+- id: seer:22060
 examples:
-- labels: thymic neoplasms with ACC-like features
+- label: thymic neoplasms with ACC-like features
 input:
-- term: Adenoid cystic carcinoma
-  term_id: icdom:8200_3
-- term: mediastinum
-  term_id: icdot:C38_9
+- label: Adenoid cystic carcinoma
+  id: icdom:8200_3
+- label: mediastinum
+  id: icdot:C38_9

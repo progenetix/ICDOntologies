@@ -1,11 +1,11 @@
 equivalents:
-- term: Testicular teratoma
-  term_id: ncit:C3877
-- term_id: seer:28020
+- label: Testicular teratoma
+  id: ncit:C3877
+- id: seer:28020
 examples:
-- labels: testicular teratoma [cell line GCT 27]
+- label: testicular teratoma [cell line GCT 27]
 input:
-- term: Teratoma, malignant. NOS
-  term_id: icdom:9080_3
-- term: testis
-  term_id: icdot:C62
+- label: Teratoma, malignant. NOS
+  id: icdom:9080_3
+- label: testis
+  id: icdot:C62

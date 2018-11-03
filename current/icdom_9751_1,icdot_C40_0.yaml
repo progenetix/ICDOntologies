@@ -1,11 +1,11 @@
 equivalents:
-- term: Langerhans Cell Histiocytosis
-  term_id: ncit:C3107
-- term_id: seer:37000
+- label: Langerhans Cell Histiocytosis
+  id: ncit:C3107
+- id: seer:37000
 examples:
-- labels: Langerhans cell histiocytosis
+- label: Langerhans cell histiocytosis
 input:
-- term: Langerhans cell histiocytosis, NOS
-  term_id: icdom:9751_1
-- term: bones and joints
-  term_id: icdot:C40_0
+- label: Langerhans cell histiocytosis, NOS
+  id: icdom:9751_1
+- label: bones and joints
+  id: icdot:C40_0

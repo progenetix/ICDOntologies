@@ -1,11 +1,11 @@
 equivalents:
-- term: None
-  term_id: ncit:C2855
-- term_id: seer:32020
+- label: None
+  id: ncit:C2855
+- id: seer:32020
 examples:
-- labels: pituitary adenoma [gonadotroph cell adenoma]
+- label: pituitary adenoma [gonadotroph cell adenoma]
 input:
-- term: Adenoma, NOS
-  term_id: icdom:8140_0
-- term: pituitary gland
-  term_id: icdot:C75_1
+- label: Adenoma, NOS
+  id: icdom:8140_0
+- label: pituitary gland
+  id: icdot:C75_1

@@ -1,11 +1,11 @@
 equivalents:
-- term: ''
-  term_id: 'ncit:'
-- term_id: seer:33041
+- label: ''
+  id: 'ncit:'
+- id: seer:33041
 examples:
-- labels: Follicular lymphoma III
+- label: Follicular lymphoma III
 input:
-- term: Follicular lymphoma, grade 3
-  term_id: icdom:9698_3
-- term: Lymph nodes, NOS
-  term_id: icdot:C77_9
+- label: Follicular lymphoma, grade 3
+  id: icdom:9698_3
+- label: Lymph nodes, NOS
+  id: icdot:C77_9

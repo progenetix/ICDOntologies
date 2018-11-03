@@ -1,12 +1,12 @@
 equivalents:
-- term: Adenocarcinoma
-  term_id: ncit:C2852
-- term_id: seer:21072
+- label: Adenocarcinoma
+  id: ncit:C2852
+- id: seer:21072
 examples:
-- labels: biliary tract tumor [intrahepatic bile duct adenocarcinoma, adenocarcinoma,
+- label: biliary tract tumor [intrahepatic bile duct adenocarcinoma, adenocarcinoma,
     moderately differentiated]
 input:
-- term: Adenocarcinoma, NOS
-  term_id: icdom:8140_3
-- term: intrahepatic bile ducts
-  term_id: icdot:C22_1
+- label: Adenocarcinoma, NOS
+  id: icdom:8140_3
+- label: intrahepatic bile ducts
+  id: icdot:C22_1

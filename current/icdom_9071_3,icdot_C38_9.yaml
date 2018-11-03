@@ -1,11 +1,11 @@
 equivalents:
-- term: Yolk Sac Tumor
-  term_id: ncit:C3011
-- term_id: seer:22060
+- label: Yolk Sac Tumor
+  id: ncit:C3011
+- id: seer:22060
 examples:
-- labels: yolk sac tumour
+- label: yolk sac tumour
 input:
-- term: Yolk sac tumor
-  term_id: icdom:9071_3
-- term: mediastinum
-  term_id: icdot:C38_9
+- label: Yolk sac tumor
+  id: icdom:9071_3
+- label: mediastinum
+  id: icdot:C38_9

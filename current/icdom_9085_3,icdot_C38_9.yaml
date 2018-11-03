@@ -1,12 +1,12 @@
 equivalents:
-- term: Mixed Teratoma and Seminoma
-  term_id: ncit:C9010
-- term_id: seer:22060
+- label: Mixed Teratoma and Seminoma
+  id: ncit:C9010
+- id: seer:22060
 examples:
-- labels: Combined germ cell tumor [mediastinal, immature teratoma, yolk sac tumor,
+- label: Combined germ cell tumor [mediastinal, immature teratoma, yolk sac tumor,
     stage II]
 input:
-- term: Mixed germ cell tumor
-  term_id: icdom:9085_3
-- term: mediastinum
-  term_id: icdot:C38_9
+- label: Mixed germ cell tumor
+  id: icdom:9085_3
+- label: mediastinum
+  id: icdot:C38_9

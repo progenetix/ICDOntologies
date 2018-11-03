@@ -1,11 +1,11 @@
 equivalents:
-- term: Acral lentiginous melanoma
-  term_id: ncit:C4022
-- term_id: seer:25010
+- label: Acral lentiginous melanoma
+  id: ncit:C4022
+- id: seer:25010
 examples:
-- labels: Acral lentiginous melanoma [cell line WM3211]
+- label: Acral lentiginous melanoma [cell line WM3211]
 input:
-- term: 'Acral Lentiginous Melanoma '
-  term_id: icdom:8744_3
-- term: skin
-  term_id: icdot:C44
+- label: 'Acral Lentiginous Melanoma '
+  id: icdom:8744_3
+- label: skin
+  id: icdot:C44

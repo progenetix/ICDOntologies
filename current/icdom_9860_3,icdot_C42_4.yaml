@@ -1,11 +1,11 @@
 equivalents:
-- term: None
-  term_id: ncit:C34774
-- term_id: seer:35023
+- label: None
+  id: ncit:C34774
+- id: seer:35023
 examples:
-- labels: Myeloid leukemia NOS [cell line MV411]
+- label: Myeloid leukemia NOS [cell line MV411]
 input:
-- term: Myeloid leukemia, NOS
-  term_id: icdom:9860_3
-- term: Hematopoietic system, NOS
-  term_id: icdot:C42_4
+- label: Myeloid leukemia, NOS
+  id: icdom:9860_3
+- label: Hematopoietic system, NOS
+  id: icdot:C42_4

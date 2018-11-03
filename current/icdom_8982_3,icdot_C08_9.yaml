@@ -1,11 +1,11 @@
 equivalents:
-- term: None
-  term_id: ncit:C7596
-- term_id: seer:20030
+- label: None
+  id: ncit:C7596
+- id: seer:20030
 examples:
-- labels: Myoepithelial carcinoma [Lower lip; clear cell]
+- label: Myoepithelial carcinoma [Lower lip; clear cell]
 input:
-- term: Malignant myoepithelioma
-  term_id: icdom:8982_3
-- term: salivary gland, NOS
-  term_id: icdot:C08_9
+- label: Malignant myoepithelioma
+  id: icdom:8982_3
+- label: salivary gland, NOS
+  id: icdot:C08_9

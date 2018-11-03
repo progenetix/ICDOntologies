@@ -1,11 +1,11 @@
 equivalents:
-- term: ''
-  term_id: 'ncit:'
-- term_id: seer:27070
+- label: ''
+  id: 'ncit:'
+- id: seer:27070
 examples:
-- labels: Malignant trophoblastic tumor
+- label: Malignant trophoblastic tumor
 input:
-- term: None
-  term_id: icdom:9104_3
-- term: placenta
-  term_id: icdot:C58_9
+- label: None
+  id: icdom:9104_3
+- label: placenta
+  id: icdot:C58_9

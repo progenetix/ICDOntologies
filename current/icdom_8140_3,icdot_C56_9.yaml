@@ -1,11 +1,11 @@
 equivalents:
-- term: Ovarian adenocarcinoma
-  term_id: ncit:C7700
-- term_id: seer:27040
+- label: Ovarian adenocarcinoma
+  id: ncit:C7700
+- id: seer:27040
 examples:
-- labels: Ovarian adenocarcinoma [cell line CAOV-1]
+- label: Ovarian adenocarcinoma [cell line CAOV-1]
 input:
-- term: Adenocarcinoma, NOS
-  term_id: icdom:8140_3
-- term: ovary
-  term_id: icdot:C56_9
+- label: Adenocarcinoma, NOS
+  id: icdom:8140_3
+- label: ovary
+  id: icdot:C56_9

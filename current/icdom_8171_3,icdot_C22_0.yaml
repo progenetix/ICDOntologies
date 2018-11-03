@@ -1,11 +1,11 @@
 equivalents:
-- term: ''
-  term_id: 'ncit:'
-- term_id: seer:21071
+- label: ''
+  id: 'ncit:'
+- id: seer:21071
 examples:
-- labels: fibrolamellar carcinoma [HBVneg, HCVneg]
+- label: fibrolamellar carcinoma [HBVneg, HCVneg]
 input:
-- term: Hepatocellular carcinoma, fibrolamellar
-  term_id: icdom:8171_3
-- term: Liver
-  term_id: icdot:C22_0
+- label: Hepatocellular carcinoma, fibrolamellar
+  id: icdom:8171_3
+- label: Liver
+  id: icdot:C22_0

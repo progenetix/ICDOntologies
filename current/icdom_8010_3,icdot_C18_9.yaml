@@ -1,11 +1,11 @@
 equivalents:
-- term: Carcinoma
-  term_id: ncit:C2916
-- term_id: seer:21048
+- label: Carcinoma
+  id: ncit:C2916
+- id: seer:21048
 examples:
-- labels: colon cancer
+- label: colon cancer
 input:
-- term: Carcinoma, NOS
-  term_id: icdom:8010_3
-- term: large intestine, excl. rectum and rectosigmoid junction
-  term_id: icdot:C18_9
+- label: Carcinoma, NOS
+  id: icdom:8010_3
+- label: large intestine, excl. rectum and rectosigmoid junction
+  id: icdot:C18_9

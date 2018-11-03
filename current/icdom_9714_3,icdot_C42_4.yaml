@@ -1,11 +1,11 @@
 equivalents:
-- term: Anaplastic large cell lymphoma
-  term_id: ncit:C3720
-- term_id: seer:35043
+- label: Anaplastic large cell lymphoma
+  id: ncit:C3720
+- id: seer:35043
 examples:
-- labels: anaplastic large cell lymphoma [cell line SR]
+- label: anaplastic large cell lymphoma [cell line SR]
 input:
-- term: Anaplastic large cell lymphoma, T cell and Null cell type
-  term_id: icdom:9714_3
-- term: Hematopoietic system, NOS
-  term_id: icdot:C42_4
+- label: Anaplastic large cell lymphoma, T cell and Null cell type
+  id: icdom:9714_3
+- label: Hematopoietic system, NOS
+  id: icdot:C42_4

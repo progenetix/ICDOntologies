@@ -1,11 +1,11 @@
 equivalents:
-- term: Epithelioid cell type gastrointestinal stromal tumor
-  term_id: ncit:C3486
-- term_id: seer:29020
+- label: Epithelioid cell type gastrointestinal stromal tumor
+  id: ncit:C3486
+- id: seer:29020
 examples:
-- labels: leiomyoblastoma [cell line G-402]
+- label: leiomyoblastoma [cell line G-402]
 input:
-- term: Epithelioid leiomyoma
-  term_id: icdom:8891_0
-- term: kidney
-  term_id: icdot:C64_9
+- label: Epithelioid leiomyoma
+  id: icdom:8891_0
+- label: kidney
+  id: icdot:C64_9

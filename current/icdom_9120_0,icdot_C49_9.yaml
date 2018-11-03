@@ -1,11 +1,11 @@
 equivalents:
-- term: Hemangioma
-  term_id: ncit:C3085
-- term_id: seer:24000
+- label: Hemangioma
+  id: ncit:C3085
+- id: seer:24000
 examples:
-- labels: Hemangioma
+- label: Hemangioma
 input:
-- term: Hemangioma, NOS
-  term_id: icdom:9120_0
-- term: connective and soft tissue, NOS
-  term_id: icdot:C49_9
+- label: Hemangioma, NOS
+  id: icdom:9120_0
+- label: connective and soft tissue, NOS
+  id: icdot:C49_9

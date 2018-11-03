@@ -1,11 +1,11 @@
 equivalents:
-- term: Osteoclastic Giant Cell-Rich Tumor of Bone
-  term_id: ncit:C3738
-- term_id: seer:23000
+- label: Osteoclastic Giant Cell-Rich Tumor of Bone
+  id: ncit:C3738
+- id: seer:23000
 examples:
-- labels: Giant cell tumor of bone
+- label: Giant cell tumor of bone
 input:
-- term: Giant cell tumor of bone, NOS
-  term_id: icdom:9250_1
-- term: bone, NOS
-  term_id: icdot:C41_9
+- label: Giant cell tumor of bone, NOS
+  id: icdom:9250_1
+- label: bone, NOS
+  id: icdot:C41_9

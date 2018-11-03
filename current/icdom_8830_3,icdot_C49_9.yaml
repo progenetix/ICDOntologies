@@ -1,11 +1,11 @@
 equivalents:
-- term: Undifferentiated Pleomorphic Sarcoma
-  term_id: ncit:C4247
-- term_id: seer:24000
+- label: Undifferentiated Pleomorphic Sarcoma
+  id: ncit:C4247
+- id: seer:24000
 examples:
-- labels: malignant    brous histiocytoma [myxoid, metastasized]
+- label: malignant    brous histiocytoma [myxoid, metastasized]
 input:
-- term: Malignant fibrous histiocytoma
-  term_id: icdom:8830_3
-- term: connective and soft tissue, NOS
-  term_id: icdot:C49_9
+- label: Malignant fibrous histiocytoma
+  id: icdom:8830_3
+- label: connective and soft tissue, NOS
+  id: icdot:C49_9

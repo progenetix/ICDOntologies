@@ -1,11 +1,11 @@
 equivalents:
-- term: Pancreatic Adenocarcinoma
-  term_id: ncit:C8294
-- term_id: seer:21100
+- label: Pancreatic Adenocarcinoma
+  id: ncit:C8294
+- id: seer:21100
 examples:
-- labels: Pancreatic adenocarcinoma [cell line HuP-T4]]
+- label: Pancreatic adenocarcinoma [cell line HuP-T4]]
 input:
-- term: Adenocarcinoma, NOS
-  term_id: icdom:8140_3
-- term: pancreas
-  term_id: icdot:C25
+- label: Adenocarcinoma, NOS
+  id: icdom:8140_3
+- label: pancreas
+  id: icdot:C25

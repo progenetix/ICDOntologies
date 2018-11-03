@@ -1,11 +1,11 @@
 equivalents:
-- term: ''
-  term_id: 'ncit:'
-- term_id: seer:33011
+- label: ''
+  id: 'ncit:'
+- id: seer:33011
 examples:
-- labels: Classical Hodgkin lymphoma, lymphocyte-depletion
+- label: Classical Hodgkin lymphoma, lymphocyte-depletion
 input:
-- term: Hodgkin lymphoma, lymphocyte depletion, NOS
-  term_id: icdom:9653_3
-- term: Lymph nodes, NOS
-  term_id: icdot:C77_9
+- label: Hodgkin lymphoma, lymphocyte depletion, NOS
+  id: icdom:9653_3
+- label: Lymph nodes, NOS
+  id: icdot:C77_9

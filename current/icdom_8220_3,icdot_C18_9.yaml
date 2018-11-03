@@ -1,11 +1,11 @@
 equivalents:
-- term: Adenocarcinoma in Adenomatous Polyposis Coli
-  term_id: ncit:C4134
-- term_id: seer:21052
+- label: Adenocarcinoma in Adenomatous Polyposis Coli
+  id: ncit:C4134
+- id: seer:21052
 examples:
-- labels: Familial adenomatous polyposis
+- label: Familial adenomatous polyposis
 input:
-- term: Adenocarcinoma in adenomatous polyposis coli
-  term_id: icdom:8220_3
-- term: large intestine, excl. rectum and rectosigmoid junction
-  term_id: icdot:C18_9
+- label: Adenocarcinoma in adenomatous polyposis coli
+  id: icdom:8220_3
+- label: large intestine, excl. rectum and rectosigmoid junction
+  id: icdot:C18_9

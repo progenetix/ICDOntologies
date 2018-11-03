@@ -1,11 +1,11 @@
 equivalents:
-- term: None
-  term_id: ncit:C8252
-- term_id: seer:35021
+- label: None
+  id: ncit:C8252
+- id: seer:35021
 examples:
-- labels: Therapy-related acute myeloid leukemia [cell line]
+- label: Therapy-related acute myeloid leukemia [cell line]
 input:
-- term: Therapy related myeloid neoplasm
-  term_id: icdom:9920_3
-- term: Hematopoietic system, NOS
-  term_id: icdot:C42_4
+- label: Therapy related myeloid neoplasm
+  id: icdom:9920_3
+- label: Hematopoietic system, NOS
+  id: icdot:C42_4

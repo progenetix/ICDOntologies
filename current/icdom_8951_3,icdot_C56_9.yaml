@@ -1,11 +1,11 @@
 equivalents:
-- term: ''
-  term_id: 'ncit:'
-- term_id: seer:27040
+- label: ''
+  id: 'ncit:'
+- id: seer:27040
 examples:
-- labels: ovarian tumor [Malignant mixed mesodermal tumor]
+- label: ovarian tumor [Malignant mixed mesodermal tumor]
 input:
-- term: Mesodermal mixed tumor
-  term_id: icdom:8951_3
-- term: ovary
-  term_id: icdot:C56_9
+- label: Mesodermal mixed tumor
+  id: icdom:8951_3
+- label: ovary
+  id: icdot:C56_9

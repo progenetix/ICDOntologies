@@ -1,11 +1,11 @@
 equivalents:
-- term: Pineal Parenchymal Tumor of Intermediate Differentiation
-  term_id: ncit:C6967
-- term_id: seer:32020
+- label: Pineal Parenchymal Tumor of Intermediate Differentiation
+  id: ncit:C6967
+- id: seer:32020
 examples:
-- labels: Pineal parenchymal tumor of intermediate differentiation
+- label: Pineal parenchymal tumor of intermediate differentiation
 input:
-- term: Pineoblastoma
-  term_id: icdom:9362_3
-- term: pineal gland
-  term_id: icdot:C75_3
+- label: Pineoblastoma
+  id: icdom:9362_3
+- label: pineal gland
+  id: icdot:C75_3

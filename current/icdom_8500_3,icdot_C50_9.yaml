@@ -1,11 +1,11 @@
 equivalents:
-- term: Ductal Breast Carcinoma
-  term_id: ncit:C4017
-- term_id: seer:26000
+- label: Ductal Breast Carcinoma
+  id: ncit:C4017
+- id: seer:26000
 examples:
-- labels: invasive breast adenocarcinoma
+- label: invasive breast adenocarcinoma
 input:
-- term: Infiltrating duct carcinoma, NOS
-  term_id: icdom:8500_3
-- term: Breast, NOS
-  term_id: icdot:C50_9
+- label: Infiltrating duct carcinoma, NOS
+  id: icdom:8500_3
+- label: Breast, NOS
+  id: icdot:C50_9

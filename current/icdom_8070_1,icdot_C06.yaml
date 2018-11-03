@@ -1,11 +1,11 @@
 equivalents:
-- term: Oral dysplasia
-  term_id: ncit:C129863
-- term_id: seer:20050
+- label: Oral dysplasia
+  id: ncit:C129863
+- id: seer:20050
 examples:
-- labels: Oral dysplasia [cell line DOK]
+- label: Oral dysplasia [cell line DOK]
 input:
-- term: None
-  term_id: icdom:8070_1
-- term: mouth, NOS
-  term_id: icdot:C06
+- label: None
+  id: icdom:8070_1
+- label: mouth, NOS
+  id: icdot:C06

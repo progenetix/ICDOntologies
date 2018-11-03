@@ -1,11 +1,11 @@
 equivalents:
-- term: None
-  term_id: ncit:C7492
-- term_id: seer:20050
+- label: None
+  id: ncit:C7492
+- id: seer:20050
 examples:
-- labels: Clear-cell odontogenic carcinoma, primary tumor
+- label: Clear-cell odontogenic carcinoma, primary tumor
 input:
-- term: Odontogenic tumor, malignant
-  term_id: icdom:9270_3
-- term: mouth, NOS
-  term_id: icdot:C06_9
+- label: Odontogenic tumor, malignant
+  id: icdom:9270_3
+- label: mouth, NOS
+  id: icdot:C06_9

@@ -1,11 +1,11 @@
 equivalents:
-- term: Leiomyosarcoma
-  term_id: ncit:C3158
-- term_id: seer:27030
+- label: Leiomyosarcoma
+  id: ncit:C3158
+- id: seer:27030
 examples:
-- labels: Uterine Leiomyosarcoma [grade I]
+- label: Uterine Leiomyosarcoma [grade I]
 input:
-- term: Leiomyosarcoma, NOS
-  term_id: icdom:8890_3
-- term: uterus, nos
-  term_id: icdot:C55_9
+- label: Leiomyosarcoma, NOS
+  id: icdom:8890_3
+- label: uterus, nos
+  id: icdot:C55_9

@@ -1,11 +1,11 @@
 equivalents:
-- term: Thyroid Gland Papillary Carcinoma
-  term_id: ncit:C4035
-- term_id: seer:32010
+- label: Thyroid Gland Papillary Carcinoma
+  id: ncit:C4035
+- id: seer:32010
 examples:
-- labels: Nodular thyroid hyperplasia [familial]
+- label: Nodular thyroid hyperplasia [familial]
 input:
-- term: Papillary adenocarcinoma, NOS
-  term_id: icdom:8260_3
-- term: Thyroid gland
-  term_id: icdot:C73_9
+- label: Papillary adenocarcinoma, NOS
+  id: icdom:8260_3
+- label: Thyroid gland
+  id: icdot:C73_9

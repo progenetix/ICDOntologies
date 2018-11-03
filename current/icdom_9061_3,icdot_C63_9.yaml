@@ -1,11 +1,11 @@
 equivalents:
-- term: Seminoma
-  term_id: ncit:C9309
-- term_id: seer:28040
+- label: Seminoma
+  id: ncit:C9309
+- id: seer:28040
 examples:
-- labels: Primary Seminoma Testicular Germ Cell Tumour
+- label: Primary Seminoma Testicular Germ Cell Tumour
 input:
-- term: Seminoma, NOS
-  term_id: icdom:9061_3
-- term: epididymis, spermatic cord, male genital, nos
-  term_id: icdot:C63_9
+- label: Seminoma, NOS
+  id: icdom:9061_3
+- label: epididymis, spermatic cord, male genital, nos
+  id: icdot:C63_9

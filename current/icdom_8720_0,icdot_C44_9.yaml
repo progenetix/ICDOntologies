@@ -1,12 +1,12 @@
 equivalents:
-- term: None
-  term_id: ncit:C3074
-- term_id: seer:25010
+- label: None
+  id: ncit:C3074
+- id: seer:25010
 examples:
-- labels: Melanocytic nevus [with proliferation simulating-superficial spreading melanoma
+- label: Melanocytic nevus [with proliferation simulating-superficial spreading melanoma
     in situ]
 input:
-- term: Pigmented nevus, NOS
-  term_id: icdom:8720_0
-- term: Skin, NOS
-  term_id: icdot:C44_9
+- label: Pigmented nevus, NOS
+  id: icdom:8720_0
+- label: Skin, NOS
+  id: icdot:C44_9

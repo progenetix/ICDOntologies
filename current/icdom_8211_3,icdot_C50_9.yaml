@@ -1,12 +1,12 @@
 equivalents:
-- term: None
-  term_id: ncit:C65192
-- term_id: seer:26000
+- label: None
+  id: ncit:C65192
+- id: seer:26000
 examples:
-- labels: tubular carcinoma of the breast [grade I, stage pT1c, 0 pos. LN, dist metast.
+- label: tubular carcinoma of the breast [grade I, stage pT1c, 0 pos. LN, dist metast.
     no]
 input:
-- term: Tubular adenocarcinoma
-  term_id: icdom:8211_3
-- term: Breast, NOS
-  term_id: icdot:C50_9
+- label: Tubular adenocarcinoma
+  id: icdom:8211_3
+- label: Breast, NOS
+  id: icdot:C50_9

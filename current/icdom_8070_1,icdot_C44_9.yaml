@@ -1,11 +1,11 @@
 equivalents:
-- term: ''
-  term_id: 'ncit:'
-- term_id: seer:99999
+- label: ''
+  id: 'ncit:'
+- id: seer:99999
 examples:
-- labels: Kerathoacanthoma
+- label: Kerathoacanthoma
 input:
-- term: None
-  term_id: icdom:8070_1
-- term: Skin, NOS
-  term_id: icdot:C44_9
+- label: None
+  id: icdom:8070_1
+- label: Skin, NOS
+  id: icdot:C44_9

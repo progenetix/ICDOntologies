@@ -1,11 +1,11 @@
 equivalents:
-- term: Oxyphilic Adenocarcinoma
-  term_id: ncit:C3679
-- term_id: seer:32010
+- label: Oxyphilic Adenocarcinoma
+  id: ncit:C3679
+- id: seer:32010
 examples:
-- labels: thyroid carcinoma, Huerthle cell
+- label: thyroid carcinoma, Huerthle cell
 input:
-- term: Oxyphilic adenocarcinoma
-  term_id: icdom:8290_3
-- term: thyroid gland
-  term_id: icdot:C73_9
+- label: Oxyphilic adenocarcinoma
+  id: icdom:8290_3
+- label: thyroid gland
+  id: icdot:C73_9

@@ -1,11 +1,11 @@
 equivalents:
-- term: Neuroblastoma
-  term_id: ncit:C3270
-- term_id: seer:24000
+- label: Neuroblastoma
+  id: ncit:C3270
+- id: seer:24000
 examples:
-- labels: Neuroblastoma [cell line CHP-134]
+- label: Neuroblastoma [cell line CHP-134]
 input:
-- term: Neuroblastoma, NOS
-  term_id: icdom:9500_3
-- term: peripheral nervs incl. autonomous
-  term_id: icdot:C47
+- label: Neuroblastoma, NOS
+  id: icdom:9500_3
+- label: peripheral nervs incl. autonomous
+  id: icdot:C47

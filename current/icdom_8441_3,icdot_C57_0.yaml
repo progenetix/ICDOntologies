@@ -1,11 +1,11 @@
 equivalents:
-- term: Serous Adenocarcinoma
-  term_id: ncit:C40101
-- term_id: seer:27070
+- label: Serous Adenocarcinoma
+  id: ncit:C40101
+- id: seer:27070
 examples:
-- labels: Serous Fallopian tube carcinoma
+- label: Serous Fallopian tube carcinoma
 input:
-- term: Serous cystadenocarcinoma, NOS
-  term_id: icdom:8441_3
-- term: fallopian tube
-  term_id: icdot:C57_0
+- label: Serous cystadenocarcinoma, NOS
+  id: icdom:8441_3
+- label: fallopian tube
+  id: icdot:C57_0

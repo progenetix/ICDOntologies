@@ -1,11 +1,11 @@
 equivalents:
-- term: ''
-  term_id: 'ncit:'
-- term_id: seer:28010
+- label: ''
+  id: 'ncit:'
+- id: seer:28010
 examples:
-- labels: Prostatic intraepithelial neoplasia [high-grade]
+- label: Prostatic intraepithelial neoplasia [high-grade]
 input:
-- term: Glandular intraepithelial neoplasia, high grade
-  term_id: icdom:8148_2
-- term: prostate gland
-  term_id: icdot:C61_9
+- label: Glandular intraepithelial neoplasia, high grade
+  id: icdom:8148_2
+- label: prostate gland
+  id: icdot:C61_9

@@ -1,11 +1,11 @@
 equivalents:
-- term: Upper gingival squamous cell carcinoma
-  term_id: ncit:C8173
-- term_id: seer:20050
+- label: Upper gingival squamous cell carcinoma
+  id: ncit:C8173
+- id: seer:20050
 examples:
-- labels: Upper gingival squamous cell carcinoma [cell line Sa3]
+- label: Upper gingival squamous cell carcinoma [cell line Sa3]
 input:
-- term: Squamous cell carcinoma, NOS
-  term_id: icdom:8070_3
-- term: mouth, NOS
-  term_id: icdot:C06
+- label: Squamous cell carcinoma, NOS
+  id: icdom:8070_3
+- label: mouth, NOS
+  id: icdot:C06

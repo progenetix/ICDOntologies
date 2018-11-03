@@ -1,11 +1,11 @@
 equivalents:
-- term: Embryonal rhabdomyosarcoma
-  term_id: ncit:C8971
-- term_id: seer:24000
+- label: Embryonal rhabdomyosarcoma
+  id: ncit:C8971
+- id: seer:24000
 examples:
-- labels: Embryonal rhabdomyosarcoma [cell line RD]
+- label: Embryonal rhabdomyosarcoma [cell line RD]
 input:
-- term: embryonal rhabdomyosarcoma, NOS
-  term_id: icdom:8910_3
-- term: kidney
-  term_id: icdot:C64_9
+- label: embryonal rhabdomyosarcoma, NOS
+  id: icdom:8910_3
+- label: kidney
+  id: icdot:C64_9

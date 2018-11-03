@@ -1,11 +1,11 @@
 equivalents:
-- term: Gallbladder carcinoma
-  term_id: ncit:C3844
-- term_id: seer:21080
+- label: Gallbladder carcinoma
+  id: ncit:C3844
+- id: seer:21080
 examples:
-- labels: gallbladder carcinoma [cell line OCUG-1]
+- label: gallbladder carcinoma [cell line OCUG-1]
 input:
-- term: Adenocarcinoma, NOS
-  term_id: icdom:8140_3
-- term: gallbladder
-  term_id: icdot:C23
+- label: Adenocarcinoma, NOS
+  id: icdom:8140_3
+- label: gallbladder
+  id: icdot:C23

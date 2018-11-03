@@ -1,11 +1,11 @@
 equivalents:
-- term: Barrett adenocarcinoma
-  term_id: ncit:C7027
-- term_id: seer:21010
+- label: Barrett adenocarcinoma
+  id: ncit:C7027
+- id: seer:21010
 examples:
-- labels: Barret adenocarcinoma [cell line OE33]
+- label: Barret adenocarcinoma [cell line OE33]
 input:
-- term: Carcinoma, NOS
-  term_id: icdom:8010_3
-- term: esophagus
-  term_id: icdot:C15
+- label: Carcinoma, NOS
+  id: icdom:8010_3
+- label: esophagus
+  id: icdot:C15

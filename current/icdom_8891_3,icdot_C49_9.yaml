@@ -1,11 +1,11 @@
 equivalents:
-- term: Epithelioid Leiomyosarcoma
-  term_id: ncit:C3700
-- term_id: seer:24000
+- label: Epithelioid Leiomyosarcoma
+  id: ncit:C3700
+- id: seer:24000
 examples:
-- labels: Epitheliod Leiomyosarcoma [grade III, primary]
+- label: Epitheliod Leiomyosarcoma [grade III, primary]
 input:
-- term: Epithelioid leiomyosarcoma
-  term_id: icdom:8891_3
-- term: connective and soft tissue, NOS
-  term_id: icdot:C49_9
+- label: Epithelioid leiomyosarcoma
+  id: icdom:8891_3
+- label: connective and soft tissue, NOS
+  id: icdot:C49_9

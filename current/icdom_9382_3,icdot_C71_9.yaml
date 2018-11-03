@@ -1,11 +1,11 @@
 equivalents:
-- term: Oligoastrocytoma
-  term_id: ncit:C4050
-- term_id: seer:31010
+- label: Oligoastrocytoma
+  id: ncit:C4050
+- id: seer:31010
 examples:
-- labels: Grade II mixed oligoastrocytoma
+- label: Grade II mixed oligoastrocytoma
 input:
-- term: Mixed glioma
-  term_id: icdom:9382_3
-- term: brain, NOS
-  term_id: icdot:C71_9
+- label: Mixed glioma
+  id: icdom:9382_3
+- label: brain, NOS
+  id: icdot:C71_9

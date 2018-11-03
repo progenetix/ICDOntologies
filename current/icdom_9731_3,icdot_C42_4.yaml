@@ -1,11 +1,11 @@
 equivalents:
-- term: Plasma cell myeloma
-  term_id: ncit:C3242
-- term_id: seer:35043
+- label: Plasma cell myeloma
+  id: ncit:C3242
+- id: seer:35043
 examples:
-- labels: plasma cell myeloma [cell line RPMI-8226]
+- label: plasma cell myeloma [cell line RPMI-8226]
 input:
-- term: Multiple myeloma
-  term_id: icdom:9731_3
-- term: Hematopoietic system, NOS
-  term_id: icdot:C42_4
+- label: Multiple myeloma
+  id: icdom:9731_3
+- label: Hematopoietic system, NOS
+  id: icdot:C42_4

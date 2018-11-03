@@ -1,11 +1,11 @@
 equivalents:
-- term: Glioma
-  term_id: ncit:C3059
-- term_id: seer:31010
+- label: Glioma
+  id: ncit:C3059
+- id: seer:31010
 examples:
-- labels: chordoid glioma
+- label: chordoid glioma
 input:
-- term: Glioma, malignant
-  term_id: icdom:9380_3
-- term: ventricle
-  term_id: icdot:C71_5
+- label: Glioma, malignant
+  id: icdom:9380_3
+- label: ventricle
+  id: icdot:C71_5

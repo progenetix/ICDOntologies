@@ -1,11 +1,11 @@
 equivalents:
-- term: None
-  term_id: ncit:C3996
-- term_id: seer:34000
+- label: None
+  id: ncit:C3996
+- id: seer:34000
 examples:
-- labels: Monoclonal gammopathy
+- label: Monoclonal gammopathy
 input:
-- term: Monoclonal gammopathy of undetermined significance
-  term_id: icdom:9765_1
-- term: Hematopoietic system, NOS
-  term_id: icdot:C42_4
+- label: Monoclonal gammopathy of undetermined significance
+  id: icdom:9765_1
+- label: Hematopoietic system, NOS
+  id: icdot:C42_4

@@ -1,11 +1,11 @@
 equivalents:
-- term: Schwannoma
-  term_id: ncit:C3269
-- term_id: seer:24000
+- label: Schwannoma
+  id: ncit:C3269
+- id: seer:24000
 examples:
-- labels: Schwannoma
+- label: Schwannoma
 input:
-- term: Neurilemoma, NOS
-  term_id: icdom:9560_0
-- term: peripheral nervs incl. autonomous
-  term_id: icdot:C47_9
+- label: Neurilemoma, NOS
+  id: icdom:9560_0
+- label: peripheral nervs incl. autonomous
+  id: icdot:C47_9

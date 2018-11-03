@@ -1,11 +1,11 @@
 equivalents:
-- term: ''
-  term_id: 'ncit:'
-- term_id: seer:99999
+- label: ''
+  id: 'ncit:'
+- id: seer:99999
 examples:
-- labels: normal cervix epithelium
+- label: normal cervix epithelium
 input:
-- term: not in ICD-O (e.g. non-neoplastic, reference)
-  term_id: icdom:0000_0
-- term: cervix uteri
-  term_id: icdot:C53_9
+- label: not in ICD-O (e.g. non-neoplastic, reference)
+  id: icdom:0000_0
+- label: cervix uteri
+  id: icdot:C53_9

@@ -1,11 +1,11 @@
 equivalents:
-- term: Duodenal adenocarcinoma
-  term_id: ncit:C7889
-- term_id: seer:21020
+- label: Duodenal adenocarcinoma
+  id: ncit:C7889
+- id: seer:21020
 examples:
-- labels: Duodenal adenocarcinoma [cell line AZ-521]
+- label: Duodenal adenocarcinoma [cell line AZ-521]
 input:
-- term: Adenocarcinoma, NOS
-  term_id: icdom:8140_3
-- term: stomach
-  term_id: icdot:C16
+- label: Adenocarcinoma, NOS
+  id: icdom:8140_3
+- label: stomach
+  id: icdot:C16

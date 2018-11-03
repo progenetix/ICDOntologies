@@ -1,11 +1,11 @@
 equivalents:
-- term: ''
-  term_id: 'ncit:'
-- term_id: seer:33011
+- label: ''
+  id: 'ncit:'
+- id: seer:33011
 examples:
-- labels: Classical Hodgkin lymphoma, lymphocyte-rich
+- label: Classical Hodgkin lymphoma, lymphocyte-rich
 input:
-- term: Hodgkin lymphoma, lymphocyte-rich
-  term_id: icdom:9651_3
-- term: Lymph nodes, NOS
-  term_id: icdot:C77_9
+- label: Hodgkin lymphoma, lymphocyte-rich
+  id: icdom:9651_3
+- label: Lymph nodes, NOS
+  id: icdot:C77_9

@@ -1,11 +1,11 @@
 equivalents:
-- term: Signet ring cell gastric adenocarcinoma
-  term_id: ncit:C5250
-- term_id: seer:21020
+- label: Signet ring cell gastric adenocarcinoma
+  id: ncit:C5250
+- id: seer:21020
 examples:
-- labels: Signet ring cell gastric adenocarcinoma [cell line GP202]
+- label: Signet ring cell gastric adenocarcinoma [cell line GP202]
 input:
-- term: Signet ring cell carcinoma
-  term_id: icdom:8940_3
-- term: stomach
-  term_id: icdot:C16
+- label: Signet ring cell carcinoma
+  id: icdom:8940_3
+- label: stomach
+  id: icdot:C16

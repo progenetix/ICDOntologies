@@ -1,11 +1,11 @@
 equivalents:
-- term: ''
-  term_id: 'ncit:'
-- term_id: seer:25010
+- label: ''
+  id: 'ncit:'
+- id: seer:25010
 examples:
-- labels: melanoma arising in congenital nevus
+- label: melanoma arising in congenital nevus
 input:
-- term: Small congenital nevus
-  term_id: icdom:8761_0
-- term: Skin, NOS
-  term_id: icdot:C44_9
+- label: Small congenital nevus
+  id: icdom:8761_0
+- label: Skin, NOS
+  id: icdot:C44_9

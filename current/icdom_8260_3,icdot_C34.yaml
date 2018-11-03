@@ -1,11 +1,11 @@
 equivalents:
-- term: Papillary lung adenocarcinoma
-  term_id: ncit:C5650
-- term_id: seer:22030
+- label: Papillary lung adenocarcinoma
+  id: ncit:C5650
+- id: seer:22030
 examples:
-- labels: papillary lung adenocarcinoma [cell line NCI-H820]
+- label: papillary lung adenocarcinoma [cell line NCI-H820]
 input:
-- term: Papillary adenocarcinoma, NOS
-  term_id: icdom:8260_3
-- term: lung and bronchus
-  term_id: icdot:C34
+- label: Papillary adenocarcinoma, NOS
+  id: icdom:8260_3
+- label: lung and bronchus
+  id: icdot:C34

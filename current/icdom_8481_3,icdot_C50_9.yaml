@@ -1,11 +1,11 @@
 equivalents:
-- term: None
-  term_id: ncit:C27825
-- term_id: seer:26000
+- label: None
+  id: ncit:C27825
+- id: seer:26000
 examples:
-- labels: Mucin-producing adenocarcinoma
+- label: Mucin-producing adenocarcinoma
 input:
-- term: Mucin-producing adenocarcinoma
-  term_id: icdom:8481_3
-- term: Breast, NOS
-  term_id: icdot:C50_9
+- label: Mucin-producing adenocarcinoma
+  id: icdom:8481_3
+- label: Breast, NOS
+  id: icdot:C50_9

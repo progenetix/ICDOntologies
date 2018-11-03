@@ -1,11 +1,11 @@
 equivalents:
-- term: Adult acute monocytic leukemia
-  term_id: ncit:C8263
-- term_id: seer:24000
+- label: Adult acute monocytic leukemia
+  id: ncit:C8263
+- id: seer:24000
 examples:
-- labels: acute monocytic leukemia [cell line TUR]
+- label: acute monocytic leukemia [cell line TUR]
 input:
-- term: acute monocytic leukemia
-  term_id: icdom:9891_3
-- term: connective and soft tissue, nos
-  term_id: icdot:C49_9
+- label: acute monocytic leukemia
+  id: icdom:9891_3
+- label: connective and soft tissue, nos
+  id: icdot:C49_9

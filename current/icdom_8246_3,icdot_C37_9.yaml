@@ -1,11 +1,11 @@
 equivalents:
-- term: Neuroendocrine Carcinoma
-  term_id: ncit:C3773
-- term_id: seer:32020
+- label: Neuroendocrine Carcinoma
+  id: ncit:C3773
+- id: seer:32020
 examples:
-- labels: thymic neuroendocrine tumor
+- label: thymic neuroendocrine tumor
 input:
-- term: Neuroendocrine carcinoma, NOS
-  term_id: icdom:8246_3
-- term: thymus
-  term_id: icdot:C37_9
+- label: Neuroendocrine carcinoma, NOS
+  id: icdom:8246_3
+- label: thymus
+  id: icdot:C37_9

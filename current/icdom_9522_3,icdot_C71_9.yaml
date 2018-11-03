@@ -1,11 +1,11 @@
 equivalents:
-- term: Olfactory Neuroblastoma
-  term_id: ncit:C3789
-- term_id: seer:31040
+- label: Olfactory Neuroblastoma
+  id: ncit:C3789
+- id: seer:31040
 examples:
-- labels: Olfactory neuroblastoma
+- label: Olfactory neuroblastoma
 input:
-- term: Olfactory neuroblastoma
-  term_id: icdom:9522_3
-- term: Brain, NOS
-  term_id: icdot:C71_9
+- label: Olfactory neuroblastoma
+  id: icdom:9522_3
+- label: Brain, NOS
+  id: icdot:C71_9

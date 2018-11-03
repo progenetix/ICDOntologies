@@ -1,12 +1,12 @@
 equivalents:
-- term: ''
-  term_id: 'ncit:'
-- term_id: seer:99999
+- label: ''
+  id: 'ncit:'
+- id: seer:99999
 examples:
-- labels: Bronchiolar columnar cell dysplasia [Anaplastic carcinoma, in situ AC, CGH
+- label: Bronchiolar columnar cell dysplasia [Anaplastic carcinoma, in situ AC, CGH
     in BCCD low grade component]
 input:
-- term: not in ICD-O (e.g. non-neoplastic, reference)
-  term_id: icdom:0000_0
-- term: lung and bronchus
-  term_id: icdot:C34_9
+- label: not in ICD-O (e.g. non-neoplastic, reference)
+  id: icdom:0000_0
+- label: lung and bronchus
+  id: icdot:C34_9

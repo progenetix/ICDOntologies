@@ -1,11 +1,11 @@
 equivalents:
-- term: Myelodysplastic Syndrome
-  term_id: ncit:C3247
-- term_id: seer:35023
+- label: Myelodysplastic Syndrome
+  id: ncit:C3247
+- id: seer:35023
 examples:
-- labels: Myelodysplastic syndrome, NOS
+- label: Myelodysplastic syndrome, NOS
 input:
-- term: Myelodysplastic syndrome, NOS
-  term_id: icdom:9989_3
-- term: Hematopoietic system, NOS
-  term_id: icdot:C42_4
+- label: Myelodysplastic syndrome, NOS
+  id: icdom:9989_3
+- label: Hematopoietic system, NOS
+  id: icdot:C42_4

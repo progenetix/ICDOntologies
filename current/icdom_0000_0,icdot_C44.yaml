@@ -1,11 +1,11 @@
 equivalents:
-- term: Transformed cell line
-  term_id: ncit:None
-- term_id: seer:25010
+- label: Transformed cell line
+  id: ncit:None
+- id: seer:25010
 examples:
-- labels: transformed cell line LAU-Me246.M1-LCL
+- label: transformed cell line LAU-Me246.M1-LCL
 input:
-- term: not in ICD-O (e.g. non-neoplastic, reference)
-  term_id: icdom:0000_0
-- term: skin
-  term_id: icdot:C44
+- label: not in ICD-O (e.g. non-neoplastic, reference)
+  id: icdom:0000_0
+- label: skin
+  id: icdot:C44

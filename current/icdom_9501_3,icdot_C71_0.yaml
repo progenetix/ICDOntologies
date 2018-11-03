@@ -1,11 +1,11 @@
 equivalents:
-- term: None
-  term_id: ncit:C66808
-- term_id: seer:31010
+- label: None
+  id: ncit:C66808
+- id: seer:31010
 examples:
-- labels: Medulloepithelioma
+- label: Medulloepithelioma
 input:
-- term: Medulloepithelioma, NOS
-  term_id: icdom:9501_3
-- term: cerebrum
-  term_id: icdot:C71_0
+- label: Medulloepithelioma, NOS
+  id: icdom:9501_3
+- label: cerebrum
+  id: icdot:C71_0

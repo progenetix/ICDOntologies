@@ -1,11 +1,11 @@
 equivalents:
-- term: Conventional Osteosarcoma
-  term_id: ncit:C35870
-- term_id: seer:23000
+- label: Conventional Osteosarcoma
+  id: ncit:C35870
+- id: seer:23000
 examples:
-- labels: central osteosarcoma
+- label: central osteosarcoma
 input:
-- term: Central osteosarcoma
-  term_id: icdom:9186_3
-- term: bones and joints
-  term_id: icdot:C40_0
+- label: Central osteosarcoma
+  id: icdom:9186_3
+- label: bones and joints
+  id: icdot:C40_0

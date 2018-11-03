@@ -1,11 +1,11 @@
 equivalents:
-- term: None
-  term_id: ncit:C3400
-- term_id: seer:24000
+- label: None
+  id: ncit:C3400
+- id: seer:24000
 examples:
-- labels: poorly differentiated synovial sarcoma
+- label: poorly differentiated synovial sarcoma
 input:
-- term: Synovial sarcoma, NOS
-  term_id: icdom:9040_3
-- term: connective and soft tissue, NOS
-  term_id: icdot:C49_9
+- label: Synovial sarcoma, NOS
+  id: icdom:9040_3
+- label: connective and soft tissue, NOS
+  id: icdot:C49_9

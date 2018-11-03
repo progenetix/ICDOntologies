@@ -1,11 +1,11 @@
 equivalents:
-- term: Pancreatic somatostatinoma
-  term_id: ncit:C95595
-- term_id: seer:21100
+- label: Pancreatic somatostatinoma
+  id: ncit:C95595
+- id: seer:21100
 examples:
-- labels: Pancreatic somatostatinoma [cell line QGP-1]
+- label: Pancreatic somatostatinoma [cell line QGP-1]
 input:
-- term: somatostatinoma, malignant
-  term_id: icdom:8156_3
-- term: pancreas
-  term_id: icdot:C25
+- label: somatostatinoma, malignant
+  id: icdom:8156_3
+- label: pancreas
+  id: icdot:C25

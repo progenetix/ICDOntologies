@@ -1,11 +1,11 @@
 equivalents:
-- term: Adenocarcinoma
-  term_id: ncit:C2852
-- term_id: seer:32020
+- label: Adenocarcinoma
+  id: ncit:C2852
+- id: seer:32020
 examples:
-- labels: parathyroid carcinoma [Sporadic]
+- label: parathyroid carcinoma [Sporadic]
 input:
-- term: Adenocarcinoma, NOS
-  term_id: icdom:8140_3
-- term: parathyroid gland
-  term_id: icdot:C75_0
+- label: Adenocarcinoma, NOS
+  id: icdom:8140_3
+- label: parathyroid gland
+  id: icdot:C75_0

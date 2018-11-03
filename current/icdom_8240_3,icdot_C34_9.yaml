@@ -1,11 +1,11 @@
 equivalents:
-- term: Carcinoid Tumor
-  term_id: ncit:C2915
-- term_id: seer:22030
+- label: Carcinoid Tumor
+  id: ncit:C2915
+- id: seer:22030
 examples:
-- labels: carcinoid [lung]
+- label: carcinoid [lung]
 input:
-- term: Carcinoid tumor, NOS
-  term_id: icdom:8240_3
-- term: lung and bronchus
-  term_id: icdot:C34_9
+- label: Carcinoid tumor, NOS
+  id: icdom:8240_3
+- label: lung and bronchus
+  id: icdot:C34_9

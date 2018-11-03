@@ -1,11 +1,11 @@
 equivalents:
-- term: ''
-  term_id: 'ncit:'
-- term_id: seer:35011
+- label: ''
+  id: 'ncit:'
+- id: seer:35011
 examples:
-- labels: pediatric T-lymphoblastic leukemia
+- label: pediatric T-lymphoblastic leukemia
 input:
-- term: Precursor T-cell lymphoblastic leukemia
-  term_id: icdom:9837_3
-- term: Hematopoietic system, NOS
-  term_id: icdot:C42_4
+- label: Precursor T-cell lymphoblastic leukemia
+  id: icdom:9837_3
+- label: Hematopoietic system, NOS
+  id: icdot:C42_4

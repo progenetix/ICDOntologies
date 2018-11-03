@@ -1,11 +1,11 @@
 equivalents:
-- term: Carcinoma
-  term_id: ncit:C2916
-- term_id: seer:21010
+- label: Carcinoma
+  id: ncit:C2916
+- id: seer:21010
 examples:
-- labels: esophageal carcinoma
+- label: esophageal carcinoma
 input:
-- term: Carcinoma, NOS
-  term_id: icdom:8010_3
-- term: esophagus
-  term_id: icdot:C15_9
+- label: Carcinoma, NOS
+  id: icdom:8010_3
+- label: esophagus
+  id: icdot:C15_9

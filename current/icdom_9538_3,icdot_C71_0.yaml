@@ -1,11 +1,11 @@
 equivalents:
-- term: Rhabdoid Meningioma
-  term_id: ncit:C6909
-- term_id: seer:31040
+- label: Rhabdoid Meningioma
+  id: ncit:C6909
+- id: seer:31040
 examples:
-- labels: cerebral tumor with extensive rhabdoid features
+- label: cerebral tumor with extensive rhabdoid features
 input:
-- term: Papillary meningioma
-  term_id: icdom:9538_3
-- term: cerebrum
-  term_id: icdot:C71_0
+- label: Papillary meningioma
+  id: icdom:9538_3
+- label: cerebrum
+  id: icdot:C71_0

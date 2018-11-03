@@ -1,11 +1,11 @@
 equivalents:
-- term: Adrenal Cortex Carcinoma
-  term_id: ncit:C9325
-- term_id: seer:32020
+- label: Adrenal Cortex Carcinoma
+  id: ncit:C9325
+- id: seer:32020
 examples:
-- labels: Adrenal cortical carcinoma [pediatric]
+- label: Adrenal cortical carcinoma [pediatric]
 input:
-- term: Adrenal cortical carcinoma
-  term_id: icdom:8370_3
-- term: adrenal cortex
-  term_id: icdot:C74_0
+- label: Adrenal cortical carcinoma
+  id: icdom:8370_3
+- label: adrenal cortex
+  id: icdot:C74_0

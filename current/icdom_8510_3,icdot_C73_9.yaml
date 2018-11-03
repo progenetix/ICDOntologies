@@ -1,11 +1,11 @@
 equivalents:
-- term: None
-  term_id: ncit:C66718
-- term_id: seer:32010
+- label: None
+  id: ncit:C66718
+- id: seer:32010
 examples:
-- labels: Medullary carcinoma of the thyroid
+- label: Medullary carcinoma of the thyroid
 input:
-- term: Medullary carcinoma, NOS
-  term_id: icdom:8510_3
-- term: thyroid gland
-  term_id: icdot:C73_9
+- label: Medullary carcinoma, NOS
+  id: icdom:8510_3
+- label: thyroid gland
+  id: icdot:C73_9

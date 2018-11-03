@@ -1,11 +1,11 @@
 equivalents:
-- term: Clear Cell Adenocarcinoma
-  term_id: ncit:C3766
-- term_id: seer:27030
+- label: Clear Cell Adenocarcinoma
+  id: ncit:C3766
+- id: seer:27030
 examples:
-- labels: clear cell adenocarcinoma
+- label: clear cell adenocarcinoma
 input:
-- term: Clear cell adenocarcinoma, NOS
-  term_id: icdom:8310_3
-- term: uterus, nos
-  term_id: icdot:C55_9
+- label: Clear cell adenocarcinoma, NOS
+  id: icdom:8310_3
+- label: uterus, nos
+  id: icdot:C55_9

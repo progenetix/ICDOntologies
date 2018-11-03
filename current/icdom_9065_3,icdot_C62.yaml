@@ -1,11 +1,11 @@
 equivalents:
-- term: Testicular embryonal carcinoma
-  term_id: ncit:C6341
-- term_id: seer:28020
+- label: Testicular embryonal carcinoma
+  id: ncit:C6341
+- id: seer:28020
 examples:
-- labels: testicular embryonal carcinoma [cell line NEC8]
+- label: testicular embryonal carcinoma [cell line NEC8]
 input:
-- term: Germ cell tumor, nonseminomatous
-  term_id: icdom:9065_3
-- term: testis
-  term_id: icdot:C62
+- label: Germ cell tumor, nonseminomatous
+  id: icdom:9065_3
+- label: testis
+  id: icdot:C62

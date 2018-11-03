@@ -1,11 +1,11 @@
 equivalents:
-- term: Acute Megakaryoblastic Leukemia
-  term_id: ncit:C3170
-- term_id: seer:35021
+- label: Acute Megakaryoblastic Leukemia
+  id: ncit:C3170
+- id: seer:35021
 examples:
-- labels: acute megakaryoblastic leukemia [Down syndrome]
+- label: acute megakaryoblastic leukemia [Down syndrome]
 input:
-- term: Acute megakaryoblastic leukemia
-  term_id: icdom:9910_3
-- term: Hematopoietic system, NOS
-  term_id: icdot:C42_4
+- label: Acute megakaryoblastic leukemia
+  id: icdom:9910_3
+- label: Hematopoietic system, NOS
+  id: icdot:C42_4

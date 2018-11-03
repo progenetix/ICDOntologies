@@ -1,11 +1,11 @@
 equivalents:
-- term: Malignant Peripheral Nerve Sheath Tumor
-  term_id: ncit:C3798
-- term_id: seer:24000
+- label: Malignant Peripheral Nerve Sheath Tumor
+  id: ncit:C3798
+- id: seer:24000
 examples:
-- labels: peripheral nerve sheath tumor [groin, recurrence]
+- label: peripheral nerve sheath tumor [groin, recurrence]
 input:
-- term: Malignant peripheral nerve sheath tumor
-  term_id: icdom:9540_3
-- term: peripheral nervs incl. Autonomous
-  term_id: icdot:C47_9
+- label: Malignant peripheral nerve sheath tumor
+  id: icdom:9540_3
+- label: peripheral nervs incl. Autonomous
+  id: icdot:C47_9

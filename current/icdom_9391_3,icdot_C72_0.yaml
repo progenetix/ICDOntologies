@@ -1,11 +1,11 @@
 equivalents:
-- term: Tanycytic Ependymoma
-  term_id: ncit:C6903
-- term_id: seer:31040
+- label: Tanycytic Ependymoma
+  id: ncit:C6903
+- id: seer:31040
 examples:
-- labels: myxopapillary ependymoma [cauda equina]
+- label: myxopapillary ependymoma [cauda equina]
 input:
-- term: Ependymoma, NOS
-  term_id: icdom:9391_3
-- term: Spinal cord
-  term_id: icdot:C72_0
+- label: Ependymoma, NOS
+  id: icdom:9391_3
+- label: Spinal cord
+  id: icdot:C72_0

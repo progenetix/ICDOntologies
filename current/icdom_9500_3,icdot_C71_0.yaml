@@ -1,11 +1,11 @@
 equivalents:
-- term: Neuroblastoma
-  term_id: ncit:C3270
-- term_id: seer:31010
+- label: Neuroblastoma
+  id: ncit:C3270
+- id: seer:31010
 examples:
-- labels: Cerebral neuroblastoma [cerebral region midline, frontal lobe]
+- label: Cerebral neuroblastoma [cerebral region midline, frontal lobe]
 input:
-- term: Neuroblastoma, NOS
-  term_id: icdom:9500_3
-- term: cerebrum
-  term_id: icdot:C71_0
+- label: Neuroblastoma, NOS
+  id: icdom:9500_3
+- label: cerebrum
+  id: icdot:C71_0

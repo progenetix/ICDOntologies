@@ -1,11 +1,11 @@
 equivalents:
-- term: ''
-  term_id: 'ncit:'
-- term_id: seer:99999
+- label: ''
+  id: 'ncit:'
+- id: seer:99999
 examples:
-- labels: Normal endometrium
+- label: Normal endometrium
 input:
-- term: not in ICD-O (e.g. non-neoplastic, reference)
-  term_id: icdom:0000_0
-- term: uterus, nos
-  term_id: icdot:C55_9
+- label: not in ICD-O (e.g. non-neoplastic, reference)
+  id: icdom:0000_0
+- label: uterus, nos
+  id: icdot:C55_9

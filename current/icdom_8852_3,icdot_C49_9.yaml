@@ -1,11 +1,11 @@
 equivalents:
-- term: None
-  term_id: ncit:C3735
-- term_id: seer:24000
+- label: None
+  id: ncit:C3735
+- id: seer:24000
 examples:
-- labels: Myxoid liposarcoma [G2]
+- label: Myxoid liposarcoma [G2]
 input:
-- term: Myxoid liposarcoma
-  term_id: icdom:8852_3
-- term: connective and soft tissue, NOS
-  term_id: icdot:C49_9
+- label: Myxoid liposarcoma
+  id: icdom:8852_3
+- label: connective and soft tissue, NOS
+  id: icdot:C49_9

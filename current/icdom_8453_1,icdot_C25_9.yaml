@@ -1,11 +1,11 @@
 equivalents:
-- term: ''
-  term_id: 'ncit:'
-- term_id: seer:21100
+- label: ''
+  id: 'ncit:'
+- id: seer:21100
 examples:
-- labels: intraductal papillary mucinous neoplasms of the pancreas [Moderate]
+- label: intraductal papillary mucinous neoplasms of the pancreas [Moderate]
 input:
-- term: Intraductal papillary-mucinous tumor with moderate dysplasia
-  term_id: icdom:8453_1
-- term: Pancreas, NOS
-  term_id: icdot:C25_9
+- label: Intraductal papillary-mucinous tumor with moderate dysplasia
+  id: icdom:8453_1
+- label: Pancreas, NOS
+  id: icdot:C25_9

@@ -1,11 +1,11 @@
 equivalents:
-- term: Atypical Teratoid/Rhabdoid Tumor
-  term_id: ncit:C6906
-- term_id: seer:31010
+- label: Atypical Teratoid/Rhabdoid Tumor
+  id: ncit:C6906
+- id: seer:31010
 examples:
-- labels: atypical teratoid/rhabdoid tumour [infratentorial]
+- label: atypical teratoid/rhabdoid tumour [infratentorial]
 input:
-- term: Atypical teratoid/rhabdoid tumor
-  term_id: icdom:9508_3
-- term: cerebellum
-  term_id: icdot:C71_6
+- label: Atypical teratoid/rhabdoid tumor
+  id: icdom:9508_3
+- label: cerebellum
+  id: icdot:C71_6
