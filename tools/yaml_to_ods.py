@@ -6,7 +6,7 @@ import collections
 from pyexcel_ods import save_data
 
 mapp = []
-mapp.append(['diagnosistext']+['icdmorphologycode']+['icdmorphology']+['icdtopographycode']+['icdtopography']+['seer']+['ncit:term']+['ncit:code'])
+mapp.append(['diagnosistext']+['icdmorphologycode']+['icdmorphology']+['icdtopographycode']+['icdtopography']+['ncit:term']+['ncit:code'])
 yamldir = '../current/'
 odsdir = '../editing/'
 for filename in os.listdir(yamldir): # Specify directory
@@ -21,7 +21,7 @@ for filename in os.listdir(yamldir): # Specify directory
                 icdom = [data['input'][0]['term']]
                 icdot_c = [data['input'][1]['term_id'].replace('icdot:','').replace("_",".")]
                 icdot = [data['input'][1]['term']]
-                seer = [data['equivalents'][1]['term_id'].replace('seer:','')]
+                #seer = [data['equivalents'][1]['term_id'].replace('seer:','')]
                 ncit = [data['equivalents'][0]['term']]
                 ncit_c = [data['equivalents'][0]['term_id'].replace("ncit:","")]
                 mapp.append(diagnosis+icdom_c+icdom+icdot_c+icdot+seer+ncit+ncit_c)
