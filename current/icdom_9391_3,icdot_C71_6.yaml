@@ -1,11 +1,10 @@
 equivalents:
-- label: Tanycytic Ependymoma
-  id: ncit:C6903
-- id: seer:31010
+- term: Tanycytic Ependymoma
+  term_id: ncit:C6903
 examples:
-- label: Ependymoma, benign [child, posterior fossa]
+- labels: Ependymoma, benign [child, posterior fossa]
 input:
-- label: Ependymoma, NOS
-  id: icdom:9391_3
-- label: cerebellum
-  id: icdot:C71_6
+- term: Ependymoma, NOS
+  term_id: icdom:9391_3
+- term: Cerebellum
+  term_id: icdot:C71_6

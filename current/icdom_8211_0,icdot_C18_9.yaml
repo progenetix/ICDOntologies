@@ -1,11 +1,10 @@
 equivalents:
-- label: None
-  id: ncit:C4133
-- id: seer:21049
+- term: Tubular Adenoma
+  term_id: ncit:C4133
 examples:
-- label: tubular adenoma [colorectal]
+- labels: tubular adenoma [colorectal]
 input:
-- label: Tubular adenoma, NOS
-  id: icdom:8211_0
-- label: large intestine, excl. rectum and rectosigmoid junction
-  id: icdot:C18_9
+- term: Tubular adenoma, NOS
+  term_id: icdom:8211_0
+- term: Large intestine, excl. Rectum and rectosigmoid junction
+  term_id: icdot:C18_9

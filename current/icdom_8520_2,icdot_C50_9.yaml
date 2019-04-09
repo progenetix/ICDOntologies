@@ -1,11 +1,10 @@
 equivalents:
-- label: Lobular Breast Carcinoma In Situ
-  id: ncit:C4018
-- id: seer:26000
+- term: Lobular Breast Carcinoma In Situ
+  term_id: ncit:C4018
 examples:
-- label: pleomorphic lobular carcinoma in situ [breast]
+- labels: classic lobular carcinomas
 input:
-- label: Lobular carcinoma in situ, NOS
-  id: icdom:8520_2
-- label: Breast, NOS
-  id: icdot:C50_9
+- term: Lobular carcinoma in situ, NOS
+  term_id: icdom:8520_2
+- term: Breast, NOS
+  term_id: icdot:C50_9

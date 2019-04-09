@@ -1,11 +1,10 @@
 equivalents:
-- label: None
-  id: ncit:C3759
-- id: seer:32010
+- term: Oncocytic Adenoma
+  term_id: ncit:C3759
 examples:
-- label: thyroid adenoma, Huerthle cell
+- labels: thyroid adenoma, Huerthle cell
 input:
-- label: Oxyphilic adenoma
-  id: icdom:8290_0
-- label: thyroid gland
-  id: icdot:C73_9
+- term: Oxyphilic adenoma
+  term_id: icdom:8290_0
+- term: Thyroid gland
+  term_id: icdot:C73_9

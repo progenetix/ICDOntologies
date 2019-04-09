@@ -1,11 +1,10 @@
 equivalents:
-- label: Secretory Breast Carcinoma
-  id: ncit:C4189
-- id: seer:26000
+- term: Secretory Breast Carcinoma
+  term_id: ncit:C4189
 examples:
-- label: invasive ductal breast cancer [cell line, xenografts]
+- labels: invasive ductal breast cancer [cell line, xenografts]
 input:
-- label: Secretory carcinoma of breast
-  id: icdom:8502_3
-- label: Breast, NOS
-  id: icdot:C50_9
+- term: Secretory carcinoma of breast
+  term_id: icdom:8502_3
+- term: Breast, NOS
+  term_id: icdot:C50_9

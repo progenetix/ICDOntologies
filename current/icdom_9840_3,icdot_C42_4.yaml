@@ -1,11 +1,10 @@
 equivalents:
-- label: Erythroleukemia
-  id: ncit:C7152
-- id: seer:35041
+- term: Acute Erythroid Leukemia
+  term_id: ncit:C8923
 examples:
-- label: Erythroleukemia [cell line HEL]
+- labels: Acute erythroid leukemia [FAB M6, refractory]
 input:
-- label: Erythroleukemia
-  id: icdom:9840_3
-- label: Hematopoietic system, NOS
-  id: icdot:C42_4
+- term: Acute myeloid leukemia, M6 type
+  term_id: icdom:9840_3
+- term: Hematopoietic system, NOS
+  term_id: icdot:C42_4

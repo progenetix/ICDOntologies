@@ -1,11 +1,10 @@
 equivalents:
-- label: Intravascular Large B-Cell Lymphoma
-  id: ncit:C4342
-- id: seer:33041
+- term: Intravascular Large B-Cell Lymphoma
+  term_id: ncit:C4342
 examples:
-- label: Diffuse histiocytoma [cell line U937-I]
+- labels: Diffuse histiocytoma [cell line U937-I]
 input:
-- label: Malignant lymphoma, large B-cell, diffuse, NOS
-  id: icdom:9680_3
-- label: Hematopoietic system, NOS
-  id: icdot:C42_4
+- term: Malignant lymphoma, large B-cell, diffuse, NOS
+  term_id: icdom:9680_3
+- term: Hematopoietic system, NOS
+  term_id: icdot:C42_4

@@ -1,11 +1,10 @@
 equivalents:
-- label: T-Zone Variant Peripheral T-Cell Lymphoma
-  id: ncit:C7204
-- id: seer:33041
+- term: T-Zone Variant Peripheral T-Cell Lymphoma
+  term_id: ncit:C7204
 examples:
-- label: T-NHL [stage IV]
+- labels: natural killer lymphoma [Pulmonary lymph node]
 input:
-- label: Mature T-cell lymphoma, NOS
-  id: icdom:9702_3
-- label: Lymph nodes, NOS
-  id: icdot:C77_9
+- term: Mature T-cell lymphoma, NOS
+  term_id: icdom:9702_3
+- term: Lymph nodes, NOS
+  term_id: icdot:C77_9

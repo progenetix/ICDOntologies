@@ -1,11 +1,10 @@
 equivalents:
-- label: None
-  id: ncit:C4245
-- id: seer:24000
+- term: Elastofibroma
+  term_id: ncit:C4245
 examples:
-- label: Elastofibroma
+- labels: Elastofibroma
 input:
-- label: Elastofibroma
-  id: icdom:8820_0
-- label: connective and soft tissue, NOS
-  id: icdot:C49_9
+- term: Elastofibroma
+  term_id: icdom:8820_0
+- term: Connective and soft tissue, NOS
+  term_id: icdot:C49_9

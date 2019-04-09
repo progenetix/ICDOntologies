@@ -1,11 +1,10 @@
 equivalents:
-- label: Plasma Cell Leukemia
-  id: ncit:C3180
-- id: seer:35043
+- term: Plasma Cell Leukemia
+  term_id: ncit:C3180
 examples:
-- label: Plasma cell leukemia
+- labels: Plasma cell leukemia
 input:
-- label: Plasma cell leukemia
-  id: icdom:9733_3
-- label: Hematopoietic system, NOS
-  id: icdot:C42_4
+- term: Plasma cell leukemia
+  term_id: icdom:9733_3
+- term: Hematopoietic system, NOS
+  term_id: icdot:C42_4

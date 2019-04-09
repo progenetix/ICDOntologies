@@ -1,11 +1,10 @@
 equivalents:
-- label: Mature T-Cell and NK-Cell Non-Hodgkin Lymphoma
-  id: ncit:C3468
-- id: seer:35043
+- term: Mature T-Cell and NK-Cell Non-Hodgkin Lymphoma
+  term_id: ncit:C3468
 examples:
-- label: Adult T-cell leukemia/lymphoma
+- labels: adult T-cell leukemia
 input:
-- label: Adult T-cell leukemia/lymphoma (HTLV-1 positive)
-  id: icdom:9827_3
-- label: Hematopoietic system, NOS
-  id: icdot:C42_4
+- term: Adult T-cell leukemia/lymphoma (HTLV-1 positive)
+  term_id: icdom:9827_3
+- term: Hematopoietic system, NOS
+  term_id: icdot:C42_4

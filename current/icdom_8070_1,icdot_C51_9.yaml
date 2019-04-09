@@ -1,11 +1,10 @@
 equivalents:
-- label: ''
-  id: 'ncit:'
-- id: seer:27060
+- term: Vulvar Squamous Cell Carcinoma
+  term_id: ncit:C4052
 examples:
-- label: Squamous intraepithelial neoplasia, grade II [vulva]
+- labels: Vulvar hyperplasia
 input:
-- label: None
-  id: icdom:8070_1
-- label: vulva, nos
-  id: icdot:C51_9
+- term: None
+  term_id: icdom:8070_1
+- term: Vulva, NOS
+  term_id: icdot:C51_9

@@ -1,12 +1,11 @@
 equivalents:
-- label: None
-  id: ncit:C65192
-- id: seer:26000
+- term: Tubular Adenocarcinoma
+  term_id: ncit:C65192
 examples:
-- label: tubular carcinoma of the breast [grade I, stage pT1c, 0 pos. LN, dist metast.
-    no]
+- labels: Adenocarcinoma [breast, BRCAX - familial, Tubular partial cribriform, grade
+    II G1 [van Nuys], T3N1]
 input:
-- label: Tubular adenocarcinoma
-  id: icdom:8211_3
-- label: Breast, NOS
-  id: icdot:C50_9
+- term: Tubular adenocarcinoma
+  term_id: icdom:8211_3
+- term: Breast, NOS
+  term_id: icdot:C50_9

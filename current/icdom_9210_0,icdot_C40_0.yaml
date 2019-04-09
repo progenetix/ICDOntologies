@@ -1,11 +1,10 @@
 equivalents:
-- label: None
-  id: ncit:C3295
-- id: seer:23000
+- term: Osteochondroma
+  term_id: ncit:C3295
 examples:
-- label: osteochondroma [fibula]
+- labels: osteochondroma [fibula]
 input:
-- label: Osteochondroma
-  id: icdom:9210_0
-- label: bones and joints
-  id: icdot:C40_0
+- term: Osteochondroma
+  term_id: icdom:9210_0
+- term: Bones and joints
+  term_id: icdot:C40_0

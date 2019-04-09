@@ -1,11 +1,10 @@
 equivalents:
-- label: ''
-  id: 'ncit:'
-- id: seer:27040
+- term: Ovarian granulosa cell tumor
+  term_id: ncit:C6261
 examples:
-- label: Granulosa cell tumor
+- labels: Ovarian granulosa cell tumor [cell line COV434]
 input:
-- label: Granulosa cell tumor, malignant
-  id: icdom:8620_3
-- label: ovary
-  id: icdot:C56_9
+- term: Granulosa cell tumor
+  term_id: icdom:8620_3
+- term: Ovary
+  term_id: icdot:C56_9

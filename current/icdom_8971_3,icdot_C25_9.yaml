@@ -1,11 +1,10 @@
 equivalents:
-- label: Pancreatoblastoma
-  id: ncit:C4265
-- id: seer:21100
+- term: Pancreatoblastoma
+  term_id: ncit:C4265
 examples:
-- label: Pediatric pancreatoblastoma
+- labels: Pediatric pancreatoblastoma
 input:
-- label: Pancreatoblastoma
-  id: icdom:8971_3
-- label: Pancreas, NOS
-  id: icdot:C25_9
+- term: Pancreatoblastoma
+  term_id: icdom:8971_3
+- term: Pancreas, NOS
+  term_id: icdot:C25_9

@@ -1,11 +1,10 @@
 equivalents:
-- label: Myelodysplastic Syndrome with Ring Sideroblasts
-  id: ncit:C4036
-- id: seer:35023
+- term: Myelodysplastic Syndrome with Ring Sideroblasts
+  term_id: ncit:C4036
 examples:
-- label: Refractory anemia with ringed sideroblasts [RARS]
+- labels: Refractory anemia with ringed sideroblasts [RARS]
 input:
-- label: Refractory anemia with sideroblasts
-  id: icdom:9982_3
-- label: Hematopoietic system, NOS
-  id: icdot:C42_4
+- term: Refractory anemia with sideroblasts
+  term_id: icdom:9982_3
+- term: Hematopoietic system, NOS
+  term_id: icdot:C42_4

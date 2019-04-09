@@ -1,11 +1,10 @@
 equivalents:
-- label: Soft Tissue Sarcoma
-  id: ncit:C9306
-- id: seer:24000
+- term: Soft Tissue Sarcoma
+  term_id: ncit:C9306
 examples:
-- label: Chordoid Sarcoma
+- labels: Pleomorphic sarcoma [grade high, primary]
 input:
-- label: Sarcoma, NOS
-  id: icdom:8800_3
-- label: connective and soft tissue, NOS
-  id: icdot:C49_9
+- term: Sarcoma, NOS
+  term_id: icdom:8800_3
+- term: Connective and soft tissue, NOS
+  term_id: icdot:C49_9

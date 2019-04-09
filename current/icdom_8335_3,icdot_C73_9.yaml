@@ -1,11 +1,10 @@
 equivalents:
-- label: ''
-  id: 'ncit:'
-- id: seer:32010
+- term: Thyroid Gland Follicular Carcinoma
+  term_id: ncit:C8054
 examples:
-- label: folliculary carcinoma of the thyroid [minimally invasive]
+- labels: Thyroid gland follicular carcinoma [cell line FTC-238]
 input:
-- label: Follicular carcinoma, minimally invasive
-  id: icdom:8335_3
-- label: thyroid gland
-  id: icdot:C73_9
+- term: Follicular carcinoma, minimally invasive
+  term_id: icdom:8335_3
+- term: Thyroid gland
+  term_id: icdot:C73_9

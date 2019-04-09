@@ -1,11 +1,10 @@
 equivalents:
-- label: ''
-  id: 'ncit:'
-- id: seer:33042
+- term: Mediastinal (Thymic) Large B-Cell Lymphoma
+  term_id: ncit:C9280
 examples:
-- label: Primary mediastinal B-NHL
+- labels: Primary mediastinal B-cell lymphoma
 input:
-- label: Mediastinal large B-cell lymphoma
-  id: icdom:9679_3
-- label: mediastinum
-  id: icdot:C38_9
+- term: Mediastinal large B-cell lymphoma
+  term_id: icdom:9679_3
+- term: Mediastinum
+  term_id: icdot:C38_9

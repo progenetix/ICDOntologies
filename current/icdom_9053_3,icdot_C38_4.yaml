@@ -1,11 +1,10 @@
 equivalents:
-- label: ''
-  id: 'ncit:'
-- id: seer:36010
+- term: Pleural biphasic mesothelioma
+  term_id: ncit:C45665
 examples:
-- label: Mixed malignant mesothelioma [familial occurence]
+- labels: pleural biphasic mesothelioma [cell line Y-MESO-8D
 input:
-- label: Mesothelioma, biphasic, malignant
-  id: icdom:9053_3
-- label: pleura
-  id: icdot:C38_4
+- term: Mesothelioma, biphasic, malignant
+  term_id: icdom:9053_3
+- term: Pleura
+  term_id: icdot:C38_4

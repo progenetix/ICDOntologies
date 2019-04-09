@@ -1,11 +1,10 @@
 equivalents:
-- label: Chondroma
-  id: ncit:C53459
-- id: seer:24000
+- term: Chondroma
+  term_id: ncit:C53459
 examples:
-- label: enchondroma [Mafucci syndrome]
+- labels: enchondroma [Mafucci syndrome]
 input:
-- label: Chondroma, NOS
-  id: icdom:9220_0
-- label: connective and soft tissue, NOS
-  id: icdot:C49_9
+- term: Chondroma, NOS
+  term_id: icdom:9220_0
+- term: Connective and soft tissue, NOS
+  term_id: icdot:C49_9

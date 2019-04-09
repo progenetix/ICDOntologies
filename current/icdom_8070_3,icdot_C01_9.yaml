@@ -1,0 +1,10 @@
+equivalents:
+- term: Salivary gland squamous cell carcinoma
+  term_id: ncit:C7991
+examples:
+- labels: salivary gland squamous cell carcinoma [cell line A-253]
+input:
+- term: Squamous cell carcinoma, NOS
+  term_id: icdom:8070_3
+- term: Tongue
+  term_id: icdot:C01_9

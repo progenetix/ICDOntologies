@@ -1,11 +1,10 @@
 equivalents:
-- label: Cribriform Neuroepithelial Tumor
-  id: ncit:C121963
-- id: seer:31040
+- term: Cribriform Neuroepithelial Tumor
+  term_id: ncit:C121963
 examples:
-- label: Cribriform neuroepithelial tumor
+- labels: Neuroepithelial tumor [Low grade]
 input:
-- label: Neuroepithelioma, NOS
-  id: icdom:9503_3
-- label: Nervous system, NOS
-  id: icdot:C72_9
+- term: Neuroepithelioma, NOS
+  term_id: icdom:9503_3
+- term: Nervous system, NOS
+  term_id: icdot:C72_9

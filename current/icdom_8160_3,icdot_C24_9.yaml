@@ -1,11 +1,10 @@
 equivalents:
-- label: Cholangiocarcinoma
-  id: ncit:C4436
-- id: seer:21090
+- term: Cholangiocarcinoma
+  term_id: ncit:C4436
 examples:
-- label: Cholangiocarcinoma
+- labels: Cholangiocarcinoma
 input:
-- label: Cholangiocarcinoma
-  id: icdom:8160_3
-- label: extrahepatic and unspecified bile ducts
-  id: icdot:C24_9
+- term: Cholangiocarcinoma
+  term_id: icdom:8160_3
+- term: Extrahepatic and unspecified bile ducts
+  term_id: icdot:C24_9

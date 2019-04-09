@@ -1,11 +1,10 @@
 equivalents:
-- label: Inflammatory breast carcinoma
-  id: ncit:C4001
-- id: seer:26000
+- term: Inflammatory breast carcinoma
+  term_id: ncit:C4001
 examples:
-- label: Inflammatory breast carcinoma [cell line SUM149PT]
+- labels: Inflammatory breast carcinoma [cell line SUM149PT]
 input:
-- label: Inflammatory carcinoma
-  id: icdom:8530_3
-- label: Breast, NOS
-  id: icdot:C50_9
+- term: Inflammatory carcinoma
+  term_id: icdom:8530_3
+- term: Breast, NOS
+  term_id: icdot:C50_9

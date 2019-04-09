@@ -1,11 +1,10 @@
 equivalents:
-- label: Prostate small cell carcinoma
-  id: ncit:C6766
-- id: seer:28010
+- term: Prostate small cell carcinoma
+  term_id: ncit:C6766
 examples:
-- label: prostate small cell carcinoma [cell line NCI-H660]
+- labels: prostate small cell carcinoma [cell line NCI-H660]
 input:
-- label: Small cell carcinoma, NOS
-  id: icdom:8041_3
-- label: Prostate gland
-  id: icdot:C61_9
+- term: Small cell carcinoma, NOS
+  term_id: icdom:8041_3
+- term: Prostate gland
+  term_id: icdot:C61_9

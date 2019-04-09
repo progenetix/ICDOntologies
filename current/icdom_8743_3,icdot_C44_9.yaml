@@ -1,11 +1,10 @@
 equivalents:
-- label: Superficial Spreading Melanoma
-  id: ncit:C9152
-- id: seer:25010
+- term: Superficial Spreading Melanoma
+  term_id: ncit:C9152
 examples:
-- label: Superficial spreading melanoma [neck]
+- labels: Superficial spreading melanoma [neck]
 input:
-- label: Superficial spreading melanoma
-  id: icdom:8743_3
-- label: Skin, NOS
-  id: icdot:C44_9
+- term: Superficial spreading melanoma
+  term_id: icdom:8743_3
+- term: Skin, NOS
+  term_id: icdot:C44_9

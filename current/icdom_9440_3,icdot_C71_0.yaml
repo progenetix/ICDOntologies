@@ -1,11 +1,10 @@
 equivalents:
-- label: Glioblastoma
-  id: ncit:C3058
-- id: seer:31010
+- term: Glioblastoma
+  term_id: ncit:C3058
 examples:
-- label: glioblastoma, familial
+- labels: glioblastoma, familial
 input:
-- label: Glioblastoma, NOS
-  id: icdom:9440_3
-- label: cerebrum
-  id: icdot:C71_0
+- term: Glioblastoma, NOS
+  term_id: icdom:9440_3
+- term: Cerebrum
+  term_id: icdot:C71_0

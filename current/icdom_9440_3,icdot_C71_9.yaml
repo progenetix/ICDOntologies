@@ -1,11 +1,10 @@
 equivalents:
-- label: Giant cell glioblastoma
-  id: ncit:C4325
-- id: seer:31010
+- term: Giant cell glioblastoma
+  term_id: ncit:C4325
 examples:
-- label: Giant cell glioblastoma [cell line G179]
+- labels: Giant cell glioblastoma [cell line G179]
 input:
-- label: Glioblastoma, NOS
-  id: icdom:9440_3
-- label: Brain, NOS
-  id: icdot:C71_9
+- term: Glioblastoma, NOS
+  term_id: icdom:9440_3
+- term: Brain, NOS
+  term_id: icdot:C71_9

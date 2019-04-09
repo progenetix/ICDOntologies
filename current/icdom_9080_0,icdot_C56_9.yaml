@@ -1,11 +1,10 @@
 equivalents:
-- label: Cystic Teratoma
-  id: ncit:C9014
-- id: seer:27040
+- term: Cystic Teratoma
+  term_id: ncit:C9014
 examples:
-- label: Benign cystic teratoma of the ovary
+- labels: Benign cystic teratoma of the ovary
 input:
-- label: Teratoma, benign
-  id: icdom:9080_0
-- label: ovary
-  id: icdot:C56_9
+- term: Teratoma, benign
+  term_id: icdom:9080_0
+- term: Ovary
+  term_id: icdot:C56_9

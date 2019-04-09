@@ -1,11 +1,10 @@
 equivalents:
-- label: Clear Cell Renal Cell Carcinoma
-  id: ncit:C4033
-- id: seer:29020
+- term: Clear Cell Renal Cell Carcinoma
+  term_id: ncit:C4033
 examples:
-- label: Clear cell renal cell carcinoma
+- labels: kidney renal clear cell carcinoma
 input:
-- label: Clear cell adenocarcinoma, NOS
-  id: icdom:8310_3
-- label: kidney
-  id: icdot:C64_9
+- term: Clear cell adenocarcinoma, NOS
+  term_id: icdom:8310_3
+- term: Kidney
+  term_id: icdot:C64_9

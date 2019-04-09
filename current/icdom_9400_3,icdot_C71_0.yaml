@@ -1,11 +1,10 @@
 equivalents:
-- label: Diffuse Astrocytoma
-  id: ncit:C7173
-- id: seer:31010
+- term: Diffuse Astrocytoma
+  term_id: ncit:C7173
 examples:
-- label: subependymal giant cell astrocytoma [supratentorial]
+- labels: subependymal giant cell astrocytoma [supratentorial]
 input:
-- label: Astrocytoma, NOS
-  id: icdom:9400_3
-- label: cerebrum
-  id: icdot:C71_0
+- term: Astrocytoma, NOS
+  term_id: icdom:9400_3
+- term: Cerebrum
+  term_id: icdot:C71_0

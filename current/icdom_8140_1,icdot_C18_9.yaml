@@ -1,11 +1,10 @@
 equivalents:
-- label: Atypical Adenoma
-  id: ncit:C7559
-- id: seer:21049
+- term: Lung Papillary Adenoma
+  term_id: ncit:C3494
 examples:
-- label: colon mucosa [low grade dysplastic tumor; fap; apcmut]
+- labels: colon mucosa [low grade dysplastic tumor; fap; apcmut]
 input:
-- label: Atypical adenoma
-  id: icdom:8140_1
-- label: Colon, NOS
-  id: icdot:C18_9
+- term: Atypical adenoma
+  term_id: icdom:8140_1
+- term: Colon, NOS
+  term_id: icdot:C18_9

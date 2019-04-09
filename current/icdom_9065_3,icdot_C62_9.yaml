@@ -1,11 +1,10 @@
 equivalents:
-- label: Testicular Germ Cell Tumor
-  id: ncit:C8591
-- id: seer:28020
+- term: Testicular Germ Cell Tumor
+  term_id: ncit:C8591
 examples:
-- label: testicular germ cell tumor
+- labels: testicular germ cell tumor
 input:
-- label: Germ cell tumor, nonseminomatous
-  id: icdom:9065_3
-- label: testis
-  id: icdot:C62_9
+- term: Germ cell tumor, nonseminomatous
+  term_id: icdom:9065_3
+- term: Testis
+  term_id: icdot:C62_9

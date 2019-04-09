@@ -1,11 +1,10 @@
 equivalents:
-- label: Gastric Intestinal Type Adenocarcinoma
-  id: ncit:C9157
-- id: seer:21020
+- term: Gastric Intestinal Type Adenocarcinoma
+  term_id: ncit:C9157
 examples:
-- label: carcinoma [gastric, intestinal]
+- labels: carcinoma [gastric, intestinal]
 input:
-- label: Adenocarcinoma, intestinal type
-  id: icdom:8144_3
-- label: stomach
-  id: icdot:C16_9
+- term: Adenocarcinoma, intestinal type
+  term_id: icdom:8144_3
+- term: Stomach
+  term_id: icdot:C16_9

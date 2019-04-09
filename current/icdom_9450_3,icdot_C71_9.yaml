@@ -1,11 +1,10 @@
 equivalents:
-- label: Oligodendroglioma
-  id: ncit:C3288
-- id: seer:31010
+- term: Oligodendroglioma
+  term_id: ncit:C3288
 examples:
-- label: oligodendroglial tumor [low grade]
+- labels: Grade II oligodendroglioma
 input:
-- label: Oligodendroglioma, NOS
-  id: icdom:9450_3
-- label: brain, NOS
-  id: icdot:C71_9
+- term: Oligodendroglioma, NOS
+  term_id: icdom:9450_3
+- term: Brain, NOS
+  term_id: icdot:C71_9

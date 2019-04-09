@@ -1,11 +1,10 @@
 equivalents:
-- label: None
-  id: ncit:C3041
-- id: seer:24000
+- term: Fibroma
+  term_id: ncit:C3041
 examples:
-- label: Fibromatosis
+- labels: Fibromatosis
 input:
-- label: Fibroma, NOS
-  id: icdom:8810_0
-- label: connective and soft tissue, NOS
-  id: icdot:C49_9
+- term: Fibroma, NOS
+  term_id: icdom:8810_0
+- term: Connective and soft tissue, NOS
+  term_id: icdot:C49_9

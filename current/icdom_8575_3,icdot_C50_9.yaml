@@ -1,11 +1,10 @@
 equivalents:
-- label: None
-  id: ncit:C27949
-- id: seer:26000
+- term: Metaplastic Carcinoma
+  term_id: ncit:C27949
 examples:
-- label: Metaplastic carcinoma, NOS
+- labels: Metaplastic carcinoma, NOS
 input:
-- label: Metaplastic carcinoma, NOS
-  id: icdom:8575_3
-- label: Breast, NOS
-  id: icdot:C50_9
+- term: Metaplastic carcinoma, NOS
+  term_id: icdom:8575_3
+- term: Breast, NOS
+  term_id: icdot:C50_9

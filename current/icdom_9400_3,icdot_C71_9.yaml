@@ -1,11 +1,10 @@
 equivalents:
-- label: Diffuse Astrocytoma
-  id: ncit:C7173
-- id: seer:31010
+- term: Diffuse Astrocytoma
+  term_id: ncit:C7173
 examples:
-- label: Diffusely infiltrating astrocytoma
+- labels: Diffusely infiltrating astrocytoma
 input:
-- label: Astrocytoma, NOS
-  id: icdom:9400_3
-- label: brain, nos
-  id: icdot:C71_9
+- term: Astrocytoma, NOS
+  term_id: icdom:9400_3
+- term: Brain, NOS
+  term_id: icdot:C71_9

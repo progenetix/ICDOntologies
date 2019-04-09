@@ -1,0 +1,10 @@
+equivalents:
+- term: Neuroblastoma
+  term_id: ncit:C3270
+examples:
+- labels: Neuroblastoma [cell line CHP-134]
+input:
+- term: Neuroblastoma, NOS
+  term_id: icdom:9500_3
+- term: Peripheral nervs incl. Autonomous
+  term_id: icdot:C47_9

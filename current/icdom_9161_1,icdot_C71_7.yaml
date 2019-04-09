@@ -1,11 +1,10 @@
 equivalents:
-- label: Hemangioblastoma
-  id: ncit:C3801
-- id: seer:31010
+- term: Hemangioblastoma
+  term_id: ncit:C3801
 examples:
-- label: capillary hemangioblastoma [medulla]
+- labels: capillary hemangioblastoma [medulla]
 input:
-- label: Hemangioblastoma
-  id: icdom:9161_1
-- label: brain stem
-  id: icdot:C71_7
+- term: Hemangioblastoma
+  term_id: icdom:9161_1
+- term: Brain stem
+  term_id: icdot:C71_7

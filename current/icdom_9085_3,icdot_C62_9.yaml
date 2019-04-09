@@ -1,11 +1,10 @@
 equivalents:
-- label: Mixed Teratoma and Seminoma
-  id: ncit:C9010
-- id: seer:28020
+- term: Mixed Teratoma and Seminoma
+  term_id: ncit:C9010
 examples:
-- label: Mixed germ cell tumor [embryonal carcinoma and seminoma]
+- labels: Mixed germ cell tumor [embryonal carcinoma and seminoma]
 input:
-- label: Mixed germ cell tumor
-  id: icdom:9085_3
-- label: testis
-  id: icdot:C62_9
+- term: Mixed germ cell tumor
+  term_id: icdom:9085_3
+- term: Testis
+  term_id: icdot:C62_9

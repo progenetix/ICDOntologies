@@ -1,11 +1,10 @@
 equivalents:
-- label: Glioma
-  id: ncit:C3059
-- id: seer:31010
+- term: Glioma
+  term_id: ncit:C3059
 examples:
-- label: dfiffuse intrinsic pontine glioma
+- labels: dfiffuse intrinsic pontine glioma
 input:
-- label: Glioma, malignant
-  id: icdom:9380_3
-- label: brain stem
-  id: icdot:C71_7
+- term: Glioma, malignant
+  term_id: icdom:9380_3
+- term: Brain stem
+  term_id: icdot:C71_7

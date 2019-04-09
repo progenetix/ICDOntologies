@@ -1,11 +1,10 @@
 equivalents:
-- label: Interdigitating Dendritic Cell Sarcoma
-  id: ncit:C9282
-- id: seer:37000
+- term: Interdigitating Dendritic Cell Sarcoma
+  term_id: ncit:C9282
 examples:
-- label: Dendritic cell tumour
+- labels: Dendritic cell tumour
 input:
-- label: Interdigitating dendritic cell sarcoma
-  id: icdom:9757_3
-- label: Hematopoietic system, NOS
-  id: icdot:C42_4
+- term: Interdigitating dendritic cell sarcoma
+  term_id: icdom:9757_3
+- term: Hematopoietic system, NOS
+  term_id: icdot:C42_4

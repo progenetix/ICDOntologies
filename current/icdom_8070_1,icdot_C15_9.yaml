@@ -1,11 +1,10 @@
 equivalents:
-- label: Esophageal Squamous Cell Carcinoma
-  id: ncit:C4024
-- id: seer:21010
+- term: Esophageal Squamous Cell Carcinoma
+  term_id: ncit:C4024
 examples:
-- label: Esophageal Dysplasia
+- labels: Esophageal Dysplasia
 input:
-- label: None
-  id: icdom:8070_1
-- label: esophagus
-  id: icdot:C15_9
+- term: None
+  term_id: icdom:8070_1
+- term: Esophagus
+  term_id: icdot:C15_9

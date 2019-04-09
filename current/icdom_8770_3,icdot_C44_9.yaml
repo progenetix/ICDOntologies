@@ -1,11 +1,10 @@
 equivalents:
-- label: Mixed Epithelioid and Spindle Cell Melanoma
-  id: ncit:C66756
-- id: seer:25010
+- term: Mixed Epithelioid and Spindle Cell Melanoma
+  term_id: ncit:C66756
 examples:
-- label: spitzoid malignant melanoma [primary]
+- labels: spitzoid malignant melanoma [primary]
 input:
-- label: Mixed epithelioid and spindle cell melanoma
-  id: icdom:8770_3
-- label: Skin, NOS
-  id: icdot:C44_9
+- term: Mixed epithelioid and spindle cell melanoma
+  term_id: icdom:8770_3
+- term: Skin, NOS
+  term_id: icdot:C44_9

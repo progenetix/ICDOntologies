@@ -1,11 +1,10 @@
 equivalents:
-- label: Gliosarcoma
-  id: ncit:C3796
-- id: seer:31010
+- term: Gliosarcoma
+  term_id: ncit:C3796
 examples:
-- label: Gliosarcoma
+- labels: Gliosarcoma
 input:
-- label: Gliosarcoma
-  id: icdom:9442_3
-- label: Brain, NOS
-  id: icdot:C71_9
+- term: Gliosarcoma
+  term_id: icdom:9442_3
+- term: Brain, NOS
+  term_id: icdot:C71_9

@@ -1,11 +1,10 @@
 equivalents:
-- label: Mucinous Adenocarcinoma
-  id: ncit:C26712
-- id: seer:21041
+- term: Mucinous Adenocarcinoma
+  term_id: ncit:C26712
 examples:
-- label: Mucinous colorectal carcinoma [Rectum [above], pT3N1M0, stage II]
+- labels: Mucinous colorectal carcinoma [Rectum [above], pT3N1M0, stage II]
 input:
-- label: Mucinous adenocarcinoma
-  id: icdom:8480_3
-- label: large intestine, excl. rectum and rectosigmoid junction
-  id: icdot:C18_9
+- term: Mucinous adenocarcinoma
+  term_id: icdom:8480_3
+- term: Large intestine, excl. Rectum and rectosigmoid junction
+  term_id: icdot:C18_9

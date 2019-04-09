@@ -1,11 +1,10 @@
 equivalents:
-- label: None
-  id: ncit:C34774
-- id: seer:35023
+- term: Chronic Monocytic Leukemia
+  term_id: ncit:C34774
 examples:
-- label: Myeloid leukemia NOS [cell line MV411]
+- labels: Myeloid leukemia NOS [cell line MV411]
 input:
-- label: Myeloid leukemia, NOS
-  id: icdom:9860_3
-- label: Hematopoietic system, NOS
-  id: icdot:C42_4
+- term: Myeloid leukemia, NOS
+  term_id: icdom:9860_3
+- term: Hematopoietic system, NOS
+  term_id: icdot:C42_4

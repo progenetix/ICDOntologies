@@ -1,11 +1,10 @@
 equivalents:
-- label: Immature Teratoma
-  id: ncit:C4286
-- id: seer:23000
+- term: Immature Teratoma
+  term_id: ncit:C4286
 examples:
-- label: congenital sacrococcygeal teratoma
+- labels: congenital sacrococcygeal teratoma
 input:
-- label: Teratoma, malignant, NOS
-  id: icdom:9080_3
-- label: bone, NOS
-  id: icdot:C41_9
+- term: Teratoma, malignant, NOS
+  term_id: icdom:9080_3
+- term: Bone, NOS
+  term_id: icdot:C41_9

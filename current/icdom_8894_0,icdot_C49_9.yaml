@@ -1,11 +1,10 @@
 equivalents:
-- label: Angioleiomyoma
-  id: ncit:C3747
-- id: seer:24000
+- term: Angioleiomyoma
+  term_id: ncit:C3747
 examples:
-- label: Angioleiomyoma
+- labels: Angioleiomyoma
 input:
-- label: Angiomyoma
-  id: icdom:8894_0
-- label: connective and soft tissue, NOS
-  id: icdot:C49_9
+- term: Angiomyoma
+  term_id: icdom:8894_0
+- term: Connective and soft tissue, NOS
+  term_id: icdot:C49_9

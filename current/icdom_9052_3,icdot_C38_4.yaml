@@ -1,11 +1,10 @@
 equivalents:
-- label: Epithelioid Mesothelioma
-  id: ncit:C7985
-- id: seer:36010
+- term: Epithelioid Mesothelioma
+  term_id: ncit:C7985
 examples:
-- label: Epitheloid mesothelioma [familial]
+- labels: Epithelioid mesothelioma
 input:
-- label: Epithelioid mesothelioma, malignant
-  id: icdom:9052_3
-- label: pleura
-  id: icdot:C38_4
+- term: Epithelioid mesothelioma, malignant
+  term_id: icdom:9052_3
+- term: Pleura
+  term_id: icdot:C38_4

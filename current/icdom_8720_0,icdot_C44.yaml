@@ -1,0 +1,10 @@
+equivalents:
+- term: Pigmented Nevus
+  term_id: ncit:C27816
+examples:
+- labels: Pigmented nevus [benign]
+input:
+- term: Pigmented nevus, NOS
+  term_id: icdom:8720_0
+- term: Skin
+  term_id: icdot:C44

@@ -1,0 +1,10 @@
+equivalents:
+- term: Plasma Cell Myeloma
+  term_id: ncit:C3242
+examples:
+- labels: Plasmacytoma [Femur]
+input:
+- term: Multiple myeloma
+  term_id: icdom:9732_3
+- term: Bones and joints
+  term_id: icdot:C40_0

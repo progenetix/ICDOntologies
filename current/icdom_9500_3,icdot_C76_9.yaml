@@ -1,0 +1,10 @@
+equivalents:
+- term: Neuroblastoma
+  term_id: ncit:C3270
+examples:
+- labels: neuroblastoma [cell line NB(TU)1]
+input:
+- term: Neuroblastoma, NOS
+  term_id: icdom:9500_3
+- term: Adrenal gland
+  term_id: icdot:C76_9

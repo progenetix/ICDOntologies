@@ -1,11 +1,10 @@
 equivalents:
-- label: Primary Cutaneous Marginal Zone Lymphoma of Mucosa-Associated Lymphoid Tissue
-  id: ncit:C7230
-- id: seer:33041
+- term: Primary Cutaneous Marginal Zone Lymphoma of Mucosa-Associated Lymphoid Tissue
+  term_id: ncit:C7230
 examples:
-- label: MALT [pulmonary]
+- labels: MALT [pulmonary]
 input:
-- label: Marginal zone B-cell lymphoma, NOS
-  id: icdom:9699_3
-- label: Hematopoietic system, NOS
-  id: icdot:C42_4
+- term: Marginal zone B-cell lymphoma, NOS
+  term_id: icdom:9699_3
+- term: Hematopoietic system, NOS
+  term_id: icdot:C42_4

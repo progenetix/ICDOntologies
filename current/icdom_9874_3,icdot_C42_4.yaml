@@ -1,11 +1,10 @@
 equivalents:
-- label: Acute Myeloid Leukemia with Maturation
-  id: ncit:C3250
-- id: seer:35021
+- term: Acute Myeloid Leukemia with Maturation
+  term_id: ncit:C3250
 examples:
-- label: Acute myeloblastic leukemia with maturation [FAB M2]
+- labels: Acute myeloblastic leukemia with maturation [FAB M2]
 input:
-- label: Acute myeloid leukemia with maturation
-  id: icdom:9874_3
-- label: Hematopoietic system, NOS
-  id: icdot:C42_4
+- term: Acute myeloid leukemia with maturation
+  term_id: icdom:9874_3
+- term: Hematopoietic system, NOS
+  term_id: icdot:C42_4

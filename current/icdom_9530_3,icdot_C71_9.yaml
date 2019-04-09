@@ -1,11 +1,10 @@
 equivalents:
-- label: ''
-  id: 'ncit:'
-- id: seer:31040
+- term: Anaplastic (Malignant) Meningioma
+  term_id: ncit:C4051
 examples:
-- label: fibroblastic meningioma, fibroblastic component
+- labels: Malignant meningioma [recurrent]
 input:
-- label: Meningioma, malignant
-  id: icdom:9530_3
-- label: brain, NOS
-  id: icdot:C71_9
+- term: Meningioma, malignant
+  term_id: icdom:9530_3
+- term: Brain, NOS
+  term_id: icdot:C71_9

@@ -1,0 +1,10 @@
+equivalents:
+- term: Intrahepatic cholangiocarcinoma
+  term_id: ncit:C35417
+examples:
+- labels: Intrahepatic cholangiocarcinoma [cell line HuCC-T1]
+input:
+- term: Bile duct cystadenocarcinoma
+  term_id: icdom:8161_3
+- term: Extrahepatic and unspecified bile ducts
+  term_id: icdot:C24_9

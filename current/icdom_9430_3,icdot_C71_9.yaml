@@ -1,11 +1,10 @@
 equivalents:
-- label: Astroblastoma
-  id: ncit:C4324
-- id: seer:31010
+- term: Astroblastoma
+  term_id: ncit:C4324
 examples:
-- label: Malignant Astroblastoma
+- labels: Well Differentiated Astroblastoma
 input:
-- label: Astroblastoma
-  id: icdom:9430_3
-- label: brain, NOS
-  id: icdot:C71_9
+- term: Astroblastoma
+  term_id: icdom:9430_3
+- term: Brain, NOS
+  term_id: icdot:C71_9

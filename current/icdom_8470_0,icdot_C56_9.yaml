@@ -1,11 +1,10 @@
 equivalents:
-- label: Ovarian Mucinous Cystadenoma
-  id: ncit:C4512
-- id: seer:99999
+- term: Ovarian Mucinous Cystadenoma
+  term_id: ncit:C4512
 examples:
-- label: ovarian tumour [benign, mucinous]
+- labels: ovarian tumour [benign, mucinous]
 input:
-- label: Mucinous cystadenoma, NOS
-  id: icdom:8470_0
-- label: ovary
-  id: icdot:C56_9
+- term: Mucinous cystadenoma, NOS
+  term_id: icdom:8470_0
+- term: Ovary
+  term_id: icdot:C56_9

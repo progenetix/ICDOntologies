@@ -1,11 +1,10 @@
 equivalents:
-- label: Germ Cell Tumor
-  id: ncit:C3708
-- id: seer:31010
+- term: Germ Cell Tumor
+  term_id: ncit:C3708
 examples:
-- label: immature teratoma and germinoma
+- labels: immature teratoma and germinoma
 input:
-- label: Germinoma
-  id: icdom:9064_3
-- label: Brain, NOS
-  id: icdot:C71_9
+- term: Germinoma
+  term_id: icdom:9064_3
+- term: Brain, NOS
+  term_id: icdot:C71_9

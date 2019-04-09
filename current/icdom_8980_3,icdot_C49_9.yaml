@@ -1,11 +1,10 @@
 equivalents:
-- label: Carcinosarcoma
-  id: ncit:C34448
-- id: seer:24000
+- term: Carcinosarcoma
+  term_id: ncit:C34448
 examples:
-- label: carcinosarcoma
+- labels: carcinosarcoma
 input:
-- label: Carcinosarcoma, NOS
-  id: icdom:8980_3
-- label: connective and soft tissue, NOS
-  id: icdot:C49_9
+- term: Carcinosarcoma, NOS
+  term_id: icdom:8980_3
+- term: Connective and soft tissue, NOS
+  term_id: icdot:C49_9

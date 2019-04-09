@@ -1,11 +1,10 @@
 equivalents:
-- label: Aggressive NK-Cell Leukemia
-  id: ncit:C8647
-- id: seer:35043
+- term: Aggressive NK-Cell Leukemia
+  term_id: ncit:C8647
 examples:
-- label: Aggressive NK-cell leukemia
+- labels: Aggressive NK-cell leukemia
 input:
-- label: Aggressive NK-cell leukemia
-  id: icdom:9948_3
-- label: Hematopoietic system, NOS
-  id: icdot:C42_4
+- term: Aggressive NK-cell leukemia
+  term_id: icdom:9948_3
+- term: Hematopoietic system, NOS
+  term_id: icdot:C42_4

@@ -1,11 +1,10 @@
 equivalents:
-- label: None
-  id: ncit:C2855
-- id: seer:27040
+- term: Adenoma
+  term_id: ncit:C2855
 examples:
-- label: Ovarian adenoma
+- labels: Ovarian adenoma
 input:
-- label: Adenoma, NOS
-  id: icdom:8140_0
-- label: ovary
-  id: icdot:C56_9
+- term: Adenoma, NOS
+  term_id: icdom:8140_0
+- term: Ovary
+  term_id: icdot:C56_9

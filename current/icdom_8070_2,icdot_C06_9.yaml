@@ -1,11 +1,10 @@
 equivalents:
-- label: Stage 0 Squamous Cell Carcinoma
-  id: ncit:C27093
-- id: seer:20050
+- term: Stage 0 Squamous Cell Carcinoma
+  term_id: ncit:C27093
 examples:
-- label: carcinoma in situ [oral]
+- labels: carcinoma in situ [oral]
 input:
-- label: Squamous cell carcinoma in situ, NOS
-  id: icdom:8070_2
-- label: mouth, NOS
-  id: icdot:C06_9
+- term: Squamous cell carcinoma in situ, NOS
+  term_id: icdom:8070_2
+- term: Mouth, NOS
+  term_id: icdot:C06_9

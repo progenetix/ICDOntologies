@@ -1,11 +1,10 @@
 equivalents:
-- label: Small Intestinal Adenocarcinoma
-  id: ncit:C7888
-- id: seer:21030
+- term: Small Intestinal Adenocarcinoma
+  term_id: ncit:C7888
 examples:
-- label: Small bowel juvenile polyps
+- labels: Small bowel juvenile polyps
 input:
-- label: Adenoma, NOS
-  id: icdom:8140_0
-- label: small intestine
-  id: icdot:C17_9
+- term: Adenoma, NOS
+  term_id: icdom:8140_0
+- term: Small intestine
+  term_id: icdot:C17_9

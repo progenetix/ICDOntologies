@@ -1,11 +1,10 @@
 equivalents:
-- label: Carcinoma
-  id: ncit:C2916
-- id: seer:20050
+- term: Carcinoma
+  term_id: ncit:C2916
 examples:
-- label: Spindle-cell ameloblastic carcinoma
+- labels: Spindle-cell ameloblastic carcinoma
 input:
-- label: Carcinoma, NOS
-  id: icdom:8010_3
-- label: mouth, NOS
-  id: icdot:C06_9
+- term: Carcinoma, NOS
+  term_id: icdom:8010_3
+- term: Mouth, NOS
+  term_id: icdot:C06_9

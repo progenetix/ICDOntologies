@@ -1,11 +1,10 @@
 equivalents:
-- label: Epithelioid Mesothelioma
-  id: ncit:C7985
-- id: seer:36010
+- term: Epithelioid Mesothelioma
+  term_id: ncit:C7985
 examples:
-- label: malignant mesothelioma
+- labels: malignant mesothelioma
 input:
-- label: Epithelioid mesothelioma, malignant
-  id: icdom:9052_3
-- label: connective and soft tissue, NOS
-  id: icdot:C49_9
+- term: Epithelioid mesothelioma, malignant
+  term_id: icdom:9052_3
+- term: Connective and soft tissue, NOS
+  term_id: icdot:C49_9

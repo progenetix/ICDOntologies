@@ -1,11 +1,10 @@
 equivalents:
-- label: None
-  id: ncit:C66760
-- id: seer:24000
+- term: Fibromyxoid Tumor
+  term_id: ncit:C66760
 examples:
-- label: Fibromyxoid tumor
+- labels: Fibromyxoid tumor
 input:
-- label: Fibromyxoma
-  id: icdom:8811_0
-- label: connective and soft tissue, NOS
-  id: icdot:C49_9
+- term: Fibromyxoma
+  term_id: icdom:8811_0
+- term: Connective and soft tissue, NOS
+  term_id: icdot:C49_9

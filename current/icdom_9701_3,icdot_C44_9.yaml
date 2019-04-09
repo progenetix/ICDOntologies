@@ -1,11 +1,10 @@
 equivalents:
-- label: Sezary Syndrome
-  id: ncit:C3366
-- id: seer:33042
+- term: Sezary Syndrome
+  term_id: ncit:C3366
 examples:
-- label: Sezary syndrome
+- labels: Sezary syndrome
 input:
-- label: Sezary syndrome
-  id: icdom:9701_3
-- label: Skin, NOS
-  id: icdot:C44_9
+- term: Sezary syndrome
+  term_id: icdom:9701_3
+- term: Skin, NOS
+  term_id: icdot:C44_9

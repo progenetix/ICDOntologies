@@ -1,11 +1,10 @@
 equivalents:
-- label: ''
-  id: 'ncit:'
-- id: seer:35013
+- term: T-Cell Prolymphocytic Leukemia
+  term_id: ncit:C4752
 examples:
-- label: T-prolymphocytic leukemia
+- labels: T-cell prolymphocytic leukemia
 input:
-- label: Prolymphocytic leukemia, T-cell type
-  id: icdom:9834_3
-- label: Hematopoietic system, NOS
-  id: icdot:C42_4
+- term: Prolymphocytic leukemia, T-cell type
+  term_id: icdom:9834_3
+- term: Hematopoietic system, NOS
+  term_id: icdot:C42_4

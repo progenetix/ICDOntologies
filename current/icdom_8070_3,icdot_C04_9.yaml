@@ -1,0 +1,10 @@
+equivalents:
+- term: Floor of Mouth Squamous Cell Carcinoma
+  term_id: ncit:C4041
+examples:
+- labels: Floor of mouth squamous cell carcinoma [cell line UT-SCC-47]
+input:
+- term: Squamous cell carcinoma, NOS
+  term_id: icdom:8070_3
+- term: Floor of mouth, NOS
+  term_id: icdot:C04_9

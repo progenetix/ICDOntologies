@@ -1,11 +1,10 @@
 equivalents:
-- label: None
-  id: ncit:C27940
-- id: seer:21020
+- term: Gastrointestinal Stromal Tumor
+  term_id: ncit:C3868
 examples:
-- label: Gastrointestinal stromal tumor, uncertain malignant potential
+- labels: gastrointestinal stromal tumor, low biological potential
 input:
-- label: Gastrointestinal stromal tumor, NOS
-  id: icdom:8936_1
-- label: stomach
-  id: icdot:C16_9
+- term: Gastrointestinal stromal tumor, NOS
+  term_id: icdom:8936_1
+- term: Stomach
+  term_id: icdot:C16_9

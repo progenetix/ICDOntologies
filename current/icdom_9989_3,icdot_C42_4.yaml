@@ -1,11 +1,10 @@
 equivalents:
-- label: Myelodysplastic Syndrome
-  id: ncit:C3247
-- id: seer:35023
+- term: Myelodysplastic Syndrome
+  term_id: ncit:C3247
 examples:
-- label: Myelodysplastic syndrome, NOS
+- labels: Refractory cytopenia with multilineage dysplasia and ring sideroblasts
 input:
-- label: Myelodysplastic syndrome, NOS
-  id: icdom:9989_3
-- label: Hematopoietic system, NOS
-  id: icdot:C42_4
+- term: Myelodysplastic syndrome, NOS
+  term_id: icdom:9989_3
+- term: Hematopoietic system, NOS
+  term_id: icdot:C42_4

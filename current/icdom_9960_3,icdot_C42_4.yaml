@@ -1,11 +1,10 @@
 equivalents:
-- label: Myeloproliferative Neoplasm
-  id: ncit:C4345
-- id: seer:35023
+- term: Myeloproliferative Neoplasm
+  term_id: ncit:C4345
 examples:
-- label: myeloid proliferative disorder
+- labels: myeloid proliferative disorder
 input:
-- label: Myeloproliferative neoplasm, NOS
-  id: icdom:9960_3
-- label: Hematopoietic system, NOS
-  id: icdot:C42_4
+- term: Myeloproliferative neoplasm, NOS
+  term_id: icdom:9960_3
+- term: Hematopoietic system, NOS
+  term_id: icdot:C42_4

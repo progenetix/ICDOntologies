@@ -1,11 +1,10 @@
 equivalents:
-- label: None
-  id: ncit:C2855
-- id: seer:29020
+- term: Adenoma
+  term_id: ncit:C2855
 examples:
-- label: Tubular-mucinous renal tumor of low malignant potential [pT]
+- labels: Tubular-mucinous renal tumor of low malignant potential [pT]
 input:
-- label: Adenoma, NOS
-  id: icdom:8140_0
-- label: kidney
-  id: icdot:C64_9
+- term: Adenoma, NOS
+  term_id: icdom:8140_0
+- term: Kidney
+  term_id: icdot:C64_9

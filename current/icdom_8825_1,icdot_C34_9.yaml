@@ -1,11 +1,10 @@
 equivalents:
-- label: Inflammatory Myofibroblastic Tumor
-  id: ncit:C6481
-- id: seer:22030
+- term: Inflammatory Myofibroblastic Tumor
+  term_id: ncit:C6481
 examples:
-- label: Inflammatory myofibroblastic tumour [pulmonary]
+- labels: Inflammatory myofibroblastic tumour [pulmonary]
 input:
-- label: Myofibroblastic tumor, NOS
-  id: icdom:8825_1
-- label: lung and bronchus
-  id: icdot:C34_9
+- term: Myofibroblastic tumor, NOS
+  term_id: icdom:8825_1
+- term: Lung and bronchus
+  term_id: icdot:C34_9

@@ -1,11 +1,10 @@
 equivalents:
-- label: None
-  id: ncit:C3778
-- id: seer:27040
+- term: Serous Cystadenocarcinoma
+  term_id: ncit:C3778
 examples:
-- label: epithelial ovarian adenocarcinoma
+- labels: epithelial ovarian adenocarcinoma
 input:
-- label: Serous cystadenocarcinoma, NOS
-  id: icdom:8441_3
-- label: ovary
-  id: icdot:C56_9
+- term: Serous cystadenocarcinoma, NOS
+  term_id: icdom:8441_3
+- term: Ovary
+  term_id: icdot:C56_9

@@ -1,11 +1,10 @@
 equivalents:
-- label: Cutaneous T-cell non-Hodgkin lymphoma
-  id: ncit:C3467
-- id: seer:33041
+- term: B Lymphoblastic Leukemia/Lymphoma
+  term_id: ncit:C8936
 examples:
-- label: T cell non-Hodgkin lymphoma [cell line Mac-1]
+- labels: intermediate germinal center-like diffuse large B-cell / Burkitt lymphoma
 input:
-- label: Malignant lymphoma, non-Hodgkin, NOS
-  id: icdom:9591_3
-- label: Hematopoietic system, NOS
-  id: icdot:C42_4
+- term: Malignant lymphoma, non-Hodgkin, NOS
+  term_id: icdom:9591_3
+- term: Hematopoietic system, NOS
+  term_id: icdot:C42_4

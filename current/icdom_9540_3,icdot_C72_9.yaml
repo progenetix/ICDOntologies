@@ -1,11 +1,10 @@
 equivalents:
-- label: Malignant Peripheral Nerve Sheath Tumor
-  id: ncit:C3798
-- id: seer:31040
+- term: Malignant Peripheral Nerve Sheath Tumor
+  term_id: ncit:C3798
 examples:
-- label: Malignant peripheral nerve sheath tumor
+- labels: Malignant peripheral nerve sheath tumor
 input:
-- label: Malignant peripheral nerve sheath tumor
-  id: icdom:9540_3
-- label: Nervous system, NOS
-  id: icdot:C72_9
+- term: Malignant peripheral nerve sheath tumor
+  term_id: icdom:9540_3
+- term: Nervous system, NOS
+  term_id: icdot:C72_9

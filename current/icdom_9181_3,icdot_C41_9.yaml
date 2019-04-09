@@ -1,11 +1,10 @@
 equivalents:
-- label: Chondroblastic Osteosarcoma
-  id: ncit:C4021
-- id: seer:23000
+- term: Chondroblastic Osteosarcoma
+  term_id: ncit:C4021
 examples:
-- label: Chondroblastic osteosarcoma
+- labels: Chondroblastic osteosarcoma
 input:
-- label: Chondroblastic osteosarcoma
-  id: icdom:9181_3
-- label: bone, NOS
-  id: icdot:C41_9
+- term: Chondroblastic osteosarcoma
+  term_id: icdom:9181_3
+- term: Bone, NOS
+  term_id: icdot:C41_9

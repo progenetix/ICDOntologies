@@ -1,11 +1,10 @@
 equivalents:
-- label: None
-  id: ncit:C6970
-- id: seer:31040
+- term: Schwannoma
+  term_id: ncit:C3269
 examples:
-- label: Schwannoma [spinal [cellular schwannoma]]
+- labels: Schwannoma [spinal [cellular schwannoma]]
 input:
-- label: Neurilemoma, NOS
-  id: icdom:9560_0
-- label: Spinal cord
-  id: icdot:C72_0
+- term: Neurilemoma, NOS
+  term_id: icdom:9560_0
+- term: Spinal cord
+  term_id: icdot:C72_0

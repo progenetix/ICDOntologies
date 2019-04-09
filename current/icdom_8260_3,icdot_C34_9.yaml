@@ -1,0 +1,10 @@
+equivalents:
+- term: Papillary lung adenocarcinoma
+  term_id: ncit:C5650
+examples:
+- labels: papillary lung adenocarcinoma [cell line NCI-H820]
+input:
+- term: Papillary adenocarcinoma, NOS
+  term_id: icdom:8260_3
+- term: Lung and bronchus
+  term_id: icdot:C34_9

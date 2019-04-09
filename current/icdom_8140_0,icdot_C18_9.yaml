@@ -1,11 +1,10 @@
 equivalents:
-- label: Colon Adenocarcinoma
-  id: ncit:C4349
-- id: seer:21049
+- term: Colon Adenocarcinoma
+  term_id: ncit:C4349
 examples:
-- label: colorectal polypoid adenoma
+- labels: colorectal polypoid adenoma
 input:
-- label: Adenoma, NOS
-  id: icdom:8140_0
-- label: Colon, NOS
-  id: icdot:C18_9
+- term: Adenoma, NOS
+  term_id: icdom:8140_0
+- term: Colon, NOS
+  term_id: icdot:C18_9

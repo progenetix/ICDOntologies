@@ -1,11 +1,10 @@
 equivalents:
-- label: None
-  id: ncit:C3756
-- id: seer:28020
+- term: Mixed Embryonal Carcinoma and Teratoma
+  term_id: ncit:C3756
 examples:
-- label: Teratocarcinoma
+- labels: Teratocarcinoma
 input:
-- label: Teratocarcinoma
-  id: icdom:9081_3
-- label: testis
-  id: icdot:C62_9
+- term: Teratocarcinoma
+  term_id: icdom:9081_3
+- term: Testis
+  term_id: icdot:C62_9

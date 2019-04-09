@@ -1,11 +1,10 @@
 equivalents:
-- label: Therapy-Related Myelodysplastic Syndrome
-  id: ncit:C27722
-- id: seer:37000
+- term: Therapy-Related Myelodysplastic Syndrome
+  term_id: ncit:C27722
 examples:
-- label: Therapy-related myelodysplastic syndrome
+- labels: Therapy-related myelodysplastic syndrome
 input:
-- label: Therapy-related myelodysplastic syndrome, NOS
-  id: icdom:9987_3
-- label: Hematopoietic system, NOS
-  id: icdot:C42_4
+- term: Therapy-related myelodysplastic syndrome, NOS
+  term_id: icdom:9987_3
+- term: Hematopoietic system, NOS
+  term_id: icdot:C42_4

@@ -1,11 +1,10 @@
 equivalents:
-- label: Thyroid gland undifferentiated (anaplastic) carcinoma
-  id: ncit:C3878
-- id: seer:32010
+- term: Thyroid gland undifferentiated (anaplastic) carcinoma
+  term_id: ncit:C3878
 examples:
-- label: anaplastic thyroid carcinoma [cell line TCO-1]
+- labels: anaplastic thyroid carcinoma [cell line TCO-1]
 input:
-- label: Carcinoma, anaplastic, NOS
-  id: icdom:8021_3
-- label: thyroid gland
-  id: icdot:C73_9
+- term: Carcinoma, anaplastic, NOS
+  term_id: icdom:8021_3
+- term: Thyroid gland
+  term_id: icdot:C73_9

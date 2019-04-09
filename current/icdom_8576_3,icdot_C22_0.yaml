@@ -1,11 +1,10 @@
 equivalents:
-- label: None
-  id: ncit:C66950
-- id: seer:21071
+- term: Hepatoid Adenocarcinoma
+  term_id: ncit:C66950
 examples:
-- label: hepatoid adenocarcinoma
+- labels: hepatoid adenocarcinoma
 input:
-- label: Hepatoid adenocarcinoma
-  id: icdom:8576_3
-- label: Liver
-  id: icdot:C22_0
+- term: Hepatoid adenocarcinoma
+  term_id: icdom:8576_3
+- term: Liver
+  term_id: icdot:C22_0

@@ -1,11 +1,10 @@
 equivalents:
-- label: Neuroendocrine Carcinoma
-  id: ncit:C3773
-- id: seer:31040
+- term: Neuroendocrine Carcinoma
+  term_id: ncit:C3773
 examples:
-- label: Neuroendocrine carcinoma
+- labels: Neuroendocrine carcinoma
 input:
-- label: Neuroendocrine carcinoma, NOS
-  id: icdom:8246_3
-- label: Nervous system, NOS
-  id: icdot:C72_9
+- term: Neuroendocrine carcinoma, NOS
+  term_id: icdom:8246_3
+- term: Nervous system, NOS
+  term_id: icdot:C72_9

@@ -1,0 +1,10 @@
+equivalents:
+- term: Thymoma Type B3
+  term_id: ncit:C7997
+examples:
+- labels: Thymoma [WHO B3]
+input:
+- term: Thymoma, type B3, malignant
+  term_id: icdom:8585_3
+- term: Thymus
+  term_id: icdot:C37_9

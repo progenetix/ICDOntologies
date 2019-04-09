@@ -1,11 +1,10 @@
 equivalents:
-- label: Undifferentiated Carcinoma
-  id: ncit:C3692
-- id: seer:32010
+- term: Undifferentiated Carcinoma
+  term_id: ncit:C3692
 examples:
-- label: Undifferentiated carcinoma
+- labels: Undifferentiated carcinoma
 input:
-- label: Carcinoma, undifferentiated, NOS
-  id: icdom:8020_3
-- label: thyroid gland
-  id: icdot:C73_9
+- term: Carcinoma, undifferentiated, NOS
+  term_id: icdom:8020_3
+- term: Thyroid gland
+  term_id: icdot:C73_9

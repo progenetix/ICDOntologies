@@ -1,11 +1,10 @@
 equivalents:
-- label: None
-  id: ncit:C65151
-- id: seer:22030
+- term: Non-Small Cell Carcinoma
+  term_id: ncit:C65151
 examples:
-- label: Non-small cell carcinoma [lung]
+- labels: Non-small cell carcinoma [lung]
 input:
-- label: Non-small cell carcinoma
-  id: icdom:8046_3
-- label: lung and bronchus
-  id: icdot:C34_9
+- term: Non-small cell carcinoma
+  term_id: icdom:8046_3
+- term: Lung and bronchus
+  term_id: icdot:C34_9

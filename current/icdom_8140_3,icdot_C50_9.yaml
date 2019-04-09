@@ -1,11 +1,10 @@
 equivalents:
-- label: Adenocarcinoma
-  id: ncit:C2852
-- id: seer:26000
+- term: Adenocarcinoma
+  term_id: ncit:C2852
 examples:
-- label: Adenocarcinoma, NOS
+- labels: Adenocarcinoma, NOS
 input:
-- label: Adenocarcinoma, NOS
-  id: icdom:8140_3
-- label: Breast, NOS
-  id: icdot:C50_9
+- term: Adenocarcinoma, NOS
+  term_id: icdom:8140_3
+- term: Breast, NOS
+  term_id: icdot:C50_9

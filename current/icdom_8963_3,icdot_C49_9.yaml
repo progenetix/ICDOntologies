@@ -1,11 +1,10 @@
 equivalents:
-- label: Rhabdoid Tumor
-  id: ncit:C3808
-- id: seer:24000
+- term: Rhabdoid Tumor
+  term_id: ncit:C3808
 examples:
-- label: rhabdoid tumor [extrarenal]
+- labels: rhabdoid tumor [extrarenal]
 input:
-- label: Malignant rhabdoid tumor
-  id: icdom:8963_3
-- label: connective and soft tissue, NOS
-  id: icdot:C49_9
+- term: Malignant rhabdoid tumor
+  term_id: icdom:8963_3
+- term: Connective and soft tissue, NOS
+  term_id: icdot:C49_9

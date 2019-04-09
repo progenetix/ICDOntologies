@@ -1,11 +1,10 @@
 equivalents:
-- label: Thyroid Gland Adenocarcinoma
-  id: ncit:C27380
-- id: seer:32010
+- term: Thyroid Gland Adenocarcinoma
+  term_id: ncit:C27380
 examples:
-- label: Parathyroid adenoma
+- labels: Parathyroid adenoma
 input:
-- label: Adenoma, NOS
-  id: icdom:8140_0
-- label: thyroid gland
-  id: icdot:C73_9
+- term: Adenoma, NOS
+  term_id: icdom:8140_0
+- term: Thyroid gland
+  term_id: icdot:C73_9

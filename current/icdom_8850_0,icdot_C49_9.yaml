@@ -1,11 +1,10 @@
 equivalents:
-- label: Lipoma
-  id: ncit:C3192
-- id: seer:24000
+- term: Lipoma
+  term_id: ncit:C3192
 examples:
-- label: Atypical lipomatous tumor/atypical lipoma/well-differentiated liposarcoma
+- labels: Atypical lipomatous tumor/atypical lipoma/well-differentiated liposarcoma
 input:
-- label: Lipoma, NOS
-  id: icdom:8850_0
-- label: connective and soft tissue, NOS
-  id: icdot:C49_9
+- term: Lipoma, NOS
+  term_id: icdom:8850_0
+- term: Connective and soft tissue, NOS
+  term_id: icdot:C49_9

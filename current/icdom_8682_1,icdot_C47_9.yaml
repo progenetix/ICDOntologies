@@ -1,11 +1,10 @@
 equivalents:
-- label: None
-  id: ncit:C4217
-- id: seer:24000
+- term: Parasympathetic Paraganglioma
+  term_id: ncit:C4217
 examples:
-- label: parasympathetic paraganglioma [vagal]
+- labels: parasympathetic paraganglioma [vagal]
 input:
-- label: Parasympathetic paraganglioma
-  id: icdom:8682_1
-- label: peripheral nervs incl. Autonomous
-  id: icdot:C47_9
+- term: Parasympathetic paraganglioma
+  term_id: icdom:8682_1
+- term: Peripheral nervs incl. Autonomous
+  term_id: icdot:C47_9

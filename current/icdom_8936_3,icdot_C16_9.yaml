@@ -1,11 +1,10 @@
 equivalents:
-- label: ''
-  id: 'ncit:'
-- id: seer:21020
+- term: Malignant Gastrointestinal Stromal Tumor
+  term_id: ncit:C53999
 examples:
-- label: Gastrointestinal stromal tumor, malignant
+- labels: malignant gastrointestinal stromal tumor
 input:
-- label: Gastrointestinal stromal sarcoma
-  id: icdom:8936_3
-- label: stomach
-  id: icdot:C16_9
+- term: Gastrointestinal stromal sarcoma
+  term_id: icdom:8936_3
+- term: Stomach
+  term_id: icdot:C16_9

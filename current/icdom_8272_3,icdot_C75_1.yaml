@@ -1,11 +1,10 @@
 equivalents:
-- label: Pituitary Gland Carcinoma
-  id: ncit:C4536
-- id: seer:32020
+- term: Pituitary Gland Carcinoma
+  term_id: ncit:C4536
 examples:
-- label: Pituitary carcinoma [metatstasis]
+- labels: Pituitary carcinoma [metatstasis]
 input:
-- label: Pituitary carcinoma, NOS
-  id: icdom:8272_3
-- label: pituitary gland
-  id: icdot:C75_1
+- term: Pituitary carcinoma, NOS
+  term_id: icdom:8272_3
+- term: Pituitary gland
+  term_id: icdot:C75_1

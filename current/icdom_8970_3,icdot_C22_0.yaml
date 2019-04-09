@@ -1,11 +1,10 @@
 equivalents:
-- label: Hepatoblastoma
-  id: ncit:C3728
-- id: seer:21071
+- term: Hepatoblastoma
+  term_id: ncit:C3728
 examples:
-- label: hepatoblastoma
+- labels: Hepatoblastoma
 input:
-- label: Hepatoblastoma
-  id: icdom:8970_3
-- label: Liver
-  id: icdot:C22_0
+- term: hepatoblastoma
+  term_id: icdom:8970_3
+- term: Liver
+  term_id: icdot:C22_0

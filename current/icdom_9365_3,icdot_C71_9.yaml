@@ -1,11 +1,10 @@
 equivalents:
-- label: Askin tumor
-  id: ncit:C7542
-- id: seer:23000
+- term: Askin tumor
+  term_id: ncit:C7542
 examples:
-- label: Askin tumor [cell line SK-N-MC]
+- labels: Askin tumor [cell line SK-N-MC]
 input:
-- label: Askin tumor
-  id: icdom:9365_3
-- label: Brain, NOS
-  id: icdot:C71_9
+- term: Askin tumor
+  term_id: icdom:9365_3
+- term: Brain, NOS
+  term_id: icdot:C71_9

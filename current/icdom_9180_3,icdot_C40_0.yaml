@@ -1,11 +1,10 @@
 equivalents:
-- label: Osteosarcoma
-  id: ncit:C9145
-- id: seer:23000
+- term: Osteosarcoma
+  term_id: ncit:C9145
 examples:
-- label: Sarcoma [postirradiation, Skeletal osteosarcoma OB G4, Humerus]
+- labels: Sarcoma [postirradiation, Skeletal osteosarcoma OB G4, Humerus]
 input:
-- label: Osteosarcoma, NOS
-  id: icdom:9180_3
-- label: bones and joints
-  id: icdot:C40_0
+- term: Osteosarcoma, NOS
+  term_id: icdom:9180_3
+- term: Bones and joints
+  term_id: icdot:C40_0

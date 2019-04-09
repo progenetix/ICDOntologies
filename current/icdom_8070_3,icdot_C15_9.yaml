@@ -1,11 +1,10 @@
 equivalents:
-- label: Squamous Cell Carcinoma
-  id: ncit:C2929
-- id: seer:21010
+- term: Squamous Cell Carcinoma
+  term_id: ncit:C2929
 examples:
-- label: Esophageal squamous
+- labels: Esophageal squamous
 input:
-- label: Squamous cell carcinoma, NOS
-  id: icdom:8070_3
-- label: esophagus
-  id: icdot:C15_9
+- term: Squamous cell carcinoma, NOS
+  term_id: icdom:8070_3
+- term: Esophagus
+  term_id: icdot:C15_9

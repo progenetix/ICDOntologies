@@ -1,11 +1,10 @@
 equivalents:
-- label: Dermatofibrosarcoma Protuberans
-  id: ncit:C4683
-- id: seer:26000
+- term: Dermatofibrosarcoma Protuberans
+  term_id: ncit:C4683
 examples:
-- label: Differentiating dermatofibrosarcoma protuberans
+- labels: Differentiating dermatofibrosarcoma protuberans
 input:
-- label: Dermatofibrosarcoma, NOS
-  id: icdom:8832_3
-- label: Breast, NOS
-  id: icdot:C50_9
+- term: Dermatofibrosarcoma, NOS
+  term_id: icdom:8832_3
+- term: Breast, NOS
+  term_id: icdot:C50_9

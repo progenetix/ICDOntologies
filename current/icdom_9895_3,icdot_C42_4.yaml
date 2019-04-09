@@ -1,11 +1,10 @@
 equivalents:
-- label: Acute Myeloid Leukemia with Multilineage Dysplasia
-  id: ncit:C9289
-- id: seer:35021
+- term: Acute Myeloid Leukemia with Multilineage Dysplasia
+  term_id: ncit:C9289
 examples:
-- label: Acute myeloid leukemia with prior myelodysplastic syndrome [RAEB]
+- labels: Acute myeloid leukemia with prior myelodysplastic syndrome [RAEB]
 input:
-- label: Acute myeloid leukemia with myelodysplasia-related changes
-  id: icdom:9895_3
-- label: Hematopoietic system, NOS
-  id: icdot:C42_4
+- term: Acute myeloid leukemia with myelodysplasia-related changes
+  term_id: icdom:9895_3
+- term: Hematopoietic system, NOS
+  term_id: icdot:C42_4

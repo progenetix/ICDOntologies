@@ -1,11 +1,10 @@
 equivalents:
-- label: Large Cell Neuroendocrine Carcinoma
-  id: ncit:C6875
-- id: seer:22030
+- term: Large Cell Neuroendocrine Carcinoma
+  term_id: ncit:C6875
 examples:
-- label: large cell neuroendocrine with small cell carcinoma [lung]
+- labels: large cell neuroendocrine with squamous cell carcinoma [lung]
 input:
-- label: Large cell neuroendocrine carcinoma
-  id: icdom:8013_3
-- label: lung and bronchus
-  id: icdot:C34_9
+- term: Large cell neuroendocrine carcinoma
+  term_id: icdom:8013_3
+- term: Lung and bronchus
+  term_id: icdot:C34_9

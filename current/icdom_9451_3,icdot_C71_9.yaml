@@ -1,11 +1,10 @@
 equivalents:
-- label: Oligodendroglioma
-  id: ncit:C3288
-- id: seer:31010
+- term: Anaplastic Oligodendroglioma
+  term_id: ncit:C4326
 examples:
-- label: Oligodendroglioma (Grade IV)
+- labels: anaplastic oligodendroglioma
 input:
-- label: Oligodendroglioma, anaplastic
-  id: icdom:9451_3
-- label: brain, NOS
-  id: icdot:C71_9
+- term: Oligodendroglioma, anaplastic
+  term_id: icdom:9451_3
+- term: Brain, NOS
+  term_id: icdot:C71_9

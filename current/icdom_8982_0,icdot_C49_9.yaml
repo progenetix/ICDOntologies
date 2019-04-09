@@ -1,11 +1,10 @@
 equivalents:
-- label: Epithelial-Myoepithelial Carcinoma
-  id: ncit:C4199
-- id: seer:24000
+- term: Epithelial-Myoepithelial Carcinoma
+  term_id: ncit:C4199
 examples:
-- label: myoepithelioma
+- labels: myoepithelioma
 input:
-- label: Myoepithelioma
-  id: icdom:8982_0
-- label: connective and soft tissue, NOS
-  id: icdot:C49_9
+- term: Myoepithelioma
+  term_id: icdom:8982_0
+- term: Connective and soft tissue, NOS
+  term_id: icdot:C49_9

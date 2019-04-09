@@ -1,11 +1,10 @@
 equivalents:
-- label: Papillary Glioneuronal Tumor
-  id: ncit:C92554
-- id: seer:31010
+- term: Papillary Glioneuronal Tumor
+  term_id: ncit:C92554
 examples:
-- label: Papillary glioneural tumour [temporal]
+- labels: Papillary glioneural tumour [temporal]
 input:
-- label: Papillary glioneuronal tumor
-  id: icdom:9509_1
-- label: brain, NOS
-  id: icdot:C71_9
+- term: Papillary glioneuronal tumor
+  term_id: icdom:9509_1
+- term: Brain, NOS
+  term_id: icdot:C71_9

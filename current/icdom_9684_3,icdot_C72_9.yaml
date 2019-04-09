@@ -1,11 +1,10 @@
 equivalents:
-- label: Plasmablastic Lymphoma
-  id: ncit:C7224
-- id: seer:33042
+- term: Plasmablastic Lymphoma
+  term_id: ncit:C7224
 examples:
-- label: ML, large B-cell, diffuse, immunoblastic, NOS [CNS, AIDS related]
+- labels: ML, large B-cell, diffuse, immunoblastic, NOS [CNS, AIDS related]
 input:
-- label: Malignant lymphoma, large B-cell, diffuse, immunoblastic, NOS
-  id: icdom:9684_3
-- label: Nervous system, NOS
-  id: icdot:C72_9
+- term: Malignant lymphoma, large B-cell, diffuse, immunoblastic, NOS
+  term_id: icdom:9684_3
+- term: Nervous system, NOS
+  term_id: icdot:C72_9

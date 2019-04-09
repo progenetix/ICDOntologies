@@ -1,11 +1,10 @@
 equivalents:
-- label: Solitary Fibrous Tumor
-  id: ncit:C7634
-- id: seer:24000
+- term: Solitary Fibrous Tumor
+  term_id: ncit:C7634
 examples:
-- label: solitary fibrous tumor
+- labels: solitary fibrous tumor
 input:
-- label: Solitary fibrous tumor
-  id: icdom:8815_0
-- label: connective and soft tissue, NOS
-  id: icdot:C49_9
+- term: Solitary fibrous tumor
+  term_id: icdom:8815_0
+- term: Connective and soft tissue, NOS
+  term_id: icdot:C49_9

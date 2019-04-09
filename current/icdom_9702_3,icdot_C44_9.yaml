@@ -1,11 +1,10 @@
 equivalents:
-- label: Mature T-Cell and NK-Cell Non-Hodgkin Lymphoma
-  id: ncit:C3468
-- id: seer:33042
+- term: Mature T-Cell and NK-Cell Non-Hodgkin Lymphoma
+  term_id: ncit:C3468
 examples:
-- label: Peripheral T-cell lymphoma, not otherwise specified
+- labels: Peripheral T-cell lymphoma, not otherwise specified
 input:
-- label: Mature T-cell lymphoma, NOS
-  id: icdom:9702_3
-- label: Skin, NOS
-  id: icdot:C44_9
+- term: Mature T-cell lymphoma, NOS
+  term_id: icdom:9702_3
+- term: Skin, NOS
+  term_id: icdot:C44_9

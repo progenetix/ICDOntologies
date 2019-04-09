@@ -1,11 +1,11 @@
 equivalents:
-- label: Oncocytic Adenoma
-  id: ncit:C7380
-- id: seer:32010
+- term: Oncocytic Adenoma
+  term_id: ncit:C7380
 examples:
-- label: Papillary carcinoma of thyroid, foll [stage PT4N1bM0, grade High]
+- labels: Papillary carcinoma of thyroid, follicular variant [stage PpT4aN1b, grade
+    High]
 input:
-- label: Papillary carcinoma, follicular variant
-  id: icdom:8340_3
-- label: thyroid gland
-  id: icdot:C73_9
+- term: Papillary carcinoma, follicular variant
+  term_id: icdom:8340_3
+- term: Thyroid gland
+  term_id: icdot:C73_9

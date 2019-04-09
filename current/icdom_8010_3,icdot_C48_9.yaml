@@ -1,11 +1,10 @@
 equivalents:
-- label: Carcinoma
-  id: ncit:C2916
-- id: seer:21110
+- term: Carcinoma
+  term_id: ncit:C2916
 examples:
-- label: primary peritoneal carcinomatosis
+- labels: primary peritoneal carcinomatosis
 input:
-- label: Carcinoma, NOS
-  id: icdom:8010_3
-- label: retroperitoneum and peritoneum
-  id: icdot:C48_9
+- term: Carcinoma, NOS
+  term_id: icdom:8010_3
+- term: Retroperitoneum and peritoneum
+  term_id: icdot:C48_9

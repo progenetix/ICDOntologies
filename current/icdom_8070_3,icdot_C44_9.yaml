@@ -1,11 +1,10 @@
 equivalents:
-- label: Skin Squamous Cell Carcinoma
-  id: ncit:C4819
-- id: seer:37000
+- term: Skin Squamous Cell Carcinoma
+  term_id: ncit:C4819
 examples:
-- label: Cutaneous squamous cell carcinoma
+- labels: Cutaneous squamous cell carcinoma
 input:
-- label: Squamous cell carcinoma, NOS
-  id: icdom:8070_3
-- label: Skin, NOS
-  id: icdot:C44_9
+- term: Squamous cell carcinoma, NOS
+  term_id: icdom:8070_3
+- term: Skin, NOS
+  term_id: icdot:C44_9

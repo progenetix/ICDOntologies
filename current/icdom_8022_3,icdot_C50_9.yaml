@@ -1,11 +1,10 @@
 equivalents:
-- label: Pleomorphic breast carcinoma
-  id: ncit:C5161
-- id: seer:26000
+- term: Pleomorphic breast carcinoma
+  term_id: ncit:C5161
 examples:
-- label: Pleomorphic breast carcinoma [cell line SUM159PT]
+- labels: Pleomorphic breast carcinoma [cell line SUM159PT]
 input:
-- label: Pleomorphic carcinoma
-  id: icdom:8022_3
-- label: Breast, NOS
-  id: icdot:C50_9
+- term: Pleomorphic carcinoma
+  term_id: icdom:8022_3
+- term: Breast, NOS
+  term_id: icdot:C50_9

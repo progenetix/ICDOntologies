@@ -1,11 +1,10 @@
 equivalents:
-- label: Desmoplastic Mesothelioma
-  id: ncit:C6747
-- id: seer:36010
+- term: Desmoplastic Mesothelioma
+  term_id: ncit:C6747
 examples:
-- label: Sarcomatoid mesothelioma
+- labels: Sarcomatoid mesothelioma
 input:
-- label: Fibrous mesothelioma, malignant
-  id: icdom:9051_3
-- label: pleura
-  id: icdot:C38_4
+- term: Fibrous mesothelioma, malignant
+  term_id: icdom:9051_3
+- term: Pleura
+  term_id: icdot:C38_4

@@ -1,11 +1,10 @@
 equivalents:
-- label: Acute Biphenotypic Leukemia
-  id: ncit:C4673
-- id: seer:35041
+- term: Acute Biphenotypic Leukemia
+  term_id: ncit:C4673
 examples:
-- label: Acute mixed lineage leukemia
+- labels: acute biphenotypic leukemia [cell line MY]
 input:
-- label: Acute biphenotypic leukemia
-  id: icdom:9805_3
-- label: Hematopoietic system, NOS
-  id: icdot:C42_4
+- term: Acute biphenotypic leukemia
+  term_id: icdom:9805_3
+- term: Hematopoietic system, NOS
+  term_id: icdot:C42_4

@@ -1,11 +1,10 @@
 equivalents:
-- label: Intravascular Large B-Cell Lymphoma
-  id: ncit:C4342
-- id: seer:33042
+- term: Intravascular Large B-Cell Lymphoma
+  term_id: ncit:C4342
 examples:
-- label: cardiac lymphoma
+- labels: cardiac lymphoma
 input:
-- label: Malignant lymphoma, large B-cell, diffuse, NOS
-  id: icdom:9680_3
-- label: heart
-  id: icdot:C38_0
+- term: Malignant lymphoma, large B-cell, diffuse, NOS
+  term_id: icdom:9680_3
+- term: Heart
+  term_id: icdot:C38_0

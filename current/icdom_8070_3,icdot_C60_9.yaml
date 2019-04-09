@@ -1,11 +1,10 @@
 equivalents:
-- label: Squamous Cell Carcinoma
-  id: ncit:C2929
-- id: seer:28030
+- term: Squamous Cell Carcinoma
+  term_id: ncit:C2929
 examples:
-- label: penile squamous cell carcinoma
+- labels: penile squamous cell carcinoma
 input:
-- label: Squamous cell carcinoma, NOS
-  id: icdom:8070_3
-- label: penis
-  id: icdot:C60_9
+- term: Squamous cell carcinoma, NOS
+  term_id: icdom:8070_3
+- term: Penis
+  term_id: icdot:C60_9

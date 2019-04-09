@@ -1,11 +1,10 @@
 equivalents:
-- label: None
-  id: ncit:C4094
-- id: seer:22050
+- term: Pleomorphic Carcinoma
+  term_id: ncit:C4094
 examples:
-- label: Pleomorphic carcinoma
+- labels: Pleomorphic carcinoma
 input:
-- label: Pleomorphic carcinoma
-  id: icdom:8022_3
-- label: pleura
-  id: icdot:C38_4
+- term: Pleomorphic carcinoma
+  term_id: icdom:8022_3
+- term: Pleura
+  term_id: icdot:C38_4

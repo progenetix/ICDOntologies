@@ -1,11 +1,10 @@
 equivalents:
-- label: Lymphoma
-  id: ncit:C3208
-- id: seer:33041
+- term: Lymphoma
+  term_id: ncit:C3208
 examples:
-- label: non-Hodgkin lymphoma, unclassified
+- labels: non-Hodgkin lymphoma, unclassified
 input:
-- label: Malignant lymphoma, NOS
-  id: icdom:9590_3
-- label: Lymph nodes, NOS
-  id: icdot:C77_9
+- term: Malignant lymphoma, NOS
+  term_id: icdom:9590_3
+- term: Lymph nodes, NOS
+  term_id: icdot:C77_9

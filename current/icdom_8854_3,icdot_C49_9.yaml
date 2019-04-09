@@ -1,11 +1,10 @@
 equivalents:
-- label: Pleomorphic Liposarcoma
-  id: ncit:C3705
-- id: seer:24000
+- term: Pleomorphic Liposarcoma
+  term_id: ncit:C3705
 examples:
-- label: Liposarcoma, pleomorphic
+- labels: Liposarcoma, pleomorphic
 input:
-- label: Pleomorphic liposarcoma
-  id: icdom:8854_3
-- label: connective and soft tissue, NOS
-  id: icdot:C49_9
+- term: Pleomorphic liposarcoma
+  term_id: icdom:8854_3
+- term: Connective and soft tissue, NOS
+  term_id: icdot:C49_9

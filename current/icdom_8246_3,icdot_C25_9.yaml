@@ -1,0 +1,10 @@
+equivalents:
+- term: Neuroendocrine Carcinoma
+  term_id: ncit:C3773
+examples:
+- labels: neuroendocrine tumour [pancreas, Liver metastasis, functional]
+input:
+- term: Neuroendocrine carcinoma, NOS
+  term_id: icdom:8246_3
+- term: Pancreas, NOS
+  term_id: icdot:C25_9

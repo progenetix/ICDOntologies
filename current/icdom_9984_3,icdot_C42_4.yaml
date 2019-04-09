@@ -1,11 +1,10 @@
 equivalents:
-- label: None
-  id: ncit:C27080
-- id: seer:35023
+- term: Refractory Anemia with Excess Blasts in Transformation
+  term_id: ncit:C27080
 examples:
-- label: Refractory anemia with excess blasts in transformation [RAEBT, secondary]
+- labels: Refractory anemia with excess blasts in transformation [RAEBT, secondary]
 input:
-- label: Refractory anemia with excess blasts in transformation
-  id: icdom:9984_3
-- label: Hematopoietic system, NOS
-  id: icdot:C42_4
+- term: Refractory anemia with excess blasts in transformation
+  term_id: icdom:9984_3
+- term: Hematopoietic system, NOS
+  term_id: icdot:C42_4

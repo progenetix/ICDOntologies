@@ -1,11 +1,10 @@
 equivalents:
-- label: ''
-  id: 'ncit:'
-- id: seer:22030
+- term: Bronchioloalveolar Carcinoma
+  term_id: ncit:C2923
 examples:
-- label: bronchioloalveolar carcinoma
+- labels: Bronchiolo-alveolar adenocarcinoma
 input:
-- label: Bronchiolo-alveolar adenocarcinoma, NOS
-  id: icdom:8250_3
-- label: lung and bronchus
-  id: icdot:C34_9
+- term: Bronchiolo-alveolar adenocarcinoma, NOS
+  term_id: icdom:8250_3
+- term: Lung and bronchus
+  term_id: icdot:C34_9

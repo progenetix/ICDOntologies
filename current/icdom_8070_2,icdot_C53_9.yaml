@@ -1,11 +1,10 @@
 equivalents:
-- label: Stage 0 Squamous Cell Carcinoma
-  id: ncit:C27093
-- id: seer:27010
+- term: Stage 0 Squamous Cell Carcinoma
+  term_id: ncit:C27093
 examples:
-- label: Squamous cell carcinoma in situ [cervix]
+- labels: Squamous cell carcinoma in situ [cervix]
 input:
-- label: Squamous cell carcinoma in situ, NOS
-  id: icdom:8070_2
-- label: cervix uteri
-  id: icdot:C53_9
+- term: Squamous cell carcinoma in situ, NOS
+  term_id: icdom:8070_2
+- term: Cervix uteri
+  term_id: icdot:C53_9

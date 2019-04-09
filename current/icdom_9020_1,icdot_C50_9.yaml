@@ -1,0 +1,10 @@
+equivalents:
+- term: Phyllodes Tumor
+  term_id: ncit:C2977
+examples:
+- labels: phyllodes tumor [breast, Borderline]
+input:
+- term: Phyllodes tumor, borderline
+  term_id: icdom:9020_1
+- term: Breast, NOS
+  term_id: icdot:C50_9

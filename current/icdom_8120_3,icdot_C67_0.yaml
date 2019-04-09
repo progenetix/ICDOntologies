@@ -1,11 +1,10 @@
 equivalents:
-- label: Transitional Cell Carcinoma
-  id: ncit:C2930
-- id: seer:29010
+- term: Transitional Cell Carcinoma
+  term_id: ncit:C2930
 examples:
-- label: papillary bladder adenocarcinoma
+- labels: urothelial tumor [stage pT3a, G3]
 input:
-- label: Transitional cell carcinoma, NOS
-  id: icdom:8120_3
-- label: urinary bladder
-  id: icdot:C67_0
+- term: Transitional cell carcinoma, NOS
+  term_id: icdom:8120_3
+- term: Urinary bladder
+  term_id: icdot:C67_0

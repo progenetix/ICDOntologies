@@ -1,11 +1,10 @@
 equivalents:
-- label: Fibrosarcoma
-  id: ncit:C3043
-- id: seer:24000
+- term: Fibrosarcoma
+  term_id: ncit:C3043
 examples:
-- label: Fibrosarcoma G3 [local recurrence]
+- labels: Fibrosarcoma G1 [local recurrence]
 input:
-- label: Fibrosarcoma, NOS
-  id: icdom:8810_3
-- label: connective and soft tissue, NOS
-  id: icdot:C49_9
+- term: Fibrosarcoma, NOS
+  term_id: icdom:8810_3
+- term: Connective and soft tissue, NOS
+  term_id: icdot:C49_9

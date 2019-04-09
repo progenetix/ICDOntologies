@@ -1,11 +1,10 @@
 equivalents:
-- label: Primary Cutaneous Anaplastic Large Cell Lymphoma
-  id: ncit:C6860
-- id: seer:33042
+- term: Lymphomatoid Papulosis
+  term_id: ncit:C3721
 examples:
-- label: CD30+ LPD (ALCL type)
+- labels: Anaplastic large cell lymphoma, cutaneous type
 input:
-- label: Primary cutaneous CD30+ T-cell lymphoproliferative disorder
-  id: icdom:9718_3
-- label: Skin, NOS
-  id: icdot:C44_9
+- term: Anaplastic large cell lymphoma, cutaneous type
+  term_id: icdom:9718_3
+- term: Skin, NOS
+  term_id: icdot:C44_9

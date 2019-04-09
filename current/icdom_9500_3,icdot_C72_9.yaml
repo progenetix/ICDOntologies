@@ -1,11 +1,10 @@
 equivalents:
-- label: Neuroblastoma
-  id: ncit:C3270
-- id: seer:31040
+- term: Neuroblastoma
+  term_id: ncit:C3270
 examples:
-- label: neuroblastoma, NOS
+- labels: neuroblastoma, NOS
 input:
-- label: Neuroblastoma, NOS
-  id: icdom:9500_3
-- label: Nervous system, NOS
-  id: icdot:C72_9
+- term: Neuroblastoma, NOS
+  term_id: icdom:9500_3
+- term: Nervous system, NOS
+  term_id: icdot:C72_9

@@ -1,11 +1,10 @@
 equivalents:
-- label: Giant Cell Carcinoma
-  id: ncit:C3779
-- id: seer:23000
+- term: Giant Cell Carcinoma
+  term_id: ncit:C3779
 examples:
-- label: giant cell granuloma
+- labels: giant cell granuloma
 input:
-- label: Giant cell carcinoma
-  id: icdom:8031_3
-- label: bone, NOS
-  id: icdot:C41_9
+- term: Giant cell carcinoma
+  term_id: icdom:8031_3
+- term: Bone, NOS
+  term_id: icdot:C41_9

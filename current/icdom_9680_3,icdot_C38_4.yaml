@@ -1,11 +1,10 @@
 equivalents:
-- label: Intravascular Large B-Cell Lymphoma
-  id: ncit:C4342
-- id: seer:33042
+- term: Intravascular Large B-Cell Lymphoma
+  term_id: ncit:C4342
 examples:
-- label: Malignant lymphoma, histiocytic, diffuse [cell line]
+- labels: Malignant lymphoma, histiocytic, diffuse [cell line]
 input:
-- label: Malignant lymphoma, large B-cell, diffuse, NOS
-  id: icdom:9680_3
-- label: pleura
-  id: icdot:C38_4
+- term: Malignant lymphoma, large B-cell, diffuse, NOS
+  term_id: icdom:9680_3
+- term: Pleura
+  term_id: icdot:C38_4

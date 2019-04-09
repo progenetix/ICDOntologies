@@ -1,11 +1,10 @@
 equivalents:
-- label: Choriocarcinoma
-  id: ncit:C2948
-- id: seer:99999
+- term: Choriocarcinoma
+  term_id: ncit:C2948
 examples:
-- label: Choriocarcinoma
+- labels: Choriocarcinoma
 input:
-- label: Choriocarcinoma, NOS
-  id: icdom:9100_3
-- label: Testes
-  id: icdot:C76_9
+- term: Choriocarcinoma, NOS
+  term_id: icdom:9100_3
+- term: Testes
+  term_id: icdot:C76_9

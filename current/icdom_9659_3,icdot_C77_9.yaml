@@ -1,11 +1,10 @@
 equivalents:
-- label: ''
-  id: 'ncit:'
-- id: seer:33011
+- term: THRLBCL-Like Transformation of NLPHL
+  term_id: ncit:C139030
 examples:
-- label: Lymphocyte Predominance Hodgkin lymphoma [LPHD]
+- labels: 'Hodgkin lymphoma, nodular lymphocyte predominant '
 input:
-- label: Hodgkin lymphoma, nodular lymphocyte predominance
-  id: icdom:9659_3
-- label: Lymph nodes, NOS
-  id: icdot:C77_9
+- term: Hodgkin lymphoma, nodular lymphocyte predominance
+  term_id: icdom:9659_3
+- term: Lymph node, NOS
+  term_id: icdot:C77_9

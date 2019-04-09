@@ -1,11 +1,10 @@
 equivalents:
-- label: Adenocarcinoma
-  id: ncit:C2852
-- id: seer:21100
+- term: Adenocarcinoma
+  term_id: ncit:C2852
 examples:
-- label: Infiltrating pancreatic duct carcinoma [cell line]
+- labels: pancreas ductal adenocarcinoma [cell line Cfpac1, liver metastasis]
 input:
-- label: Adenocarcinoma, NOS
-  id: icdom:8140_3
-- label: Pancreas, NOS
-  id: icdot:C25_9
+- term: Adenocarcinoma, NOS
+  term_id: icdom:8140_3
+- term: Pancreas, NOS
+  term_id: icdot:C25_9

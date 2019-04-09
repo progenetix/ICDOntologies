@@ -1,11 +1,10 @@
 equivalents:
-- label: Combined Hepatocellular Carcinoma and Cholangiocarcinoma
-  id: ncit:C3828
-- id: seer:21072
+- term: Combined Hepatocellular Carcinoma and Cholangiocarcinoma
+  term_id: ncit:C3828
 examples:
-- label: combined hepatocellular carcinoma and cholangiocarcinoma [Chronic cholangitis]
+- labels: combined hepatocellular carcinoma and cholangiocarcinoma [Chronic cholangitis]
 input:
-- label: Combined hepatocellular carcinoma and cholangiocarcinoma
-  id: icdom:8180_3
-- label: intrahepatic bile ducts
-  id: icdot:C22_1
+- term: Combined hepatocellular carcinoma and cholangiocarcinoma
+  term_id: icdom:8180_3
+- term: Intrahepatic bile ducts
+  term_id: icdot:C22_1

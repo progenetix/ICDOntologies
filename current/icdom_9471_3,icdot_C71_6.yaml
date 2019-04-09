@@ -1,11 +1,10 @@
 equivalents:
-- label: Desmoplastic/Nodular Medulloblastoma
-  id: ncit:C4956
-- id: seer:31010
+- term: Desmoplastic/Nodular Medulloblastoma
+  term_id: ncit:C4956
 examples:
-- label: Desmoplastic medulloblastoma
+- labels: medulloblastoma [desmoplastic]
 input:
-- label: Desmoplastic nodular medulloblastoma
-  id: icdom:9471_3
-- label: cerebellum
-  id: icdot:C71_6
+- term: Desmoplastic nodular medulloblastoma
+  term_id: icdom:9471_3
+- term: Cerebellum
+  term_id: icdot:C71_6

@@ -1,11 +1,10 @@
 equivalents:
-- label: Carcinoma
-  id: ncit:C2916
-- id: seer:37000
+- term: Carcinoma
+  term_id: ncit:C2916
 examples:
-- label: cancer [Omentum]
+- labels: cancer [Omentum]
 input:
-- label: Neoplasm, malignant
-  id: icdom:8000_3
-- label: connective and soft tissue, NOS
-  id: icdot:C49_9
+- term: Neoplasm, malignant
+  term_id: icdom:8000_3
+- term: Connective and soft tissue, NOS
+  term_id: icdot:C49_9

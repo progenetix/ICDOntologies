@@ -1,11 +1,10 @@
 equivalents:
-- label: Grade 2 Follicular Lymphoma
-  id: ncit:C8968
-- id: seer:33041
+- term: Grade 2 Follicular Lymphoma
+  term_id: ncit:C8968
 examples:
-- label: Follicular lymphoma, grade 2
+- labels: Follicular lymphoma, grade 2
 input:
-- label: Follicular lymphoma, grade 2
-  id: icdom:9691_3
-- label: Hematopoietic system, NOS
-  id: icdot:C42_4
+- term: Follicular lymphoma, grade 2
+  term_id: icdom:9691_3
+- term: Hematopoietic system, NOS
+  term_id: icdot:C42_4

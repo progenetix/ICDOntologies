@@ -1,11 +1,10 @@
 equivalents:
-- label: None
-  id: ncit:C3740
-- id: seer:24000
+- term: Bone Desmoplastic Fibroma
+  term_id: ncit:C3740
 examples:
-- label: Desmoplastic fibroma
+- labels: Desmoplastic fibroma
 input:
-- label: Desmoplastic fibroma
-  id: icdom:8823_0
-- label: connective and soft tissue, NOS
-  id: icdot:C49_9
+- term: Desmoplastic fibroma
+  term_id: icdom:8823_0
+- term: Connective and soft tissue, NOS
+  term_id: icdot:C49_9

@@ -1,11 +1,10 @@
 equivalents:
-- label: Thyroid Gland Papillary Carcinoma
-  id: ncit:C4035
-- id: seer:27040
+- term: Thyroid Gland Papillary Carcinoma
+  term_id: ncit:C4035
 examples:
-- label: Papillary serous adenocarcinoma
+- labels: Papillary serous adenocarcinoma
 input:
-- label: Papillary adenocarcinoma, NOS
-  id: icdom:8260_3
-- label: ovary
-  id: icdot:C56_9
+- term: Papillary adenocarcinoma, NOS
+  term_id: icdom:8260_3
+- term: Ovary
+  term_id: icdot:C56_9

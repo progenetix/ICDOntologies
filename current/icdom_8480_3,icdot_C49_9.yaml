@@ -1,11 +1,10 @@
 equivalents:
-- label: Mucinous Adenocarcinoma
-  id: ncit:C26712
-- id: seer:24000
+- term: Mucinous Adenocarcinoma
+  term_id: ncit:C26712
 examples:
-- label: Mucinous adenocarcinoma [right palate]
+- labels: Mucinous adenocarcinoma [right palate]
 input:
-- label: Mucinous adenocarcinoma
-  id: icdom:8480_3
-- label: connective and soft tissue, NOS
-  id: icdot:C49_9
+- term: Mucinous adenocarcinoma
+  term_id: icdom:8480_3
+- term: Connective and soft tissue, NOS
+  term_id: icdot:C49_9

@@ -1,11 +1,10 @@
 equivalents:
-- label: Carcinoma
-  id: ncit:C2916
-- id: seer:22030
+- term: Carcinoma
+  term_id: ncit:C2916
 examples:
-- label: carcinoma of the lung or bronchus
+- labels: carcinoma of the lung or bronchus
 input:
-- label: Carcinoma, NOS
-  id: icdom:8010_3
-- label: lung and bronchus
-  id: icdot:C34_9
+- term: Carcinoma, NOS
+  term_id: icdom:8010_3
+- term: Lung and bronchus
+  term_id: icdot:C34_9

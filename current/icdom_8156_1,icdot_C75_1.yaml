@@ -1,11 +1,10 @@
 equivalents:
-- label: None
-  id: ncit:C3379
-- id: seer:32020
+- term: Somatostatin-Producing Neuroendocrine Tumor
+  term_id: ncit:C3379
 examples:
-- label: Growth hormone-secreting pituitary tumor
+- labels: Growth hormone-secreting pituitary tumor
 input:
-- label: Somatostatinoma, NOS
-  id: icdom:8156_1
-- label: pituitary gland
-  id: icdot:C75_1
+- term: Somatostatinoma, NOS
+  term_id: icdom:8156_1
+- term: Pituitary gland
+  term_id: icdot:C75_1

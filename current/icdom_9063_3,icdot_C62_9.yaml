@@ -1,11 +1,10 @@
 equivalents:
-- label: None
-  id: ncit:C39921
-- id: seer:28020
+- term: Testicular Spermatocytic Seminoma
+  term_id: ncit:C39921
 examples:
-- label: spermatocytic seminoma
+- labels: spermatocytic seminoma
 input:
-- label: Spermatocytic seminoma
-  id: icdom:9063_3
-- label: testis
-  id: icdot:C62_9
+- term: Spermatocytic seminoma
+  term_id: icdom:9063_3
+- term: Testis
+  term_id: icdot:C62_9

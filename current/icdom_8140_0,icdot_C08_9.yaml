@@ -1,11 +1,10 @@
 equivalents:
-- label: None
-  id: ncit:C2855
-- id: seer:20030
+- term: Adenoma
+  term_id: ncit:C2855
 examples:
-- label: Pleomorphic adenoma/adenomatous type [palatal gland]
+- labels: Pleomorphic adenoma/plasmacytoid type [palatal gland]
 input:
-- label: Adenoma, NOS
-  id: icdom:8140_0
-- label: salivary gland, NOS
-  id: icdot:C08_9
+- term: Adenoma, NOS
+  term_id: icdom:8140_0
+- term: Salivary gland, NOS
+  term_id: icdot:C08_9

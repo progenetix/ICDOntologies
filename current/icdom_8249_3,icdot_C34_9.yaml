@@ -1,11 +1,10 @@
 equivalents:
-- label: Atypical Carcinoid Tumor
-  id: ncit:C72074
-- id: seer:22030
+- term: Atypical Carcinoid Tumor
+  term_id: ncit:C72074
 examples:
-- label: atypical carcinoid tumor [lung]
+- labels: atypical carcinoid tumor [lung]
 input:
-- label: Atypical carcinoid tumor
-  id: icdom:8249_3
-- label: lung and bronchus
-  id: icdot:C34_9
+- term: Atypical carcinoid tumor
+  term_id: icdom:8249_3
+- term: Lung and bronchus
+  term_id: icdot:C34_9

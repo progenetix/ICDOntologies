@@ -1,11 +1,10 @@
 equivalents:
-- label: Diffuse Astrocytoma
-  id: ncit:C7173
-- id: seer:31010
+- term: Diffuse Astrocytoma
+  term_id: ncit:C7173
 examples:
-- label: pilomyxoid astrocytoma [infratentorial]
+- labels: pilomyxoid astrocytoma [infratentorial]
 input:
-- label: Astrocytoma, NOS
-  id: icdom:9400_3
-- label: cerebellum
-  id: icdot:C71_6
+- term: Astrocytoma, NOS
+  term_id: icdom:9400_3
+- term: Cerebellum
+  term_id: icdot:C71_6

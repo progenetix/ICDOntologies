@@ -1,11 +1,10 @@
 equivalents:
-- label: Intravascular Large B-Cell Lymphoma
-  id: ncit:C4342
-- id: seer:33042
+- term: Intravascular Large B-Cell Lymphoma
+  term_id: ncit:C4342
 examples:
-- label: Diffuse large B-cell lymphoma [Colon(Cecum)]
+- labels: Diffuse large B-cell lymphoma [Colon(Cecum)]
 input:
-- label: Malignant lymphoma, large B-cell, diffuse, NOS
-  id: icdom:9680_3
-- label: large intestine, excl. rectum and rectosigmoid junction
-  id: icdot:C18_9
+- term: Malignant lymphoma, large B-cell, diffuse, NOS
+  term_id: icdom:9680_3
+- term: Large intestine, excl. Rectum and rectosigmoid junction
+  term_id: icdot:C18_9

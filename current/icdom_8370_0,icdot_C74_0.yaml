@@ -1,11 +1,10 @@
 equivalents:
-- label: Adrenal Cortex Adenoma
-  id: ncit:C9003
-- id: seer:32020
+- term: Adrenal Cortex Adenoma
+  term_id: ncit:C9003
 examples:
-- label: Adrenocortical tumor [adenoma, left]
+- labels: Adrenocortical tumor [adenoma, left]
 input:
-- label: Adrenal cortical adenoma, NOS
-  id: icdom:8370_0
-- label: adrenal cortex
-  id: icdot:C74_0
+- term: Adrenal cortical adenoma, NOS
+  term_id: icdom:8370_0
+- term: Adrenal cortex
+  term_id: icdot:C74_0

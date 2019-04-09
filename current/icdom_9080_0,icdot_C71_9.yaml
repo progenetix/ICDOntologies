@@ -1,11 +1,10 @@
 equivalents:
-- label: Mature Teratoma
-  id: ncit:C9015
-- id: seer:31010
+- term: Mature Teratoma
+  term_id: ncit:C9015
 examples:
-- label: pediatric germ cell tumor [mature teratoma, spinal]
+- labels: pediatric germ cell tumor [mature teratoma, spinal]
 input:
-- label: Teratoma, benign
-  id: icdom:9080_0
-- label: Brain, NOS
-  id: icdot:C71_9
+- term: Teratoma, benign
+  term_id: icdom:9080_0
+- term: Brain, NOS
+  term_id: icdot:C71_9

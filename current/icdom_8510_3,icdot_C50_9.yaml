@@ -1,12 +1,11 @@
 equivalents:
-- label: None
-  id: ncit:C66718
-- id: seer:26000
+- term: Medullary Carcinoma, Not Otherwise Specified
+  term_id: ncit:C66718
 examples:
-- label: medullary carcinoma of the breast [grade III, stage pT1c, 0 pos. LN, dist
+- labels: medullary carcinoma of the breast [grade III, stage pT1c, 0 pos. LN, dist
     metast. no]
 input:
-- label: Medullary carcinoma, NOS
-  id: icdom:8510_3
-- label: Breast, NOS
-  id: icdot:C50_9
+- term: Medullary carcinoma, NOS
+  term_id: icdom:8510_3
+- term: Breast, NOS
+  term_id: icdot:C50_9

@@ -1,11 +1,10 @@
 equivalents:
-- label: ''
-  id: 'ncit:'
-- id: seer:35011
+- term: Precursor B Lymphoblastic Leukemia
+  term_id: ncit:C8644
 examples:
-- label: pro-B Acute Lymphoblastic Leukemia
+- labels: B-cell precursor acute lymphoblastic leukaemia
 input:
-- label: Precursor B-cell lymphoblastic leukemia
-  id: icdom:9836_3
-- label: Hematopoietic system, NOS
-  id: icdot:C42_4
+- term: Precursor B-cell lymphoblastic leukemia
+  term_id: icdom:9836_3
+- term: Hematopoietic system, NOS
+  term_id: icdot:C42_4

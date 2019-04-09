@@ -1,11 +1,10 @@
 equivalents:
-- label: Hemangioblastoma
-  id: ncit:C3801
-- id: seer:31010
+- term: Hemangioblastoma
+  term_id: ncit:C3801
 examples:
-- label: hemangioblastoma [sporadic]
+- labels: hemangioblastoma [sporadic]
 input:
-- label: Hemangioblastoma
-  id: icdom:9161_1
-- label: cerebellum
-  id: icdot:C71_6
+- term: Hemangioblastoma
+  term_id: icdom:9161_1
+- term: Cerebellum
+  term_id: icdot:C71_6

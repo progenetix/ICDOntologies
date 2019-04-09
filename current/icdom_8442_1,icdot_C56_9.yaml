@@ -1,11 +1,10 @@
 equivalents:
-- label: ''
-  id: 'ncit:'
-- id: seer:27040
+- term: Borderline Ovarian Serous Tumor
+  term_id: ncit:C5226
 examples:
-- label: Adenofibroma, NOS
+- labels: low grade serous ovarian tumour
 input:
-- label: Serous cystadenoma, borderline malignancy
-  id: icdom:8442_1
-- label: ovary
-  id: icdot:C56_9
+- term: Serous cystadenoma, borderline malignancy
+  term_id: icdom:8442_1
+- term: Ovary
+  term_id: icdot:C56_9

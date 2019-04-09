@@ -1,11 +1,10 @@
 equivalents:
-- label: ''
-  id: 'ncit:'
-- id: seer:20050
+- term: Oral Cavity Squamous Cell Carcinoma
+  term_id: ncit:C4833
 examples:
-- label: Premalignant oral epithelium [cell line]
+- labels: oral leukoplakia
 input:
-- label: None
-  id: icdom:8070_1
-- label: mouth, NOS
-  id: icdot:C06_9
+- term: None
+  term_id: icdom:8070_1
+- term: Mouth, NOS
+  term_id: icdot:C06_9

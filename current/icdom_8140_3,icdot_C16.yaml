@@ -1,11 +1,10 @@
 equivalents:
-- label: Duodenal adenocarcinoma
-  id: ncit:C7889
-- id: seer:21020
+- term: Gastric Adenocarcinoma
+  term_id: ncit:C4004
 examples:
-- label: Duodenal adenocarcinoma [cell line AZ-521]
+- labels: gastric cancer [stem cell]
 input:
-- label: Adenocarcinoma, NOS
-  id: icdom:8140_3
-- label: stomach
-  id: icdot:C16
+- term: Adenocarcinoma, NOS
+  term_id: icdom:8140_3
+- term: Stomach
+  term_id: icdot:C16

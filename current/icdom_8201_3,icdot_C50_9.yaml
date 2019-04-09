@@ -1,11 +1,10 @@
 equivalents:
-- label: None
-  id: ncit:C3680
-- id: seer:26000
+- term: Cribriform Carcinoma
+  term_id: ncit:C3680
 examples:
-- label: Ductal carcinoma
+- labels: Ductal carcinoma
 input:
-- label: Cribriform carcinoma, NOS
-  id: icdom:8201_3
-- label: Breast, NOS
-  id: icdot:C50_9
+- term: Cribriform carcinoma, NOS
+  term_id: icdom:8201_3
+- term: Breast, NOS
+  term_id: icdot:C50_9

@@ -1,11 +1,10 @@
 equivalents:
-- label: Chordoma
-  id: ncit:C2947
-- id: seer:23000
+- term: Chordoma
+  term_id: ncit:C2947
 examples:
-- label: Chordoma [Sacrum]
+- labels: Chordoma [Sacrum]
 input:
-- label: Chordoma, NOS
-  id: icdom:9370_3
-- label: bone, NOS
-  id: icdot:C41_9
+- term: Chordoma, NOS
+  term_id: icdom:9370_3
+- term: Bone, NOS
+  term_id: icdot:C41_9

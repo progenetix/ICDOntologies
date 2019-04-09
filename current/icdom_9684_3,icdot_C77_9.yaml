@@ -1,11 +1,10 @@
 equivalents:
-- label: Plasmablastic Lymphoma
-  id: ncit:C7224
-- id: seer:33041
+- term: Plasmablastic Lymphoma
+  term_id: ncit:C7224
 examples:
-- label: Diffuse large cell lymphoma [immunoblastic, nodal]
+- labels: Diffuse large cell lymphoma [immunoblastic, nodal]
 input:
-- label: Malignant lymphoma, large B-cell, diffuse, immunoblastic, NOS
-  id: icdom:9684_3
-- label: Lymph nodes, NOS
-  id: icdot:C77_9
+- term: Malignant lymphoma, large B-cell, diffuse, immunoblastic, NOS
+  term_id: icdom:9684_3
+- term: Lymph nodes, NOS
+  term_id: icdot:C77_9

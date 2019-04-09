@@ -1,11 +1,11 @@
 equivalents:
-- label: Adenocarcinoma
-  id: ncit:C2852
-- id: seer:21052
+- term: Adenocarcinoma
+  term_id: ncit:C2852
 examples:
-- label: Rectal tumor, history of colitis ulcerosa
+- labels: Rectal adenocarcinoma with choriocarcinomatous differentiation [adenocarcinomatous
+    part]
 input:
-- label: Adenocarcinoma, NOS
-  id: icdom:8140_3
-- label: Rectum, NOS
-  id: icdot:C20_9
+- term: Adenocarcinoma, NOS
+  term_id: icdom:8140_3
+- term: Rectum, NOS
+  term_id: icdot:C20_9

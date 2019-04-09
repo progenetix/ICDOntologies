@@ -1,11 +1,10 @@
 equivalents:
-- label: Paraganglioma
-  id: ncit:C3308
-- id: seer:31040
+- term: Paraganglioma
+  term_id: ncit:C3308
 examples:
-- label: Paraganglioma
+- labels: Paraganglioma
 input:
-- label: Paraganglioma, NOS
-  id: icdom:8680_1
-- label: Nervous system, NOS
-  id: icdot:C72_9
+- term: Paraganglioma, NOS
+  term_id: icdom:8680_1
+- term: Nervous system, NOS
+  term_id: icdot:C72_9

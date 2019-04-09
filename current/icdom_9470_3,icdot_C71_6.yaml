@@ -1,11 +1,10 @@
 equivalents:
-- label: Medulloblastoma
-  id: ncit:C3222
-- id: seer:31010
+- term: Medulloblastoma
+  term_id: ncit:C3222
 examples:
-- label: pediatric medulloblastoma
+- labels: medullomyoblastoma
 input:
-- label: Medulloblastoma, NOS
-  id: icdom:9470_3
-- label: cerebellum
-  id: icdot:C71_6
+- term: Medulloblastoma, NOS
+  term_id: icdom:9470_3
+- term: Cerebellum
+  term_id: icdot:C71_6

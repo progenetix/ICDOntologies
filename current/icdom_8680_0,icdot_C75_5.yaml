@@ -1,0 +1,10 @@
+equivalents:
+- term: Benign Adrenal Gland Pheochromocytoma
+  term_id: ncit:C48305
+examples:
+- labels: Paraganglioma, benign
+input:
+- term: Paraganglioma, benign
+  term_id: icdom:8680_0
+- term: Aortic body and other paraganglia
+  term_id: icdot:C75_5

@@ -1,11 +1,10 @@
 equivalents:
-- label: None
-  id: ncit:C3716
-- id: seer:24000
+- term: Peripheral Primitive Neuroectodermal Tumor
+  term_id: ncit:C9341
 examples:
-- label: Neuroepithelioma
+- labels: Neuroepithelioma
 input:
-- label: Neuroepithelioma, NOS
-  id: icdom:9503_3
-- label: connective and soft tissue, NOS
-  id: icdot:C49_9
+- term: Neuroepithelioma, NOS
+  term_id: icdom:9503_3
+- term: Connective and soft tissue, NOS
+  term_id: icdot:C49_9

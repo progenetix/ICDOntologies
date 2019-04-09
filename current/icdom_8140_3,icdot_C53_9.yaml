@@ -1,0 +1,10 @@
+equivalents:
+- term: Human papillomavirus-related endocervical adenocarcinoma
+  term_id: ncit:C27677
+examples:
+- labels: Cervix adenocarcinoma [cell line HeLa]
+input:
+- term: Adenocarcinoma, NOS
+  term_id: icdom:8140_3
+- term: Cervix uteri
+  term_id: icdot:C53_9

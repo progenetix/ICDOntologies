@@ -1,11 +1,10 @@
 equivalents:
-- label: Chondroblastoma
-  id: ncit:C2945
-- id: seer:23000
+- term: Chondroblastoma
+  term_id: ncit:C2945
 examples:
-- label: chondroblastoma
+- labels: chondroblastoma
 input:
-- label: Chondroblastoma, NOS
-  id: icdom:9230_0
-- label: bone, NOS
-  id: icdot:C41_9
+- term: Chondroblastoma, NOS
+  term_id: icdom:9230_0
+- term: Bone, NOS
+  term_id: icdot:C41_9

@@ -1,0 +1,10 @@
+equivalents:
+- term: Ovarian Endometrioid Adenocarcinoma
+  term_id: ncit:C7979
+examples:
+- labels: Endometrioid ovarian tumor
+input:
+- term: Endometroid adenoma, NOS
+  term_id: icdom:8380_0
+- term: Ovary
+  term_id: icdot:C56_9

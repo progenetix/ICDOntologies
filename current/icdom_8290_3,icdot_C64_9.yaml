@@ -1,11 +1,10 @@
 equivalents:
-- label: Kidney Oncocytoma
-  id: ncit:C4526
-- id: seer:29020
+- term: Kidney Oncocytoma
+  term_id: ncit:C4526
 examples:
-- label: Renal oncocytoma
+- labels: Renal oncocytoma
 input:
-- label: Oxyphilic adenocarcinoma
-  id: icdom:8290_3
-- label: kidney
-  id: icdot:C64_9
+- term: Oxyphilic adenocarcinoma
+  term_id: icdom:8290_3
+- term: Kidney
+  term_id: icdot:C64_9

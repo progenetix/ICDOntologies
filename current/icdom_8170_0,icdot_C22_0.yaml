@@ -1,11 +1,10 @@
 equivalents:
-- label: Hepatocellular Adenoma
-  id: ncit:C3758
-- id: seer:21071
+- term: Hepatocellular Adenoma
+  term_id: ncit:C3758
 examples:
-- label: Hepatocellular adenoma
+- labels: Hepatocellular adenoma
 input:
-- label: Liver cell adenoma
-  id: icdom:8170_0
-- label: Liver
-  id: icdot:C22_0
+- term: Liver cell adenoma
+  term_id: icdom:8170_0
+- term: Liver
+  term_id: icdot:C22_0

@@ -1,11 +1,10 @@
 equivalents:
-- label: None
-  id: ncit:C4264
-- id: seer:29020
+- term: Clear Cell Sarcoma of the Kidney
+  term_id: ncit:C4264
 examples:
-- label: Clear cell sarcoma of kidney
+- labels: Clear cell sarcoma of kidney
 input:
-- label: Clear cell sarcoma of kidney
-  id: icdom:8964_3
-- label: kidney
-  id: icdot:C64_9
+- term: Clear cell sarcoma of kidney
+  term_id: icdom:8964_3
+- term: Kidney
+  term_id: icdot:C64_9

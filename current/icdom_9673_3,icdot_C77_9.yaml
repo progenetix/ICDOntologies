@@ -1,11 +1,10 @@
 equivalents:
-- label: Mantle Cell Lymphoma
-  id: ncit:C4337
-- id: seer:33041
+- term: Mantle Cell Lymphoma
+  term_id: ncit:C4337
 examples:
-- label: Mantle cell lymphoma [t(11;14) positive]
+- labels: Mantle cell lymphoma [t(11;14) positive]
 input:
-- label: Mantle cell lymphoma
-  id: icdom:9673_3
-- label: Lymph nodes, NOS
-  id: icdot:C77_9
+- term: Mantle cell lymphoma
+  term_id: icdom:9673_3
+- term: Lymph nodes, NOS
+  term_id: icdot:C77_9

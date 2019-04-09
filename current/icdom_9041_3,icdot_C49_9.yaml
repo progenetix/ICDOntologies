@@ -1,11 +1,10 @@
 equivalents:
-- label: ''
-  id: 'ncit:'
-- id: seer:24000
+- term: Monophasic synovial sarcoma
+  term_id: ncit:C6534
 examples:
-- label: Synovial sarcoma, monophasic
+- labels: Monophasic synovial sarcoma [cell line HS-SY-2]
 input:
-- label: Synovial sarcoma, spindle cell
-  id: icdom:9041_3
-- label: connective and soft tissue, NOS
-  id: icdot:C49_9
+- term: Synovial sarcoma, spindle cell
+  term_id: icdom:9041_3
+- term: Connective and soft tissue, NOS
+  term_id: icdot:C49_9

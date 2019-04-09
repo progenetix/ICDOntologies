@@ -1,11 +1,10 @@
 equivalents:
-- label: ''
-  id: 'ncit:'
-- id: seer:37000
+- term: Actinic (Solar) Keratosis
+  term_id: ncit:C3148
 examples:
-- label: Solar keratosis
+- labels: Actinic keratosis
 input:
-- label: None
-  id: icdom:8071_0
-- label: Skin, NOS
-  id: icdot:C44_9
+- term: None
+  term_id: icdom:8071_0
+- term: Skin, NOS
+  term_id: icdot:C44_9

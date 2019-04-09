@@ -1,11 +1,10 @@
 equivalents:
-- label: Diffuse Astrocytoma
-  id: ncit:C7173
-- id: seer:31010
+- term: Diffuse Astrocytoma
+  term_id: ncit:C7173
 examples:
-- label: Low-grade Astrocytoma
+- labels: Low-grade Astrocytoma
 input:
-- label: Astrocytoma, NOS
-  id: icdom:9400_3
-- label: brain stem
-  id: icdot:C71_7
+- term: Astrocytoma, NOS
+  term_id: icdom:9400_3
+- term: Brain stem
+  term_id: icdot:C71_7

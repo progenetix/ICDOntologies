@@ -1,11 +1,10 @@
 equivalents:
-- label: Melanoma
-  id: ncit:C3224
-- id: seer:30000
+- term: Melanoma
+  term_id: ncit:C3224
 examples:
-- label: Malgnant melanoma [conjunctiva]
+- labels: Choroidal melanoma
 input:
-- label: Malignant melanoma, NOS
-  id: icdom:8720_3
-- label: eye, nos
-  id: icdot:C69_9
+- term: Malignant melanoma, NOS
+  term_id: icdom:8720_3
+- term: Eye, NOS
+  term_id: icdot:C69_9

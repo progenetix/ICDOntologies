@@ -1,0 +1,10 @@
+equivalents:
+- term: Lymphoma
+  term_id: ncit:C3208
+examples:
+- labels: Primary Testicular Lympphoma
+input:
+- term: Malignant lymphoma, NOS
+  term_id: icdom:9590_3
+- term: Testis, NOS
+  term_id: icdot:C62_9

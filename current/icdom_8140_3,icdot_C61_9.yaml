@@ -1,11 +1,10 @@
 equivalents:
-- label: Adenocarcinoma
-  id: ncit:C2852
-- id: seer:28010
+- term: Adenocarcinoma
+  term_id: ncit:C2852
 examples:
-- label: Tumor cells [cell line]
+- labels: Tumor cells [cell line]
 input:
-- label: Adenocarcinoma, NOS
-  id: icdom:8140_3
-- label: prostate gland
-  id: icdot:C61_9
+- term: Adenocarcinoma, NOS
+  term_id: icdom:8140_3
+- term: Prostate gland
+  term_id: icdot:C61_9

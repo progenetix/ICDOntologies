@@ -1,11 +1,10 @@
 equivalents:
-- label: Gliomatosis Cerebri
-  id: ncit:C4318
-- id: seer:31010
+- term: Gliomatosis Cerebri
+  term_id: ncit:C4318
 examples:
-- label: gliomatosis cerebri [infratentorial]
+- labels: gliomatosis cerebri [infratentorial]
 input:
-- label: Gliomatosis cerebri
-  id: icdom:9381_3
-- label: cerebellum
-  id: icdot:C71_6
+- term: Gliomatosis cerebri
+  term_id: icdom:9381_3
+- term: Cerebellum
+  term_id: icdot:C71_6

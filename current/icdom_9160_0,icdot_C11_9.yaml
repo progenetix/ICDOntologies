@@ -1,11 +1,10 @@
 equivalents:
-- label: Angiofibroma
-  id: ncit:C3799
-- id: seer:20060
+- term: Angiofibroma
+  term_id: ncit:C3799
 examples:
-- label: Juvenile nasopharyngeal angiofibroma [Fischl class. II]
+- labels: Juvenile nasopharyngeal angiofibroma [Fischl class. II]
 input:
-- label: Angiofibroma, NOS
-  id: icdom:9160_0
-- label: nasopharynx
-  id: icdot:C11_9
+- term: Angiofibroma, NOS
+  term_id: icdom:9160_0
+- term: Nasopharynx
+  term_id: icdot:C11_9
