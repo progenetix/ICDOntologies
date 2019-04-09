@@ -4,21 +4,22 @@ from pyexcel_ods import get_data
 
 # TODO: input file specification
 
-data = get_data("manual_mapping.ods")
+data = get_data("arrayMap&progenetix_maps.ods")
 table = data['Sheet1']
 
 import yaml
 for i in range(0, len(table)):
 
     try:
-        diagnosis = table[i][0]
-        icdom_c = 'icdom:'+(table[i][1]).replace("/","_")
-        icdom = table[i][2]
-        icdot_c = 'icdot:'+(table[i][3]).replace(".","_")
-        icdot = table[i][4]
-        seer = 'seer:'+ str(table[i][5])
-        ncit = table[i][6]
-        ncit_c = 'ncit:'+table[i][7]
+        diagnosis = table[i][1]
+        icdom_c = 'icdom:'+(table[i][2]).replace("/","_")
+        icdom = table[i][3]
+        icdot_c = 'icdot:'+(table[i][4]).replace(".","_")
+        icdot = table[i][5]
+        #seer = 'seer:'+ str(table[i][8])
+        ncit_c = 'ncit:'+table[i][6]
+        ncit = table[i][7]
+
 
         mapping = {
             'input':[
@@ -35,9 +36,6 @@ for i in range(0, len(table)):
                 {
                     'term_id' : ncit_c,
                     'term' : ncit
-                },
-                {
-                    'term_id' : seer
                 }
             ],
 
