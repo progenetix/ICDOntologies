@@ -4,7 +4,7 @@ equivalents:
 examples:
 - labels: Granular cell tumor
 input:
-- term: Granular cell tumor of the sellar region
-  term_id: icdom:9582_0
+- term: Granular cell tumor, NOS
+  term_id: icdom:9580_0
 - term: Ovary
   term_id: icdot:C56_9
