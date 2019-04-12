@@ -6,5 +6,5 @@ examples:
 input:
 - term: Olfactory neuroblastoma
   term_id: icdom:9522_3
-- term: Brain, NOS
-  term_id: icdot:C71_9
+- term: Nasal cavity
+  term_id: icdot:C30_0
