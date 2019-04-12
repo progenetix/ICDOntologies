@@ -6,5 +6,5 @@ examples:
 input:
 - term: Endometrial stromal sarcoma, low grade
   term_id: icdom:8931_3
-- term: Uterus, NOS
-  term_id: icdot:C55_9
+- term: Endometrium
+  term_id: icdot:C54_1
