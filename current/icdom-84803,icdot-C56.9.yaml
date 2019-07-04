@@ -1,0 +1,10 @@
+equivalents:
+- label: Ovarian Mucinous Adenocarcinoma
+  id: ncit:C5243
+examples:
+- labels: Mucinous ovarian tumor
+input:
+- label: Mucinous adenocarcinoma
+  id: icdom-84803
+- label: Ovary
+  id: icdot-C56.9

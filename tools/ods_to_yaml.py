@@ -12,9 +12,9 @@ for i in range(0, len(table)):
 
     try:
         diagnosis = table[i][1]
-        icdom_c = 'icdom:'+(table[i][2]).replace("/","_")
+        icdom_c = 'icdom-'+(table[i][2]).replace("/","")
         icdom = table[i][3]
-        icdot_c = 'icdot:'+(table[i][4]).replace(".","_")
+        icdot_c = 'icdot-'+(table[i][4])
         icdot = table[i][5]
         #seer = 'seer:'+ str(table[i][8])
         ncit_c = 'ncit:'+table[i][6]
@@ -46,7 +46,7 @@ for i in range(0, len(table)):
             ]
         }
 
-        with open((icdom_c).replace("/","_").replace(":","_") +','+ ((icdot_c).replace("/","_").replace(":","_")) +'.yaml','w') as outfile:
+        with open(icdom_c +','+ icdot_c +'.yaml','w') as outfile:
             yaml.safe_dump(mapping, outfile, default_flow_style=False)
 
     except:

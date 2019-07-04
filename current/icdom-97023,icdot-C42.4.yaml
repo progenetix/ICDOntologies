@@ -1,0 +1,10 @@
+equivalents:
+- label: T-Zone Variant Peripheral T-Cell Lymphoma
+  id: ncit:C7204
+examples:
+- labels: non-Hodgkins Lymphoma [T-cell]
+input:
+- label: Mature T-cell lymphoma, NOS
+  id: icdom-97023
+- label: Hematopoietic system, NOS
+  id: icdot-C42.4

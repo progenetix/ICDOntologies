@@ -1,0 +1,10 @@
+equivalents:
+- label: Pleuropulmonary Blastoma
+  id: ncit:C5669
+examples:
+- labels: pleuropulmonary blastoma
+input:
+- label: Pleuropulmonary blastoma
+  id: icdom-89733
+- label: Lung and bronchus
+  id: icdot-C34.9

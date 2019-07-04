@@ -1,0 +1,10 @@
+equivalents:
+- label: Alveolar Soft Part Sarcoma
+  id: ncit:C3750
+examples:
+- labels: Alveolar soft part sarcoma
+input:
+- label: Alveolar soft part sarcoma
+  id: icdom-95813
+- label: Connective and soft tissue, NOS
+  id: icdot-C49.9

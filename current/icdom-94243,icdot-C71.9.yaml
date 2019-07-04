@@ -1,0 +1,10 @@
+equivalents:
+- label: Pleomorphic Xanthoastrocytoma
+  id: ncit:C4323
+examples:
+- labels: Anaplastic pleomorphic xanthoastrocytoma
+input:
+- label: Pleomorphic xanthoastrocytoma
+  id: icdom-94243
+- label: Brain, NOS
+  id: icdot-C71.9

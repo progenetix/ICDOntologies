@@ -1,0 +1,10 @@
+equivalents:
+- label: Mycosis Fungoides
+  id: ncit:C3246
+examples:
+- labels: mycosis fungoides [tumor stage]
+input:
+- label: Mycosis fungoides
+  id: icdom-97003
+- label: Skin, NOS
+  id: icdot-C44.9

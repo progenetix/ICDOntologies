@@ -1,0 +1,11 @@
+equivalents:
+- label: Adenocarcinoma
+  id: ncit:C2852
+examples:
+- labels: Pulmonary adenocarcinoma [Mixed AC, papillary, tubular, bronchioloalveolar,
+    solid, mucinous, CGH in adenocarcinomacomponent]
+input:
+- label: Adenocarcinoma, NOS
+  id: icdom-81403
+- label: Lung and bronchus
+  id: icdot-C34.9

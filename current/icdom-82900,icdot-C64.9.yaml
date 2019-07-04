@@ -1,0 +1,10 @@
+equivalents:
+- label: Oncocytic Adenoma
+  id: ncit:C3759
+examples:
+- labels: Oncocytoma
+input:
+- label: Oxyphilic adenoma
+  id: icdom-82900
+- label: Kidney
+  id: icdot-C64.9

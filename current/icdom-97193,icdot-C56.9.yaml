@@ -1,0 +1,10 @@
+equivalents:
+- label: Nasal Type Extranodal NK/T-Cell Lymphoma
+  id: ncit:C4684
+examples:
+- labels: Natural Killer Cell Lymphoma [nasal, relapse in ovary]
+input:
+- label: NK/T-cell lymphoma, nasal and nasal-type
+  id: icdom-97193
+- label: Ovary
+  id: icdot-C56.9

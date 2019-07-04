@@ -1,0 +1,10 @@
+equivalents:
+- label: Mantle Cell Lymphoma
+  id: ncit:C4337
+examples:
+- labels: Mantle cell lymphoma [t(11;14) positive]
+input:
+- label: Mantle cell lymphoma
+  id: icdom-96733
+- label: Lymph nodes, NOS
+  id: icdot-C77.9

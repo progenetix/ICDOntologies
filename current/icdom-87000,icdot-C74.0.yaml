@@ -1,0 +1,10 @@
+equivalents:
+- label: Adrenal Gland Pheochromocytoma
+  id: ncit:C3326
+examples:
+- labels: Pheochromocytoma
+input:
+- label: Pheochromocytoma, NOS
+  id: icdom-87000
+- label: Adrenal cortex
+  id: icdot-C74.0

@@ -1,0 +1,10 @@
+equivalents:
+- label: Choroid Plexus Carcinoma
+  id: ncit:C4715
+examples:
+- labels: Choroid plexus carcinoma
+input:
+- label: Choroid plexus carcinoma
+  id: icdom-93903
+- label: Spinal cord
+  id: icdot-C72.0

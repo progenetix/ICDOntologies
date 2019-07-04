@@ -1,0 +1,10 @@
+equivalents:
+- label: Ganglioneuroblastoma
+  id: ncit:C3790
+examples:
+- labels: ganglioneuroblastoma
+input:
+- label: Ganglioneuroblastoma
+  id: icdom-94903
+- label: Nervous system, NOS
+  id: icdot-C72.9

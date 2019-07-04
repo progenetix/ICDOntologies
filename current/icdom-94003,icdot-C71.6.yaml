@@ -1,0 +1,10 @@
+equivalents:
+- label: Diffuse Astrocytoma
+  id: ncit:C7173
+examples:
+- labels: pilomyxoid astrocytoma [infratentorial]
+input:
+- label: Astrocytoma, NOS
+  id: icdom-94003
+- label: Cerebellum
+  id: icdot-C71.6

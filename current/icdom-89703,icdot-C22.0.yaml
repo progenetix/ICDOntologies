@@ -1,0 +1,10 @@
+equivalents:
+- label: Hepatoblastoma
+  id: ncit:C3728
+examples:
+- labels: Hepatoblastoma
+input:
+- label: hepatoblastoma
+  id: icdom-89703
+- label: Liver
+  id: icdot-C22.0

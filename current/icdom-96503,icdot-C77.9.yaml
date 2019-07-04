@@ -1,0 +1,10 @@
+equivalents:
+- label: Hodgkin Lymphoma
+  id: ncit:C9357
+examples:
+- labels: Classical Hodgkin lymphoma
+input:
+- label: Hodgkin lymphoma, NOS
+  id: icdom-96503
+- label: Lymph nodes, NOS
+  id: icdot-C77.9

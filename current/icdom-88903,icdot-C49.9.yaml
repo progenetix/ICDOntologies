@@ -1,0 +1,10 @@
+equivalents:
+- label: Leiomyosarcoma
+  id: ncit:C3158
+examples:
+- labels: Pleomorphic Leiomyosarcoma [grade III, primary]
+input:
+- label: Leiomyosarcoma, NOS
+  id: icdom-88903
+- label: Connective and soft tissue, NOS
+  id: icdot-C49.9

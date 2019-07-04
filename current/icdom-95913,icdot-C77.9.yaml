@@ -1,0 +1,10 @@
+equivalents:
+- label: Non-Hodgkin Lymphoma
+  id: ncit:C3211
+examples:
+- labels: Malignant lymphoma, B-cell NOS
+input:
+- label: Malignant lymphoma, non-Hodgkin, NOS
+  id: icdom-95913
+- label: Lymph nodes, NOS
+  id: icdot-C77.9

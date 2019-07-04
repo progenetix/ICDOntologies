@@ -1,0 +1,10 @@
+equivalents:
+- label: Ovarian adenocarcinoma
+  id: ncit:C7700
+examples:
+- labels: Ovarian adenocarcinoma [cell line CAOV-1]
+input:
+- label: Adenocarcinoma, NOS
+  id: icdom-81403
+- label: Ovary
+  id: icdot-C56.9

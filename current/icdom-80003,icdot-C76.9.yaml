@@ -1,0 +1,10 @@
+equivalents:
+- label: Carcinoma of Unknown Primary
+  id: ncit:C3812
+examples:
+- labels: cancers of unknown primary
+input:
+- label: Neoplasm, malignant
+  id: icdom-80003
+- label: Ill-defined
+  id: icdot-C76.9

@@ -1,0 +1,10 @@
+equivalents:
+- label: Clear Cell Sarcoma of the Kidney
+  id: ncit:C4264
+examples:
+- labels: Clear cell sarcoma of kidney
+input:
+- label: Clear cell sarcoma of kidney
+  id: icdom-89643
+- label: Kidney
+  id: icdot-C64.9

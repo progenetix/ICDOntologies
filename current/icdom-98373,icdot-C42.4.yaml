@@ -1,0 +1,10 @@
+equivalents:
+- label: Childhood T acute lymphoblastic leukemia
+  id: ncit:C7953
+examples:
+- labels: T acute lymphoblastic leukemia [cell line J.gamma1]
+input:
+- label: Precursor T-cell lymphoblastic leukemia
+  id: icdom-98373
+- label: Hematopoietic system, NOS
+  id: icdot-C42.4

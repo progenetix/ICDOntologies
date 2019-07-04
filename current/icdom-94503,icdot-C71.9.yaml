@@ -1,0 +1,10 @@
+equivalents:
+- label: Oligodendroglioma
+  id: ncit:C3288
+examples:
+- labels: Grade II oligodendroglioma
+input:
+- label: Oligodendroglioma, NOS
+  id: icdom-94503
+- label: Brain, NOS
+  id: icdot-C71.9

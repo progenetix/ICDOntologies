@@ -1,0 +1,10 @@
+equivalents:
+- label: Melanoma
+  id: ncit:C3224
+examples:
+- labels: Choroidal melanoma
+input:
+- label: Malignant melanoma, NOS
+  id: icdom-87203
+- label: Eye, NOS
+  id: icdot-C69.9

@@ -1,0 +1,10 @@
+equivalents:
+- label: Clear Cell Renal Cell Carcinoma
+  id: ncit:C4033
+examples:
+- labels: Renal carcinoma, clear cell [T2N0M0, G2, microsatellite alterations]
+input:
+- label: Renal cell carcinoma, NOS
+  id: icdom-83123
+- label: Kidney
+  id: icdot-C64.9

@@ -1,0 +1,10 @@
+equivalents:
+- label: Ganglioneuroma
+  id: ncit:C3049
+examples:
+- labels: Ganglioneuroma [Abdominal]
+input:
+- label: Ganglioneuroma
+  id: icdom-94900
+- label: Nervous system, NOS
+  id: icdot-C72.9

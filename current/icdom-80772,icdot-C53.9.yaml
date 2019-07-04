@@ -1,0 +1,10 @@
+equivalents:
+- label: High Grade Squamous Intraepithelial Neoplasia
+  id: ncit:C8336
+examples:
+- labels: Squamous intraepithelial neoplasia, grade III
+input:
+- label: Squamous intraepithelial neoplasia, grade III
+  id: icdom-80772
+- label: Cervix uteri
+  id: icdot-C53.9

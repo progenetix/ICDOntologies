@@ -1,0 +1,10 @@
+equivalents:
+- label: Myofibroblastoma
+  id: ncit:C49012
+examples:
+- labels: Myofibroblastoma
+input:
+- label: Myofibroblastoma
+  id: icdom-88250
+- label: Connective and soft tissue, NOS
+  id: icdot-C49.9

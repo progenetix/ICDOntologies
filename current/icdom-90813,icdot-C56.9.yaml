@@ -1,0 +1,10 @@
+equivalents:
+- label: Ovarian mixed germ cell tumor
+  id: ncit:C8814
+examples:
+- labels: Ovarian germ cell tumor [cell line PA-1]
+input:
+- label: Teratocarcinoma
+  id: icdom-90813
+- label: Ovary
+  id: icdot-C56.9

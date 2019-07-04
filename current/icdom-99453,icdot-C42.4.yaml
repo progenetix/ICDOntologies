@@ -1,0 +1,10 @@
+equivalents:
+- label: Chronic Myelomonocytic Leukemia
+  id: ncit:C3178
+examples:
+- labels: Chronic myelomonocytic leukemia
+input:
+- label: Chronic myelomonocytic leukemia, NOS
+  id: icdom-99453
+- label: Hematopoietic system, NOS
+  id: icdot-C42.4

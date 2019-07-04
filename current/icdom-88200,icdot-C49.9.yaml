@@ -1,0 +1,10 @@
+equivalents:
+- label: Elastofibroma
+  id: ncit:C4245
+examples:
+- labels: Elastofibroma
+input:
+- label: Elastofibroma
+  id: icdom-88200
+- label: Connective and soft tissue, NOS
+  id: icdot-C49.9

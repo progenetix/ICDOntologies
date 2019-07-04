@@ -1,0 +1,11 @@
+equivalents:
+- label: Diffuse Gastric Adenocarcinoma
+  id: ncit:C9159
+examples:
+- labels: ' Diffuse adenocarcinoma [poorly differentiated, Lymph node and pancreatic
+    metastasis]'
+input:
+- label: Carcubinam diffuse type
+  id: icdom-81453
+- label: Stomach, NOS
+  id: icdot-C16.9

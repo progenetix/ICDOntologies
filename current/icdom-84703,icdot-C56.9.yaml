@@ -1,0 +1,10 @@
+equivalents:
+- label: Serous Cystadenocarcinoma
+  id: ncit:C3776
+examples:
+- labels: Mucinous cystadenocarcinoma
+input:
+- label: Mucinous cystadenocarcinoma, NOS
+  id: icdom-84703
+- label: Ovary
+  id: icdot-C56.9

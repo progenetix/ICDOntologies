@@ -1,0 +1,10 @@
+equivalents:
+- label: Thyroid Gland Papillary Carcinoma
+  id: ncit:C4035
+examples:
+- labels: Papillary serous adenocarcinoma
+input:
+- label: Papillary adenocarcinoma, NOS
+  id: icdom-82603
+- label: Ovary
+  id: icdot-C56.9

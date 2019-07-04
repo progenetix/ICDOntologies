@@ -1,0 +1,11 @@
+equivalents:
+- label: Tubular Adenocarcinoma
+  id: ncit:C65192
+examples:
+- labels: Adenocarcinoma [breast, BRCAX - familial, Tubular partial cribriform, grade
+    II G1 [van Nuys], T3N1]
+input:
+- label: Tubular adenocarcinoma
+  id: icdom-82113
+- label: Breast, NOS
+  id: icdot-C50.9

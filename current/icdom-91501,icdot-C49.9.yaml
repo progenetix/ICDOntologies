@@ -1,0 +1,10 @@
+equivalents:
+- label: Hemangiopericytoma
+  id: ncit:C3087
+examples:
+- labels: hemangiopericytoma
+input:
+- label: Hemangiopericytoma, NOS
+  id: icdom-91501
+- label: Connective and soft tissue, NOS
+  id: icdot-C49.9

@@ -1,0 +1,10 @@
+equivalents:
+- label: Malignant giant cell tumor of bone
+  id: ncit:C4304
+examples:
+- labels: Giant cell sarcoma [cell line Hs 737.T]
+input:
+- label: Giant cell sarcoma
+  id: icdom-88023
+- label: Connective and soft tissue, NOS
+  id: icdot-C49.9

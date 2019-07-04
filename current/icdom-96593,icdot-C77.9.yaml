@@ -1,0 +1,10 @@
+equivalents:
+- label: THRLBCL-Like Transformation of NLPHL
+  id: ncit:C139030
+examples:
+- labels: 'Hodgkin lymphoma, nodular lymphocyte predominant '
+input:
+- label: Hodgkin lymphoma, nodular lymphocyte predominance
+  id: icdom-96593
+- label: Lymph node, NOS
+  id: icdot-C77.9

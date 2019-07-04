@@ -1,0 +1,10 @@
+equivalents:
+- label: Large Cell Medulloblastoma
+  id: ncit:C6904
+examples:
+- labels: Large cell medulloblastoma
+input:
+- label: Large cell medulloblastoma
+  id: icdom-94743
+- label: Cerebellum
+  id: icdot-C71.6

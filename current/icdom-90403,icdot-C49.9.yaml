@@ -1,0 +1,10 @@
+equivalents:
+- label: Synovial Sarcoma
+  id: ncit:C3400
+examples:
+- labels: poorly differentiated synovial sarcoma
+input:
+- label: Synovial sarcoma, NOS
+  id: icdom-90403
+- label: Connective and soft tissue, NOS
+  id: icdot-C49.9

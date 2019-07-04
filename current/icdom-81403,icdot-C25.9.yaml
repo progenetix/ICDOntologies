@@ -1,0 +1,10 @@
+equivalents:
+- label: Adenocarcinoma
+  id: ncit:C2852
+examples:
+- labels: pancreas ductal adenocarcinoma [cell line Cfpac1, liver metastasis]
+input:
+- label: Adenocarcinoma, NOS
+  id: icdom-81403
+- label: Pancreas, NOS
+  id: icdot-C25.9

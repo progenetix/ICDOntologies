@@ -1,0 +1,10 @@
+equivalents:
+- label: Atypical Teratoid/Rhabdoid Tumor
+  id: ncit:C6906
+examples:
+- labels: atypical teratoid/rhabdoid tumour [infratentorial]
+input:
+- label: Atypical teratoid/rhabdoid tumor
+  id: icdom-95083
+- label: Cerebellum
+  id: icdot-C71.6

@@ -1,0 +1,10 @@
+equivalents:
+- label: Retinoblastoma
+  id: ncit:C7541
+examples:
+- labels: Retinoblastoma
+input:
+- label: Retinoblastoma, NOS
+  id: icdom-95103
+- label: Retina
+  id: icdot-C69.2

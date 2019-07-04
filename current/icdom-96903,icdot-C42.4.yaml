@@ -1,0 +1,10 @@
+equivalents:
+- label: Follicular Lymphoma
+  id: ncit:C3209
+examples:
+- labels: Follicular lymphoma partial infiltration
+input:
+- label: Follicular lymphoma, NOS
+  id: icdom-96903
+- label: Hematopoietic system, NOS
+  id: icdot-C42.4

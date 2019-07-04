@@ -1,0 +1,10 @@
+equivalents:
+- label: Adenocarcinoma
+  id: ncit:C2852
+examples:
+- labels: Tumor cells [cell line]
+input:
+- label: Adenocarcinoma, NOS
+  id: icdom-81403
+- label: Prostate gland
+  id: icdot-C61.9

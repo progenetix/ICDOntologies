@@ -1,0 +1,10 @@
+equivalents:
+- label: Acute Erythroid Leukemia
+  id: ncit:C8923
+examples:
+- labels: Acute erythroid leukemia [FAB M6, refractory]
+input:
+- label: Acute myeloid leukemia, M6 type
+  id: icdom-98403
+- label: Hematopoietic system, NOS
+  id: icdot-C42.4

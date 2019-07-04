@@ -1,0 +1,10 @@
+equivalents:
+- label: Duodenal adenocarcinoma
+  id: ncit:C7889
+examples:
+- labels: Duodenal adenocarcinoma [cell line AZ-521]
+input:
+- label: Adenocarcinoma, NOS
+  id: icdom-81403
+- label: Stomach
+  id: icdot-C16.9

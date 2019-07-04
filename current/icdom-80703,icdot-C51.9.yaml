@@ -1,0 +1,10 @@
+equivalents:
+- label: Squamous Cell Carcinoma
+  id: ncit:C2929
+examples:
+- labels: squamous cell carcinomas [HPVpos]
+input:
+- label: Squamous cell carcinoma, NOS
+  id: icdom-80703
+- label: Vulva, NOS
+  id: icdot-C51.9

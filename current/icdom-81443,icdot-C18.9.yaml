@@ -1,0 +1,10 @@
+equivalents:
+- label: Colon Adenocarcinoma
+  id: ncit:C4349
+examples:
+- labels: colorectal carcinoma [left, well differentiated]
+input:
+- label: Adenocarcinoma, intestinal type
+  id: icdom-81443
+- label: Colon, NOS
+  id: icdot-C18.9

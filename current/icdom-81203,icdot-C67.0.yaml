@@ -1,0 +1,10 @@
+equivalents:
+- label: Transitional Cell Carcinoma
+  id: ncit:C2930
+examples:
+- labels: urothelial tumor [stage pT3a, G3]
+input:
+- label: Transitional cell carcinoma, NOS
+  id: icdom-81203
+- label: Urinary bladder
+  id: icdot-C67.0

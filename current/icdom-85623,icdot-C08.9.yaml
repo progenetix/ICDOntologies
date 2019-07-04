@@ -1,0 +1,10 @@
+equivalents:
+- label: Salivary Gland Myoepithelial Carcinoma
+  id: ncit:C35700
+examples:
+- labels: salivary gland myoepitheliomas
+input:
+- label: Epithelial-myoepithelial carcinoma
+  id: icdom-85623
+- label: Salivary gland, NOS
+  id: icdot-C08.9

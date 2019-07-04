@@ -1,0 +1,10 @@
+equivalents:
+- label: Benign Adrenal Gland Pheochromocytoma
+  id: ncit:C48305
+examples:
+- labels: Paraganglioma, benign
+input:
+- label: Paraganglioma, benign
+  id: icdom-86800
+- label: Aortic body and other paraganglia
+  id: icdot-C75.5

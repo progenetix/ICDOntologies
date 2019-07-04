@@ -1,0 +1,10 @@
+equivalents:
+- label: Juxtaglomerular Cell Tumor
+  id: ncit:C4162
+examples:
+- labels: Juxtaglomerular cell tumors [JGCT, reninoma]
+input:
+- label: Juxtaglomerular tumor
+  id: icdom-83610
+- label: Kidney
+  id: icdot-C64.9

@@ -1,0 +1,10 @@
+equivalents:
+- label: Adenocarcinoma
+  id: ncit:C2852
+examples:
+- labels: adenomacarcinoma [colorectal]
+input:
+- label: Adenocarcinoma, NOS
+  id: icdom-81403
+- label: Large intestine, excl. Rectum and rectosigmoid junction
+  id: icdot-C18.9

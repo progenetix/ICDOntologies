@@ -1,0 +1,10 @@
+equivalents:
+- label: Adenoma
+  id: ncit:C2855
+examples:
+- labels: pituitary adenoma [gonadotroph cell adenoma]
+input:
+- label: Adenoma, NOS
+  id: icdom-81400
+- label: Pituitary gland
+  id: icdot-C75.1

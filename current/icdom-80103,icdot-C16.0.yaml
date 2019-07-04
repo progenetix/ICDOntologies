@@ -1,0 +1,10 @@
+equivalents:
+- label: Gastric Cardia Carcinoma
+  id: ncit:C6794
+examples:
+- labels: cardia cancer
+input:
+- label: Carcinoma, NOS
+  id: icdom-80103
+- label: Cardia, NOS
+  id: icdot-C16.0

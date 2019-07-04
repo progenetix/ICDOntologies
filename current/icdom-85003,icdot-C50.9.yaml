@@ -1,0 +1,10 @@
+equivalents:
+- label: Ductal Breast Carcinoma
+  id: ncit:C4017
+examples:
+- labels: Microinvasive DCIS, G3
+input:
+- label: Infiltrating duct carcinoma, NOS
+  id: icdom-85003
+- label: Breast, NOS
+  id: icdot-C50.9

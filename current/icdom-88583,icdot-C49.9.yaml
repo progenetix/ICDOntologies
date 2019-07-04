@@ -1,0 +1,10 @@
+equivalents:
+- label: Dedifferentiated Liposarcoma
+  id: ncit:C3704
+examples:
+- labels: Dedifferentiated liposarcoma
+input:
+- label: Dedifferentiated liposarcoma
+  id: icdom-88583
+- label: Connective and soft tissue, NOS
+  id: icdot-C49.9

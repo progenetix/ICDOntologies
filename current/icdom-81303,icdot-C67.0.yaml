@@ -1,0 +1,10 @@
+equivalents:
+- label: Papillary Transitional Cell Carcinoma
+  id: ncit:C4122
+examples:
+- labels: Papillary transitional cell carcinoma [low grade]
+input:
+- label: Papillary transitional cell carcinoma
+  id: icdom-81303
+- label: Urinary bladder
+  id: icdot-C67.0

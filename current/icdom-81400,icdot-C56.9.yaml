@@ -1,0 +1,10 @@
+equivalents:
+- label: Adenoma
+  id: ncit:C2855
+examples:
+- labels: Ovarian adenoma
+input:
+- label: Adenoma, NOS
+  id: icdom-81400
+- label: Ovary
+  id: icdot-C56.9

@@ -1,0 +1,10 @@
+equivalents:
+- label: Adenocarcinoma in Adenomatous Polyposis Coli
+  id: ncit:C4134
+examples:
+- labels: Familial adenomatous polyposis
+input:
+- label: Adenocarcinoma in adenomatous polyposis coli
+  id: icdom-82203
+- label: Large intestine, excl. Rectum and rectosigmoid junction
+  id: icdot-C18.9

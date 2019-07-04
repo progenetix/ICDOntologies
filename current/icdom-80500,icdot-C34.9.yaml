@@ -1,0 +1,10 @@
+equivalents:
+- label: Papilloma
+  id: ncit:C7440
+examples:
+- labels: flat ductal intraepithelial neoplasia
+input:
+- label: Papilloma, NOS
+  id: icdom-80500
+- label: Lung and bronchus
+  id: icdot-C34.9

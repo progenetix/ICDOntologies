@@ -1,0 +1,10 @@
+equivalents:
+- label: Epithelioid Mesothelioma
+  id: ncit:C7985
+examples:
+- labels: malignant mesothelioma
+input:
+- label: Epithelioid mesothelioma, malignant
+  id: icdom-90523
+- label: Connective and soft tissue, NOS
+  id: icdot-C49.9

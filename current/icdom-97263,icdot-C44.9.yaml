@@ -1,0 +1,10 @@
+equivalents:
+- label: Primary cutaneous gamma-delta-T-cell lymphoma
+  id: ncit:C45340
+examples:
+- labels: Primary cutaneous gamma-delta T-cell lymphoma
+input:
+- label: Primary cutaneous gamma-delta-T-cell lymphoma
+  id: icdom-97263
+- label: Skin, NOS
+  id: icdot-C44.9

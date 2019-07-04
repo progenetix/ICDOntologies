@@ -1,0 +1,10 @@
+equivalents:
+- label: Grade 2 Follicular Lymphoma
+  id: ncit:C8968
+examples:
+- labels: Follicular lymphoma, grade 2
+input:
+- label: Follicular lymphoma, grade 2
+  id: icdom-96913
+- label: Hematopoietic system, NOS
+  id: icdot-C42.4

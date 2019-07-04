@@ -1,0 +1,10 @@
+equivalents:
+- label: Carcinoma
+  id: ncit:C2916
+examples:
+- labels: carcinoma of the lung or bronchus
+input:
+- label: Carcinoma, NOS
+  id: icdom-80103
+- label: Lung and bronchus
+  id: icdot-C34.9

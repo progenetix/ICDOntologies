@@ -1,0 +1,10 @@
+equivalents:
+- label: Primary Myelofibrosis
+  id: ncit:C2862
+examples:
+- labels: Idiopathic myelofibrosis
+input:
+- label: Primary myelofibrosis
+  id: icdom-99613
+- label: Hematopoietic system, NOS
+  id: icdot-C42.4

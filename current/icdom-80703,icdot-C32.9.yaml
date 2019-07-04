@@ -1,0 +1,10 @@
+equivalents:
+- label: Squamous Cell Carcinoma
+  id: ncit:C2929
+examples:
+- labels: squamous cell carcinoma of the larynx
+input:
+- label: Squamous cell carcinoma, NOS
+  id: icdom-80703
+- label: Larynx
+  id: icdot-C32.9

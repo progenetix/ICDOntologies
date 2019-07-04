@@ -1,0 +1,10 @@
+equivalents:
+- label: Desmoplastic Small Round Cell Tumor
+  id: ncit:C8300
+examples:
+- labels: desmoplastic small round cell tumor
+input:
+- label: Desmoplastic small round cell tumor
+  id: icdom-88063
+- label: Unknown
+  id: icdot-C80.9

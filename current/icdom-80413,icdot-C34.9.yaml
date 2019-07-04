@@ -1,0 +1,10 @@
+equivalents:
+- label: Small Cell Carcinoma
+  id: ncit:C3915
+examples:
+- labels: Small cell neuroendocrine carcinoma
+input:
+- label: Small cell carcinoma, NOS
+  id: icdom-80413
+- label: Lung and bronchus
+  id: icdot-C34.9

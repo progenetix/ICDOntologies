@@ -1,0 +1,10 @@
+equivalents:
+- label: Invasive Ductal and Lobular Carcinoma
+  id: ncit:C7688
+examples:
+- labels: Infiltrating duct and lobular carcinoma
+input:
+- label: Infiltrating duct and lobular carcinoma
+  id: icdom-85223
+- label: Breast, NOS
+  id: icdot-C50.9

@@ -1,0 +1,10 @@
+equivalents:
+- label: Atypical Burkitt/Burkitt-Like Lymphoma
+  id: ncit:C6917
+examples:
+- labels: Burkitt/Burkitt-like lymphomas
+input:
+- label: Burkitt lymphoma, NOS
+  id: icdom-96873
+- label: Lymph nodes, NOS
+  id: icdot-C77.9

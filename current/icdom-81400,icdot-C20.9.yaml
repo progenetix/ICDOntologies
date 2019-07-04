@@ -1,0 +1,10 @@
+equivalents:
+- label: Rectal Adenocarcinoma
+  id: ncit:C9383
+examples:
+- labels: rectal adenoma
+input:
+- label: Adenoma, NOS
+  id: icdom-81400
+- label: Rectum, NOS
+  id: icdot-C20.9

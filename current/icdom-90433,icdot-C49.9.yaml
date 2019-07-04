@@ -1,0 +1,10 @@
+equivalents:
+- label: Biphasic synovial sarcoma
+  id: ncit:C4279
+examples:
+- labels: Biphasic synovial sarcoma [cell line SYO-1]
+input:
+- label: Synovial sarcoma, biphasic
+  id: icdom-90433
+- label: Connective and soft tissue, NOS
+  id: icdot-C49.9

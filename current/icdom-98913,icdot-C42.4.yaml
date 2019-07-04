@@ -1,0 +1,10 @@
+equivalents:
+- label: Acute Monoblastic Leukemia
+  id: ncit:C7171
+examples:
+- labels: Acute monoblastic leukemia [FAB M5, refractory]
+input:
+- label: Acute monocytic leukemia
+  id: icdom-98913
+- label: Hematopoietic system, NOS
+  id: icdot-C42.4

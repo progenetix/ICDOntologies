@@ -1,0 +1,10 @@
+equivalents:
+- label: High Grade Squamous Intraepithelial Neoplasia
+  id: ncit:C8336
+examples:
+- labels: anal intraepithelial neoplasia
+input:
+- label: Squamous intraepithelial neoplasia, grade III
+  id: icdom-80772
+- label: Anal canal and anus
+  id: icdot-C21.9

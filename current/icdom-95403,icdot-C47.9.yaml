@@ -1,0 +1,10 @@
+equivalents:
+- label: Malignant Peripheral Nerve Sheath Tumor
+  id: ncit:C3798
+examples:
+- labels: Malignant schwannoma [grade 2]
+input:
+- label: Malignant peripheral nerve sheath tumor
+  id: icdom-95403
+- label: Peripheral nervs incl. Autonomous
+  id: icdot-C47.9

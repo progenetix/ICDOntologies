@@ -1,0 +1,10 @@
+equivalents:
+- label: Astroblastoma
+  id: ncit:C4324
+examples:
+- labels: Well Differentiated Astroblastoma
+input:
+- label: Astroblastoma
+  id: icdom-94303
+- label: Brain, NOS
+  id: icdot-C71.9

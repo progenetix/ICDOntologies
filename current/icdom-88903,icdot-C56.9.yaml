@@ -1,0 +1,10 @@
+equivalents:
+- label: Ovarian leiomyosarcoma
+  id: ncit:C5234
+examples:
+- labels: ovarian leiomyosarcoma [cell line RKN]
+input:
+- label: Leiomyosarcoma, NOS
+  id: icdom-88903
+- label: Ovary
+  id: icdot-C56.9

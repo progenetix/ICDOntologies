@@ -1,0 +1,10 @@
+equivalents:
+- label: Neuroendocrine Carcinoma
+  id: ncit:C3773
+examples:
+- labels: thymic neuroendocrine carcinoma [Classic, Masaoka stage rIII]
+input:
+- label: Neuroendocrine carcinoma, NOS
+  id: icdom-82463
+- label: Thymus
+  id: icdot-C37.9

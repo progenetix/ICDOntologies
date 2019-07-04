@@ -1,0 +1,10 @@
+equivalents:
+- label: Primary effusion lymphoma
+  id: ncit:C6915
+examples:
+- labels: primary effusion lymphoma [cell line JSC-1]
+input:
+- label: Primary effusion lymphoma
+  id: icdom-96783
+- label: Pleura
+  id: icdot-C38.4

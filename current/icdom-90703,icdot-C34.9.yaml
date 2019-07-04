@@ -1,0 +1,10 @@
+equivalents:
+- label: Embryonal Carcinoma
+  id: ncit:C3752
+examples:
+- labels: embryonal carcinoma
+input:
+- label: Embryonal carcinoma, NOS
+  id: icdom-90703
+- label: Lung and bronchus
+  id: icdot-C34.9

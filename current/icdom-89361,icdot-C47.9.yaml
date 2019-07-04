@@ -1,0 +1,10 @@
+equivalents:
+- label: Gastrointestinal Stromal Tumor
+  id: ncit:C3868
+examples:
+- labels: gastrointestinal autonomic nerve tumor
+input:
+- label: Gastrointestinal stromal tumor, NOS
+  id: icdom-89361
+- label: Peripheral nervs incl. Autonomous
+  id: icdot-C47.9

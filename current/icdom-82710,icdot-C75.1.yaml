@@ -1,0 +1,10 @@
+equivalents:
+- label: Prolactin-Producing Pituitary Gland Adenoma
+  id: ncit:C3342
+examples:
+- labels: pituitary tumor [prolactin]
+input:
+- label: Prolactinoma
+  id: icdom-82710
+- label: Pituitary gland
+  id: icdot-C75.1

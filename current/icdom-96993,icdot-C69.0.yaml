@@ -1,0 +1,10 @@
+equivalents:
+- label: Primary Cutaneous Marginal Zone Lymphoma of Mucosa-Associated Lymphoid Tissue
+  id: ncit:C7230
+examples:
+- labels: Marginal zone lymphoma lymphoma of the orbit [Orbit]
+input:
+- label: Marginal zone B-cell lymphoma, NOS
+  id: icdom-96993
+- label: Orbit and lacrimal gland, excl. Retina, eye, NOS
+  id: icdot-C69.0

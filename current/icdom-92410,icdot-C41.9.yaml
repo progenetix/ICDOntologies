@@ -1,0 +1,10 @@
+equivalents:
+- label: Chondromyxoid Fibroma
+  id: ncit:C3830
+examples:
+- labels: Chondromyxoid fibroma
+input:
+- label: Chondromyxoid fibroma
+  id: icdom-92410
+- label: Bone, NOS
+  id: icdot-C41.9

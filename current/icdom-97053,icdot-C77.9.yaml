@@ -1,0 +1,10 @@
+equivalents:
+- label: Angioimmunoblastic T-Cell Lymphoma
+  id: ncit:C7528
+examples:
+- labels: Angioimmunoblastic T-cell lymphoma
+input:
+- label: Angioimmunoblastic T-cell lymphoma
+  id: icdom-97053
+- label: Lymph nodes, NOS
+  id: icdot-C77.9

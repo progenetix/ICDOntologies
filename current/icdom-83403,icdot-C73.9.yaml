@@ -1,0 +1,11 @@
+equivalents:
+- label: Oncocytic Adenoma
+  id: ncit:C7380
+examples:
+- labels: Papillary carcinoma of thyroid, follicular variant [stage PpT4aN1b, grade
+    High]
+input:
+- label: Papillary carcinoma, follicular variant
+  id: icdom-83403
+- label: Thyroid gland
+  id: icdot-C73.9

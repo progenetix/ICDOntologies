@@ -1,0 +1,10 @@
+equivalents:
+- label: Malignant Myoepithelioma
+  id: ncit:C7596
+examples:
+- labels: Soft tissue malignant myoepithelioma
+input:
+- label: Malignant myoepithelioma
+  id: icdom-89823
+- label: Connective and soft tissue, NOS
+  id: icdot-C49.9

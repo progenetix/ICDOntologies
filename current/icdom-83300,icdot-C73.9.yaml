@@ -1,0 +1,10 @@
+equivalents:
+- label: Thyroid Gland Follicular Adenoma
+  id: ncit:C3502
+examples:
+- labels: Follicular adenoma of the thyroid
+input:
+- label: Follicular adenoma
+  id: icdom-83300
+- label: Thyroid gland
+  id: icdot-C73.9

@@ -1,0 +1,10 @@
+equivalents:
+- label: Low Grade Endometrioid Stromal Sarcoma
+  id: ncit:C4263
+examples:
+- labels: Endometrial stromal sarcoma [low grade]
+input:
+- label: Endometrial stromal sarcoma, low grade
+  id: icdom-89313
+- label: Endometrium
+  id: icdot-C54.1

@@ -1,0 +1,10 @@
+equivalents:
+- label: Adrenal Gland Pheochromocytoma
+  id: ncit:C3326
+examples:
+- labels: ACTH-Independent Macronodular Adrenal Hyperplasia (AIMAH)
+input:
+- label: Pheochromocytoma, NOS
+  id: icdom-87000
+- label: Adrenal gland
+  id: icdot:C74

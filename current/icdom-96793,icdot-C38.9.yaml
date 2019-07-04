@@ -1,0 +1,10 @@
+equivalents:
+- label: Mediastinal (Thymic) Large B-Cell Lymphoma
+  id: ncit:C9280
+examples:
+- labels: Primary mediastinal B-cell lymphoma
+input:
+- label: Mediastinal large B-cell lymphoma
+  id: icdom-96793
+- label: Mediastinum
+  id: icdot-C38.9

@@ -1,0 +1,10 @@
+equivalents:
+- label: Non-Small Cell Carcinoma
+  id: ncit:C65151
+examples:
+- labels: Non-small cell carcinoma [lung]
+input:
+- label: Non-small cell carcinoma
+  id: icdom-80463
+- label: Lung and bronchus
+  id: icdot-C34.9

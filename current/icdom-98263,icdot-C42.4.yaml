@@ -1,0 +1,10 @@
+equivalents:
+- label: B Acute Lymphoblastic Leukemia
+  id: ncit:C8644
+examples:
+- labels: Burkitt cell leukemia
+input:
+- label: Burkitt cell leukemia
+  id: icdom-98263
+- label: Hematopoietic system, NOS
+  id: icdot-C42.4

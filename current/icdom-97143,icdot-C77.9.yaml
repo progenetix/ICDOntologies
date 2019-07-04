@@ -1,0 +1,10 @@
+equivalents:
+- label: Anaplastic Large Cell Lymphoma
+  id: ncit:C3720
+examples:
+- labels: Anaplastic large cell lymphoma, systemic type [ALK pos.]
+input:
+- label: Anaplastic large cell lymphoma, T cell and Null cell type
+  id: icdom-97143
+- label: Lymph nodes, NOS
+  id: icdot-C77.9

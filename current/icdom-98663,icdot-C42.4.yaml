@@ -1,0 +1,10 @@
+equivalents:
+- label: Acute Promyelocytic Leukemia with PML-RARA
+  id: ncit:C3182
+examples:
+- labels: acute promyelocytic leukemia
+input:
+- label: Acute promyelocytic leukemia
+  id: icdom-98663
+- label: Hematopoietic system, NOS
+  id: icdot-C42.4

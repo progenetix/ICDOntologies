@@ -1,0 +1,10 @@
+equivalents:
+- label: Fibroma
+  id: ncit:C3041
+examples:
+- labels: Fibromatosis
+input:
+- label: Fibroma, NOS
+  id: icdom-88100
+- label: Connective and soft tissue, NOS
+  id: icdot-C49.9

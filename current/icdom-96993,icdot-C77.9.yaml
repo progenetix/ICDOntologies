@@ -1,0 +1,10 @@
+equivalents:
+- label: Nodal Marginal Zone Lymphoma
+  id: ncit:C8863
+examples:
+- labels: Marginal zone lymphoma
+input:
+- label: Marginal zone B-cell lymphoma, NOS
+  id: icdom-96993
+- label: Lymph nodes, NOS
+  id: icdot-C77.9

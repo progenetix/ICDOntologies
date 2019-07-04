@@ -1,0 +1,10 @@
+equivalents:
+- label: Pineocytoma
+  id: ncit:C6966
+examples:
+- labels: Pineocytoma
+input:
+- label: Pineocytoma
+  id: icdom-93611
+- label: Pineal gland
+  id: icdot-C75.3

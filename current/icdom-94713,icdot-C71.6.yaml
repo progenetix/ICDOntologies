@@ -1,0 +1,10 @@
+equivalents:
+- label: Desmoplastic/Nodular Medulloblastoma
+  id: ncit:C4956
+examples:
+- labels: medulloblastoma [desmoplastic]
+input:
+- label: Desmoplastic nodular medulloblastoma
+  id: icdom-94713
+- label: Cerebellum
+  id: icdot-C71.6

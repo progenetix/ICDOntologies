@@ -1,0 +1,10 @@
+equivalents:
+- label: Ovarian Clear Cell Adenocarcinoma
+  id: ncit:C40078
+examples:
+- labels: Clear cell ovarian tumor [xenograft]
+input:
+- label: Clear cell tumor, NOS
+  id: icdom-80050
+- label: Ovary
+  id: icdot-C56.9

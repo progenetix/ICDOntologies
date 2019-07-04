@@ -1,0 +1,10 @@
+equivalents:
+- label: Ewing Sarcoma
+  id: ncit:C4817
+examples:
+- labels: Ewing sarcoma
+input:
+- label: Ewing sarcoma
+  id: icdom-92603
+- label: Bones and joints
+  id: icdot-C40.0

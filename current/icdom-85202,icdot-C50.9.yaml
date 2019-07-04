@@ -1,0 +1,10 @@
+equivalents:
+- label: Lobular Breast Carcinoma In Situ
+  id: ncit:C4018
+examples:
+- labels: classic lobular carcinomas
+input:
+- label: Lobular carcinoma in situ, NOS
+  id: icdom-85202
+- label: Breast, NOS
+  id: icdot-C50.9

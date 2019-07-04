@@ -1,0 +1,10 @@
+equivalents:
+- label: Clear Cell Adenocarcinoma
+  id: ncit:C3766
+examples:
+- labels: Pleomorphic adenoma
+input:
+- label: Clear cell adenocarcinoma, NOS
+  id: icdom-83103
+- label: Ovary
+  id: icdot-C56.9

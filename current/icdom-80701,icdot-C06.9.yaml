@@ -1,0 +1,10 @@
+equivalents:
+- label: Oral Cavity Squamous Cell Carcinoma
+  id: ncit:C4833
+examples:
+- labels: oral leukoplakia
+input:
+- label: None
+  id: icdom-80701
+- label: Mouth, NOS
+  id: icdot-C06.9

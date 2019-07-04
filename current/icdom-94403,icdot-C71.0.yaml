@@ -1,0 +1,10 @@
+equivalents:
+- label: Glioblastoma
+  id: ncit:C3058
+examples:
+- labels: glioblastoma, familial
+input:
+- label: Glioblastoma, NOS
+  id: icdom-94403
+- label: Cerebrum
+  id: icdot-C71.0

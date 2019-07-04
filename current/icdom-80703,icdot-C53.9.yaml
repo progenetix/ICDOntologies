@@ -1,0 +1,10 @@
+equivalents:
+- label: Squamous Cell Carcinoma
+  id: ncit:C2929
+examples:
+- labels: Squamous cell neoplasia of the cervix, cell line
+input:
+- label: Squamous cell carcinoma, NOS
+  id: icdom-80703
+- label: Cervix uteri
+  id: icdot-C53.9

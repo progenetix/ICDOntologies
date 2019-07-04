@@ -1,0 +1,10 @@
+equivalents:
+- label: Merkel Cell Carcinoma
+  id: ncit:C9231
+examples:
+- labels: Merkel cell carcinoma
+input:
+- label: Merkel cell carcinoma
+  id: icdom-82473
+- label: Connective and soft tissue, NOS
+  id: icdot-C49.9

@@ -1,0 +1,10 @@
+equivalents:
+- label: Gastric Adenocarcinoma
+  id: ncit:C4004
+examples:
+- labels: gastric cancer [stem cell]
+input:
+- label: Adenocarcinoma, NOS
+  id: icdom-81403
+- label: Stomach
+  id: icdot:C16

@@ -1,0 +1,10 @@
+equivalents:
+- label: Sezary Syndrome
+  id: ncit:C3366
+examples:
+- labels: Sezary syndrome
+input:
+- label: Sezary syndrome
+  id: icdom-97013
+- label: Skin, NOS
+  id: icdot-C44.9

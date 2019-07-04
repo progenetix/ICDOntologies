@@ -1,0 +1,11 @@
+equivalents:
+- label: Neuroendocrine Carcinoma
+  id: ncit:C3773
+examples:
+- labels: Neuroendocrine gastroenteropancreatic tumour [ileum, Liver, ovary metastasis,
+    functional]
+input:
+- label: Neuroendocrine carcinoma, NOS
+  id: icdom-82463
+- label: Small intestine
+  id: icdot-C17.9

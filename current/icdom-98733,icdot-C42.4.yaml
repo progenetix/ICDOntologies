@@ -1,0 +1,10 @@
+equivalents:
+- label: Acute Myeloid Leukemia without Maturation
+  id: ncit:C3249
+examples:
+- labels: Acute myeloblastic leukemia without maturation [FAB M1, refractory]
+input:
+- label: Acute myeloid leukemia without maturation
+  id: icdom-98733
+- label: Hematopoietic system, NOS
+  id: icdot-C42.4

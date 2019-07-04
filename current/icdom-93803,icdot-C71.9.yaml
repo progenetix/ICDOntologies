@@ -1,0 +1,10 @@
+equivalents:
+- label: Glioma
+  id: ncit:C3059
+examples:
+- labels: Papillary glioneuronal tumor [brain, right temporal]
+input:
+- label: Glioma, malignant
+  id: icdom-93803
+- label: Brain, NOS
+  id: icdot-C71.9

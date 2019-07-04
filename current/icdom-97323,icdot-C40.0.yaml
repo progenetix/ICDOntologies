@@ -1,0 +1,10 @@
+equivalents:
+- label: Plasma Cell Myeloma
+  id: ncit:C3242
+examples:
+- labels: Plasmacytoma [Femur]
+input:
+- label: Multiple myeloma
+  id: icdom-97323
+- label: Bones and joints
+  id: icdot-C40.0

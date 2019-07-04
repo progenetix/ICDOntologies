@@ -1,0 +1,10 @@
+equivalents:
+- label: Anaplastic Oligodendroglioma
+  id: ncit:C4326
+examples:
+- labels: anaplastic oligodendroglioma
+input:
+- label: Oligodendroglioma, anaplastic
+  id: icdom-94513
+- label: Brain, NOS
+  id: icdot-C71.9

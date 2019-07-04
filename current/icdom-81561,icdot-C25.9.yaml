@@ -1,0 +1,10 @@
+equivalents:
+- label: Somatostatin-Producing Neuroendocrine Tumor
+  id: ncit:C3379
+examples:
+- labels: Somatostatinoma
+input:
+- label: Somatostatinoma, NOS
+  id: icdom-81561
+- label: Pancreas, NOS
+  id: icdot-C25.9

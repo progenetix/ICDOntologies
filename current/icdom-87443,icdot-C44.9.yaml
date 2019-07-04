@@ -1,0 +1,10 @@
+equivalents:
+- label: Acral lentiginous melanoma
+  id: ncit:C4022
+examples:
+- labels: Acral lentiginous melanoma [cell line WM3211]
+input:
+- label: 'Acral Lentiginous Melanoma '
+  id: icdom-87443
+- label: Skin
+  id: icdot-C44.9

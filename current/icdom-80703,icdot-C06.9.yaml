@@ -1,0 +1,10 @@
+equivalents:
+- label: Upper gingival squamous cell carcinoma
+  id: ncit:C8173
+examples:
+- labels: Upper gingival squamous cell carcinoma [cell line Sa3]
+input:
+- label: Squamous cell carcinoma, NOS
+  id: icdom-80703
+- label: Mouth, NOS
+  id: icdot-C06.9

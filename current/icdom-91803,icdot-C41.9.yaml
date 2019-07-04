@@ -1,0 +1,10 @@
+equivalents:
+- label: Osteosarcoma
+  id: ncit:C9145
+examples:
+- labels: osteosarcoma [cell line  Hs 707(A).T]
+input:
+- label: Osteosarcoma, NOS
+  id: icdom-91803
+- label: Bone, NOS
+  id: icdot-C41.9

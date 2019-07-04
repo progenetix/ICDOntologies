@@ -1,0 +1,10 @@
+equivalents:
+- label: Aggressive NK-Cell Leukemia
+  id: ncit:C8647
+examples:
+- labels: Aggressive NK-cell leukemia
+input:
+- label: Aggressive NK-cell leukemia
+  id: icdom-99483
+- label: Hematopoietic system, NOS
+  id: icdot-C42.4

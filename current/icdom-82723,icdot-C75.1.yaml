@@ -1,0 +1,10 @@
+equivalents:
+- label: Pituitary Gland Carcinoma
+  id: ncit:C4536
+examples:
+- labels: Pituitary carcinoma [metatstasis]
+input:
+- label: Pituitary carcinoma, NOS
+  id: icdom-82723
+- label: Pituitary gland
+  id: icdot-C75.1

@@ -1,0 +1,10 @@
+equivalents:
+- label: Epithelioid Mesothelioma
+  id: ncit:C7985
+examples:
+- labels: Epithelioid mesothelioma
+input:
+- label: Epithelioid mesothelioma, malignant
+  id: icdom-90523
+- label: Pleura
+  id: icdot-C38.4

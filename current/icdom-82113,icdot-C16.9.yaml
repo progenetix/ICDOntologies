@@ -1,0 +1,10 @@
+equivalents:
+- label: Gastric tubular adenocarcinoma
+  id: ncit:C5473
+examples:
+- labels: gastric tubular adenocarcinoma [cell line NCI-N87]
+input:
+- label: Tubular adenocarcinoma
+  id: icdom-82113
+- label: Stomach
+  id: icdot-C16.9

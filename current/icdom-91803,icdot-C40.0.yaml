@@ -1,0 +1,10 @@
+equivalents:
+- label: Osteosarcoma
+  id: ncit:C9145
+examples:
+- labels: Sarcoma [postirradiation, Skeletal osteosarcoma OB G4, Humerus]
+input:
+- label: Osteosarcoma, NOS
+  id: icdom-91803
+- label: Bones and joints
+  id: icdot-C40.0

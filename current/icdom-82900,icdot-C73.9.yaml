@@ -1,0 +1,10 @@
+equivalents:
+- label: Oncocytic Adenoma
+  id: ncit:C3759
+examples:
+- labels: thyroid adenoma, Huerthle cell
+input:
+- label: Oxyphilic adenoma
+  id: icdom-82900
+- label: Thyroid gland
+  id: icdot-C73.9

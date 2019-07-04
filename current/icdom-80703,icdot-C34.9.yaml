@@ -1,0 +1,10 @@
+equivalents:
+- label: Squamous Cell Lung Carcinoma
+  id: ncit:C3493
+examples:
+- labels: Lung squamous cell lung carcinoma
+input:
+- label: Squamous cell carcinoma, NOS
+  id: icdom-80703
+- label: Lung and bronchus
+  id: icdot-C34.9

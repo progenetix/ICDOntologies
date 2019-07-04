@@ -1,0 +1,10 @@
+equivalents:
+- label: Thyroid Gland Follicular Carcinoma
+  id: ncit:C8054
+examples:
+- labels: Thyroid gland follicular carcinoma [cell line FTC-238]
+input:
+- label: Follicular carcinoma, minimally invasive
+  id: icdom-83353
+- label: Thyroid gland
+  id: icdot-C73.9

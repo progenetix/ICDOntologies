@@ -1,0 +1,10 @@
+equivalents:
+- label: Metaplastic Carcinoma
+  id: ncit:C27949
+examples:
+- labels: Metaplastic carcinoma, NOS
+input:
+- label: Metaplastic carcinoma, NOS
+  id: icdom-85753
+- label: Breast, NOS
+  id: icdot-C50.9

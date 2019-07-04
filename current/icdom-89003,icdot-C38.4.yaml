@@ -1,0 +1,10 @@
+equivalents:
+- label: Rhabdomyosarcoma
+  id: ncit:C3359
+examples:
+- labels: Smooth muscle tumour, malignant
+input:
+- label: Rhabdomyosarcoma, NOS
+  id: icdom-89003
+- label: Pleura
+  id: icdot-C38.4

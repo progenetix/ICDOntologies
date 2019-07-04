@@ -1,0 +1,10 @@
+equivalents:
+- label: Prostate carcinoma
+  id: ncit:C4863
+examples:
+- labels: prostate carcinoma [cell line DU145]
+input:
+- label: Carcinoma, NOS
+  id: icdom-80103
+- label: Prostate gland
+  id: icdot-C61.9

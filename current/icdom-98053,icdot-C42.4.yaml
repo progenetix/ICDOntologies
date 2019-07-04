@@ -1,0 +1,10 @@
+equivalents:
+- label: Acute Biphenotypic Leukemia
+  id: ncit:C4673
+examples:
+- labels: acute biphenotypic leukemia [cell line MY]
+input:
+- label: Acute biphenotypic leukemia
+  id: icdom-98053
+- label: Hematopoietic system, NOS
+  id: icdot-C42.4

@@ -1,0 +1,10 @@
+equivalents:
+- label: Testicular Germ Cell Tumor
+  id: ncit:C8591
+examples:
+- labels: Primary Nonseminoma Testicular Germ Cell Tumour
+input:
+- label: Germ cell tumor, nonseminomatous
+  id: icdom-90653
+- label: Epididymis, spermatic cord, male genital, NOS
+  id: icdot-C63.9

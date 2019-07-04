@@ -1,0 +1,10 @@
+equivalents:
+- label: Micropapillary Serous Carcinoma
+  id: ncit:C6882
+examples:
+- labels: Serous cystadenoma borderline malignancy
+input:
+- label: Papillary serous cystadenocarcinoma
+  id: icdom-84603
+- label: Ovary
+  id: icdot-C56.9

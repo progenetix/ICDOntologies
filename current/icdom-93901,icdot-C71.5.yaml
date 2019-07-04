@@ -1,0 +1,10 @@
+equivalents:
+- label: Atypical Choroid Plexus Papilloma
+  id: ncit:C53686
+examples:
+- labels: Choroid plexus papilloma [grade 1]
+input:
+- label: Atypical choroid plexus papilloma
+  id: icdom-93901
+- label: Ventricle
+  id: icdot-C71.5

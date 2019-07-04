@@ -1,0 +1,10 @@
+equivalents:
+- label: Protoplasmic Astrocytoma
+  id: ncit:C4320
+examples:
+- labels: protoplasmic astrocytoma
+input:
+- label: Protoplasmic astrocytoma
+  id: icdom-94103
+- label: Brain, NOS
+  id: icdot-C71.9

@@ -1,0 +1,10 @@
+equivalents:
+- label: Kidney Wilms Tumor
+  id: ncit:C40407
+examples:
+- labels: wilms tumor [anaplastic]
+input:
+- label: Nephroblastoma, NOS
+  id: icdom-89603
+- label: Kidney
+  id: icdot-C64.9

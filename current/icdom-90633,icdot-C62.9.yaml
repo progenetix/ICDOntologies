@@ -1,0 +1,10 @@
+equivalents:
+- label: Testicular Spermatocytic Seminoma
+  id: ncit:C39921
+examples:
+- labels: spermatocytic seminoma
+input:
+- label: Spermatocytic seminoma
+  id: icdom-90633
+- label: Testis
+  id: icdot-C62.9

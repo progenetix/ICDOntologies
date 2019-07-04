@@ -1,0 +1,10 @@
+equivalents:
+- label: Undifferentiated Carcinoma
+  id: ncit:C3692
+examples:
+- labels: anaplastic carcinoma [palatine tonsil]
+input:
+- label: Carcinoma, anaplastic, NOS
+  id: icdom-80213
+- label: Tonsil
+  id: icdot-C09.9

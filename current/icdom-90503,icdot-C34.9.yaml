@@ -1,0 +1,10 @@
+equivalents:
+- label: Pleural biphasic mesothelioma
+  id: ncit:C45665
+examples:
+- labels: Pleural biphasic mesothelioma [cell line NCI-H2452]
+input:
+- label: Mesothelioma, malignant
+  id: icdom-90503
+- label: Lung and bronchus
+  id: icdot-C34.9

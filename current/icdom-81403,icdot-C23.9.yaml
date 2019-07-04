@@ -1,0 +1,10 @@
+equivalents:
+- label: Gallbladder carcinoma
+  id: ncit:C3844
+examples:
+- labels: gallbladder carcinoma [cell line OCUG-1]
+input:
+- label: Adenocarcinoma, NOS
+  id: icdom-81403
+- label: Gallbladder
+  id: icdot-C23.9

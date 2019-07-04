@@ -1,0 +1,10 @@
+equivalents:
+- label: Angiosarcoma
+  id: ncit:C3088
+examples:
+- labels: Angiosarcomas
+input:
+- label: Hemangiosarcoma
+  id: icdom-91203
+- label: Connective and soft tissue, NOS
+  id: icdot-C49.9

@@ -1,0 +1,10 @@
+equivalents:
+- label: Malignant Neoplasm
+  id: ncit:C9305
+examples:
+- labels: blastic plasmacytoid dendritic cell neoplasm
+input:
+- label: Neoplasm, malignant
+  id: icdom-80003
+- label: Skin, NOS
+  id: icdot-C44.9

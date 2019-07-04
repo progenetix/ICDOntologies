@@ -1,0 +1,10 @@
+equivalents:
+- label: Soft Tissue Sarcoma
+  id: ncit:C9306
+examples:
+- labels: Pleomorphic sarcoma [grade high, primary]
+input:
+- label: Sarcoma, NOS
+  id: icdom-88003
+- label: Connective and soft tissue, NOS
+  id: icdot-C49.9

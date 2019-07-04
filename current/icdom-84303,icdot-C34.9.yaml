@@ -1,0 +1,10 @@
+equivalents:
+- label: Lung mucoepidermoid carcinoma
+  id: ncit:C45544
+examples:
+- labels: Lung mucoepidermoid carcinoma [cell line EPLC-272H]
+input:
+- label: Mucoepidermoid carcinoma
+  id: icdom-84303
+- label: Lung and bronchus
+  id: icdot-C34.9

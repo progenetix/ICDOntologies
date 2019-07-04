@@ -1,0 +1,10 @@
+equivalents:
+- label: Oligoastrocytoma
+  id: ncit:C4050
+examples:
+- labels: Grade III mixed oligoastrocytoma
+input:
+- label: Mixed glioma
+  id: icdom-93823
+- label: Brain, NOS
+  id: icdot-C71.9

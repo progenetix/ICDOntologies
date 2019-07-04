@@ -1,0 +1,10 @@
+equivalents:
+- label: Precursor B Lymphoblastic Leukemia
+  id: ncit:C8644
+examples:
+- labels: B-cell precursor acute lymphoblastic leukaemia
+input:
+- label: Precursor B-cell lymphoblastic leukemia
+  id: icdom-98363
+- label: Hematopoietic system, NOS
+  id: icdot-C42.4

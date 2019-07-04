@@ -1,0 +1,10 @@
+equivalents:
+- label: Pancreatic somatostatinoma
+  id: ncit:C95595
+examples:
+- labels: Pancreatic somatostatinoma [cell line QGP-1]
+input:
+- label: Somatostatinoma, malignant
+  id: icdom-81563
+- label: Pancreas
+  id: icdot-C25.9

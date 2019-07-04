@@ -1,0 +1,10 @@
+equivalents:
+- label: Ovarian granulosa cell tumor
+  id: ncit:C6261
+examples:
+- labels: Ovarian granulosa cell tumor [cell line COV434]
+input:
+- label: Granulosa cell tumor
+  id: icdom-86203
+- label: Ovary
+  id: icdot-C56.9

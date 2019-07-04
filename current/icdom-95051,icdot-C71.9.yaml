@@ -1,0 +1,10 @@
+equivalents:
+- label: Ganglioglioma
+  id: ncit:C3788
+examples:
+- labels: Ganglioglioma [temporooccipital]
+input:
+- label: Ganglioglioma, NOS
+  id: icdom-95051
+- label: Brain, NOS
+  id: icdot-C71.9

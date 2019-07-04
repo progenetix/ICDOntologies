@@ -1,0 +1,10 @@
+equivalents:
+- label: Thyroid Gland Squamous Cell Carcinoma
+  id: ncit:C46008
+examples:
+- labels: thyroid carcinoma [cell line TH7]
+input:
+- label: Carcinoma, NOS
+  id: icdom-80103
+- label: Thyroid gland
+  id: icdot-C73.9

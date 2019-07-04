@@ -1,0 +1,10 @@
+equivalents:
+- label: Neurofibromatosis
+  id: ncit:C6727
+examples:
+- labels: Neurofibromatosis type 1
+input:
+- label: Neurofibromatosis, NOS
+  id: icdom-95401
+- label: Unknown
+  id: icdot-C80.9

@@ -1,0 +1,10 @@
+equivalents:
+- label: Acute myelomonocytic leukemia
+  id: ncit:C7463
+examples:
+- labels: Acute myelomonocytic leukemia [cell line KY821]
+input:
+- label: Acute myelomonocytic leukemia, NOS
+  id: icdom-98673
+- label: Hematopoietic system, NOS
+  id: icdot-C42.4

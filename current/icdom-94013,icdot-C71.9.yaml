@@ -1,0 +1,10 @@
+equivalents:
+- label: Anaplastic Astrocytoma
+  id: ncit:C9477
+examples:
+- labels: Astrocytoma, anaplastic
+input:
+- label: Astrocytoma, anaplastic
+  id: icdom-94013
+- label: Brain, NOS
+  id: icdot-C71.9

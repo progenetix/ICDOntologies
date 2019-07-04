@@ -1,0 +1,10 @@
+equivalents:
+- label: Embryonal rhabdomyosarcoma
+  id: ncit:C8971
+examples:
+- labels: Embryonal rhabdomyosarcoma [cell line RD]
+input:
+- label: embryonal rhabdomyosarcoma, NOS
+  id: icdom-89103
+- label: Kidney
+  id: icdot-C64.9

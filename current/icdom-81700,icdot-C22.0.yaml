@@ -1,0 +1,10 @@
+equivalents:
+- label: Hepatocellular Adenoma
+  id: ncit:C3758
+examples:
+- labels: Hepatocellular adenoma
+input:
+- label: Liver cell adenoma
+  id: icdom-81700
+- label: Liver
+  id: icdot-C22.0

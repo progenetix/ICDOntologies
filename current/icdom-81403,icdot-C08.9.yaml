@@ -1,0 +1,10 @@
+equivalents:
+- label: Adenocarcinoma
+  id: ncit:C2852
+examples:
+- labels: Adenocarcinoma [Basal cell adenocarcinoma, membranous type, palatal gland]]
+input:
+- label: Adenocarcinoma, NOS
+  id: icdom-81403
+- label: Salivary gland, NOS
+  id: icdot-C08.9

@@ -1,0 +1,10 @@
+equivalents:
+- label: Polycythemia Vera
+  id: ncit:C3336
+examples:
+- labels: polycythemia vera
+input:
+- label: Polycythemia vera
+  id: icdom-99503
+- label: Hematopoietic system, NOS
+  id: icdot-C42.4

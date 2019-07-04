@@ -1,0 +1,10 @@
+equivalents:
+- label: Undifferentiated Carcinoma
+  id: ncit:C3692
+examples:
+- labels: Undifferentiated carcinoma
+input:
+- label: Carcinoma, undifferentiated, NOS
+  id: icdom-80203
+- label: Thyroid gland
+  id: icdot-C73.9

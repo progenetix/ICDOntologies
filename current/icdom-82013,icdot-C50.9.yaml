@@ -1,0 +1,10 @@
+equivalents:
+- label: Cribriform Carcinoma
+  id: ncit:C3680
+examples:
+- labels: Ductal carcinoma
+input:
+- label: Cribriform carcinoma, NOS
+  id: icdom-82013
+- label: Breast, NOS
+  id: icdot-C50.9

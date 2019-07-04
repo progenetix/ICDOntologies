@@ -1,0 +1,10 @@
+equivalents:
+- label: Nasopharyngeal carcinoma
+  id: ncit:C3871
+examples:
+- labels: Nasopharyngeal carcinoma [cell line 5-8F]
+input:
+- label: Squamous cell carcinoma, large cell, nonkeratinizing, NOS
+  id: icdom-80723
+- label: Nasopharynx
+  id: icdot-C11.9

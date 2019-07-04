@@ -1,0 +1,10 @@
+equivalents:
+- label: Medullary Carcinoma, Not Otherwise Specified
+  id: ncit:C66718
+examples:
+- labels: Medullary carcinoma of the thyroid
+input:
+- label: Medullary carcinoma, NOS
+  id: icdom-85103
+- label: Thyroid gland
+  id: icdot-C73.9

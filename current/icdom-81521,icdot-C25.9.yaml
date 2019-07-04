@@ -1,0 +1,10 @@
+equivalents:
+- label: Pancreatic Glucagonoma
+  id: ncit:C95597
+examples:
+- labels: Glucagonoma
+input:
+- label: Glucagonoma, NOS
+  id: icdom-81521
+- label: Pancreas, NOS
+  id: icdot-C25.9

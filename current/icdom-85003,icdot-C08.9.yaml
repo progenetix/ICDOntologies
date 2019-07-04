@@ -1,0 +1,10 @@
+equivalents:
+- label: Invasive Carcinoma
+  id: ncit:C9480
+examples:
+- labels: ductal carcinoma of the salivary glands
+input:
+- label: Infiltrating duct carcinoma, NOS
+  id: icdom-85003
+- label: Salivary gland, NOS
+  id: icdot-C08.9

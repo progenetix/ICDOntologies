@@ -1,0 +1,10 @@
+equivalents:
+- label: Mesothelioma
+  id: ncit:C3234
+examples:
+- labels: Malignant mesothelioma, biphasic
+input:
+- label: Mesothelioma, malignant
+  id: icdom-90503
+- label: Pleura
+  id: icdot-C38.4

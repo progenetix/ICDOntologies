@@ -1,0 +1,10 @@
+equivalents:
+- label: Epithelioid cell type gastrointestinal stromal tumor
+  id: ncit:C3486
+examples:
+- labels: leiomyoblastoma [cell line G-402]
+input:
+- label: Epithelioid leiomyoma
+  id: icdom-88910
+- label: Kidney
+  id: icdot-C64.9

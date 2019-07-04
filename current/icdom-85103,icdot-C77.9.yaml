@@ -1,0 +1,10 @@
+equivalents:
+- label: Medullary Carcinoma, Not Otherwise Specified
+  id: ncit:C66718
+examples:
+- labels: sporadic medullary thyroid carcinoma [metastasis]
+input:
+- label: Medullary carcinoma, NOS
+  id: icdom-85103
+- label: Lymph nodes, NOS
+  id: icdot-C77.9

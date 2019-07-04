@@ -1,0 +1,10 @@
+equivalents:
+- label: Pleomorphic Xanthoastrocytoma
+  id: ncit:C4323
+examples:
+- labels: pleomorphic xanthoastrocytoma [supratentorial]
+input:
+- label: Pleomorphic xanthoastrocytoma
+  id: icdom-94243
+- label: Cerebrum
+  id: icdot-C71.0

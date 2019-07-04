@@ -1,0 +1,10 @@
+equivalents:
+- label: Hemangioblastoma
+  id: ncit:C3801
+examples:
+- labels: capillary hemangioblastoma [medulla]
+input:
+- label: Hemangioblastoma
+  id: icdom-91611
+- label: Brain stem
+  id: icdot-C71.7

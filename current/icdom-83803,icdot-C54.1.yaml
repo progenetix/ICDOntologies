@@ -1,0 +1,10 @@
+equivalents:
+- label: Endometrial adenocarcinoma
+  id: ncit:C7359
+examples:
+- labels: endometrial adenocarcinoma [cell line AN3-CA]
+input:
+- label: Endometrioid adenocarcinoma, NOS
+  id: icdom-83803
+- label: Endometrium
+  id: icdot-C54.1

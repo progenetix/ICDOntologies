@@ -1,0 +1,10 @@
+equivalents:
+- label: Lymphoma
+  id: ncit:C3208
+examples:
+- labels: Primary Central Nervous System Lymphoma
+input:
+- label: Malignant lymphoma, NOS
+  id: icdom-95903
+- label: Brain
+  id: icdot:C71

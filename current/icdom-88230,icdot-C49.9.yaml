@@ -1,0 +1,10 @@
+equivalents:
+- label: Bone Desmoplastic Fibroma
+  id: ncit:C3740
+examples:
+- labels: Desmoplastic fibroma
+input:
+- label: Desmoplastic fibroma
+  id: icdom-88230
+- label: Connective and soft tissue, NOS
+  id: icdot-C49.9

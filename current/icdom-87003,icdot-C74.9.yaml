@@ -1,0 +1,10 @@
+equivalents:
+- label: Malignant Adrenal Gland Pheochromocytoma
+  id: ncit:C4220
+examples:
+- labels: malignant pheochromocytoma
+input:
+- label: Pheochromocytoma, malignant
+  id: icdom-87003
+- label: Adrenal glands
+  id: icdot-C74.9

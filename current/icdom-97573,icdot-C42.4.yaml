@@ -1,0 +1,10 @@
+equivalents:
+- label: Interdigitating Dendritic Cell Sarcoma
+  id: ncit:C9282
+examples:
+- labels: Dendritic cell tumour
+input:
+- label: Interdigitating dendritic cell sarcoma
+  id: icdom-97573
+- label: Hematopoietic system, NOS
+  id: icdot-C42.4

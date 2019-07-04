@@ -1,0 +1,10 @@
+equivalents:
+- label: Intrahepatic cholangiocarcinoma
+  id: ncit:C35417
+examples:
+- labels: Intrahepatic cholangiocarcinoma [cell line HuCC-T1]
+input:
+- label: Bile duct cystadenocarcinoma
+  id: icdom-81613
+- label: Extrahepatic and unspecified bile ducts
+  id: icdot-C24.9

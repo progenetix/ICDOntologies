@@ -1,0 +1,10 @@
+equivalents:
+- label: Carcinoma
+  id: ncit:C2916
+examples:
+- labels: Spindle-cell ameloblastic carcinoma
+input:
+- label: Carcinoma, NOS
+  id: icdom-80103
+- label: Mouth, NOS
+  id: icdot-C06.9

@@ -1,0 +1,10 @@
+equivalents:
+- label: Pigmented Nevus
+  id: ncit:C27816
+examples:
+- labels: blue nevus
+input:
+- label: Pigmented nevus, NOS
+  id: icdom-87200
+- label: Skin, NOS
+  id: icdot-C44.9

@@ -1,0 +1,10 @@
+equivalents:
+- label: Schwannoma
+  id: ncit:C3269
+examples:
+- labels: Schwannoma
+input:
+- label: Neurilemoma, NOS
+  id: icdom-95600
+- label: Peripheral nervs incl. Autonomous
+  id: icdot-C47.9

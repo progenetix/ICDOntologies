@@ -1,0 +1,10 @@
+equivalents:
+- label: Adrenal Cortex Carcinoma
+  id: ncit:C9325
+examples:
+- labels: Adrenal cortical carcinoma [pediatric]
+input:
+- label: Adrenal cortical carcinoma
+  id: icdom-83703
+- label: Adrenal cortex
+  id: icdot-C74.0

@@ -1,0 +1,10 @@
+equivalents:
+- label: Desmoplastic Mesothelioma
+  id: ncit:C6747
+examples:
+- labels: Sarcomatoid mesothelioma
+input:
+- label: Fibrous mesothelioma, malignant
+  id: icdom-90513
+- label: Pleura
+  id: icdot-C38.4

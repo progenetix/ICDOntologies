@@ -1,0 +1,10 @@
+equivalents:
+- label: Carcinoma
+  id: ncit:C2916
+examples:
+- labels: esophageal carcinoma
+input:
+- label: Carcinoma, NOS
+  id: icdom-80103
+- label: Esophagus
+  id: icdot-C15.9

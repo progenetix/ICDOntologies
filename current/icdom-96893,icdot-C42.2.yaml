@@ -1,0 +1,10 @@
+equivalents:
+- label: Splenic Marginal Zone Lymphoma
+  id: ncit:C4663
+examples:
+- labels: Splenic marginal zone lymphoma, NOS
+input:
+- label: Splenic marginal zone B-cell lymphoma
+  id: icdom-96893
+- label: Spleen
+  id: icdot-C42.2

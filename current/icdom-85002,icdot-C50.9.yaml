@@ -1,0 +1,10 @@
+equivalents:
+- label: Ductal Breast Carcinoma In Situ
+  id: ncit:C2924
+examples:
+- labels: Ductal carcinoma in situ, recurrent
+input:
+- label: Intraductal carcinoma, noninfiltrating, NOS
+  id: icdom-85002
+- label: Breast, NOS
+  id: icdot-C50.9

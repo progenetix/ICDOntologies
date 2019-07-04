@@ -1,0 +1,10 @@
+equivalents:
+- label: Granular Cell Tumor
+  id: ncit:C3474
+examples:
+- labels: Granular cell tumor
+input:
+- label: Granular cell tumor, NOS
+  id: icdom-95800
+- label: Ovary
+  id: icdot-C56.9

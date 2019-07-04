@@ -1,0 +1,10 @@
+equivalents:
+- label: Signet ring cell gastric adenocarcinoma
+  id: ncit:C5250
+examples:
+- labels: signet ring gastric adenocarcinoma [cell line NUGC-4]
+input:
+- label: Signet ring cell carcinoma
+  id: icdom-84903
+- label: Stomach
+  id: icdot-C16.9

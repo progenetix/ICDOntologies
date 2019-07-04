@@ -1,0 +1,10 @@
+equivalents:
+- label: T Lymphoblastic Lymphoma
+  id: ncit:C6919
+examples:
+- labels: T-cell lymphoblastic lymphoma
+input:
+- label: Precursor T-cell lymphoblastic lymphoma
+  id: icdom-97293
+- label: Lymph nodes, NOS
+  id: icdot-C77.9

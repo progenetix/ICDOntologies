@@ -1,0 +1,10 @@
+equivalents:
+- label: Refractory Anemia
+  id: ncit:C2872
+examples:
+- labels: Refractory anemia, NOS
+input:
+- label: Refractory anemia
+  id: icdom-99803
+- label: Hematopoietic system, NOS
+  id: icdot-C42.4

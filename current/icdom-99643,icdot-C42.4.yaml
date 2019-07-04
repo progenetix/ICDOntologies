@@ -1,0 +1,10 @@
+equivalents:
+- label: Chronic Eosinophilic Leukemia Not Otherwise Specified
+  id: ncit:C4563
+examples:
+- labels: Hypereosinophilic syndrome
+input:
+- label: Chronic eosinophilic leukemia, NOS
+  id: icdom-99643
+- label: Hematopoietic system, NOS
+  id: icdot-C42.4

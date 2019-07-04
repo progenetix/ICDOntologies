@@ -1,0 +1,10 @@
+equivalents:
+- label: Cystic Teratoma
+  id: ncit:C9014
+examples:
+- labels: CNS germ cell tumor [mature teratoma]
+input:
+- label: Teratoma, benign
+  id: icdom-90800
+- label: Spinal cord
+  id: icdot-C72.0

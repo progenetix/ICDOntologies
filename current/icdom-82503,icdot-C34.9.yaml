@@ -1,0 +1,10 @@
+equivalents:
+- label: Bronchioloalveolar Carcinoma
+  id: ncit:C2923
+examples:
+- labels: Bronchiolo-alveolar adenocarcinoma
+input:
+- label: Bronchiolo-alveolar adenocarcinoma, NOS
+  id: icdom-82503
+- label: Lung and bronchus
+  id: icdot-C34.9

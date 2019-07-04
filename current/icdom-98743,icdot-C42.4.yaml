@@ -1,0 +1,10 @@
+equivalents:
+- label: Acute Myeloid Leukemia with Maturation
+  id: ncit:C3250
+examples:
+- labels: Acute myeloblastic leukemia with maturation [FAB M2]
+input:
+- label: Acute myeloid leukemia with maturation
+  id: icdom-98743
+- label: Hematopoietic system, NOS
+  id: icdot-C42.4

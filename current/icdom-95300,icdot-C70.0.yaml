@@ -1,0 +1,10 @@
+equivalents:
+- label: Meningioma
+  id: ncit:C3230
+examples:
+- labels: Meningioma
+input:
+- label: Meningioma, NOS
+  id: icdom-95300
+- label: Meninges cerebral, spinal
+  id: icdot-C70.0

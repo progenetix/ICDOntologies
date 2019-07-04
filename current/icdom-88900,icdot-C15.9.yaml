@@ -1,0 +1,10 @@
+equivalents:
+- label: Leiomyoma
+  id: ncit:C3157
+examples:
+- labels: Leiomyoma [Esophagus]
+input:
+- label: Leiomyoma, NOS
+  id: icdom-88900
+- label: Esophagus
+  id: icdot-C15.9

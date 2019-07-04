@@ -1,0 +1,11 @@
+equivalents:
+- label: Borderline Ovarian Endometrioid Tumor/Atypical Proliferative Ovarian Endometrioid
+    Tumor
+  id: ncit:C7983
+examples:
+- labels: Complex endometrial hyperplasia
+input:
+- label: Endometrioid adenoma, borderline malignancy
+  id: icdom-83801
+- label: Uterus, NOS
+  id: icdot-C55.9

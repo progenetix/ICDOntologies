@@ -1,0 +1,10 @@
+equivalents:
+- label: Acute Undifferentiated Leukemia
+  id: ncit:C9298
+examples:
+- labels: Acute leukemia NOS [cell line KASUMI1]
+input:
+- label: Acute leukemia, NOS
+  id: icdom-98013
+- label: Hematopoietic system, NOS
+  id: icdot-C42.4

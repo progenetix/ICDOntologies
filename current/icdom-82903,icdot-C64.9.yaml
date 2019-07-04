@@ -1,0 +1,10 @@
+equivalents:
+- label: Kidney Oncocytoma
+  id: ncit:C4526
+examples:
+- labels: Renal oncocytoma
+input:
+- label: Oxyphilic adenocarcinoma
+  id: icdom-82903
+- label: Kidney
+  id: icdot-C64.9

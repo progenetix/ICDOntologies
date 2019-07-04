@@ -1,0 +1,10 @@
+equivalents:
+- label: Kaposi Sarcoma
+  id: ncit:C9087
+examples:
+- labels: Kaposi sarcoma
+input:
+- label: Kaposi sarcoma
+  id: icdom-91403
+- label: Connective and soft tissue, NOS
+  id: icdot-C49.9

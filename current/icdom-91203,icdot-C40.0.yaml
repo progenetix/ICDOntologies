@@ -1,0 +1,11 @@
+equivalents:
+- label: Angiosarcoma
+  id: ncit:C3088
+examples:
+- labels: Primary multicentric angiosarcoma of bone [post chemotherapy and total body
+    irradiation for AML]
+input:
+- label: Hemangiosarcoma
+  id: icdom-91203
+- label: Bones and joints
+  id: icdot-C40.0

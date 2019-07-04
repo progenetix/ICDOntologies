@@ -1,0 +1,10 @@
+equivalents:
+- label: Pituitary Gland Adenoma
+  id: ncit:C3329
+examples:
+- labels: ptituitary adenoma [endocrinologically inactive, primary]
+input:
+- label: Pituitary adenoma, NOS
+  id: icdom-82720
+- label: Pituitary gland
+  id: icdot-C75.1

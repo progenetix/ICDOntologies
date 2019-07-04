@@ -1,0 +1,10 @@
+equivalents:
+- label: Digestive System Neuroendocrine Tumor G1
+  id: ncit:C7709
+examples:
+- labels: Gastrointestinal carcinoid
+input:
+- label: Carcinoid tumor, NOS
+  id: icdom-82403
+- label: Stomach
+  id: icdot-C16.9

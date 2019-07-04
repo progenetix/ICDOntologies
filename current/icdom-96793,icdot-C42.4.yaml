@@ -1,0 +1,10 @@
+equivalents:
+- label: 'Mediastinal (thymic) large B-cell lymphoma '
+  id: ncit:C9280
+examples:
+- labels: Mediastinal large B-cell lymphoma [cell line MedB-1]
+input:
+- label: Mediastinal (thymic) large B-cell lymphoma (C38.3)
+  id: icdom-96793
+- label: Hematopoietic system, NOS
+  id: icdot-C42.4

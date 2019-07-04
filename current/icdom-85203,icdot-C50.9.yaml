@@ -1,0 +1,10 @@
+equivalents:
+- label: Lobular Breast Carcinoma
+  id: ncit:C3771
+examples:
+- labels: Lobular carcinoma
+input:
+- label: Lobular carcinoma, NOS
+  id: icdom-85203
+- label: Breast, NOS
+  id: icdot-C50.9

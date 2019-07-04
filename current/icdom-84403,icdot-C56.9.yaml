@@ -1,0 +1,10 @@
+equivalents:
+- label: Ovarian endometrioid adenocarcinoma
+  id: ncit:C7979
+examples:
+- labels: Ovarian cystoadenocarcinoma [cell line IGROV-1]
+input:
+- label: Cystadenocarcinoma, NOS
+  id: icdom-84403
+- label: Ovary
+  id: icdot-C56.9

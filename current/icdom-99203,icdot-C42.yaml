@@ -1,0 +1,10 @@
+equivalents:
+- label: Therapy-Related Acute Myeloid Leukemia
+  id: ncit:C8252
+examples:
+- labels: Therapy related myeloid neoplasm [cell line OHN-GM]
+input:
+- label: acute myeloid leukemia
+  id: icdom-99203
+- label: Hematopoietic and reticuloendothelial systems
+  id: icdot:C42

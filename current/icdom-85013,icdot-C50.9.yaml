@@ -1,0 +1,10 @@
+equivalents:
+- label: Comedocarcinoma
+  id: ncit:C4188
+examples:
+- labels: Comedocarcinoma, NOS
+input:
+- label: Comedocarcinoma, NOS
+  id: icdom-85013
+- label: Breast, NOS
+  id: icdot-C50.9

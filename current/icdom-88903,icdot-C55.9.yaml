@@ -1,0 +1,10 @@
+equivalents:
+- label: Leiomyosarcoma
+  id: ncit:C3158
+examples:
+- labels: Uterine Leiomyosarcoma [grade I]
+input:
+- label: Leiomyosarcoma, NOS
+  id: icdom-88903
+- label: Uterus, NOS
+  id: icdot-C55.9

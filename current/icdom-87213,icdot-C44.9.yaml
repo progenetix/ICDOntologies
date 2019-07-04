@@ -1,0 +1,10 @@
+equivalents:
+- label: Nodular Melanoma
+  id: ncit:C4225
+examples:
+- labels: nodular melanoma
+input:
+- label: Nodular melanoma
+  id: icdom-87213
+- label: Skin, NOS
+  id: icdot-C44.9

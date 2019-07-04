@@ -1,0 +1,10 @@
+equivalents:
+- label: Spitz Nevus
+  id: ncit:C27007
+examples:
+- labels: atypical Spitz tumor [face]
+input:
+- label: Epithelioid and spindle cell nevus
+  id: icdom-87700
+- label: Skin, NOS
+  id: icdot-C44.9

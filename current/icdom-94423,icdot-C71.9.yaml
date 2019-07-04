@@ -1,0 +1,10 @@
+equivalents:
+- label: Gliosarcoma
+  id: ncit:C3796
+examples:
+- labels: Gliosarcoma
+input:
+- label: Gliosarcoma
+  id: icdom-94423
+- label: Brain, NOS
+  id: icdot-C71.9

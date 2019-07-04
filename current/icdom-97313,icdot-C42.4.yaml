@@ -1,0 +1,10 @@
+equivalents:
+- label: Plasmacytoma
+  id: ncit:C9349
+examples:
+- labels: Plasmacytoma, NOS
+input:
+- label: Plasmacytoma, NOS
+  id: icdom-97313
+- label: Hematopoietic system, NOS
+  id: icdot-C42.4

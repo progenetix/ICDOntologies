@@ -1,0 +1,10 @@
+equivalents:
+- label: Endometrioid Adenocarcinoma
+  id: ncit:C3769
+examples:
+- labels: Endometroid adenocarcinoma
+input:
+- label: Endometrioid adenocarcinoma, NOS
+  id: icdom-83803
+- label: Ovary
+  id: icdot-C56.9

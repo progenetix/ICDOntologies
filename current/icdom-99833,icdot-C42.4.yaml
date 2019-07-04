@@ -1,0 +1,10 @@
+equivalents:
+- label: Myelodysplastic Syndrome with Excess Blasts
+  id: ncit:C7506
+examples:
+- labels: Refractory anemia with excess blasts [RAEB]
+input:
+- label: Refractory anemia with excess blasts
+  id: icdom-99833
+- label: Hematopoietic system, NOS
+  id: icdot-C42.4

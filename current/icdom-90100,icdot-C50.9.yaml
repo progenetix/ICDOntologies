@@ -1,0 +1,10 @@
+equivalents:
+- label: Breast Fibroadenoma
+  id: ncit:C3744
+examples:
+- labels: Fibroadenoma of the breast
+input:
+- label: Fibroadenoma, NOS
+  id: icdom-90100
+- label: Breast, NOS
+  id: icdot-C50.9

@@ -1,0 +1,10 @@
+equivalents:
+- label: Undifferentiated (Embryonal) Sarcoma
+  id: ncit:C27096
+examples:
+- labels: Undifferentiated Sarcoma
+input:
+- label: Undifferentiated sarcoma
+  id: icdom-88053
+- label: Connective and soft tissue, NOS
+  id: icdot-C49.9

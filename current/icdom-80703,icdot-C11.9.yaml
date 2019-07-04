@@ -1,0 +1,10 @@
+equivalents:
+- label: Nasopharyngeal Keratinizing Squamous Cell Carcinoma
+  id: ncit:C7992
+examples:
+- labels: head and neck carcinoma [cell line]
+input:
+- label: Squamous cell carcinoma, NOS
+  id: icdom-80703
+- label: Nasopharynx
+  id: icdot-C11.9

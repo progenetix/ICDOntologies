@@ -1,0 +1,10 @@
+equivalents:
+- label: Carcinoma
+  id: ncit:C2916
+examples:
+- labels: colon cancer
+input:
+- label: Carcinoma, NOS
+  id: icdom-80103
+- label: Large intestine, excl. Rectum and rectosigmoid junction
+  id: icdot-C18.9

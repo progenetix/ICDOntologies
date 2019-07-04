@@ -1,0 +1,10 @@
+equivalents:
+- label: Lymphoblastic Lymphoma
+  id: ncit:C9360
+examples:
+- labels: lastic plasmacytoid dendritic cell neoplasm
+input:
+- label: Precursor cell lymphoblastic lymphoma, NOS
+  id: icdom-97273
+- label: Hematopoietic system, NOS
+  id: icdot-C42.4

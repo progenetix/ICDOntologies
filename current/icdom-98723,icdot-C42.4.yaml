@@ -1,0 +1,10 @@
+equivalents:
+- label: Acute Myeloid Leukemia
+  id: ncit:C3171
+examples:
+- labels: Acute myeloblastic leukemia with minimal differentiation (FAB type M0)
+input:
+- label: Acute myeloid leukemia, minimal differentiation
+  id: icdom-98723
+- label: Hematopoietic system, NOS
+  id: icdot-C42.4

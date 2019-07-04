@@ -1,0 +1,10 @@
+equivalents:
+- label: Chondroma
+  id: ncit:C53459
+examples:
+- labels: enchondroma [Mafucci syndrome]
+input:
+- label: Chondroma, NOS
+  id: icdom-92200
+- label: Connective and soft tissue, NOS
+  id: icdot-C49.9

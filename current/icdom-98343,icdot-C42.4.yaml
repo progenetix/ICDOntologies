@@ -1,0 +1,10 @@
+equivalents:
+- label: T-Cell Prolymphocytic Leukemia
+  id: ncit:C4752
+examples:
+- labels: T-cell prolymphocytic leukemia
+input:
+- label: Prolymphocytic leukemia, T-cell type
+  id: icdom-98343
+- label: Hematopoietic system, NOS
+  id: icdot-C42.4

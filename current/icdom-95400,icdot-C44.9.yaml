@@ -1,0 +1,10 @@
+equivalents:
+- label: Neurofibroma
+  id: ncit:C3272
+examples:
+- labels: Cutaneous neurofibroma
+input:
+- label: Neurofibroma, NOS
+  id: icdom-95400
+- label: Skin, NOS
+  id: icdot-C44.9

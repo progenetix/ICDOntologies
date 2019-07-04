@@ -1,0 +1,10 @@
+equivalents:
+- label: Pleural biphasic mesothelioma
+  id: ncit:C45665
+examples:
+- labels: pleural biphasic mesothelioma [cell line Y-MESO-8D
+input:
+- label: Mesothelioma, biphasic, malignant
+  id: icdom-90533
+- label: Pleura
+  id: icdot-C38.4

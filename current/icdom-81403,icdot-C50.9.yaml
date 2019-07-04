@@ -1,0 +1,10 @@
+equivalents:
+- label: Adenocarcinoma
+  id: ncit:C2852
+examples:
+- labels: Adenocarcinoma, NOS
+input:
+- label: Adenocarcinoma, NOS
+  id: icdom-81403
+- label: Breast, NOS
+  id: icdot-C50.9
