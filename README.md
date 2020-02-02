@@ -6,9 +6,9 @@ The repository is being developed by the [_Theoretical Oncogenomics_](http://inf
 
 This repository contains mappings that have been manually curated and aims to be an open source for use and contibutions. 
 
-Currently the mappings can also be accesible through the Progenetix API, as seen in the examples:
+Currently the mappings can also be accesible through the [Progenetix API](https://info.progenetix.org/doc/+generated-doc-API-api/), as seen in the examples:
 
-- https://progenetix.org/api/progenetix/icdmaps/icdmaps/icdom-85003,icdot-C50/ncitcodes/ <br/>
-  Retrieving the matching ncit code(s) from an input of comma-separated icdom and icdot values, as key (code) : value (label) objects
-- https://progenetix.org/api/progenetix/icdmaps/icdmaps/icdom-85,icdot-C50/ <br/>
-  As in the example above, but by a) stemmming the query parameters and b) removing the ncitcodes format argument, the response will now be a list of matched data objects (inputs and equivalents)
+* [progenetix.org/api/progenetix/icdmaps/equivalents/icdom-85003,icdot-C50/ncitcodes/](https://progenetix.org/api/progenetix/icdmaps/equivalents/icdom-85003,icdot-C50/ncitcodes/)  
+    - Retrieving the matching ncit code(s) from an input of comma-separated icdom and icdot values, as key (code) : value (label) objects
+* [progenetix.org/api/progenetix/icdmaps/equivalents/icdom-85,icdot-C50/](https://progenetix.org/api/progenetix/icdmaps/equivalents/icdom-85,icdot-C50/)  
+    - As in the example above, but by a) stemmming the query parameters and b) removing the ncitcodes format argument, the response will now be a list of matched data objects (inputs and equivalents)
