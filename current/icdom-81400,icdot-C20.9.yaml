@@ -1,10 +1,14 @@
 equivalents:
-- label: Rectal Adenocarcinoma
-  id: ncit:C9383
+- id: ncit:C5546
+  label: Rectal Adenoma
 examples:
-- labels: rectal adenoma
+- rectal adenoma
+- adenoma [colorectal, low-grade]
+- Adenoma [in metastasized colorectal adenocarcinoma]
+- adenoma [colorectal]
 input:
-- label: Adenoma, NOS
-  id: icdom-81400
-- label: Rectum, NOS
-  id: icdot-C20.9
+- id: icdom-81400
+  label: Adenoma, NOS
+- id: icdot-C20.9
+  label: Rectum, NOS
+updated: '2020-03-03'

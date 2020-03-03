@@ -1,10 +1,13 @@
 equivalents:
-- label: Superficial Spreading Melanoma
-  id: ncit:C9152
+- id: ncit:C9152
+  label: Superficial Spreading Melanoma
 examples:
-- labels: Superficial spreading melanoma [neck]
+- malignant melanoma [cell line WM1789]
+- malignant melanoma [cell line WM35]
+- Superficial spreading melanoma [neck]
 input:
-- label: Superficial spreading melanoma
-  id: icdom-87433
-- label: Skin, NOS
-  id: icdot-C44.9
+- id: icdom-87433
+  label: Superficial spreading melanoma
+- id: icdot-C44.9
+  label: Skin, NOS
+updated: '2020-03-03'

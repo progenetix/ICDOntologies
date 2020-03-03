@@ -1,10 +1,11 @@
 equivalents:
-- label: Adenocarcinoma
-  id: ncit:C2852
+- id: ncit:C8021
+  label: 'Salivary Gland Adenocarcinoma '
 examples:
-- labels: Adenocarcinoma [Basal cell adenocarcinoma, membranous type, palatal gland]]
+- Adenocarcinoma [Basal cell adenocarcinoma, membranous type, palatal gland]]
 input:
-- label: Adenocarcinoma, NOS
-  id: icdom-81403
-- label: Salivary gland, NOS
-  id: icdot-C08.9
+- id: icdom-81403
+  label: Adenocarcinoma, NOS
+- id: icdot-C08.9
+  label: Salivary gland, NOS
+updated: '2020-03-03'

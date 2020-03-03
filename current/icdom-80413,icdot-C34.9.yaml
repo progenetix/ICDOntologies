@@ -1,10 +1,14 @@
 equivalents:
-- label: Small Cell Carcinoma
-  id: ncit:C3915
+- id: ncit:C4917
+  label: 'Lung Small Cell Carcinoma '
 examples:
-- labels: Small cell neuroendocrine carcinoma
+- Small cell lung carcinoma [cell line NCI-H748]
+- Small cell lung carcinoma [cell line NCI-H889]
+- Small cell lung carcinoma [cell line NCI-H1963]
+- Small cell lung carcinoma [cell line NCI-H1417]
 input:
-- label: Small cell carcinoma, NOS
-  id: icdom-80413
-- label: Lung and bronchus
-  id: icdot-C34.9
+- id: icdom-80413
+  label: Small cell carcinoma, NOS
+- id: icdot-C34.9
+  label: Lung and bronchus
+updated: '2020-03-03'

@@ -1,10 +1,14 @@
 equivalents:
-- label: Upper gingival squamous cell carcinoma
-  id: ncit:C8173
+- id: ncit:C4833
+  label: Oral Cavity Squamous Cell Carcinoma
 examples:
-- labels: Upper gingival squamous cell carcinoma [cell line Sa3]
+- squamous cell carcinoma [oral]
+- head and neck squamous cell carcinoma [Floor of Mouth]
+- head and neck squamous cell carcinoma [Buccal Mucosa]
+- head and neck squamous cell carcinoma [Oral Cavity]
 input:
-- label: Squamous cell carcinoma, NOS
-  id: icdom-80703
-- label: Mouth, NOS
-  id: icdot-C06.9
+- id: icdom-80703
+  label: Squamous cell carcinoma, NOS
+- id: icdot-C06.9
+  label: Mouth, NOS
+updated: '2020-03-03'

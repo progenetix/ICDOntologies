@@ -1,10 +1,12 @@
 equivalents:
-- label: Adenocarcinoma
-  id: ncit:C2852
+- id: ncit:C4906
+  label: Parathyroid Gland Carcinoma
 examples:
-- labels: parathyroid carcinoma [Sporadic]
+- parathyroid carcinoma [Sporadic]
+- parathyroid carcinoma [Familial]
 input:
-- label: Adenocarcinoma, NOS
-  id: icdom-81403
-- label: Parathyroid gland
-  id: icdot-C75.0
+- id: icdom-81403
+  label: Adenocarcinoma, NOS
+- id: icdot-C75.0
+  label: Parathyroid gland
+updated: '2020-03-03'

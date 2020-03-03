@@ -1,10 +1,14 @@
 equivalents:
-- label: Leiomyosarcoma
-  id: ncit:C3158
+- id: ncit:C3158
+  label: Leiomyosarcoma
 examples:
-- labels: Pleomorphic Leiomyosarcoma [grade III, primary]
+- Leiomyosarcoma
+- leiomyosarcoma
+- Leiomyosarcoma [cell line LMS05]
+- Leiomyosarcoma [cell line LMS]
 input:
-- label: Leiomyosarcoma, NOS
-  id: icdom-88903
-- label: Connective and soft tissue, NOS
-  id: icdot-C49.9
+- id: icdom-88903
+  label: Leiomyosarcoma, NOS
+- id: icdot-C49.9
+  label: Connective and soft tissue, NOS
+updated: '2020-03-03'

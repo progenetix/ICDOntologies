@@ -1,10 +1,11 @@
 equivalents:
-- label: Thyroid Gland Fetal Adenoma
-  id: ncit:C4160
+- id: ncit:C4160
+  label: 'Thyroid Gland Microfollicular Adenoma '
 examples:
-- labels: Fetal adenoma of the thyroid
+- Fetal adenoma of the thyroid
 input:
-- label: Microfollicular adenoma, NOS
-  id: icdom-83330
-- label: Thyroid gland
-  id: icdot-C73.9
+- id: icdom-83330
+  label: Microfollicular adenoma, NOS
+- id: icdot-C73.9
+  label: Thyroid gland
+updated: '2020-03-03'

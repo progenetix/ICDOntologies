@@ -1,10 +1,14 @@
 equivalents:
-- label: Cervical adenosquamous carcinoma
-  id: ncit:C4519
+- id: ncit:C4519
+  label: Cervical adenosquamous carcinoma
 examples:
-- labels: Cervical adenosquamous carcinoma [cell line CC-8]
+- Cervical adenosquamous carcinoma [cell line CC-8]
+- Cervical adenosquamous carcinoma [cell line CC-10A]
+- Cervical adenosquamous carcinoma [cell line CC-10B]
+- Cervical adenosquamous carcinoma [cell line CC-11-]
 input:
-- label: Adenosquamous carcinoma
-  id: icdom-85603
-- label: Cervix uteri
-  id: icdot-C53.9
+- id: icdom-85603
+  label: Adenosquamous carcinoma
+- id: icdot-C53.9
+  label: Cervix uteri
+updated: '2020-03-03'

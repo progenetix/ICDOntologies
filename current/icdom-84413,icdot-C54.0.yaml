@@ -1,10 +1,11 @@
 equivalents:
-- label: Serous Cystadenocarcinoma
-  id: ncit:C3778
+- id: ncit:C40099
+  label: Fallopian Tube Serous Adenocarcinoma
 examples:
-- labels: Fallopian tube tumor
+- Fallopian tube tumor
 input:
-- label: Serous cystadenocarcinoma, NOS
-  id: icdom-84413
-- label: Fallopian tube
-  id: icdot-C54.0
+- id: icdom-84413
+  label: Serous cystadenocarcinoma, NOS
+- id: icdot-C54.0
+  label: Fallopian tube
+updated: '2020-03-03'

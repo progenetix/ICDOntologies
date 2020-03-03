@@ -1,10 +1,11 @@
 equivalents:
-- label: Solitary Fibrous Tumor
-  id: ncit:C7634
+- id: ncit:C7634
+  label: Solitary Fibrous Tumor
 examples:
-- labels: solitary fibrous tumor
+- solitary fibrous tumor
 input:
-- label: Solitary fibrous tumor
-  id: icdom-88150
-- label: Connective and soft tissue, NOS
-  id: icdot-C49.9
+- id: icdom-88150
+  label: Solitary fibrous tumor
+- id: icdot-C49.9
+  label: Connective and soft tissue, NOS
+updated: '2020-03-03'

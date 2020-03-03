@@ -1,10 +1,14 @@
 equivalents:
-- label: Skin Squamous Cell Carcinoma
-  id: ncit:C4819
+- id: ncit:C4819
+  label: Skin Squamous Cell Carcinoma
 examples:
-- labels: Cutaneous squamous cell carcinoma
+- squamous cell carcinoma [cell line]
+- Vulvar squamous cell carcinoma [cell line A-431]
+- Cutaneous squamous cell carcinoma
+- Squamous cell carcinoma [ear]
 input:
-- label: Squamous cell carcinoma, NOS
-  id: icdom-80703
-- label: Skin, NOS
-  id: icdot-C44.9
+- id: icdom-80703
+  label: Squamous cell carcinoma, NOS
+- id: icdot-C44.9
+  label: Skin, NOS
+updated: '2020-03-03'

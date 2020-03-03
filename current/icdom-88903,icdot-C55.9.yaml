@@ -1,10 +1,14 @@
 equivalents:
-- label: Leiomyosarcoma
-  id: ncit:C3158
+- id: ncit:C6340
+  label: Uterine Corpus Leiomyosarcoma
 examples:
-- labels: Uterine Leiomyosarcoma [grade I]
+- Uterine corpus leiomyosarcoma [cell line SK-UT-1B]
+- uterine corpus sarcoma [cell line SKN]
+- Uterine Leiomyosarcoma [grade I]
+- Uterine Leiomyosarcoma [grade III, stage A]
 input:
-- label: Leiomyosarcoma, NOS
-  id: icdom-88903
-- label: Uterus, NOS
-  id: icdot-C55.9
+- id: icdom-88903
+  label: Leiomyosarcoma, NOS
+- id: icdot-C55.9
+  label: Uterus, NOS
+updated: '2020-03-03'

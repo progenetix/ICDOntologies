@@ -1,11 +1,14 @@
 equivalents:
-- label: Adenocarcinoma
-  id: ncit:C2852
+- id: ncit:C9383
+  label: 'Rectal Adenocarcinoma '
 examples:
-- labels: Rectal adenocarcinoma with choriocarcinomatous differentiation [adenocarcinomatous
-    part]
+- rectal adenocarcinoma
+- Rectal adenocarcinoma [cell line SW837]
+- rectum adenocarcinoma [Rectum]
+- rectum adenocarcinoma
 input:
-- label: Adenocarcinoma, NOS
-  id: icdom-81403
-- label: Rectum, NOS
-  id: icdot-C20.9
+- id: icdom-81403
+  label: Adenocarcinoma, NOS
+- id: icdot-C20.9
+  label: Rectum, NOS
+updated: '2020-03-03'

@@ -1,10 +1,14 @@
 equivalents:
-- label: Thyroid Gland Papillary Carcinoma
-  id: ncit:C4035
+- id: ncit:C6975
+  label: Papillary Renal Cell Carcinoma
 examples:
-- labels: Papillary renal carcinoma [lung metastasis derived cell line]
+- renal cell carcinoma [papillary RCC]
+- papillary renal cell carcinoma
+- kidney renal papillary cell carcinoma
+- lung adenocarcinoma [R-Upper]
 input:
-- label: Papillary adenocarcinoma, NOS
-  id: icdom-82603
-- label: Kidney
-  id: icdot-C64.9
+- id: icdom-82603
+  label: Papillary adenocarcinoma, NOS
+- id: icdot-C64.9
+  label: Kidney
+updated: '2020-03-03'

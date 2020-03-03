@@ -1,10 +1,14 @@
 equivalents:
-- label: Lipoma
-  id: ncit:C3192
+- id: ncit:C3192
+  label: Lipoma
 examples:
-- labels: Atypical lipomatous tumor/atypical lipoma/well-differentiated liposarcoma
+- lipoma
+- Lipoma [Infiltrating intramuscular lipoma of the temporal muscle]
+- Atypical lipomatous tumor/atypical lipoma/well-differentiated liposarcoma
+- Lipoma
 input:
-- label: Lipoma, NOS
-  id: icdom-88500
-- label: Connective and soft tissue, NOS
-  id: icdot-C49.9
+- id: icdom-88500
+  label: Lipoma, NOS
+- id: icdot-C49.9
+  label: Connective and soft tissue, NOS
+updated: '2020-03-03'

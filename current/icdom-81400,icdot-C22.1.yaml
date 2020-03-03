@@ -1,10 +1,11 @@
 equivalents:
-- label: Adenoma
-  id: ncit:C2855
+- id: ncit:C7126
+  label: 'Intrahepatic Bile Duct Adenoma  '
 examples:
-- labels: Intrahepatic cile duct adenoma
+- Intrahepatic cile duct adenoma
 input:
-- label: Adenoma, NOS
-  id: icdom-81400
-- label: Intrahepatic bile ducts
-  id: icdot-C22.1
+- id: icdom-81400
+  label: Adenoma, NOS
+- id: icdot-C22.1
+  label: Intrahepatic bile ducts
+updated: '2020-03-03'

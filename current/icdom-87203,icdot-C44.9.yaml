@@ -1,10 +1,14 @@
 equivalents:
-- label: Melanoma
-  id: ncit:C3224
+- id: ncit:C3510
+  label: Cutaneous Melanoma
 examples:
-- labels: Recurrent Melanoma
+- malignant melanoma [cell line WM1366]
+- malignant melanoma [cell line WM88]
+- malignant melanoma [cell line WM3248]
+- malignant melanoma [cell line 1205Lu]
 input:
-- label: Malignant melanoma, NOS
-  id: icdom-87203
-- label: Skin, NOS
-  id: icdot-C44.9
+- id: icdom-87203
+  label: Malignant melanoma, NOS
+- id: icdot-C44.9
+  label: Skin, NOS
+updated: '2020-03-03'

@@ -1,10 +1,14 @@
 equivalents:
-- label: Pleomorphic Rhabdomyosarcoma
-  id: ncit:C4258
+- id: ncit:C27369
+  label: Adult Pleomorphic Rhabdomyosarcoma
 examples:
-- labels: Pleomorphic rhabdomyosarcoma [PAX3-FKHR pos.]
+- Pleomorphic rhabdomyosarcoma [PAX3-FKHR pos.]
+- Pleomorphic rhabdomyosarcoma [PAX3-FKHR ND]
+- Pleomorphic rhabdomyosarcoma [limb, PAX3-FKHR neg.]
+- Pleomorphic rhabdomyosarcoma [buttock, PAX3-FKHR neg.]
 input:
-- label: Pleomorphic rhabdomyosarcoma, adult type
-  id: icdom-89013
-- label: Connective and soft tissue, NOS
-  id: icdot-C49.9
+- id: icdom-89013
+  label: Pleomorphic rhabdomyosarcoma, adult type
+- id: icdot-C49.9
+  label: Connective and soft tissue, NOS
+updated: '2020-03-03'

@@ -1,10 +1,14 @@
 equivalents:
-- label: Lung giant cell carcinoma
-  id: ncit:C4452
+- id: ncit:C4452
+  label: Lung giant cell carcinoma
 examples:
-- labels: Lung giant cell carcinoma [cell line HCC1359]
+- Lung giant cell carcinoma [cell line HCC1359]
+- Lung giant cell carcinoma [cell line Lu-65]
+- Lung giant cell carcinoma [cell line LU-65B]
+- Lung giant cell carcinoma [cell line LU-65A]
 input:
-- label: Giant cell carcinoma
-  id: icdom-80313
-- label: Lung and bronchus
-  id: icdot-C34.9
+- id: icdom-80313
+  label: Giant cell carcinoma
+- id: icdot-C34.9
+  label: Lung and bronchus
+updated: '2020-03-03'

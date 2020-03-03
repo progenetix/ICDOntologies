@@ -1,10 +1,14 @@
 equivalents:
-- label: Serous Cystadenocarcinoma
-  id: ncit:C3776
+- id: ncit:C4026
+  label: 'Ovarian Mucinous Cystadenocarcinoma '
 examples:
-- labels: Mucinous cystadenocarcinoma
+- Ovarian mucinous cystadenocarcinoma [cell line MCAS]
+- malignant epithelial ovarian cancer [side population cells]
+- Mucinous cystadenocarcinoma
+- Ovarian carcinoma [Mucinous cystadenocarcinoma]
 input:
-- label: Mucinous cystadenocarcinoma, NOS
-  id: icdom-84703
-- label: Ovary
-  id: icdot-C56.9
+- id: icdom-84703
+  label: Mucinous cystadenocarcinoma, NOS
+- id: icdot-C56.9
+  label: Ovary
+updated: '2020-03-03'

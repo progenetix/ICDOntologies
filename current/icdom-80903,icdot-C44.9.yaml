@@ -1,10 +1,14 @@
 equivalents:
-- label: Skin Pigmented Basal Cell Carcinoma
-  id: ncit:C9359
+- id: ncit:C2921
+  label: Skin Basal Cell Carcinoma
 examples:
-- labels: basal cell carcinoma [Temple, Nodular]
+- basal cell carcinoma [Temple, Nodular]
+- basal cell carcinoma [Arm, Superficial]
+- basal cell carcinoma [Shoulder, Superficial]
+- basal cell carcinoma [Ear, Nodular]
 input:
-- label: Basal cell carcinoma, NOS
-  id: icdom-80903
-- label: Skin, NOS
-  id: icdot-C44.9
+- id: icdom-80903
+  label: Basal cell carcinoma, NOS
+- id: icdot-C44.9
+  label: Skin, NOS
+updated: '2020-03-03'

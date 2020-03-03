@@ -1,11 +1,14 @@
 equivalents:
-- label: Adenocarcinoma
-  id: ncit:C2852
+- id: ncit:C3512
+  label: Lung Adenocarcinoma
 examples:
-- labels: Pulmonary adenocarcinoma [Mixed AC, papillary, tubular, bronchioloalveolar,
-    solid, mucinous, CGH in adenocarcinomacomponent]
+- lung adenocarcinoma [cell line NCI-H1819]
+- Lung adenocarcinoma [cell line HCC1171]
+- Lung adenocarcinoma [cell line HCC193]
+- Lung adenocarcinoma [cell line HCC461]
 input:
-- label: Adenocarcinoma, NOS
-  id: icdom-81403
-- label: Lung and bronchus
-  id: icdot-C34.9
+- id: icdom-81403
+  label: Adenocarcinoma, NOS
+- id: icdot-C34.9
+  label: Lung and bronchus
+updated: '2020-03-03'

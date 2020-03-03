@@ -1,10 +1,13 @@
 equivalents:
-- label: High Grade Squamous Intraepithelial Neoplasia
-  id: ncit:C8336
+- id: ncit:C40197
+  label: High Grade Cervical Squamous Intraepithelial Neoplasia
 examples:
-- labels: Squamous intraepithelial neoplasia, grade III
+- cervical intraepithelial neoplasia
+- Cervical intraepithelial neoplasia
+- Squamous intraepithelial neoplasia, grade III
 input:
-- label: Squamous intraepithelial neoplasia, grade III
-  id: icdom-80772
-- label: Cervix uteri
-  id: icdot-C53.9
+- id: icdom-80772
+  label: Squamous intraepithelial neoplasia, grade III
+- id: icdot-C53.9
+  label: Cervix uteri
+updated: '2020-03-03'

@@ -1,10 +1,13 @@
 equivalents:
-- label: Pancreatic Neuroendocrine Tumor
-  id: ncit:C27720
+- id: ncit:C27720
+  label: Pancreatic Neuroendocrine Tumor
 examples:
-- labels: PP-oma
+- endocrine pancreatic tumor [Nonfunctional]
+- Insuloma
+- PP-oma
 input:
-- label: Pancreatic endocrine tumor, NOS (C25._)
-  id: icdom-81501
-- label: Pancreas, NOS
-  id: icdot-C25.9
+- id: icdom-81501
+  label: Pancreatic endocrine tumor, NOS (C25._)
+- id: icdot-C25.9
+  label: Pancreas, NOS
+updated: '2020-03-03'

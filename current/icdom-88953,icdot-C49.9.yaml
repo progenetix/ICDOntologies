@@ -1,10 +1,12 @@
 equivalents:
-- label: Malignant Muscle Neoplasm
-  id: ncit:C4883
+- id: ncit:C4883
+  label: Malignant Muscle Neoplasm
 examples:
-- labels: Myosarcoma NOS [grade III, primary]
+- Myosarcoma NOS [grade III, primary]
+- Myosarcoma NOS [grade IV, primary]
 input:
-- label: Myosarcoma
-  id: icdom-88953
-- label: Connective and soft tissue, NOS
-  id: icdot-C49.9
+- id: icdom-88953
+  label: Myosarcoma
+- id: icdot-C49.9
+  label: Connective and soft tissue, NOS
+updated: '2020-03-03'

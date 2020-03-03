@@ -1,10 +1,14 @@
 equivalents:
-- label: Endometrioid Adenocarcinoma
-  id: ncit:C3769
+- id: ncit:C7979
+  label: Ovarian Endometrioid Adenocarcinoma
 examples:
-- labels: Endometroid adenocarcinoma
+- Ovarian endometrioid adenocarcinoma [cell line TOV-112D]
+- ovarian endometrioid adenocarcinoma [cell line OV-TRL-90T]
+- ovarian endometrioid adenocarcinoma (taxene treated) [cell line 1A9]
+- ovarian endometrioid adenocarcinoma (Taxene treated) [cell line 1A9/T80]
 input:
-- label: Endometrioid adenocarcinoma, NOS
-  id: icdom-83803
-- label: Ovary
-  id: icdot-C56.9
+- id: icdom-83803
+  label: Endometrioid adenocarcinoma, NOS
+- id: icdot-C56.9
+  label: Ovary
+updated: '2020-03-03'

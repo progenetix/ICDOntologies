@@ -1,10 +1,14 @@
 equivalents:
-- label: Neuroendocrine Carcinoma
-  id: ncit:C3773
+- id: ncit:C3770
+  label: Pancreatic Neuroendocrine Tumor
 examples:
-- labels: neuroendocrine tumour [pancreas, Liver metastasis, functional]
+- thymic neuroendocrine tumor [pancreas recurrence]
+- neuroendocrine tumour [pancreas, Liver metastasis, functional]
+- neuroendocrine tumour [pancreas, Liver, lymphnodes metastasis, non-functional]
+- neuroendocrine tumour [pancreas, Liver, lung metastasis, non-functional]
 input:
-- label: Neuroendocrine carcinoma, NOS
-  id: icdom-82463
-- label: Pancreas, NOS
-  id: icdot-C25.9
+- id: icdom-82463
+  label: Neuroendocrine carcinoma, NOS
+- id: icdot-C25.9
+  label: Pancreas, NOS
+updated: '2020-03-03'

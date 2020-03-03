@@ -1,10 +1,13 @@
 equivalents:
-- label: Thymoma Type B3
-  id: ncit:C7997
+- id: ncit:C7997
+  label: Thymoma Type B3
 examples:
-- labels: Thymoma [WHO B3]
+- Thymoma [WHO B3]
+- Thymoma [WHO B3, recurrence]
+- Primary Tumor
 input:
-- label: Thymoma, type B3, malignant
-  id: icdom-85853
-- label: Thymus
-  id: icdot-C37.9
+- id: icdom-85853
+  label: Thymoma, type B3, malignant
+- id: icdot-C37.9
+  label: Thymus
+updated: '2020-03-03'

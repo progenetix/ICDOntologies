@@ -1,10 +1,14 @@
 equivalents:
-- label: Oncocytic Adenoma
-  id: ncit:C3759
+- id: ncit:C4526
+  label: Kidney Oncocytoma
 examples:
-- labels: Oncocytoma
+- renal oncocytoma
+- Renal oncocytoma
+- Oncocytoma
+- renal oncocytoma [familial]
 input:
-- label: Oxyphilic adenoma
-  id: icdom-82900
-- label: Kidney
-  id: icdot-C64.9
+- id: icdom-82900
+  label: Oxyphilic adenoma
+- id: icdot-C64.9
+  label: Kidney
+updated: '2020-03-03'

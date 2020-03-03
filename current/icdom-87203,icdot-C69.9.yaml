@@ -1,10 +1,14 @@
 equivalents:
-- label: Melanoma
-  id: ncit:C3224
+- id: ncit:C8562
+  label: Ocular Melanoma
 examples:
-- labels: Choroidal melanoma
+- Uveal melanoma [hepatic metastatic]
+- Uveal melanoma
+- uveal melanoma
+- Choroidal melanoma
 input:
-- label: Malignant melanoma, NOS
-  id: icdom-87203
-- label: Eye, NOS
-  id: icdot-C69.9
+- id: icdom-87203
+  label: Malignant melanoma, NOS
+- id: icdot-C69.9
+  label: Eye, NOS
+updated: '2020-03-03'

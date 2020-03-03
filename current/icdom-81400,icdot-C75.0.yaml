@@ -1,10 +1,14 @@
 equivalents:
-- label: Adenoma
-  id: ncit:C2855
+- id: ncit:C3916
+  label: Parathyroid Gland Adenoma
 examples:
-- labels: parathyroid tumor [multiple, primary hyperparathyroidism]
+- adenoma
+- parathyroid tumor [multiple, primary hyperparathyroidism]
+- parathyroid adenoma
+- Parathyroid tumor [lithium associated]
 input:
-- label: Adenoma, NOS
-  id: icdom-81400
-- label: Parathyroid gland
-  id: icdot-C75.0
+- id: icdom-81400
+  label: Adenoma, NOS
+- id: icdot-C75.0
+  label: Parathyroid gland
+updated: '2020-03-03'

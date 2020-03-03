@@ -1,10 +1,14 @@
 equivalents:
-- label: Salivary Gland Adenoid Cystic Carcinoma
-  id: ncit:C8026
+- id: ncit:C8026
+  label: Salivary Gland Adenoid Cystic Carcinoma
 examples:
-- labels: Adenoid cystic carcinoma
+- Adenoid cystic carcinoma
+- adenoid cystic carcinoma [salivary gland, cribriform, Maxilla]
+- adenoid cystic carcinoma [salivary gland, cribriform, Tongue]
+- adenoid cystic carcinoma [salivary gland, cribriform, Cheek]
 input:
-- label: Adenoid cystic carcinoma
-  id: icdom-82003
-- label: Salivary gland, NOS
-  id: icdot-C08.9
+- id: icdom-82003
+  label: Adenoid cystic carcinoma
+- id: icdot-C08.9
+  label: Salivary gland, NOS
+updated: '2020-03-03'

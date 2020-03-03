@@ -1,10 +1,11 @@
 equivalents:
-- label: Carcinoma
-  id: ncit:C2916
+- id: ncit:C40022
+  label: Primary Peritoneal Carcinoma
 examples:
-- labels: primary peritoneal carcinomatosis
+- primary peritoneal carcinomatosis
 input:
-- label: Carcinoma, NOS
-  id: icdom-80103
-- label: Retroperitoneum and peritoneum
-  id: icdot-C48.9
+- id: icdom-80103
+  label: Carcinoma, NOS
+- id: icdot-C48.9
+  label: Retroperitoneum and peritoneum
+updated: '2020-03-03'

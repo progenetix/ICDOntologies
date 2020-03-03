@@ -1,10 +1,11 @@
 equivalents:
-- label: Pancreatic adenosquamous carcinoma
-  id: ncit:C5721
+- id: ncit:C5721
+  label: Pancreatic adenosquamous carcinoma
 examples:
-- labels: Pancreatic adenosquamous carcinoma [cell line KP-3]
+- Pancreatic adenosquamous carcinoma [cell line KP-3]
 input:
-- label: Adenosquamous carcinoma
-  id: icdom-85603
-- label: Pancreas
-  id: icdot-C25.9
+- id: icdom-85603
+  label: Adenosquamous carcinoma
+- id: icdot-C25.9
+  label: Pancreas
+updated: '2020-03-03'

@@ -1,10 +1,14 @@
 equivalents:
-- label: Myxoid Liposarcoma
-  id: ncit:C27781
+- id: ncit:C27781
+  label: Myxoid Liposarcoma
 examples:
-- labels: Myxoid liposarcoma [G2]
+- Liposarcoma, myxoid
+- liposarcoma [myxoid]
+- Myxoid liposarcoma [G2]
+- Myxoid liposarcoma [G2, local recurrence]
 input:
-- label: Myxoid liposarcoma
-  id: icdom-88523
-- label: Connective and soft tissue, NOS
-  id: icdot-C49.9
+- id: icdom-88523
+  label: Myxoid liposarcoma
+- id: icdot-C49.9
+  label: Connective and soft tissue, NOS
+updated: '2020-03-03'

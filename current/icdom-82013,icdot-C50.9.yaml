@@ -1,10 +1,13 @@
 equivalents:
-- label: Cribriform Carcinoma
-  id: ncit:C3680
+- id: ncit:C5142
+  label: Invasive Cribriform Breast Carcinoma
 examples:
-- labels: Ductal carcinoma
+- Ductal carcinoma
+- Adenocarcinoma [breast, cribriform]
+- Primary Tumor
 input:
-- label: Cribriform carcinoma, NOS
-  id: icdom-82013
-- label: Breast, NOS
-  id: icdot-C50.9
+- id: icdom-82013
+  label: Cribriform carcinoma, NOS
+- id: icdot-C50.9
+  label: Breast, NOS
+updated: '2020-03-03'

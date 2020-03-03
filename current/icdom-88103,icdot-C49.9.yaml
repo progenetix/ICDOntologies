@@ -1,10 +1,14 @@
 equivalents:
-- label: Fibrosarcoma
-  id: ncit:C3043
+- id: ncit:C3043
+  label: Fibrosarcoma
 examples:
-- labels: Fibrosarcoma G1 [local recurrence]
+- Fibrosarcoma [cell line A-204]
+- Fibrosarcoma [cell line HT-1080]
+- Fibrosarcoma [cell line SW684]
+- Fibrosarcoma [cell line HT-1080, modified]
 input:
-- label: Fibrosarcoma, NOS
-  id: icdom-88103
-- label: Connective and soft tissue, NOS
-  id: icdot-C49.9
+- id: icdom-88103
+  label: Fibrosarcoma, NOS
+- id: icdot-C49.9
+  label: Connective and soft tissue, NOS
+updated: '2020-03-03'

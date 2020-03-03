@@ -1,10 +1,14 @@
 equivalents:
-- label: Ovarian endometrioid adenocarcinoma
-  id: ncit:C7979
+- id: ncit:C5228
+  label: 'Ovarian Cystadenocarcinoma '
 examples:
-- labels: Ovarian cystoadenocarcinoma [cell line IGROV-1]
+- Ovarian cystadenocarcinoma [cell line OAW42]
+- Ovarian cystoadenocarcinoma [cell line IGROV-1]
+- Ovarian cystadenocarcinoma [cell line PEO6]
+- Primary Tumor
 input:
-- label: Cystadenocarcinoma, NOS
-  id: icdom-84403
-- label: Ovary
-  id: icdot-C56.9
+- id: icdom-84403
+  label: Cystadenocarcinoma, NOS
+- id: icdot-C56.9
+  label: Ovary
+updated: '2020-03-03'

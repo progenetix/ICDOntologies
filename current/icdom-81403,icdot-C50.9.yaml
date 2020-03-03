@@ -1,10 +1,14 @@
 equivalents:
-- label: Adenocarcinoma
-  id: ncit:C2852
+- id: ncit:C5214
+  label: 'Breast Adenocarcinoma '
 examples:
-- labels: Adenocarcinoma, NOS
+- Adenocarcinoma, NOS
+- breast carcinoma [adenocarcinoma, cell line AU565]
+- breast carcinoma [adenocarcinoma, cell line CAMA1]
+- breast carcinoma [adenocarcinoma, cell line HCC1428]
 input:
-- label: Adenocarcinoma, NOS
-  id: icdom-81403
-- label: Breast, NOS
-  id: icdot-C50.9
+- id: icdom-81403
+  label: Adenocarcinoma, NOS
+- id: icdot-C50.9
+  label: Breast, NOS
+updated: '2020-03-03'

@@ -1,10 +1,14 @@
 equivalents:
-- label: Clear Cell Adenocarcinoma
-  id: ncit:C3766
+- id: ncit:C40078
+  label: 'Ovarian Clear Cell Adenocarcinoma '
 examples:
-- labels: Pleomorphic adenoma
+- ovarian clear cell adenocarcinoma [cell line TOV21G]
+- ovarian clear cell adenocarcinoma [cell line ES-2]
+- ovarian clear cell adenocarcinoma [cell line OVMANA]
+- ovarian clear cell adenocarcinoma [cell line OVTOKO]
 input:
-- label: Clear cell adenocarcinoma, NOS
-  id: icdom-83103
-- label: Ovary
-  id: icdot-C56.9
+- id: icdom-83103
+  label: Clear cell adenocarcinoma, NOS
+- id: icdot-C56.9
+  label: Ovary
+updated: '2020-03-03'

@@ -1,10 +1,14 @@
 equivalents:
-- label: Metaplastic Carcinoma
-  id: ncit:C27949
+- id: ncit:C5164
+  label: 'Metaplastic Breast Carcinoma '
 examples:
-- labels: Metaplastic carcinoma, NOS
+- breast carcinoma [metaplastic carcinoma, cell line HCC1569]
+- breast carcinoma [metaplastic carcinoma, cell line MDAMB157]
+- Metaplastic carcinoma, NOS
+- Primary Tumor
 input:
-- label: Metaplastic carcinoma, NOS
-  id: icdom-85753
-- label: Breast, NOS
-  id: icdot-C50.9
+- id: icdom-85753
+  label: Metaplastic carcinoma, NOS
+- id: icdot-C50.9
+  label: Breast, NOS
+updated: '2020-03-03'

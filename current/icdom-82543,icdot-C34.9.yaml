@@ -1,10 +1,14 @@
 equivalents:
-- label: Bronchioloalveolar carcinoma
-  id: ncit:C2923
+- id: ncit:C7270
+  label: 'Mixed Mucinous and Non-Mucinous Bronchioloalveolar Carcinoma '
 examples:
-- labels: Bronchioalveolar carcinoma [cell line NCI-H358]
+- Bronchioalveolar carcinoma [cell line NCI-H358]
+- bronchioalveolar carcinoma [cell line NCI-H322M]
+- bronchioalveolar carcinoma [cell line NCI-H322]
+- Bronchioalveolar carcinoma [cell line SW1573]
 input:
-- label: Bronchiolo-alveolar carcinoma, mixed mucinous and non-mucinous
-  id: icdom-82543
-- label: Lung and bronchus
-  id: icdot-C34.9
+- id: icdom-82543
+  label: Bronchiolo-alveolar carcinoma, mixed mucinous and non-mucinous
+- id: icdot-C34.9
+  label: Lung and bronchus
+updated: '2020-03-03'

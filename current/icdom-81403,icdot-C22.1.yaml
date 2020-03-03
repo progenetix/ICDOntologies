@@ -1,11 +1,16 @@
 equivalents:
-- label: Adenocarcinoma
-  id: ncit:C2852
+- id: ncit:C35417
+  label: Intrahepatic Cholangiocarcinoma
 examples:
-- labels: biliary tract tumor [intrahepatic bile duct adenocarcinoma, adenocarcinoma,
-    moderately differentiated]
+- biliary tract tumor [intrahepatic bile duct adenocarcinoma, adenocarcinoma, moderately
+  differentiated]
+- biliary tract tumor [intrahepatic bile duct adenocarcinoma, adenocarcinoma, poorly
+  differentiated]
+- biliary tract tumor [hilar bile duct adenocarcinoma, adenocarcinoma, well differentiated]
+- biliary tract tumor [hilar bile duct adenocarcinoma, adenocarcinoma, poorly differentiated]
 input:
-- label: Adenocarcinoma, NOS
-  id: icdom-81403
-- label: Intrahepatic bile ducts
-  id: icdot-C22.1
+- id: icdom-81403
+  label: Adenocarcinoma, NOS
+- id: icdot-C22.1
+  label: Intrahepatic bile ducts
+updated: '2020-03-03'

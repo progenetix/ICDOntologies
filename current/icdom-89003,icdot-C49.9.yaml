@@ -1,10 +1,14 @@
 equivalents:
-- label: Alveolar rhabdomyosarcoma
-  id: ncit:C3749
+- id: ncit:C3359
+  label: Rhabdomyosarcoma
 examples:
-- labels: Alveolar rhabdomyosarcoma [cell line Rh18c]
+- Rhabdomyosarcoma
+- Rhabdomyosarcoma [cell line GCT]
+- Alveolar rhabdomyosarcoma [cell line Rh18c]
+- Rhabdomyosarcoma [cell line Rh30]
 input:
-- label: Rhabdomyosarcoma, NOS
-  id: icdom-89003
-- label: Connective and soft tissue, NOS
-  id: icdot-C49.9
+- id: icdom-89003
+  label: Rhabdomyosarcoma, NOS
+- id: icdot-C49.9
+  label: Connective and soft tissue, NOS
+updated: '2020-03-03'

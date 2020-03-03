@@ -1,10 +1,14 @@
 equivalents:
-- label: Gastric Intestinal Type Adenocarcinoma
-  id: ncit:C9157
+- id: ncit:C9157
+  label: Gastric Intestinal Type Adenocarcinoma
 examples:
-- labels: carcinoma [gastric, intestinal]
+- Gastric adenocarcinoma [intestinal type, MSI-L, LOH-H]
+- Gastric adenocarcinoma [intestinal type, MSI-H]
+- carcinoma [gastric, intestinal]
+- gastric adenocarcinoma
 input:
-- label: Adenocarcinoma, intestinal type
-  id: icdom-81443
-- label: Stomach
-  id: icdot-C16.9
+- id: icdom-81443
+  label: Adenocarcinoma, intestinal type
+- id: icdot-C16.9
+  label: Stomach
+updated: '2020-03-03'

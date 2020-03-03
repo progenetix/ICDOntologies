@@ -1,10 +1,13 @@
 equivalents:
-- label: Carcinoid Tumor
-  id: ncit:C2915
+- id: ncit:C4038
+  label: Lung Carcinoid Tumor
 examples:
-- labels: Carcinoid tumor
+- Bronchial carcinoid
+- Carcinoid tumor
+- carcinoid [lung]
 input:
-- label: Carcinoid tumor, NOS
-  id: icdom-82403
-- label: Lung and bronchus
-  id: icdot-C34.9
+- id: icdom-82403
+  label: Carcinoid tumor, NOS
+- id: icdot-C34.9
+  label: Lung and bronchus
+updated: '2020-03-03'

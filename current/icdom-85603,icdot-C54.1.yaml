@@ -1,10 +1,11 @@
 equivalents:
-- label: Endometrial adenosquamous carcinoma
-  id: ncit:C114656
+- id: ncit:C114656
+  label: Endometrial adenosquamous carcinoma
 examples:
-- labels: endometrial adenosquamous carcinoma [cell line MFE-319]
+- endometrial adenosquamous carcinoma [cell line MFE-319]
 input:
-- label: Adenosquamous carcinoma
-  id: icdom-85603
-- label: Endometrium
-  id: icdot-C54.1
+- id: icdom-85603
+  label: Adenosquamous carcinoma
+- id: icdot-C54.1
+  label: Endometrium
+updated: '2020-03-03'

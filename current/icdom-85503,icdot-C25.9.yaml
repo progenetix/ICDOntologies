@@ -1,10 +1,11 @@
 equivalents:
-- label: Acinar Cell Carcinoma
-  id: ncit:C3768
+- id: ncit:C7977
+  label: Pancreatic Acinar Cell Carcinoma
 examples:
-- labels: pancreatic acinar carcinoma
+- pancreatic acinar carcinoma
 input:
-- label: Acinar cell carcinoma
-  id: icdom-85503
-- label: Pancreas, NOS
-  id: icdot-C25.9
+- id: icdom-85503
+  label: Acinar cell carcinoma
+- id: icdot-C25.9
+  label: Pancreas, NOS
+updated: '2020-03-03'

@@ -1,10 +1,14 @@
 equivalents:
-- label: Adenocarcinoma
-  id: ncit:C2852
+- id: ncit:C8294
+  label: Pancreatic Adenocarcinoma
 examples:
-- labels: pancreas ductal adenocarcinoma [cell line Cfpac1, liver metastasis]
+- Pancreatic ductal adenocarcinoma
+- pancreas adenocarcinoma [cell line]
+- pancreatic ductal adenocarcinoma
+- Pancreatic ductal adenocarcinoma [cell line PANC-1]
 input:
-- label: Adenocarcinoma, NOS
-  id: icdom-81403
-- label: Pancreas, NOS
-  id: icdot-C25.9
+- id: icdom-81403
+  label: Adenocarcinoma, NOS
+- id: icdot-C25.9
+  label: Pancreas, NOS
+updated: '2020-03-03'

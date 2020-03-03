@@ -1,10 +1,14 @@
 equivalents:
-- label: Esophageal Adenocarcinoma
-  id: ncit:C4025
+- id: ncit:C4025
+  label: Esophageal Adenocarcinoma
 examples:
-- labels: Esophageal adenocarcinoma
+- adenocarcinoma [esophagus]
+- Esophageal adenocarcinoma
+- esophageal adenocarcinoma
+- Esophageal adenocarcinoma [cell line OE19]
 input:
-- label: Adenocarcinoma, NOS
-  id: icdom-81403
-- label: Esophagus
-  id: icdot-C15.9
+- id: icdom-81403
+  label: Adenocarcinoma, NOS
+- id: icdot-C15.9
+  label: Esophagus
+updated: '2020-03-03'

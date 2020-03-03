@@ -1,10 +1,12 @@
 equivalents:
-- label: Pancreatic Neuroendocrine Carcinoma
-  id: ncit:C3770
+- id: ncit:C27720
+  label: 'Pancreatic Neuroendocrine Tumor '
 examples:
-- labels: endocrine pancreatic tumor [Nonfunctional, metastasizing, metastasis]
+- endocrine pancreatic tumor [Nonfunctional, metastasizing, metastasis]
+- endocrine pancreatic tumor [Nonfunctional, metastasizing, primary]
 input:
-- label: Pancreatic endocrine tumor, malignant
-  id: icdom-81503
-- label: Pancreas, NOS
-  id: icdot-C25.9
+- id: icdom-81503
+  label: Pancreatic endocrine tumor, malignant
+- id: icdot-C25.9
+  label: Pancreas, NOS
+updated: '2020-03-03'

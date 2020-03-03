@@ -1,10 +1,13 @@
 equivalents:
-- label: Bone Desmoplastic Fibroma
-  id: ncit:C3740
+- id: ncit:C3740
+  label: Bone Desmoplastic Fibroma
 examples:
-- labels: Desmoplastic fibroma
+- Desmoplastic fibroma
+- Desmoid tumor [abdomen]
+- Desmoid tumor [shoulder]
 input:
-- label: Desmoplastic fibroma
-  id: icdom-88230
-- label: Connective and soft tissue, NOS
-  id: icdot-C49.9
+- id: icdom-88230
+  label: Desmoplastic fibroma
+- id: icdot-C49.9
+  label: Connective and soft tissue, NOS
+updated: '2020-03-03'

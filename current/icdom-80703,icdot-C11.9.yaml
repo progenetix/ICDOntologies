@@ -1,10 +1,13 @@
 equivalents:
-- label: Nasopharyngeal Keratinizing Squamous Cell Carcinoma
-  id: ncit:C7992
+- id: ncit:C102872
+  label: Pharyngeal Squamous Cell Carcinoma
 examples:
-- labels: head and neck carcinoma [cell line]
+- head and neck carcinoma [cell line]
+- Head and neck squamous cell carcinoma [Maxillary antrum, stage I, T4N0M0]
+- Head and neck squamous cell carcinoma [Maxillary antrum, stage III, T4N2Mo]
 input:
-- label: Squamous cell carcinoma, NOS
-  id: icdom-80703
-- label: Nasopharynx
-  id: icdot-C11.9
+- id: icdom-80703
+  label: Squamous cell carcinoma, NOS
+- id: icdot-C11.9
+  label: Nasopharynx
+updated: '2020-03-03'

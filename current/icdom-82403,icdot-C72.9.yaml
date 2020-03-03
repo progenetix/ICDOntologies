@@ -1,10 +1,13 @@
 equivalents:
-- label: Midgut carcinoid tumor
-  id: ncit:C6422
+- id: ncit:C27449
+  label: Small Intestinal Small Cell Neuroendocrine Carcinoma
 examples:
-- labels: midgut carcinoid tumor [cell line H-STS]
+- midgut carcinoid tumor [cell line H-STS]
+- midgut carcinoid tumor [cell line L-STS]
+- midgut carcinoid tumor [cell line P-STS]
 input:
-- label: Carcinoid tumor, NOS
-  id: icdom-82403
-- label: Nervous system, NOS
-  id: icdot-C72.9
+- id: icdom-82403
+  label: Carcinoid tumor, NOS
+- id: icdot-C72.9
+  label: Nervous system, NOS
+updated: '2020-03-03'

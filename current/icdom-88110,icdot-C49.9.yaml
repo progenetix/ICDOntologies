@@ -1,10 +1,11 @@
 equivalents:
-- label: Fibromyxoid Tumor
-  id: ncit:C66760
+- id: ncit:C66760
+  label: Fibromyxoid Tumor
 examples:
-- labels: Fibromyxoid tumor
+- Fibromyxoid tumor
 input:
-- label: Fibromyxoma
-  id: icdom-88110
-- label: Connective and soft tissue, NOS
-  id: icdot-C49.9
+- id: icdom-88110
+  label: Fibromyxoma
+- id: icdot-C49.9
+  label: Connective and soft tissue, NOS
+updated: '2020-03-03'

@@ -1,10 +1,14 @@
 equivalents:
-- label: Ovarian mixed germ cell tumor
-  id: ncit:C8814
+- id: ncit:C4908
+  label: 'Ovarian Carcinoma '
 examples:
-- labels: Ovarian carcinoma [cell line CH1
+- Ovarian carcinoma
+- Ovarian carcinoma [omentum metastasis]
+- Ovarian Carcinoma
+- ovarian carcinoma [cell line]
 input:
-- label: Carcinoma, NOS
-  id: icdom-80103
-- label: Ovary
-  id: icdot-C56.9
+- id: icdom-80103
+  label: Carcinoma, NOS
+- id: icdot-C56.9
+  label: Ovary
+updated: '2020-03-03'

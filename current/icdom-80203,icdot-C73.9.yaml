@@ -1,10 +1,11 @@
 equivalents:
-- label: Undifferentiated Carcinoma
-  id: ncit:C3692
+- id: ncit:C6040
+  label: Poorly Differentiated Thyroid Gland Carcinoma
 examples:
-- labels: Undifferentiated carcinoma
+- Undifferentiated carcinoma
 input:
-- label: Carcinoma, undifferentiated, NOS
-  id: icdom-80203
-- label: Thyroid gland
-  id: icdot-C73.9
+- id: icdom-80203
+  label: Carcinoma, undifferentiated, NOS
+- id: icdot-C73.9
+  label: Thyroid gland
+updated: '2020-03-03'

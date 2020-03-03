@@ -1,10 +1,14 @@
 equivalents:
-- label: Squamous Cell Carcinoma
-  id: ncit:C2929
+- id: ncit:C4024
+  label: Esophageal Squamous Cell Carcinoma
 examples:
-- labels: Esophageal squamous
+- esophageal squamous cell carcinoma
+- Esophageal squamous cell carcinoma
+- esophageal squamous cell carcinoma [cell line TE-1]
+- esophageal squamous cell carcinoma [cell line TE-2]
 input:
-- label: Squamous cell carcinoma, NOS
-  id: icdom-80703
-- label: Esophagus
-  id: icdot-C15.9
+- id: icdom-80703
+  label: Squamous cell carcinoma, NOS
+- id: icdot-C15.9
+  label: Esophagus
+updated: '2020-03-03'

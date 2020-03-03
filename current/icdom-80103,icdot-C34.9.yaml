@@ -1,10 +1,14 @@
 equivalents:
-- label: Carcinoma
-  id: ncit:C2916
+- id: ncit:C4878
+  label: Lung Carcinoma
 examples:
-- labels: carcinoma of the lung or bronchus
+- Lung carcinoma [cell line]
+- lung carcinoma
+- lung carcinoma [brain metastasis]
+- lung carcinoma [primary]
 input:
-- label: Carcinoma, NOS
-  id: icdom-80103
-- label: Lung and bronchus
-  id: icdot-C34.9
+- id: icdom-80103
+  label: Carcinoma, NOS
+- id: icdot-C34.9
+  label: Lung and bronchus
+updated: '2020-03-03'

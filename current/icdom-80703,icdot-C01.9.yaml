@@ -1,10 +1,14 @@
 equivalents:
-- label: Salivary gland squamous cell carcinoma
-  id: ncit:C7991
+- id: ncit:C4648
+  label: 'Tongue Squamous Cell Carcinoma '
 examples:
-- labels: salivary gland squamous cell carcinoma [cell line A-253]
+- salivary gland squamous cell carcinoma [cell line A-253]
+- tongue squamous cell carcinoma [cell line CAL-27]
+- tongue squamous cell carcinoma [cell line SCC-4]
+- tongue squamous cell carcinoma [cell line SCC-9]
 input:
-- label: Squamous cell carcinoma, NOS
-  id: icdom-80703
-- label: Tongue
-  id: icdot-C01.9
+- id: icdom-80703
+  label: Squamous cell carcinoma, NOS
+- id: icdot-C01.9
+  label: Tongue
+updated: '2020-03-03'

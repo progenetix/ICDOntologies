@@ -1,10 +1,14 @@
 equivalents:
-- label: Squamous Cell Carcinoma
-  id: ncit:C2929
+- id: ncit:C4052
+  label: 'Vulvar Squamous Cell Carcinoma  '
 examples:
-- labels: squamous cell carcinomas [HPVpos]
+- Squamous cell carcinoma
+- squamous cell carcinomas [HPVpos]
+- squamous cell carcinomas [HPVneg]
+- squamous cell carcinoma [vulva, stage 3B, HPV16neg, HPV18neg]
 input:
-- label: Squamous cell carcinoma, NOS
-  id: icdom-80703
-- label: Vulva, NOS
-  id: icdot-C51.9
+- id: icdom-80703
+  label: Squamous cell carcinoma, NOS
+- id: icdot-C51.9
+  label: Vulva, NOS
+updated: '2020-03-03'

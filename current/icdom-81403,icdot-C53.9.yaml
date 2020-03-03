@@ -1,10 +1,14 @@
 equivalents:
-- label: Human papillomavirus-related endocervical adenocarcinoma
-  id: ncit:C27677
+- id: ncit:C4029
+  label: Cervical Adenocarcinoma
 examples:
-- labels: Cervix adenocarcinoma [cell line HeLa]
+- Cervix adenocarcinoma [cell line HeLa]
+- cervix carcinoma [adenocarcinoma]
+- adenocarcinoma [cell line HeLa]
+- adenocarcinoma [cervix, cell line HeLa]
 input:
-- label: Adenocarcinoma, NOS
-  id: icdom-81403
-- label: Cervix uteri
-  id: icdot-C53.9
+- id: icdom-81403
+  label: Adenocarcinoma, NOS
+- id: icdot-C53.9
+  label: Cervix uteri
+updated: '2020-03-03'

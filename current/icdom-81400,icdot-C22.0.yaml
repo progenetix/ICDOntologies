@@ -1,10 +1,12 @@
 equivalents:
-- label: Adenoma
-  id: ncit:C2855
+- id: ncit:C3758
+  label: Hepatocellular Adenoma
 examples:
-- labels: focal nodular hyperplasia
+- ''
+- focal nodular hyperplasia
 input:
-- label: Adenoma, NOS
-  id: icdom-81400
-- label: Liver
-  id: icdot-C22.0
+- id: icdom-81400
+  label: Adenoma, NOS
+- id: icdot-C22.0
+  label: Liver
+updated: '2020-03-03'

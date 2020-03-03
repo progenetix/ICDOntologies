@@ -1,10 +1,13 @@
 equivalents:
-- label: Adenoid Cystic Carcinoma
-  id: ncit:C2970
+- id: ncit:C6051
+  label: Tracheal Adenoid Cystic Carcinoma
 examples:
-- labels: adenoid cystic carcinomas [trachea, grade I, stage I]
+- Adenoid cystic carcinoma
+- adenoid cystic carcinomas [trachea, grade I, stage I]
+- adenoid cystic carcinomas [trachea, grade II, stage III B]
 input:
-- label: Adenoid cystic carcinoma
-  id: icdom-82003
-- label: Trachea
-  id: icdot-C33.9
+- id: icdom-82003
+  label: Adenoid cystic carcinoma
+- id: icdot-C33.9
+  label: Trachea
+updated: '2020-03-03'

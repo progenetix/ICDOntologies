@@ -1,10 +1,14 @@
 equivalents:
-- label: Chromophobe Renal Cell Carcinoma
-  id: ncit:C4146
+- id: ncit:C4146
+  label: Chromophobe Renal Cell Carcinoma
 examples:
-- labels: Renal cell carcinoma, chromophobe type
+- Chromophobe Renal carcinoma
+- renal cell carcinoma [chromophobe RCC]
+- Renal cell carcinoma, chromophobe type
+- renal cell carcinoma [chromophobe]
 input:
-- label: Renal cell carcinoma, chromophobe type
-  id: icdom-83173
-- label: Kidney
-  id: icdot-C64.9
+- id: icdom-83173
+  label: Renal cell carcinoma, chromophobe type
+- id: icdot-C64.9
+  label: Kidney
+updated: '2020-03-03'

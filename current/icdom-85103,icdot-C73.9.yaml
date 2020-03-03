@@ -1,10 +1,14 @@
 equivalents:
-- label: Medullary Carcinoma, Not Otherwise Specified
-  id: ncit:C66718
+- id: ncit:C3879
+  label: 'Thyroid Gland Medullary Carcinoma '
 examples:
-- labels: Medullary carcinoma of the thyroid
+- Medullary thyroid carcinoma
+- sporadic medullary thyroid carcinoma
+- Medullary thyroid carcinoma [familial, Sporadic, RET status WT, Primary]
+- Medullary thyroid carcinoma [familial, Sporadic, RET status M918T, Node]
 input:
-- label: Medullary carcinoma, NOS
-  id: icdom-85103
-- label: Thyroid gland
-  id: icdot-C73.9
+- id: icdom-85103
+  label: Medullary carcinoma, NOS
+- id: icdot-C73.9
+  label: Thyroid gland
+updated: '2020-03-03'

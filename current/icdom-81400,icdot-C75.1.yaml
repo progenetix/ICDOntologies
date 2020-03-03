@@ -1,10 +1,14 @@
 equivalents:
-- label: Adenoma
-  id: ncit:C2855
+- id: ncit:C3329
+  label: Pituitary Gland Adenoma
 examples:
-- labels: pituitary adenoma [gonadotroph cell adenoma]
+- pituitary adenoma [gonadotroph cell adenoma]
+- pituitary adenoma [gonadotroph cell adenoma, recurrence]
+- pituitary adenoma [null cell adenoma]
+- pituitary adenoma [null cell adenoma, recurrence]
 input:
-- label: Adenoma, NOS
-  id: icdom-81400
-- label: Pituitary gland
-  id: icdot-C75.1
+- id: icdom-81400
+  label: Adenoma, NOS
+- id: icdot-C75.1
+  label: Pituitary gland
+updated: '2020-03-03'

@@ -1,10 +1,14 @@
 equivalents:
-- label: Adenocarcinoma
-  id: ncit:C2852
+- id: ncit:C4349
+  label: 'Colon Adenocarcinoma '
 examples:
-- labels: adenomacarcinoma [colorectal]
+- colorectal adenocarcinoma [cell line MT-3]
+- Colorectal carcinoma [sporadic]
+- Colorectal carcinoma [cell line]
+- Colorectal carcinoma
 input:
-- label: Adenocarcinoma, NOS
-  id: icdom-81403
-- label: Large intestine, excl. Rectum and rectosigmoid junction
-  id: icdot-C18.9
+- id: icdom-81403
+  label: Adenocarcinoma, NOS
+- id: icdot-C18.9
+  label: Large intestine, excl. Rectum and rectosigmoid junction
+updated: '2020-03-03'

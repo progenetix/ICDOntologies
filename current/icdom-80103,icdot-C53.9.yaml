@@ -1,10 +1,14 @@
 equivalents:
-- label: Carcinoma
-  id: ncit:C2916
+- id: ncit:C9039
+  label: Cervical Carcinoma
 examples:
-- labels: carcinoma, NOS [cervix, cell line C4I]
+- cervix carcinoma [cell line DoTc2 4510]
+- Carcinoma
+- carcinoma, NOS [cervix, cell line C4I]
+- carcinoma, NOS [cervix, cell line C33-A]
 input:
-- label: Carcinoma, NOS
-  id: icdom-80103
-- label: Cervix uteri
-  id: icdot-C53.9
+- id: icdom-80103
+  label: Carcinoma, NOS
+- id: icdot-C53.9
+  label: Cervix uteri
+updated: '2020-03-03'

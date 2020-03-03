@@ -1,10 +1,14 @@
 equivalents:
-- label: Soft Tissue Sarcoma
-  id: ncit:C9306
+- id: ncit:C9306
+  label: Soft Tissue Sarcoma
 examples:
-- labels: Pleomorphic sarcoma [grade high, primary]
+- Sarcoma, NOS
+- Pulmonary artery intimal sarcoma
+- soft tissue sarcoma
+- Undifferentiated Pleomorphic Sarcoma
 input:
-- label: Sarcoma, NOS
-  id: icdom-88003
-- label: Connective and soft tissue, NOS
-  id: icdot-C49.9
+- id: icdom-88003
+  label: Sarcoma, NOS
+- id: icdot-C49.9
+  label: Connective and soft tissue, NOS
+updated: '2020-03-03'

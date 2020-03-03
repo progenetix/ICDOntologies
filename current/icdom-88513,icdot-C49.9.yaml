@@ -1,10 +1,14 @@
 equivalents:
-- label: Atypical Lipomatous Tumor
-  id: ncit:C6505
+- id: ncit:C4250
+  label: Well Differentiated Liposarcoma
 examples:
-- labels: well-differentiated and dedifferentiated liposarcoma
+- lipoma-like liposarcoma [thigh, deep]
+- lipoma-like liposarcoma [shoulder, deep]
+- liposarcoma [well differentiated]
+- well-differentiated and dedifferentiated liposarcoma
 input:
-- label: Liposarcoma, well differentiated
-  id: icdom-88513
-- label: Connective and soft tissue, NOS
-  id: icdot-C49.9
+- id: icdom-88513
+  label: Liposarcoma, well differentiated
+- id: icdot-C49.9
+  label: Connective and soft tissue, NOS
+updated: '2020-03-03'

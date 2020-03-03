@@ -1,10 +1,11 @@
 equivalents:
-- label: Minor Salivary Gland Mucoepidermoid Carcinoma
-  id: ncit:C5953
+- id: ncit:C5908
+  label: 'Salivary Gland Mucoepidermoid Carcinoma '
 examples:
-- labels: Mucoepidermoid carcinoma
+- Mucoepidermoid carcinoma
 input:
-- label: Mucoepidermoid carcinoma
-  id: icdom-84303
-- label: Salivary gland, NOS
-  id: icdot-C08.9
+- id: icdom-84303
+  label: Mucoepidermoid carcinoma
+- id: icdot-C08.9
+  label: Salivary gland, NOS
+updated: '2020-03-03'

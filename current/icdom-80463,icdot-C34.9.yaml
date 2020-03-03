@@ -1,10 +1,14 @@
 equivalents:
-- label: Non-Small Cell Carcinoma
-  id: ncit:C65151
+- id: ncit:C2926
+  label: 'Lung Non-Small Cell Carcinoma '
 examples:
-- labels: Non-small cell carcinoma [lung]
+- Non-Small Cell Lung Cancer
+- non-small cell Lung carcinoma [cell line NCI-H2887]
+- lung adenocarcinoma [cell line NCI-H2122]
+- lung adenocarcinoma [cell line NCI-H2347]
 input:
-- label: Non-small cell carcinoma
-  id: icdom-80463
-- label: Lung and bronchus
-  id: icdot-C34.9
+- id: icdom-80463
+  label: Non-small cell carcinoma
+- id: icdot-C34.9
+  label: Lung and bronchus
+updated: '2020-03-03'
