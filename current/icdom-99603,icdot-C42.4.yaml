@@ -1,10 +1,14 @@
 equivalents:
-- label: Myeloproliferative Neoplasm
-  id: ncit:C4345
+- id: ncit:C4345
+  label: Myeloproliferative Neoplasm
 examples:
-- labels: myeloid proliferative disorder
+- post-essential thrombocythemia myelofibrosis
+- post-polycythemia vera myelofibrosis
+- myeloproliferative neoplasm
+- Myeloproliferative neoplasm
 input:
-- label: Myeloproliferative neoplasm, NOS
-  id: icdom-99603
-- label: Hematopoietic system, NOS
-  id: icdot-C42.4
+- id: icdom-99603
+  label: Myeloproliferative neoplasm, NOS
+- id: icdot-C42.4
+  label: Hematopoietic system, NOS
+updated: '2020-03-04'

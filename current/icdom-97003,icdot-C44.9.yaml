@@ -1,10 +1,14 @@
 equivalents:
-- label: Mycosis Fungoides
-  id: ncit:C3246
+- id: ncit:C3246
+  label: Mycosis Fungoides
 examples:
-- labels: mycosis fungoides [tumor stage]
+- mycosis fungoides [tumor stage]
+- Mycosis fungoides
+- Mycosis fungoides [stage IIA]
+- Mycosis fungoides [stage IB]
 input:
-- label: Mycosis fungoides
-  id: icdom-97003
-- label: Skin, NOS
-  id: icdot-C44.9
+- id: icdom-97003
+  label: Mycosis fungoides
+- id: icdot-C44.9
+  label: Skin, NOS
+updated: '2020-03-04'

@@ -1,10 +1,14 @@
 equivalents:
-- label: Therapy-Related Myeloid Neoplasm
-  id: ncit:C27912
+- id: ncit:C27912
+  label: Therapy-Related Myeloid Neoplasm
 examples:
-- labels: therapy-related acute leukemia [RAEB, after ovarian ca.]
+- Acute myeloid leukemia [Therapy-related myeloid neoplasms]
+- therapy-related acute leukemia [RAEB, after ovarian ca.]
+- therapy-related acute leukemia [villositary lymphocyte splenic lymphoma]
+- therapy-related acute leukemia [breast liposarcoma]
 input:
-- label: Therapy related myeloid neoplasm
-  id: icdom-99203
-- label: Hematopoietic system, NOS
-  id: icdot-C42.4
+- id: icdom-99203
+  label: Therapy related myeloid neoplasm
+- id: icdot-C42.4
+  label: Hematopoietic system, NOS
+updated: '2020-03-04'

@@ -1,10 +1,14 @@
 equivalents:
-- label: Acute Megakaryoblastic Leukemia
-  id: ncit:C3170
+- id: ncit:C3170
+  label: Acute Megakaryoblastic Leukemia
 examples:
-- labels: acute megakaryoblastic leukemia [Down syndrome]
+- acute megakaryoblastic leukemia [Down syndrome]
+- Acute megakaryoblastic leukemia [cell line UoC-M1]
+- Acute megakaryoblastic leukemia
+- Acute megakaryoblastic leukemia [FAB M7, child, Down syndrome]
 input:
-- label: Acute megakaryoblastic leukemia
-  id: icdom-99103
-- label: Hematopoietic system, NOS
-  id: icdot-C42.4
+- id: icdom-99103
+  label: Acute megakaryoblastic leukemia
+- id: icdot-C42.4
+  label: Hematopoietic system, NOS
+updated: '2020-03-04'

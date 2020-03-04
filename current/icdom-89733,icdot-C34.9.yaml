@@ -1,10 +1,13 @@
 equivalents:
-- label: Pleuropulmonary Blastoma
-  id: ncit:C5669
+- id: ncit:C5669
+  label: Pleuropulmonary Blastoma
 examples:
-- labels: pleuropulmonary blastoma
+- pleuropulmonary blastoma
+- Pleuropulmonary blastoma [rhabdomyoblastic and chondroid differentiation; right
+  lung]
 input:
-- label: Pleuropulmonary blastoma
-  id: icdom-89733
-- label: Lung and bronchus
-  id: icdot-C34.9
+- id: icdom-89733
+  label: Pleuropulmonary blastoma
+- id: icdot-C34.9
+  label: Lung and bronchus
+updated: '2020-03-04'

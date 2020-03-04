@@ -1,10 +1,14 @@
 equivalents:
-- label: Myelodysplastic Syndrome
-  id: ncit:C3247
+- id: ncit:C3247
+  label: Myelodysplastic Syndrome
 examples:
-- labels: Refractory cytopenia with multilineage dysplasia and ring sideroblasts
+- Myelodysplastic syndrome
+- myelodysplastic syndrome
+- Myelodysplasia
+- Myelodysplastic syndromes
 input:
-- label: Myelodysplastic syndrome, NOS
-  id: icdom-99893
-- label: Hematopoietic system, NOS
-  id: icdot-C42.4
+- id: icdom-99893
+  label: Myelodysplastic syndrome, NOS
+- id: icdot-C42.4
+  label: Hematopoietic system, NOS
+updated: '2020-03-04'

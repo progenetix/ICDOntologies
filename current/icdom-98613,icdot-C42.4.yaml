@@ -1,10 +1,14 @@
 equivalents:
-- label: Acute Myeloid Leukemia Not Otherwise Specified
-  id: ncit:C27753
+- id: ncit:C27753
+  label: Acute Myeloid Leukemia Not Otherwise Specified
 examples:
-- labels: acute panmyelosis with myelofibrosis
+- acute myeloid leukemia
+- Acute myeloid leukemia [relapse]
+- acute myeloid leukemia [relapse]
+- Acute Myeloid Leukemia
 input:
-- label: Acute myeloid leukemia, NOS
-  id: icdom-98613
-- label: Hematopoietic system, NOS
-  id: icdot-C42.4
+- id: icdom-98613
+  label: Acute myeloid leukemia, NOS
+- id: icdot-C42.4
+  label: Hematopoietic system, NOS
+updated: '2020-03-04'

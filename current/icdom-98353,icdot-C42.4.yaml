@@ -1,10 +1,14 @@
 equivalents:
-- label: Acute Lymphoblastic Leukemia
-  id: ncit:C3167
+- id: ncit:C3167
+  label: Acute Lymphoblastic Leukemia
 examples:
-- labels: Acute lymphoblastic leukemia/lymphoblastic lymphoma
+- Acute lymphoblastic leukemia
+- acute lymphoblastic leukemia [common]
+- B-cell precursor acute lymphoblastic leukemia
+- acute lymphoblastic leukemia
 input:
-- label: Precursor cell lymphoblastic leukemia, NOS
-  id: icdom-98353
-- label: Hematopoietic system, NOS
-  id: icdot-C42.4
+- id: icdom-98353
+  label: Precursor cell lymphoblastic leukemia, NOS
+- id: icdot-C42.4
+  label: Hematopoietic system, NOS
+updated: '2020-03-04'

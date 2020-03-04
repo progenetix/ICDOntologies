@@ -1,10 +1,11 @@
 equivalents:
-- label: Atypical Chronic Myeloid Leukemia, BCR-ABL1 Negative
-  id: ncit:C3519
+- id: ncit:C3519
+  label: Atypical Chronic Myeloid Leukemia, BCR-ABL1 Negative
 examples:
-- labels: Atypical chronic myeloid leukemia
+- Atypical chronic myeloid leukemia
 input:
-- label: Atypical chronic myeloid leukemia, BCR/ABL negative
-  id: icdom-98763
-- label: Hematopoietic system, NOS
-  id: icdot-C42.4
+- id: icdom-98763
+  label: Atypical chronic myeloid leukemia, BCR/ABL negative
+- id: icdot-C42.4
+  label: Hematopoietic system, NOS
+updated: '2020-03-04'

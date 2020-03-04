@@ -1,10 +1,12 @@
 equivalents:
-- label: Essential Thrombocythemia
-  id: ncit:C3407
+- id: ncit:C3407
+  label: Essential Thrombocythemia
 examples:
-- labels: essential thrombocythemia
+- essential thrombocythemia
+- Essential thrombocythemia
 input:
-- label: Essential thrombocythemia
-  id: icdom-99623
-- label: Hematopoietic system, NOS
-  id: icdot-C42.4
+- id: icdom-99623
+  label: Essential thrombocythemia
+- id: icdot-C42.4
+  label: Hematopoietic system, NOS
+updated: '2020-03-04'

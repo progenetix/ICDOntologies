@@ -1,10 +1,13 @@
 equivalents:
-- label: Testicular Spermatocytic Seminoma
-  id: ncit:C39921
+- id: ncit:C39921
+  label: Testicular Spermatocytic Seminoma
 examples:
-- labels: spermatocytic seminoma
+- spermatocytic seminoma
+- Spermatocytic seminoma
+- Spermatocytic seminoma [lymph node metastasis]
 input:
-- label: Spermatocytic seminoma
-  id: icdom-90633
-- label: Testis
-  id: icdot-C62.9
+- id: icdom-90633
+  label: Spermatocytic seminoma
+- id: icdot-C62.9
+  label: Testis
+updated: '2020-03-04'

@@ -1,10 +1,14 @@
 equivalents:
-- label: Hepatoblastoma
-  id: ncit:C3728
+- id: ncit:C3728
+  label: Hepatoblastoma
 examples:
-- labels: Hepatoblastoma
+- Hepatoblastoma
+- hepatoblastoma
+- Hepatoblastoma [Mesenchymal-epithelial, recurrence]
+- Hepatoblastoma [Mesenchymal-epithelial]
 input:
-- label: hepatoblastoma
-  id: icdom-89703
-- label: Liver
-  id: icdot-C22.0
+- id: icdom-89703
+  label: hepatoblastoma
+- id: icdot-C22.0
+  label: Liver
+updated: '2020-03-04'

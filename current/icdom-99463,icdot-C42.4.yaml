@@ -1,10 +1,11 @@
 equivalents:
-- label: Juvenile Myelomonocytic Leukemia
-  id: ncit:C9233
+- id: ncit:C9233
+  label: Juvenile Myelomonocytic Leukemia
 examples:
-- labels: Juvenile myelomonocytic leukemia
+- Juvenile myelomonocytic leukemia
 input:
-- label: Juvenile myelomonocytic leukemia
-  id: icdom-99463
-- label: Hematopoietic system, NOS
-  id: icdot-C42.4
+- id: icdom-99463
+  label: Juvenile myelomonocytic leukemia
+- id: icdot-C42.4
+  label: Hematopoietic system, NOS
+updated: '2020-03-04'

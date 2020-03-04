@@ -1,10 +1,13 @@
 equivalents:
-- label: Refractory Anemia with Excess Blasts in Transformation
-  id: ncit:C27080
+- id: ncit:C27080
+  label: Refractory Anemia with Excess Blasts in Transformation
 examples:
-- labels: Refractory anemia with excess blasts in transformation [RAEBT, secondary]
+- myelodysplastic syndrome [acute myeloid leukemia, RAEB-T]
+- Refractory anemia with excess blasts in transformation [RAEBT, secondary]
+- Refractory anemia with excess blasts in transformation [RAEBT]
 input:
-- label: Refractory anemia with excess blasts in transformation
-  id: icdom-99843
-- label: Hematopoietic system, NOS
-  id: icdot-C42.4
+- id: icdom-99843
+  label: Refractory anemia with excess blasts in transformation
+- id: icdot-C42.4
+  label: Hematopoietic system, NOS
+updated: '2020-03-04'
