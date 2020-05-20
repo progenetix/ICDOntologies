@@ -1,5 +1,5 @@
 equivalents:
-- id: ncit:C27275
+- id: NCIT:C27275
   label: High Grade Anal Canal Squamous Intraepithelial Neoplasia
 examples:
 - anal intraepithelial neoplasia
@@ -8,4 +8,4 @@ input:
   label: Squamous intraepithelial neoplasia, grade III
 - id: icdot-C21.9
   label: Anal canal and anus
-updated: '2020-03-03'
+updated: '2020-05-20'

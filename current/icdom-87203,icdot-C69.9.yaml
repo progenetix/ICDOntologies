@@ -1,5 +1,5 @@
 equivalents:
-- id: ncit:C8562
+- id: NCIT:C8562
   label: Ocular Melanoma
 examples:
 - Uveal melanoma [hepatic metastatic]
@@ -11,4 +11,4 @@ input:
   label: Malignant melanoma, NOS
 - id: icdot-C69.9
   label: Eye, NOS
-updated: '2020-03-03'
+updated: '2020-05-20'

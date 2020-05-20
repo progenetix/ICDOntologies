@@ -1,5 +1,5 @@
 equivalents:
-- id: ncit:C45340
+- id: NCIT:C45340
   label: Primary cutaneous gamma-delta-T-cell lymphoma
 examples:
 - Primary cutaneous gamma-delta T-cell lymphoma
@@ -8,4 +8,4 @@ input:
   label: Primary cutaneous gamma-delta-T-cell lymphoma
 - id: icdot-C44.9
   label: Skin, NOS
-updated: '2020-03-04'
+updated: '2020-05-20'

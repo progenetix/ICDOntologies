@@ -1,5 +1,5 @@
 equivalents:
-- id: ncit:C4878
+- id: NCIT:C4878
   label: Lung Carcinoma
 examples:
 - Lung carcinoma [cell line]
@@ -11,4 +11,4 @@ input:
   label: Carcinoma, NOS
 - id: icdot-C34.9
   label: Lung and bronchus
-updated: '2020-03-03'
+updated: '2020-05-20'

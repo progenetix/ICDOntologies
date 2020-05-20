@@ -1,10 +1,14 @@
 equivalents:
-- label: Follicular Lymphoma
-  id: ncit:C3209
+- id: NCIT:C3209
+  label: Follicular Lymphoma
 examples:
-- labels: follicular lymphoma
+- follicular lymphoma
+- Follicular lymphoma
+- lymphoma primary specimen
+- Follicular lymphoma, NOS
 input:
-- label: Follicular lymphoma, NOS
-  id: icdom-96903
-- label: Lymph nodes, NOS
-  id: icdot-C77.9
+- id: icdom-96903
+  label: Follicular lymphoma, NOS
+- id: icdot-C77.9
+  label: Lymph nodes, NOS
+updated: '2020-05-20'

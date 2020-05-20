@@ -1,0 +1,12 @@
+equivalents:
+- id: NCIT:C3510
+  label: Cutaneous Melanoma
+examples:
+- Primary Tumor
+- Metastatic
+input:
+- id: icdom-87203
+  label: Malignant melanoma, NOS
+- id: icdot-C44.6
+  label: Skin of upper limb and shoulder
+updated: '2020-05-20'

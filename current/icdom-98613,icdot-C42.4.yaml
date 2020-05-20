@@ -1,14 +1,10 @@
 equivalents:
-- id: ncit:C27753
+- id: NCIT:C27753
   label: Acute Myeloid Leukemia Not Otherwise Specified
-examples:
-- acute myeloid leukemia
-- Acute myeloid leukemia [relapse]
-- acute myeloid leukemia [relapse]
-- Acute Myeloid Leukemia
+examples: []
 input:
 - id: icdom-98613
   label: Acute myeloid leukemia, NOS
 - id: icdot-C42.4
   label: Hematopoietic system, NOS
-updated: '2020-03-04'
+updated: '2020-05-20'

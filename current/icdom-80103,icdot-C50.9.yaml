@@ -1,10 +1,14 @@
 equivalents:
-- label: Breast Carcinoma
-  id: ncit:C4872
+- id: NCIT:C4872
+  label: Breast Carcinoma
 examples:
-- labels: Primary Breast Cancer [BRCA1mutation]
+- Primary Breast Cancer [BRCA1mutation]
+- Primary Breast Cancer [CHEK2mutation]
+- Primary Breast Cancer [BRCA2mutation]
+- Primary Breast Cancer [BRCAXmutation]
 input:
-- label: Carcinoma, NOS
-  id: icdom-80103
-- label: Breast, NOS
-  id: icdot-C50.9
+- id: icdom-80103
+  label: Carcinoma, NOS
+- id: icdot-C50.9
+  label: Breast, NOS
+updated: '2020-05-20'

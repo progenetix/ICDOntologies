@@ -1,5 +1,5 @@
 equivalents:
-- id: ncit:C7979
+- id: NCIT:C7979
   label: Ovarian Endometrioid Adenocarcinoma
 examples:
 - Ovarian endometrioid adenocarcinoma [cell line TOV-112D]
@@ -11,4 +11,4 @@ input:
   label: Endometrioid adenocarcinoma, NOS
 - id: icdot-C56.9
   label: Ovary
-updated: '2020-03-03'
+updated: '2020-05-20'

@@ -1,10 +1,12 @@
 equivalents:
-- label: Fibrillary Astrocytoma
-  id: ncit:C4322
+- id: NCIT:C4322
+  label: Fibrillary Astrocytoma
 examples:
-- labels: Fibrillary astrocytoma
+- Fibrillary astrocytoma
+- fibrillary astrocytoma
 input:
-- label: Fibrillary astrocytoma
-  id: icdom-94203
-- label: Brain, NOS
-  id: icdot-C71.9
+- id: icdom-94203
+  label: Fibrillary astrocytoma
+- id: icdot-C71.9
+  label: Brain, NOS
+updated: '2020-05-20'

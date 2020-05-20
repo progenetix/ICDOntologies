@@ -1,10 +1,14 @@
 equivalents:
-- label: Pigmented Nevus
-  id: ncit:C27816
+- id: NCIT:C27816
+  label: Pigmented Nevus
 examples:
-- labels: blue nevus
+- Pigmented nevus [benign]
+- dermal melanocytic proliferation
+- Benign nevus [ovoid melanocytes]
+- Benign nevus [cellular,fascicle]
 input:
-- label: Pigmented nevus, NOS
-  id: icdom-87200
-- label: Skin, NOS
-  id: icdot-C44.9
+- id: icdom-87200
+  label: Pigmented nevus, NOS
+- id: icdot-C44.9
+  label: Skin, NOS
+updated: '2020-05-20'

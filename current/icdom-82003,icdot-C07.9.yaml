@@ -1,0 +1,14 @@
+equivalents:
+- id: NCIT:C5937
+  label: Parotid Gland Adenoid Cystic Carcinoma
+examples:
+- Adenoid cystic carcinoma
+- adenoid cystic carcinomas [parotid, grade I, stage IV]
+- adenoid cystic carcinomas [parotid, grade II, stage IV]
+- adenoid cystic carcinomas [parotid, grade III, stage IV]
+input:
+- id: icdom-82003
+  label: Adenoid cystic carcinoma
+- id: icdot-C07.9
+  label: parotid gland
+updated: '2020-05-20'

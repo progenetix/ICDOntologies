@@ -1,5 +1,5 @@
 equivalents:
-- id: ncit:C4833
+- id: NCIT:C4833
   label: Oral Cavity Squamous Cell Carcinoma
 examples:
 - squamous cell carcinoma [oral]
@@ -11,4 +11,4 @@ input:
   label: Squamous cell carcinoma, NOS
 - id: icdot-C06.9
   label: Mouth, NOS
-updated: '2020-03-04'
+updated: '2020-05-20'

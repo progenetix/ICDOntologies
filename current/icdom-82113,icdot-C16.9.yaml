@@ -1,5 +1,5 @@
 equivalents:
-- id: ncit:C5473
+- id: NCIT:C5473
   label: Gastric tubular adenocarcinoma
 examples:
 - gastric tubular adenocarcinoma [cell line NCI-N87]
@@ -11,4 +11,4 @@ input:
   label: Tubular adenocarcinoma
 - id: icdot-C16.9
   label: Stomach
-updated: '2020-03-04'
+updated: '2020-05-20'

@@ -1,6 +1,6 @@
 equivalents:
-- id: ncit:C4052
-  label: 'Vulvar Squamous Cell Carcinoma  '
+- id: NCIT:C4052
+  label: Vulvar Squamous Cell Carcinoma
 examples:
 - Squamous cell carcinoma
 - squamous cell carcinomas [HPVpos]
@@ -11,4 +11,4 @@ input:
   label: Squamous cell carcinoma, NOS
 - id: icdot-C51.9
   label: Vulva, NOS
-updated: '2020-03-03'
+updated: '2020-05-20'

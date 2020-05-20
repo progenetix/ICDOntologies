@@ -1,5 +1,5 @@
 equivalents:
-- id: ncit:C8644
+- id: NCIT:C8644
   label: B acute lymphoblastic leukemia
 examples:
 - B acute lymphoblastic leukemia [cell line BALM9]
@@ -8,4 +8,4 @@ input:
   label: B lymphoblastic leukemia/lymphoma, NOS
 - id: icdot-C42.4
   label: Hematopoietic system, NOS
-updated: '2020-03-04'
+updated: '2020-05-20'

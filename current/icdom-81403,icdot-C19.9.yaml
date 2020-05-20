@@ -1,5 +1,5 @@
 equivalents:
-- id: ncit:C43584
+- id: NCIT:C43584
   label: Rectosigmoid Adenocarcinoma
 examples:
 - rectosigmoid cancer [Partial Androgen Insensitivity Syndrome]
@@ -10,4 +10,4 @@ input:
   label: adenocarcinoma, NOS
 - id: icdot-C19.9
   label: Rectosigmoid junction
-updated: '2020-03-04'
+updated: '2020-05-20'

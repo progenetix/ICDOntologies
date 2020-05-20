@@ -1,5 +1,5 @@
 equivalents:
-- id: ncit:C7383
+- id: NCIT:C7383
   label: Bladder Papillary Urothelial Carcinoma
 examples:
 - bladder urothelial carcinoma [Dome]
@@ -11,4 +11,4 @@ input:
   label: Papillary transitional cell carcinoma
 - id: icdot-C67.0
   label: Urinary bladder
-updated: '2020-03-03'
+updated: '2020-05-20'

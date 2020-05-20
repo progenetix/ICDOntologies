@@ -1,5 +1,5 @@
 equivalents:
-- id: ncit:C4220
+- id: NCIT:C4220
   label: Malignant Adrenal Gland Pheochromocytoma
 examples:
 - pheochromocytoma [malignant, sporadic]
@@ -11,4 +11,4 @@ input:
   label: Pheochromocytoma, malignant
 - id: icdot-C74.9
   label: Adrenal glands
-updated: '2020-03-04'
+updated: '2020-05-20'

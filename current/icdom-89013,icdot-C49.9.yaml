@@ -1,5 +1,5 @@
 equivalents:
-- id: ncit:C27369
+- id: NCIT:C27369
   label: Adult Pleomorphic Rhabdomyosarcoma
 examples:
 - Pleomorphic rhabdomyosarcoma [PAX3-FKHR pos.]
@@ -11,4 +11,4 @@ input:
   label: Pleomorphic rhabdomyosarcoma, adult type
 - id: icdot-C49.9
   label: Connective and soft tissue, NOS
-updated: '2020-03-03'
+updated: '2020-05-20'

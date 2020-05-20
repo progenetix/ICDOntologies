@@ -1,5 +1,5 @@
 equivalents:
-- id: ncit:C3308
+- id: NCIT:C3308
   label: Paraganglioma
 examples:
 - Paraganglioma
@@ -8,4 +8,4 @@ input:
   label: Paraganglioma, NOS
 - id: icdot-C72.9
   label: Nervous system, NOS
-updated: '2020-03-04'
+updated: '2020-05-20'

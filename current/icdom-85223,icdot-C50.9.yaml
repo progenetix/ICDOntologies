@@ -1,5 +1,5 @@
 equivalents:
-- id: ncit:C6393
+- id: NCIT:C6393
   label: Invasive Ductal and Invasive Lobular Breast Carcinoma
 examples:
 - Infiltrating duct and lobular carcinoma
@@ -11,4 +11,4 @@ input:
   label: Infiltrating duct and lobular carcinoma
 - id: icdot-C50.9
   label: Breast, NOS
-updated: '2020-03-03'
+updated: '2020-05-20'

@@ -1,10 +1,14 @@
 equivalents:
-- label: Primary Cutaneous Marginal Zone Lymphoma of Mucosa-Associated Lymphoid Tissue
-  id: ncit:C7230
+- id: NCIT:C5266
+  label: Gastric Mucosa-Associated Lymphoid Tissue Lymphoma
 examples:
-- labels: Marginal Zone B-cell Lymphoma [Stomach]
+- MALT Lymphoma
+- gastric MALT lymphoma
+- Marginal Zone B-cell Lymphoma [Stomach]
+- Extranodal marginal zone B-cell lymphoma
 input:
-- label: Marginal zone B-cell lymphoma, NOS
-  id: icdom-96993
-- label: Stomach
-  id: icdot-C16.9
+- id: icdom-96993
+  label: Marginal zone B-cell lymphoma, NOS
+- id: icdot-C16.9
+  label: Stomach
+updated: '2020-05-20'

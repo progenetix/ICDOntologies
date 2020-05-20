@@ -1,5 +1,5 @@
 equivalents:
-- id: ncit:C3705
+- id: NCIT:C3705
   label: Pleomorphic Liposarcoma
 examples:
 - Liposarcoma, pleomorphic
@@ -10,4 +10,4 @@ input:
   label: Pleomorphic liposarcoma
 - id: icdot-C49.9
   label: Connective and soft tissue, NOS
-updated: '2020-03-04'
+updated: '2020-05-20'

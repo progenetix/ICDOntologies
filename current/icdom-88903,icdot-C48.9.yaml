@@ -1,0 +1,13 @@
+equivalents:
+- id: NCIT:C3158
+  label: Leiomyosarcoma
+examples:
+- leiomyosarcoma [retroperitoneum, primary, grade III]
+- leiomyosarcoma [retroperitoneum, primary, grade II]
+- leiomyosarcoma [retroperitoneum, recurrence, grade III]
+input:
+- id: icdom-88903
+  label: Leiomyosarcoma, NOS
+- id: icdot-C48.9
+  label: retroperitoneum and peritoneum
+updated: '2020-05-20'

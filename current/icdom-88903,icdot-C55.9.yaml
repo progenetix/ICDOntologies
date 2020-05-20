@@ -1,5 +1,5 @@
 equivalents:
-- id: ncit:C6340
+- id: NCIT:C6340
   label: Uterine Corpus Leiomyosarcoma
 examples:
 - Uterine corpus leiomyosarcoma [cell line SK-UT-1B]
@@ -11,4 +11,4 @@ input:
   label: Leiomyosarcoma, NOS
 - id: icdot-C55.9
   label: Uterus, NOS
-updated: '2020-03-03'
+updated: '2020-05-20'

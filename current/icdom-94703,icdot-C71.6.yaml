@@ -1,10 +1,14 @@
 equivalents:
-- label: Medulloblastoma
-  id: ncit:C3222
+- id: NCIT:C3222
+  label: Medulloblastoma
 examples:
-- labels: medullomyoblastoma
+- medulloblastoma [classic]
+- medulloblastoma
+- Medulloblastoma
+- classic medulloblastoma
 input:
-- label: Medulloblastoma, NOS
-  id: icdom-94703
-- label: Cerebellum
-  id: icdot-C71.6
+- id: icdom-94703
+  label: Medulloblastoma, NOS
+- id: icdot-C71.6
+  label: Cerebellum
+updated: '2020-05-20'

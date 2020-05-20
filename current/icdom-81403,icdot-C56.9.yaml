@@ -1,5 +1,5 @@
 equivalents:
-- id: ncit:C7700
+- id: NCIT:C7700
   label: Ovarian adenocarcinoma
 examples:
 - Adenocarcinoma [ovary]
@@ -11,4 +11,4 @@ input:
   label: Adenocarcinoma, NOS
 - id: icdot-C56.9
   label: Ovary
-updated: '2020-03-04'
+updated: '2020-05-20'

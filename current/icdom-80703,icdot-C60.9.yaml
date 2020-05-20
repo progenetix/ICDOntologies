@@ -1,5 +1,5 @@
 equivalents:
-- id: ncit:C7729
+- id: NCIT:C7729
   label: Squamous Cell Carcinoma of the Penis
 examples:
 - penile squamous cell carcinoma
@@ -8,4 +8,4 @@ input:
   label: Squamous cell carcinoma, NOS
 - id: icdot-C60.9
   label: Penis
-updated: '2020-03-03'
+updated: '2020-05-20'

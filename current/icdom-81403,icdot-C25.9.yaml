@@ -1,5 +1,5 @@
 equivalents:
-- id: ncit:C8294
+- id: NCIT:C8294
   label: Pancreatic Adenocarcinoma
 examples:
 - Pancreatic ductal adenocarcinoma
@@ -11,4 +11,4 @@ input:
   label: Adenocarcinoma, NOS
 - id: icdot-C25.9
   label: Pancreas, NOS
-updated: '2020-03-03'
+updated: '2020-05-20'

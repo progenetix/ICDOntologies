@@ -1,10 +1,11 @@
 equivalents:
-- label: Osteoblastoma
-  id: ncit:C3294
+- id: NCIT:C3294
+  label: Osteoblastoma
 examples:
-- labels: osteoblastoma
+- osteoblastoma
 input:
-- label: Osteoblastoma, NOS
-  id: icdom-92000
-- label: Bone, NOS
-  id: icdot-C41.9
+- id: icdom-92000
+  label: Osteoblastoma, NOS
+- id: icdot-C41.9
+  label: Bones and joints
+updated: '2020-05-20'

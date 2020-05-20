@@ -1,5 +1,5 @@
 equivalents:
-- id: ncit:C5669
+- id: NCIT:C5669
   label: Pleuropulmonary Blastoma
 examples:
 - pleuropulmonary blastoma
@@ -10,4 +10,4 @@ input:
   label: Pleuropulmonary blastoma
 - id: icdot-C34.9
   label: Lung and bronchus
-updated: '2020-03-04'
+updated: '2020-05-20'

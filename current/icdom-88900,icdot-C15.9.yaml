@@ -1,5 +1,5 @@
 equivalents:
-- id: ncit:C3866
+- id: NCIT:C3866
   label: Esophageal Leiomyoma
 examples:
 - Leiomyoma [Esophagus]
@@ -8,4 +8,4 @@ input:
   label: Leiomyoma, NOS
 - id: icdot-C15.9
   label: Esophagus
-updated: '2020-03-03'
+updated: '2020-05-20'

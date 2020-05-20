@@ -1,5 +1,5 @@
 equivalents:
-- id: ncit:C4245
+- id: NCIT:C4245
   label: Elastofibroma
 examples:
 - Elastofibroma
@@ -8,4 +8,4 @@ input:
   label: Elastofibroma
 - id: icdot-C49.9
   label: Connective and soft tissue, NOS
-updated: '2020-03-04'
+updated: '2020-05-20'

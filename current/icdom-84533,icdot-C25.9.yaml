@@ -1,0 +1,12 @@
+equivalents:
+- id: NCIT:C5726
+  label: Pancreatic Intraductal Papillary-Mucinous Neoplasm with an Associated Invasive
+    Carcinoma
+examples:
+- intraductal papillary mucinous neoplasms of the pancreas [IPMN invasive]
+input:
+- id: icdom-84533
+  label: Intraductal papillary-mucinous carcinoma, invasive
+- id: icdot-C25.9
+  label: Pancreas, NOS
+updated: '2020-05-20'

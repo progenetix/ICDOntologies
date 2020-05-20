@@ -1,10 +1,14 @@
 equivalents:
-- label: Intravascular Large B-Cell Lymphoma
-  id: ncit:C4342
+- id: NCIT:C80280
+  label: Diffuse Large B-Cell Lymphoma, Not Otherwise Specified
 examples:
-- labels: Diffuse large B-cell lymphoma [IG-MYC neg., 3q2 break neg., t(14;18) neg.]
+- diffuse large B-cell lymphoma
+- diffuse large B-cell lymphoma [transformed FCL]
+- Diffuse large B-cell lymphoma [cell line RL]
+- diffuse large B-cell lymphoma [cell line Karpas-422]
 input:
-- label: Malignant lymphoma, large B-cell, diffuse, NOS
-  id: icdom-96803
-- label: Lymph nodes, NOS
-  id: icdot-C77.9
+- id: icdom-96803
+  label: Malignant lymphoma, large B-cell, diffuse, NOS
+- id: icdot-C77.9
+  label: Lymph nodes, NOS
+updated: '2020-05-20'

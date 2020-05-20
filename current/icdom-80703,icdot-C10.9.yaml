@@ -1,10 +1,14 @@
 equivalents:
-- label: Oropharyngeal Squamous Cell Carcinoma
-  id: ncit:C8181
+- id: NCIT:C8181
+  label: Oropharyngeal Squamous Cell Carcinoma
 examples:
-- labels: head and neck squamous cell carcinoma
+- oral squamous cell carcinoma
+- head and neck squamous cell carcinoma
+- Gingival squamous cell carcinoma [cell line Ca9-22]
+- head and neck squamous cell carcinoma [cell line H1]
 input:
-- label: Squamous cell carcinoma, NOS
-  id: icdom-80703
-- label: Oropharynx
-  id: icdot-C10.9
+- id: icdom-80703
+  label: Squamous cell carcinoma, NOS
+- id: icdot-C10.9
+  label: Oropharynx
+updated: '2020-05-20'

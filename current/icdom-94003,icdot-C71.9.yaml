@@ -1,10 +1,14 @@
 equivalents:
-- label: Diffuse Astrocytoma
-  id: ncit:C7173
+- id: NCIT:C60781
+  label: Astrocytoma
 examples:
-- labels: Diffusely infiltrating astrocytoma
+- astrocytoma [cell line NMC-G1]
+- astrocytoma [cell line CCF-STTG1]
+- astrocystoma [cell line U-138MG]
+- glioblastoma [cell line H4]
 input:
-- label: Astrocytoma, NOS
-  id: icdom-94003
-- label: Brain, NOS
-  id: icdot-C71.9
+- id: icdom-94003
+  label: Astrocytoma, NOS
+- id: icdot-C71.9
+  label: Brain, NOS
+updated: '2020-05-20'

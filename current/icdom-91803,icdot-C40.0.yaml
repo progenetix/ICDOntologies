@@ -1,10 +1,14 @@
 equivalents:
-- label: Osteosarcoma
-  id: ncit:C9145
+- id: NCIT:C9145
+  label: Osteosarcoma
 examples:
-- labels: Sarcoma [postirradiation, Skeletal osteosarcoma OB G4, Humerus]
+- Osteosarcoma [Osteoblastic]
+- osteosarcoma [high-grade, pre-chemotherapy]
+- Osteosarcoma [cell line 143B]
+- osteosarcoma [cell line HOS]
 input:
-- label: Osteosarcoma, NOS
-  id: icdom-91803
-- label: Bones and joints
-  id: icdot-C40.0
+- id: icdom-91803
+  label: Osteosarcoma, NOS
+- id: icdot-C40.0
+  label: Bones and joints
+updated: '2020-05-20'

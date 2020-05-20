@@ -1,5 +1,5 @@
 equivalents:
-- id: ncit:C3810
+- id: NCIT:C3810
   label: Connective and Soft Tissue Neoplasm
 examples:
 - cancer [Omentum]
@@ -8,4 +8,4 @@ input:
   label: Neoplasm, malignant
 - id: icdot-C49.9
   label: Connective and soft tissue, NOS
-updated: '2020-03-04'
+updated: '2020-05-20'

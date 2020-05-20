@@ -1,5 +1,5 @@
 equivalents:
-- id: ncit:C4504
+- id: NCIT:C4504
   label: Malignant Breast Phyllodes Tumor
 examples:
 - Malignant phyllodes tumor
@@ -9,4 +9,4 @@ input:
   label: Phyllodes tumor, malignant
 - id: icdot-C50.9
   label: Breast, NOS
-updated: '2020-03-04'
+updated: '2020-05-20'

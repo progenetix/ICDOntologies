@@ -1,14 +1,10 @@
 equivalents:
-- id: ncit:C3758
+- id: NCIT:C3758
   label: Hepatocellular Adenoma
-examples:
-- Hepatocellular adenoma
-- Hepatocellular carcinoma [cell line]
-- Hepatocellular carcinoma [cell line, doxorubicin resistant subclone]
-- Hepatocellular adenoma [Carney syndrome]
+examples: []
 input:
 - id: icdom-81700
   label: Liver cell adenoma
 - id: icdot-C22.0
   label: Liver
-updated: '2020-03-04'
+updated: '2020-05-20'

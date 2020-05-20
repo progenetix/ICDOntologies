@@ -1,10 +1,14 @@
 equivalents:
-- label: Non-Hodgkin Lymphoma
-  id: ncit:C3211
+- id: NCIT:C3211
+  label: Non-Hodgkin Lymphoma
 examples:
-- labels: Malignant lymphoma, B-cell NOS
+- polymorphic B-cell lymphoma
+- B-cell non-Hodgkin lymphoma [cell line SCC-3]
+- B-cell non-Hodgkin lymphoma [cell line TK]
+- transformed cell line WIL2 NS
 input:
-- label: Malignant lymphoma, non-Hodgkin, NOS
-  id: icdom-95913
-- label: Lymph nodes, NOS
-  id: icdot-C77.9
+- id: icdom-95913
+  label: Malignant lymphoma, non-Hodgkin, NOS
+- id: icdot-C77.9
+  label: Lymph nodes, NOS
+updated: '2020-05-20'

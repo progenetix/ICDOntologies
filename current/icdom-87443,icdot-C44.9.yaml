@@ -1,5 +1,5 @@
 equivalents:
-- id: ncit:C4022
+- id: NCIT:C4022
   label: Acral lentiginous melanoma
 examples:
 - Acral lentiginous melanoma [cell line WM3211]
@@ -7,5 +7,5 @@ input:
 - id: icdom-87443
   label: Acral Lentiginous Melanoma
 - id: icdot-C44.9
-  label: Skin
-updated: '2020-03-04'
+  label: Skin, NOS
+updated: '2020-05-20'

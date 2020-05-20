@@ -1,10 +1,14 @@
 equivalents:
-- label: Glioma
-  id: ncit:C3059
+- id: NCIT:C3059
+  label: Glioma
 examples:
-- labels: Papillary glioneuronal tumor [brain, right temporal]
+- glioma [cell line 8-MG-BA]
+- glioma [cell line DK-MG]
+- glioma [cell line GA-MG]
+- glioma [cell line HS-683]
 input:
-- label: Glioma, malignant
-  id: icdom-93803
-- label: Brain, NOS
-  id: icdot-C71.9
+- id: icdom-93803
+  label: Glioma, malignant
+- id: icdot-C71.9
+  label: Brain, NOS
+updated: '2020-05-20'

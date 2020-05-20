@@ -1,10 +1,11 @@
 equivalents:
-- label: Desmoplastic Infantile Astrocytoma
-  id: ncit:C9476
+- id: NCIT:C9476
+  label: Desmoplastic Infantile Astrocytoma
 examples:
-- labels: desmoplastic infantile astrocytoma and ganglioglioma
+- desmoplastic infantile astrocytoma and ganglioglioma
 input:
-- label: Desmoplastic infantile astrocytoma
-  id: icdom-94121
-- label: Brain, NOS
-  id: icdot-C71.9
+- id: icdom-94121
+  label: Desmoplastic infantile astrocytoma
+- id: icdot-C71.9
+  label: Brain, NOS
+updated: '2020-05-20'

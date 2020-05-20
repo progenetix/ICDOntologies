@@ -1,5 +1,5 @@
 equivalents:
-- id: ncit:C3043
+- id: NCIT:C3043
   label: Fibrosarcoma
 examples:
 - Fibrosarcoma [cell line A-204]
@@ -11,4 +11,4 @@ input:
   label: Fibrosarcoma, NOS
 - id: icdot-C49.9
   label: Connective and soft tissue, NOS
-updated: '2020-03-04'
+updated: '2020-05-20'

@@ -1,0 +1,11 @@
+equivalents:
+- id: NCIT:C5649
+  label: Acinar Lung Adenocarcinoma
+examples:
+- Primary Tumor
+input:
+- id: icdom-85503
+  label: Acinar cell carcinoma
+- id: icdot-C34.3
+  label: Lower lobe, lung
+updated: '2020-05-20'

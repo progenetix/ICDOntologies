@@ -1,10 +1,14 @@
 equivalents:
-- label: Hodgkin Lymphoma
-  id: ncit:C9357
+- id: NCIT:C9357
+  label: Hodgkin Lymphoma
 examples:
-- labels: Classical Hodgkin lymphoma
+- Hodgkin lymphoma [cell line HDLM-2]
+- Hodgkin lymphoma [cell line KM-H2]
+- Hodgkin lymphoma [cell line L-540]
+- Hodgkin lymphoma
 input:
-- label: Hodgkin lymphoma, NOS
-  id: icdom-96503
-- label: Lymph nodes, NOS
-  id: icdot-C77.9
+- id: icdom-96503
+  label: Hodgkin lymphoma, NOS
+- id: icdot-C77.9
+  label: Lymph nodes, NOS
+updated: '2020-05-20'

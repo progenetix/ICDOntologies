@@ -1,6 +1,6 @@
 equivalents:
-- id: ncit:C4815
-  label: 'Thyroid Gland Carcinoma '
+- id: NCIT:C4815
+  label: Thyroid Gland Carcinoma
 examples:
 - thyroid carcinoma [cell line TH7]
 - thyroid carcinoma [cell line TH13]
@@ -11,4 +11,4 @@ input:
   label: Carcinoma, NOS
 - id: icdot-C73.9
   label: Thyroid gland
-updated: '2020-03-03'
+updated: '2020-05-20'

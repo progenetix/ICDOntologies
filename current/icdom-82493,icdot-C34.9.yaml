@@ -1,5 +1,5 @@
 equivalents:
-- id: ncit:C45551
+- id: NCIT:C45551
   label: Lung Atypical Carcinoid Tumor
 examples:
 - atypical carcinoid tumor [lung]
@@ -8,4 +8,4 @@ input:
   label: Atypical carcinoid tumor
 - id: icdot-C34.9
   label: Lung and bronchus
-updated: '2020-03-03'
+updated: '2020-05-20'

@@ -1,5 +1,5 @@
 equivalents:
-- id: ncit:C8295
+- id: NCIT:C8295
   label: Lung Papilloma
 examples:
 - flat ductal intraepithelial neoplasia
@@ -8,4 +8,4 @@ input:
   label: Papilloma, NOS
 - id: icdot-C34.9
   label: Lung and bronchus
-updated: '2020-03-03'
+updated: '2020-05-20'

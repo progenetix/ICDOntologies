@@ -1,5 +1,5 @@
 equivalents:
-- id: ncit:C8990
+- id: NCIT:C8990
   label: Oral Cavity Carcinoma
 examples:
 - Spindle-cell ameloblastic carcinoma
@@ -8,4 +8,4 @@ input:
   label: Carcinoma, NOS
 - id: icdot-C06.9
   label: Mouth, NOS
-updated: '2020-03-03'
+updated: '2020-05-20'

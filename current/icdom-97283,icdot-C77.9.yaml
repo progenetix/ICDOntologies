@@ -1,10 +1,11 @@
 equivalents:
-- label: B Lymphoblastic Leukemia/Lymphoma
-  id: ncit:C8936
+- id: NCIT:C8936
+  label: B Lymphoblastic Leukemia/Lymphoma
 examples:
-- labels: lymphoblastic lymphoma [B-cell]
+- lymphoblastic lymphoma [B-cell]
 input:
-- label: Precursor B-cell lymphoblastic lymphoma
-  id: icdom-97283
-- label: Lymph nodes, NOS
-  id: icdot-C77.9
+- id: icdom-97283
+  label: Precursor B-cell lymphoblastic lymphoma
+- id: icdot-C77.9
+  label: Lymph nodes, NOS
+updated: '2020-05-20'

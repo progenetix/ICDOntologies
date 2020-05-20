@@ -1,14 +1,10 @@
 equivalents:
-- id: ncit:C3099
+- id: NCIT:C3099
   label: Hepatocellular Carcinoma
-examples:
-- hepatocellular carcinoma
-- Hepatocellular carcinoma
-- Hepatocellular carcinoma [cell line Hep3B]
-- Hepatocellular carcinoma [cell line HepG2]
+examples: []
 input:
 - id: icdom-81703
   label: Hepatocellular carcinoma, NOS
 - id: icdot-C22.0
   label: Liver
-updated: '2020-03-04'
+updated: '2020-05-20'

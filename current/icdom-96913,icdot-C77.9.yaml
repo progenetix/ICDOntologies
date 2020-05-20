@@ -1,0 +1,11 @@
+equivalents:
+- id: NCIT:C8968
+  label: Grade 2 Follicular Lymphoma
+examples:
+- Follicular lymphoma, grade 2
+input:
+- id: icdom-96913
+  label: Follicular lymphoma, grade 2
+- id: icdot-C77.9
+  label: Lymph nodes, NOS
+updated: '2020-05-20'

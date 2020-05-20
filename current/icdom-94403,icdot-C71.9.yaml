@@ -1,10 +1,14 @@
 equivalents:
-- label: Giant cell glioblastoma
-  id: ncit:C4325
+- id: NCIT:C3058
+  label: Glioblastoma
 examples:
-- labels: Giant cell glioblastoma [cell line G179]
+- glioblastoma [xenograft]
+- 'glioblastoma [cell line LN-18] '
+- glioblastoma
+- glioblastoma [cell line LN-229]
 input:
-- label: Glioblastoma, NOS
-  id: icdom-94403
-- label: Brain, NOS
-  id: icdot-C71.9
+- id: icdom-94403
+  label: Glioblastoma, NOS
+- id: icdot-C71.9
+  label: Brain, NOS
+updated: '2020-05-20'

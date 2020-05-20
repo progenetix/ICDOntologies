@@ -1,5 +1,5 @@
 equivalents:
-- id: ncit:C9159
+- id: NCIT:C9159
   label: Diffuse Gastric Adenocarcinoma
 examples:
 - carcinoma [gastric, diffuse-type]
@@ -11,4 +11,4 @@ input:
   label: Carcinoma diffuse type
 - id: icdot-C16.9
   label: Stomach, NOS
-updated: '2020-03-04'
+updated: '2020-05-20'

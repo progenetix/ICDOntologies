@@ -1,10 +1,14 @@
 equivalents:
-- label: Chronic Lymphocytic Leukemia
-  id: ncit:C3163
+- id: NCIT:C3163
+  label: Chronic Lymphocytic Leukemia
 examples:
-- labels: chronic lymphoblastic leukemia
+- B-cell chronic lymphocytic leukemia
+- Chronic Lymphocytic Leukemia
+- B-cell chronic lymphocytic leukemia/small lymphocytic lymphoma
+- Chronic lymphocytic leukemia
 input:
-- label: B-cell lymphocytic leukemia/small lymphocytic lymphoma
-  id: icdom-98233
-- label: Bone marrow
-  id: icdot-C42.1
+- id: icdom-98233
+  label: B-cell lymphocytic leukemia/small lymphocytic lymphoma
+- id: icdot-C42.1
+  label: Bone marrow
+updated: '2020-05-20'

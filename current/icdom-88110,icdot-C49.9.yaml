@@ -1,5 +1,5 @@
 equivalents:
-- id: ncit:C66760
+- id: NCIT:C66760
   label: Fibromyxoid Tumor
 examples:
 - Fibromyxoid tumor
@@ -8,4 +8,4 @@ input:
   label: Fibromyxoma
 - id: icdot-C49.9
   label: Connective and soft tissue, NOS
-updated: '2020-03-04'
+updated: '2020-05-20'

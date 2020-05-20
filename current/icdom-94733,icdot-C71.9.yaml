@@ -1,10 +1,14 @@
 equivalents:
-- label: Central Nervous System Embryonal Tumor, Not Otherwise Specified
-  id: ncit:C5398
+- id: NCIT:C5398
+  label: Central Nervous System Embryonal Tumor, Not Otherwise Specified
 examples:
-- labels: Brain neuroblastoma (Primitive neuroectodermal tumor)
+- Primitive neuroectodermal tumor [medulloepithelioma]
+- Primitive neuroectodermal tumor [ependymal or ependymoblastic differentiation]
+- Primitive neuroectodermal tumor
+- primitive neuroectodermal tumor
 input:
-- label: Primitive neuroectodermal tumor, NOS
-  id: icdom-94733
-- label: Brain, NOS
-  id: icdot-C71.9
+- id: icdom-94733
+  label: Primitive neuroectodermal tumor, NOS
+- id: icdot-C71.9
+  label: Brain, NOS
+updated: '2020-05-20'

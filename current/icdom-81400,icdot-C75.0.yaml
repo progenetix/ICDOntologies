@@ -1,5 +1,5 @@
 equivalents:
-- id: ncit:C3916
+- id: NCIT:C3916
   label: Parathyroid Gland Adenoma
 examples:
 - adenoma
@@ -11,4 +11,4 @@ input:
   label: Adenoma, NOS
 - id: icdot-C75.0
   label: Parathyroid gland
-updated: '2020-03-03'
+updated: '2020-05-20'

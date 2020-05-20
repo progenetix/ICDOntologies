@@ -1,5 +1,5 @@
 equivalents:
-- id: ncit:C3140
+- id: NCIT:C3140
   label: Pancreatic Insulin-Producing Neuroendocrine Tumor
 examples:
 - Carcinoid tumor [Malignant insuloma carcinoid type]
@@ -9,4 +9,4 @@ input:
   label: Carcinoid tumor, NOS
 - id: icdot-C25.9
   label: Pancreas, NOS
-updated: '2020-03-03'
+updated: '2020-05-20'

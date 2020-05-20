@@ -1,11 +1,10 @@
 equivalents:
-- id: ncit:C4752
+- id: NCIT:C4752
   label: T-Cell Prolymphocytic Leukemia
-examples:
-- T-cell prolymphocytic leukemia
+examples: []
 input:
 - id: icdom-98343
   label: Prolymphocytic leukemia, T-cell type
 - id: icdot-C42.4
   label: Hematopoietic system, NOS
-updated: '2020-03-04'
+updated: '2020-05-20'

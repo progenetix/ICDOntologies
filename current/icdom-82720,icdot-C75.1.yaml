@@ -1,10 +1,14 @@
 equivalents:
-- label: Pituitary Gland Adenoma
-  id: ncit:C3329
+- id: NCIT:C3329
+  label: Pituitary Gland Adenoma
 examples:
-- labels: ptituitary adenoma [endocrinologically inactive, primary]
+- ptituitary adenoma [endocrinologically inactive, primary]
+- ptituitary adenoma [endocrinologically inactive, recurrent]
+- ptituitary adenoma [acromegaly, primary]
+- ptituitary adenoma [thyrotrophinoma, primary]
 input:
-- label: Pituitary adenoma, NOS
-  id: icdom-82720
-- label: Pituitary gland
-  id: icdot-C75.1
+- id: icdom-82720
+  label: Pituitary adenoma, NOS
+- id: icdot-C75.1
+  label: Pituitary gland
+updated: '2020-05-20'

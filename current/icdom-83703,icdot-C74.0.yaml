@@ -1,10 +1,14 @@
 equivalents:
-- label: Adrenal Cortex Carcinoma
-  id: ncit:C9325
+- id: NCIT:C9325
+  label: Adrenal Cortex Carcinoma
 examples:
-- labels: Adrenal cortical carcinoma [pediatric]
+- adrenocortical carcinoma
+- Adrenocortical carcinoma
+- adrenocortical carcinoma [p53mut; Li-Fraumeni syndrome]
+- Adrenocortical tumor [carcinoma, left]
 input:
-- label: Adrenal cortical carcinoma
-  id: icdom-83703
-- label: Adrenal cortex
-  id: icdot-C74.0
+- id: icdom-83703
+  label: Adrenal cortical carcinoma
+- id: icdot-C74.0
+  label: Adrenal cortex
+updated: '2020-05-20'

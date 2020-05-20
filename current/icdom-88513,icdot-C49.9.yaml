@@ -1,5 +1,5 @@
 equivalents:
-- id: ncit:C4250
+- id: NCIT:C4250
   label: Well Differentiated Liposarcoma
 examples:
 - lipoma-like liposarcoma [thigh, deep]
@@ -11,4 +11,4 @@ input:
   label: Liposarcoma, well differentiated
 - id: icdot-C49.9
   label: Connective and soft tissue, NOS
-updated: '2020-03-03'
+updated: '2020-05-20'

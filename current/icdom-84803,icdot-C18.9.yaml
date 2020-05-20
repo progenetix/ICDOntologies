@@ -1,10 +1,14 @@
 equivalents:
-- label: Mucinous Adenocarcinoma
-  id: ncit:C26712
+- id: NCIT:C7966
+  label: Colon Mucinous Adenocarcinoma
 examples:
-- labels: Mucinous colorectal carcinoma [Rectum [above], pT3N1M0, stage II]
+- colorectal carcinoma [right, mucinous, lymph node metastasis]
+- Colon Mucinous Adenocarcinoma [Ascending Colon]
+- Colon Mucinous Adenocarcinoma [Transverse Colon]
+- Colon Mucinous Adenocarcinoma [Splenic Flexure]
 input:
-- label: Mucinous adenocarcinoma
-  id: icdom-84803
-- label: Large intestine, excl. Rectum and rectosigmoid junction
-  id: icdot-C18.9
+- id: icdom-84803
+  label: Mucinous adenocarcinoma
+- id: icdot-C18.9
+  label: Large intestine, excl. Rectum and rectosigmoid junction
+updated: '2020-05-20'

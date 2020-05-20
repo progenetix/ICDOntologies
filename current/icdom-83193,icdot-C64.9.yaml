@@ -1,10 +1,11 @@
 equivalents:
-- label: Carcinoma of the Collecting Ducts of Bellini
-  id: ncit:C6194
+- id: NCIT:C6194
+  label: Carcinoma of the Collecting Ducts of Bellini
 examples:
-- labels: Renal medullary carcinoma
+- Renal medullary carcinoma
 input:
-- label: Collecting duct carcinoma
-  id: icdom-83193
-- label: Kidney
-  id: icdot-C64.9
+- id: icdom-83193
+  label: Collecting duct carcinoma
+- id: icdot-C64.9
+  label: Kidney
+updated: '2020-05-20'

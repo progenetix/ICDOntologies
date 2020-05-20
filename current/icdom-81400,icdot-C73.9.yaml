@@ -1,5 +1,5 @@
 equivalents:
-- id: ncit:C3502
+- id: NCIT:C3502
   label: Thyroid Gland Follicular Adenoma
 examples:
 - Parathyroid adenoma
@@ -9,4 +9,4 @@ input:
   label: Adenoma, NOS
 - id: icdot-C73.9
   label: Thyroid gland
-updated: '2020-03-03'
+updated: '2020-05-20'

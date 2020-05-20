@@ -1,5 +1,5 @@
 equivalents:
-- id: ncit:C8863
+- id: NCIT:C8863
   label: Nodal Marginal Zone Lymphoma
 examples:
 - Marginal zone lymphoma
@@ -11,4 +11,4 @@ input:
   label: Marginal zone B-cell lymphoma, NOS
 - id: icdot-C77.9
   label: Lymph nodes, NOS
-updated: '2020-03-04'
+updated: '2020-05-20'

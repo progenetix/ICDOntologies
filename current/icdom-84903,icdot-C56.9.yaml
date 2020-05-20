@@ -1,10 +1,11 @@
 equivalents:
-- label: Krukenberg tumor
-  id: ncit:C3153
+- id: NCIT:C3153
+  label: Krukenberg tumor
 examples:
-- labels: Krukenberg tumor [cell line KS-1]
+- Krukenberg tumor [cell line KS-1]
 input:
-- label: Metastatic signet ring cell carcinoma
-  id: icdom-84903
-- label: Ovary
-  id: icdot-C56.9
+- id: icdom-84903
+  label: Metastatic signet ring cell carcinoma
+- id: icdot-C56.9
+  label: ovary
+updated: '2020-05-20'

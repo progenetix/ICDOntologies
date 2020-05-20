@@ -1,5 +1,5 @@
 equivalents:
-- id: ncit:C4265
+- id: NCIT:C4265
   label: Pancreatoblastoma
 examples:
 - Pediatric pancreatoblastoma
@@ -8,4 +8,4 @@ input:
   label: Pancreatoblastoma
 - id: icdot-C25.9
   label: Pancreas, NOS
-updated: '2020-03-04'
+updated: '2020-05-20'

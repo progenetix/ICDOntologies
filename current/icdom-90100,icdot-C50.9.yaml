@@ -1,5 +1,5 @@
 equivalents:
-- id: ncit:C3744
+- id: NCIT:C3744
   label: Breast Fibroadenoma
 examples:
 - Fibroadenoma of the breast
@@ -8,4 +8,4 @@ input:
   label: Fibroadenoma, NOS
 - id: icdot-C50.9
   label: Breast, NOS
-updated: '2020-03-04'
+updated: '2020-05-20'

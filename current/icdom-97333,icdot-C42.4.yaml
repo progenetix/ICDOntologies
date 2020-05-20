@@ -1,10 +1,10 @@
 equivalents:
-- label: Plasma Cell Leukemia
-  id: ncit:C3180
-examples:
-- labels: Plasma cell leukemia
+- id: NCIT:C3180
+  label: Plasma Cell Leukemia
+examples: []
 input:
-- label: Plasma cell leukemia
-  id: icdom-97333
-- label: Hematopoietic system, NOS
-  id: icdot-C42.4
+- id: icdom-97333
+  label: Plasma cell leukemia
+- id: icdot-C42.4
+  label: Hematopoietic system, NOS
+updated: '2020-05-20'

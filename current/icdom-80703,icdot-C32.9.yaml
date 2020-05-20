@@ -1,5 +1,5 @@
 equivalents:
-- id: ncit:C4044
+- id: NCIT:C4044
   label: Laryngeal Squamous Cell Carcinoma
 examples:
 - head and neck squamous cell carcinoma [Larynx]
@@ -11,4 +11,4 @@ input:
   label: Squamous cell carcinoma, NOS
 - id: icdot-C32.9
   label: Larynx
-updated: '2020-03-03'
+updated: '2020-05-20'

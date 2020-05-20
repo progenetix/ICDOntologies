@@ -1,5 +1,5 @@
 equivalents:
-- id: ncit:C4906
+- id: NCIT:C4906
   label: Parathyroid Gland Carcinoma
 examples:
 - parathyroid carcinoma [Sporadic]
@@ -9,4 +9,4 @@ input:
   label: Adenocarcinoma, NOS
 - id: icdot-C75.0
   label: Parathyroid gland
-updated: '2020-03-03'
+updated: '2020-05-20'

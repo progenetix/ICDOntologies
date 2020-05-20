@@ -1,5 +1,5 @@
 equivalents:
-- id: ncit:C3510
+- id: NCIT:C3510
   label: Cutaneous Melanoma
 examples:
 - malignant melanoma [cell line WM1366]
@@ -11,4 +11,4 @@ input:
   label: Malignant melanoma, NOS
 - id: icdot-C44.9
   label: Skin, NOS
-updated: '2020-03-03'
+updated: '2020-05-20'

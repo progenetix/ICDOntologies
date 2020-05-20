@@ -1,6 +1,6 @@
 equivalents:
-- id: ncit:C5908
-  label: 'Salivary Gland Mucoepidermoid Carcinoma '
+- id: NCIT:C5908
+  label: Salivary Gland Mucoepidermoid Carcinoma
 examples:
 - Mucoepidermoid carcinoma
 input:
@@ -8,4 +8,4 @@ input:
   label: Mucoepidermoid carcinoma
 - id: icdot-C08.9
   label: Salivary gland, NOS
-updated: '2020-03-03'
+updated: '2020-05-20'

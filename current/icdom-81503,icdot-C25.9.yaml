@@ -1,6 +1,6 @@
 equivalents:
-- id: ncit:C27720
-  label: 'Pancreatic Neuroendocrine Tumor '
+- id: NCIT:C27720
+  label: Pancreatic Neuroendocrine Tumor
 examples:
 - endocrine pancreatic tumor [Nonfunctional, metastasizing, metastasis]
 - endocrine pancreatic tumor [Nonfunctional, metastasizing, primary]
@@ -9,4 +9,4 @@ input:
   label: Pancreatic endocrine tumor, malignant
 - id: icdot-C25.9
   label: Pancreas, NOS
-updated: '2020-03-03'
+updated: '2020-05-20'

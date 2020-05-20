@@ -1,0 +1,12 @@
+equivalents:
+- id: NCIT:C80307
+  label: Waldenstrom Macroglobulinemia
+examples:
+- Waldenstrom macroglobulinemia
+- Waldenstrom Macroglobulinemia
+input:
+- id: icdom-97613
+  label: Waldenstrom macroglobulinemia
+- id: icdot-C42.1
+  label: Bone marrow
+updated: '2020-05-20'

@@ -1,10 +1,14 @@
 equivalents:
-- label: Gliosarcoma
-  id: ncit:C3796
+- id: NCIT:C3796
+  label: Gliosarcoma
 examples:
-- labels: Gliosarcoma
+- Gliosarcoma
+- Gliosarcoma [cell line SF539]
+- Gliosarcoma [cell line SF-539]
+- Gliosarcoma  [cell line  SF-539]
 input:
-- label: Gliosarcoma
-  id: icdom-94423
-- label: Brain, NOS
-  id: icdot-C71.9
+- id: icdom-94423
+  label: Gliosarcoma
+- id: icdot-C71.9
+  label: Brain, NOS
+updated: '2020-05-20'

@@ -1,5 +1,5 @@
 equivalents:
-- id: ncit:C3434
+- id: NCIT:C3434
   label: Uterine Corpus Leiomyoma
 examples:
 - Uterine Leiomyoma
@@ -11,4 +11,4 @@ input:
   label: Leiomyoma, NOS
 - id: icdot-C55.9
   label: Uterus, NOS
-updated: '2020-03-04'
+updated: '2020-05-20'

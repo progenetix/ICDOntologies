@@ -1,0 +1,12 @@
+equivalents:
+- id: NCIT:C3789
+  label: Olfactory Neuroblastoma
+examples:
+- Olfactory neuroblastoma
+- esthesioneuroblastoma
+input:
+- id: icdom-95223
+  label: Olfactory neuroblastoma
+- id: icdot-C72.2
+  label: Olfactory nerve
+updated: '2020-05-20'

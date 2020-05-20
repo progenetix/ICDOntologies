@@ -1,5 +1,5 @@
 equivalents:
-- id: ncit:C4819
+- id: NCIT:C4819
   label: Skin Squamous Cell Carcinoma
 examples:
 - squamous cell carcinoma [cell line]
@@ -11,4 +11,4 @@ input:
   label: Squamous cell carcinoma, NOS
 - id: icdot-C44.9
   label: Skin, NOS
-updated: '2020-03-04'
+updated: '2020-05-20'

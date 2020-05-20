@@ -1,5 +1,5 @@
 equivalents:
-- id: ncit:C45665
+- id: NCIT:C45665
   label: Pleural biphasic mesothelioma
 examples:
 - pleural biphasic mesothelioma [cell line Y-MESO-8D
@@ -11,4 +11,4 @@ input:
   label: Mesothelioma, biphasic, malignant
 - id: icdot-C38.4
   label: Pleura
-updated: '2020-03-04'
+updated: '2020-05-20'

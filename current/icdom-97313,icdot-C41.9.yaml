@@ -1,0 +1,10 @@
+equivalents:
+- id: NCIT:C9349
+  label: Plasmacytoma
+examples: []
+input:
+- id: icdom-97313
+  label: Plasmacytoma, NOS
+- id: icdot-C41.9
+  label: Bones and joints
+updated: '2020-05-20'

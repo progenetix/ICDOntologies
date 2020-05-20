@@ -1,5 +1,5 @@
 equivalents:
-- id: ncit:C3878
+- id: NCIT:C3878
   label: Thyroid Gland Anaplastic Carcinoma
 examples:
 - anaplastic thyroid carcinoma [cell line TCO-1]
@@ -10,4 +10,4 @@ input:
   label: Carcinoma, anaplastic, NOS
 - id: icdot-C73.9
   label: Thyroid gland
-updated: '2020-03-03'
+updated: '2020-05-20'

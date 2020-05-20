@@ -1,0 +1,11 @@
+equivalents:
+- id: NCIT:C27096
+  label: Undifferentiated (Embryonal) Sarcoma
+examples:
+- Primary Tumor
+input:
+- id: icdom-88053
+  label: Undifferentiated sarcoma
+- id: icdot-C48.0
+  label: Retroperitoneum
+updated: '2020-05-20'

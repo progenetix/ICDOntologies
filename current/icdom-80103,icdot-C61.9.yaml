@@ -1,10 +1,14 @@
 equivalents:
-- label: Prostate carcinoma
-  id: ncit:C4863
+- id: NCIT:C4863
+  label: Prostate carcinoma
 examples:
-- labels: prostate carcinoma [cell line DU145]
+- prostate carcinoma [cell line DU145]
+- prostate carcinoma [cell line 22Rv1]
+- Prostate carcinoma [cell line LNCaP clone FGC]
+- Prostate carcinoma [cell line DU145/RC0.1]
 input:
-- label: Carcinoma, NOS
-  id: icdom-80103
-- label: Prostate gland
-  id: icdot-C61.9
+- id: icdom-80103
+  label: Carcinoma, NOS
+- id: icdot-C61.9
+  label: Prostate gland
+updated: '2020-05-20'

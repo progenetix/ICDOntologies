@@ -1,10 +1,14 @@
 equivalents:
-- label: Monoclonal Gammopathy of Undetermined Significance
-  id: ncit:C3996
+- id: NCIT:C3996
+  label: Monoclonal Gammopathy of Undetermined Significance
 examples:
-- labels: Immunoglobulin light-chain amyloidosis
+- monoclonal gammopathy of unknown significance
+- Immunoglobulin light-chain amyloidosis
+- Monoclonal Gammopathy of Uncertain Significance
+- Monoclonal gammopathy
 input:
-- label: Monoclonal gammopathy of undetermined significance
-  id: icdom-97651
-- label: Bone marrow
-  id: icdot-C42.1
+- id: icdom-97651
+  label: Monoclonal gammopathy of undetermined significance
+- id: icdot-C42.1
+  label: Bone marrow
+updated: '2020-05-20'

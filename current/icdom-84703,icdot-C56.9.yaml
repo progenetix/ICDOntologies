@@ -1,6 +1,6 @@
 equivalents:
-- id: ncit:C4026
-  label: 'Ovarian Mucinous Cystadenocarcinoma '
+- id: NCIT:C4026
+  label: Ovarian Mucinous Cystadenocarcinoma
 examples:
 - Ovarian mucinous cystadenocarcinoma [cell line MCAS]
 - malignant epithelial ovarian cancer [side population cells]
@@ -11,4 +11,4 @@ input:
   label: Mucinous cystadenocarcinoma, NOS
 - id: icdot-C56.9
   label: Ovary
-updated: '2020-03-03'
+updated: '2020-05-20'

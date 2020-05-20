@@ -1,0 +1,11 @@
+equivalents:
+- id: NCIT:C6965
+  label: Pineal Parenchymal Cell Neoplasm
+examples:
+- Growth hormone-secreting pituitary tumor
+input:
+- id: icdom-93601
+  label: Pinealoma, NOS
+- id: icdot-C75.1
+  label: Pituitary gland
+updated: '2020-05-20'

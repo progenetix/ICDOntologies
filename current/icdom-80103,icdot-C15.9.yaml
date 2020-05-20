@@ -1,13 +1,14 @@
 equivalents:
-- id: ncit:C3513
+- id: NCIT:C3513
   label: Esophageal Carcinoma
 examples:
 - Barret adenocarcinoma [cell line OE33]
 - Esophageal cancer
+- Esophageal Cancer
 - esophageal carcinoma
 input:
 - id: icdom-80103
   label: Carcinoma, NOS
 - id: icdot-C15.9
   label: Esophagus
-updated: '2020-03-03'
+updated: '2020-05-20'

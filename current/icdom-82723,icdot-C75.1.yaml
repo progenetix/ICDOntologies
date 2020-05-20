@@ -1,10 +1,13 @@
 equivalents:
-- label: Pituitary Gland Carcinoma
-  id: ncit:C4536
+- id: NCIT:C4536
+  label: Pituitary Gland Carcinoma
 examples:
-- labels: Pituitary carcinoma [metatstasis]
+- prolactin pituitary tumor [agressive-invasive]
+- non-invasive prolactin pituitary tumour
+- Pituitary carcinoma [metatstasis]
 input:
-- label: Pituitary carcinoma, NOS
-  id: icdom-82723
-- label: Pituitary gland
-  id: icdot-C75.1
+- id: icdom-82723
+  label: Pituitary carcinoma, NOS
+- id: icdot-C75.1
+  label: Pituitary gland
+updated: '2020-05-20'

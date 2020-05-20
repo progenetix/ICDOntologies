@@ -1,5 +1,5 @@
 equivalents:
-- id: ncit:C65200
+- id: NCIT:C65200
   label: Thyroid Gland Follicular Carcinoma, Minimally Invasive
 examples:
 - Follicular carcinoma [cell line FTC-133]
@@ -11,4 +11,4 @@ input:
   label: Follicular carcinoma, minimally invasive
 - id: icdot-C73.9
   label: Thyroid gland
-updated: '2020-03-03'
+updated: '2020-05-20'

@@ -1,10 +1,12 @@
 equivalents:
-- label: Pancreatic carcinoma
-  id: ncit:C3850
+- id: NCIT:C3850
+  label: Pancreatic carcinoma
 examples:
-- labels: Pancreatic carcinoma [cell line KP-4]
+- Pancreatic carcinoma [cell line KP-4]
+- Carcinoma [cell line]
 input:
-- label: Carcinoma, NOS
-  id: icdom-80103
-- label: Pancreas
-  id: icdot-C25.9
+- id: icdom-80103
+  label: Carcinoma, NOS
+- id: icdot-C25.9
+  label: Pancreas
+updated: '2020-05-20'

@@ -1,10 +1,12 @@
 equivalents:
-- label: Dysembryoplastic Neuroepithelial Tumor
-  id: ncit:C9505
+- id: NCIT:C9505
+  label: Dysembryoplastic Neuroepithelial Tumor
 examples:
-- labels: Dysembryoplastic neuroepithelial tumour [parietal]
+- Dysembryoplastic neuroepithelial tumour [parietal]
+- Dysembryoplastic neuroepithelial tumour [temporal]
 input:
-- label: Dysembryoplastic neuroepithelial tumor
-  id: icdom-94130
-- label: Brain, NOS
-  id: icdot-C71.9
+- id: icdom-94130
+  label: Dysembryoplastic neuroepithelial tumor
+- id: icdot-C71.9
+  label: Brain, NOS
+updated: '2020-05-20'

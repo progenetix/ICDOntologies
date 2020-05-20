@@ -1,5 +1,5 @@
 equivalents:
-- id: ncit:C7347
+- id: NCIT:C7347
   label: Cervical Squamous Cell Carcinoma In Situ
 examples:
 - Squamous cell carcinoma in situ [cervix]
@@ -8,4 +8,4 @@ input:
   label: Squamous cell carcinoma in situ, NOS
 - id: icdot-C53.9
   label: Cervix uteri
-updated: '2020-03-03'
+updated: '2020-05-20'

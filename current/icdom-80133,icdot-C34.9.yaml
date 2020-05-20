@@ -1,6 +1,6 @@
 equivalents:
-- id: ncit:C5672
-  label: 'Lung Large Cell Neuroendocrine Carcinoma '
+- id: NCIT:C5672
+  label: Lung Large Cell Neuroendocrine Carcinoma
 examples:
 - Large cell neuroendocrine carcinoma
 - large cell neuroendocrine with squamous cell carcinoma [lung]
@@ -11,4 +11,4 @@ input:
   label: Large cell neuroendocrine carcinoma
 - id: icdot-C34.9
   label: Lung and bronchus
-updated: '2020-03-03'
+updated: '2020-05-20'

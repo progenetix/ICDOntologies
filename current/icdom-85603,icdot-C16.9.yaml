@@ -1,5 +1,5 @@
 equivalents:
-- id: ncit:C5474
+- id: NCIT:C5474
   label: Gastric adenosquamous carcinoma
 examples:
 - Gastric adenosquamous carcinoma [cell line MKN1]
@@ -9,4 +9,4 @@ input:
   label: Adenosquamous carcinoma
 - id: icdot-C16.9
   label: Stomach
-updated: '2020-03-04'
+updated: '2020-05-20'

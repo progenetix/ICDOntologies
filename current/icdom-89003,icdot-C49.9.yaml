@@ -1,5 +1,5 @@
 equivalents:
-- id: ncit:C3359
+- id: NCIT:C3359
   label: Rhabdomyosarcoma
 examples:
 - Rhabdomyosarcoma
@@ -11,4 +11,4 @@ input:
   label: Rhabdomyosarcoma, NOS
 - id: icdot-C49.9
   label: Connective and soft tissue, NOS
-updated: '2020-03-03'
+updated: '2020-05-20'

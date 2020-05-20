@@ -1,14 +1,14 @@
 equivalents:
-- id: ncit:C3864
-  label: 'Colon Adenoma '
+- id: NCIT:C3864
+  label: Colon Adenoma
 examples:
 - colorectal adenoma
-- colorectal flat adenoma
-- colorectal polypoid adenoma
+- Colorectal adenoma with high grade dysplasia
 - adenoma [colorectal, low-grade]
+- Adenoma [colorectal]
 input:
 - id: icdom-81400
   label: Adenoma, NOS
 - id: icdot-C18.9
   label: Colon, NOS
-updated: '2020-03-03'
+updated: '2020-05-20'

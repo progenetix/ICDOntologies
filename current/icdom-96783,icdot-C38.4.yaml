@@ -1,10 +1,14 @@
 equivalents:
-- label: Primary effusion lymphoma
-  id: ncit:C6915
+- id: NCIT:C6915
+  label: Primary effusion lymphoma
 examples:
-- labels: primary effusion lymphoma [cell line JSC-1]
+- primary effusion lymphoma [cell line JSC-1]
+- primary effusion lymphoma [cell line CRO-AP2]
+- primary effusion lymphoma [cell line CRO-AP5]
+- primary effusion lymphoma [cell line BC-2]
 input:
-- label: Primary effusion lymphoma
-  id: icdom-96783
-- label: Pleura
-  id: icdot-C38.4
+- id: icdom-96783
+  label: Primary effusion lymphoma
+- id: icdot-C38.4
+  label: Pleura
+updated: '2020-05-20'

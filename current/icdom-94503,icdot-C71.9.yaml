@@ -1,10 +1,14 @@
 equivalents:
-- label: Oligodendroglioma
-  id: ncit:C3288
+- id: NCIT:C3288
+  label: Oligodendroglioma
 examples:
-- labels: Grade II oligodendroglioma
+- Oligodendroglioma [cell line Hs 683]
+- oilgodendroglioma [cell line KG-1-C]
+- oilgodendroglioma
+- oligodendroglioma
 input:
-- label: Oligodendroglioma, NOS
-  id: icdom-94503
-- label: Brain, NOS
-  id: icdot-C71.9
+- id: icdom-94503
+  label: Oligodendroglioma, NOS
+- id: icdot-C71.9
+  label: Brain, NOS
+updated: '2020-05-20'

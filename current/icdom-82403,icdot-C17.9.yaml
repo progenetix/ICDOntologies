@@ -1,0 +1,13 @@
+equivalents:
+- id: NCIT:C6422
+  label: Midgut carcinoid tumor
+examples:
+- midgut carcinoid tumor [cell line H-STS]
+- midgut carcinoid tumor [cell line L-STS]
+- midgut carcinoid tumor [cell line P-STS]
+input:
+- id: icdom-82403
+  label: Carcinoid tumor, NOS
+- id: icdot-C17.9
+  label: Small intestine
+updated: '2020-05-20'

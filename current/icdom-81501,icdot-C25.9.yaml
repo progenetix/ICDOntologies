@@ -1,5 +1,5 @@
 equivalents:
-- id: ncit:C27720
+- id: NCIT:C27720
   label: Pancreatic Neuroendocrine Tumor
 examples:
 - endocrine pancreatic tumor [Nonfunctional]
@@ -10,4 +10,4 @@ input:
   label: Pancreatic endocrine tumor, NOS (C25._)
 - id: icdot-C25.9
   label: Pancreas, NOS
-updated: '2020-03-04'
+updated: '2020-05-20'

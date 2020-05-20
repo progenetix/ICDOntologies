@@ -1,0 +1,14 @@
+equivalents:
+- id: NCIT:C3467
+  label: Cutaneous T-Cell Non-Hodgkin Lymphoma
+examples:
+- Peripheral T-cell lymphoma [cutaneous]
+- cTNHL
+- Peripheral T-cell lymphoma, not otherwise specified
+- Peripheral T-cell lymphoma [Cutaneous]
+input:
+- id: icdom-97093
+  label: Cutaneous T-cell lymphoma, NOS
+- id: icdot-C44.9
+  label: Skin, NOS
+updated: '2020-05-20'

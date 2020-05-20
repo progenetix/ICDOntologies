@@ -1,6 +1,6 @@
 equivalents:
-- id: ncit:C5228
-  label: 'Ovarian Cystadenocarcinoma '
+- id: NCIT:C5228
+  label: Ovarian Cystadenocarcinoma
 examples:
 - Ovarian cystadenocarcinoma [cell line OAW42]
 - Ovarian cystoadenocarcinoma [cell line IGROV-1]
@@ -11,4 +11,4 @@ input:
   label: Cystadenocarcinoma, NOS
 - id: icdot-C56.9
   label: Ovary
-updated: '2020-03-03'
+updated: '2020-05-20'

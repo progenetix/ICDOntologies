@@ -1,5 +1,5 @@
 equivalents:
-- id: ncit:C5234
+- id: NCIT:C5234
   label: Ovarian leiomyosarcoma
 examples:
 - ovarian leiomyosarcoma [cell line RKN]
@@ -9,4 +9,4 @@ input:
   label: Leiomyosarcoma, NOS
 - id: icdot-C56.9
   label: Ovary
-updated: '2020-03-04'
+updated: '2020-05-20'

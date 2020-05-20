@@ -1,10 +1,14 @@
 equivalents:
-- label: Floor of Mouth Squamous Cell Carcinoma
-  id: ncit:C4041
+- id: NCIT:C4041
+  label: Floor of Mouth Squamous Cell Carcinoma
 examples:
-- labels: Floor of mouth squamous cell carcinoma [cell line UT-SCC-47]
+- oral cavity squamous cell carcinoma [cell line Ho-1-u-1l]
+- Floor of mouth squamous cell carcinoma [cell line UT-SCC-47]
+- 'oral squamous cell carcinoma tumor [floor of mouth, Stage: 4]'
+- 'oral squamous cell carcinoma tumor [floor of mouth, Stage: 1]'
 input:
-- label: Squamous cell carcinoma, NOS
-  id: icdom-80703
-- label: Floor of mouth, NOS
-  id: icdot-C04.9
+- id: icdom-80703
+  label: Squamous cell carcinoma, NOS
+- id: icdot-C04.9
+  label: Floor of mouth, NOS
+updated: '2020-05-20'

@@ -1,5 +1,5 @@
 equivalents:
-- id: ncit:C9119
+- id: NCIT:C9119
   label: Medullary Breast Carcinoma
 examples:
 - Breast medullary carcinoma
@@ -11,4 +11,4 @@ input:
   label: Medullary carcinoma, NOS
 - id: icdot-C50.9
   label: Breast, NOS
-updated: '2020-03-03'
+updated: '2020-05-20'

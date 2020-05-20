@@ -1,10 +1,14 @@
 equivalents:
-- label: Parasympathetic Paraganglioma
-  id: ncit:C4217
+- id: NCIT:C4217
+  label: Parasympathetic Paraganglioma
 examples:
-- labels: parasympathetic paraganglioma [vagal]
+- parasympathetic paraganglioma [vagal]
+- parasympathetic paraganglioma [carotid body]
+- parasympathetic paraganglioma [tympanic]
+- parasympathetic paraganglioma [jugular]
 input:
-- label: Parasympathetic paraganglioma
-  id: icdom-86821
-- label: Peripheral nervs incl. Autonomous
-  id: icdot-C47.9
+- id: icdom-86821
+  label: Parasympathetic paraganglioma
+- id: icdot-C47.9
+  label: Peripheral nervs incl. Autonomous
+updated: '2020-05-20'

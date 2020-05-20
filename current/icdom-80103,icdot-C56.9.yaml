@@ -1,6 +1,6 @@
 equivalents:
-- id: ncit:C4908
-  label: 'Ovarian Carcinoma '
+- id: NCIT:C4908
+  label: Ovarian Carcinoma
 examples:
 - Ovarian carcinoma
 - Ovarian carcinoma [omentum metastasis]
@@ -11,4 +11,4 @@ input:
   label: Carcinoma, NOS
 - id: icdot-C56.9
   label: Ovary
-updated: '2020-03-03'
+updated: '2020-05-20'

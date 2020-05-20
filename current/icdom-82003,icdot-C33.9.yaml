@@ -1,5 +1,5 @@
 equivalents:
-- id: ncit:C6051
+- id: NCIT:C6051
   label: Tracheal Adenoid Cystic Carcinoma
 examples:
 - Adenoid cystic carcinoma
@@ -10,4 +10,4 @@ input:
   label: Adenoid cystic carcinoma
 - id: icdot-C33.9
   label: Trachea
-updated: '2020-03-03'
+updated: '2020-05-20'

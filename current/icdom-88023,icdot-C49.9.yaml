@@ -1,5 +1,5 @@
 equivalents:
-- id: ncit:C66759
+- id: NCIT:C66759
   label: Giant Cell Sarcoma
 examples:
 - Giant cell sarcoma [cell line Hs 737.T]
@@ -8,4 +8,4 @@ input:
   label: Giant cell sarcoma
 - id: icdot-C49.9
   label: Connective and soft tissue, NOS
-updated: '2020-03-03'
+updated: '2020-05-20'

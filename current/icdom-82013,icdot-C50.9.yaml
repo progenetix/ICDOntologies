@@ -1,5 +1,5 @@
 equivalents:
-- id: ncit:C5142
+- id: NCIT:C5142
   label: Invasive Cribriform Breast Carcinoma
 examples:
 - Ductal carcinoma
@@ -10,4 +10,4 @@ input:
   label: Cribriform carcinoma, NOS
 - id: icdot-C50.9
   label: Breast, NOS
-updated: '2020-03-03'
+updated: '2020-05-20'

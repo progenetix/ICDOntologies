@@ -1,5 +1,5 @@
 equivalents:
-- id: ncit:C126594
+- id: NCIT:C126594
   label: Follicular Variant Thyroid Gland Papillary Carcinoma
 examples:
 - Papillary carcinoma of thyroid, follicular variant [stage PpT4aN1b, grade High]
@@ -11,4 +11,4 @@ input:
   label: Papillary carcinoma, follicular variant
 - id: icdot-C73.9
   label: Thyroid gland
-updated: '2020-03-03'
+updated: '2020-05-20'

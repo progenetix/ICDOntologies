@@ -1,5 +1,5 @@
 equivalents:
-- id: ncit:C4025
+- id: NCIT:C4025
   label: Esophageal Adenocarcinoma
 examples:
 - adenocarcinoma [esophagus]
@@ -11,4 +11,4 @@ input:
   label: Adenocarcinoma, NOS
 - id: icdot-C15.9
   label: Esophagus
-updated: '2020-03-03'
+updated: '2020-05-20'

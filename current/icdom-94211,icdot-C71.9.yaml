@@ -1,10 +1,14 @@
 equivalents:
-- label: Pilocytic Astrocytoma
-  id: ncit:C4047
+- id: NCIT:C4047
+  label: Pilocytic Astrocytoma
 examples:
-- labels: Astrocytoma, pilocytic/juvenile [familial]
+- Pilocytic astrocytoma
+- astrocytoma [low grade]
+- pilocytic astrocytoma
+- pilocytic astrocytoma [optic chiasm]
 input:
-- label: Pilocytic astrocytoma
-  id: icdom-94211
-- label: Brain, NOS
-  id: icdot-C71.9
+- id: icdom-94211
+  label: Pilocytic astrocytoma
+- id: icdot-C71.9
+  label: Brain, NOS
+updated: '2020-05-20'

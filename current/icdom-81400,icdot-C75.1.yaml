@@ -1,5 +1,5 @@
 equivalents:
-- id: ncit:C3329
+- id: NCIT:C3329
   label: Pituitary Gland Adenoma
 examples:
 - pituitary adenoma [gonadotroph cell adenoma]
@@ -11,4 +11,4 @@ input:
   label: Adenoma, NOS
 - id: icdot-C75.1
   label: Pituitary gland
-updated: '2020-03-03'
+updated: '2020-05-20'

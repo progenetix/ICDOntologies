@@ -1,14 +1,10 @@
 equivalents:
-- id: ncit:C3250
+- id: NCIT:C3250
   label: Acute Myeloid Leukemia with Maturation
-examples:
-- Acute myeloblastic leukemia with maturation [FAB M2]
-- Acute myeloblastic leukemia with maturation [FAB M2, refractory]
-- Acute myeloblastic leukemia with maturation (FAB type M2)
-- acute myeloid leukemia [FAB M2]
+examples: []
 input:
 - id: icdom-98743
   label: Acute myeloid leukemia with maturation
 - id: icdot-C42.4
   label: Hematopoietic system, NOS
-updated: '2020-03-04'
+updated: '2020-05-20'

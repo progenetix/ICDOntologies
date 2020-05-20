@@ -1,14 +1,14 @@
 equivalents:
-- id: ncit:C3366
+- id: NCIT:C3366
   label: Sezary Syndrome
 examples:
 - Sezary syndrome
 - sezary syndrome
+- Sezary
 - Sezary syndrome [stage IIIb]
-- Sezary syndrome [stage IVa]
 input:
 - id: icdom-97013
   label: Sezary syndrome
 - id: icdot-C44.9
   label: Skin, NOS
-updated: '2020-03-04'
+updated: '2020-05-20'

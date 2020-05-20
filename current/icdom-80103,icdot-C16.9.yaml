@@ -1,10 +1,14 @@
 equivalents:
-- label: Gastric carcinoma
-  id: ncit:C4911
+- id: NCIT:C4911
+  label: Gastric carcinoma
 examples:
-- labels: Gastric carcinoma [cell line SNU-1]
+- Gastric carcinoma [cell line SNU-1]
+- Gastric carcinoma [cell line SNU-5]
+- Gastric carcinoma [cell line SNU-16]
+- gastric carcinoma [cell line HGC-27]
 input:
-- label: Carcinoma, NOS
-  id: icdom-80103
-- label: Stomach
-  id: icdot-C16.9
+- id: icdom-80103
+  label: Carcinoma, NOS
+- id: icdot-C16.9
+  label: Stomach
+updated: '2020-05-20'

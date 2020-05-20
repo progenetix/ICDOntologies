@@ -1,5 +1,5 @@
 equivalents:
-- id: ncit:C6966
+- id: NCIT:C6966
   label: Pineocytoma
 examples:
 - Pineocytoma
@@ -8,4 +8,4 @@ input:
   label: Pineocytoma
 - id: icdot-C75.3
   label: Pineal gland
-updated: '2020-03-04'
+updated: '2020-05-20'

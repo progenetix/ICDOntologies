@@ -1,6 +1,6 @@
 equivalents:
-- id: ncit:C95595
-  label: 'Pancreatic Somatostatinoma '
+- id: NCIT:C95595
+  label: Pancreatic Somatostatinoma
 examples:
 - Somatostatinoma
 input:
@@ -8,4 +8,4 @@ input:
   label: Somatostatinoma, NOS
 - id: icdot-C25.9
   label: Pancreas, NOS
-updated: '2020-03-03'
+updated: '2020-05-20'

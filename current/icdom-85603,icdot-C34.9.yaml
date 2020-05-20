@@ -1,6 +1,6 @@
 equivalents:
-- id: ncit:C9133
-  label: 'Lung Adenosquamous Carcinoma '
+- id: NCIT:C9133
+  label: Lung Adenosquamous Carcinoma
 examples:
 - adenosquamous lung carcinoma [cell line HCC366]
 - adenosquamous lung carcinoma [cell line HCC2279]
@@ -11,4 +11,4 @@ input:
   label: Adenosquamous carcinoma
 - id: icdot-C34.9
   label: Lung and bronchus
-updated: '2020-03-03'
+updated: '2020-05-20'

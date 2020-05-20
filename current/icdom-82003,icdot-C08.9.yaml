@@ -1,5 +1,5 @@
 equivalents:
-- id: ncit:C8026
+- id: NCIT:C8026
   label: Salivary Gland Adenoid Cystic Carcinoma
 examples:
 - Adenoid cystic carcinoma
@@ -11,4 +11,4 @@ input:
   label: Adenoid cystic carcinoma
 - id: icdot-C08.9
   label: Salivary gland, NOS
-updated: '2020-03-04'
+updated: '2020-05-20'

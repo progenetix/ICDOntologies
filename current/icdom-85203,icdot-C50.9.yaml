@@ -1,10 +1,14 @@
 equivalents:
-- label: Lobular Breast Carcinoma
-  id: ncit:C3771
+- id: NCIT:C3771
+  label: Lobular Breast Carcinoma
 examples:
-- labels: Lobular carcinoma
+- Invasive lobular breast carcinoma [cell line SUM44PE]
+- Metastatic lobular breast carcinoma [cell line HCC2185]
+- invasive pleomorphic lobular carcinoma [breast]
+- Invasive lobular carcinoma
 input:
-- label: Lobular carcinoma, NOS
-  id: icdom-85203
-- label: Breast, NOS
-  id: icdot-C50.9
+- id: icdom-85203
+  label: Lobular carcinoma, NOS
+- id: icdot-C50.9
+  label: Breast, NOS
+updated: '2020-05-20'

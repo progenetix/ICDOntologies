@@ -1,10 +1,14 @@
 equivalents:
-- label: Endometrial Adenocarcinoma
-  id: ncit:C7359
+- id: NCIT:C3769
+  label: Endometrioid Adenocarcinoma
 examples:
-- labels: Endometrial adenocarcinoma [cell line Ishikawa (Heraklio) 02 ER-]
+- uterine corpus endometrioid carcinoma
+- Endometrial adenocarcinoma [cell line HEC-1]
+- Endometrial adenocarcinoma [cell line Ishikawa (Heraklio) 02 ER-]
+- endometrial adenocarcinoma [cell line AN3-CA]
 input:
-- label: Endometrioid adenocarcinoma, secretory variant
-  id: icdom-83823
-- label: Uterus, NOS
-  id: icdot-C55.9
+- id: icdom-83823
+  label: Endometrioid adenocarcinoma, secretory variant
+- id: icdot-C55.9
+  label: Uterus, NOS
+updated: '2020-05-20'

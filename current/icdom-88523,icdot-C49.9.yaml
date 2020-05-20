@@ -1,5 +1,5 @@
 equivalents:
-- id: ncit:C27781
+- id: NCIT:C27781
   label: Myxoid Liposarcoma
 examples:
 - Liposarcoma, myxoid
@@ -11,4 +11,4 @@ input:
   label: Myxoid liposarcoma
 - id: icdot-C49.9
   label: Connective and soft tissue, NOS
-updated: '2020-03-04'
+updated: '2020-05-20'

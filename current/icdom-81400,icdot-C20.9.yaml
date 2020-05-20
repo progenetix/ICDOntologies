@@ -1,5 +1,5 @@
 equivalents:
-- id: ncit:C5546
+- id: NCIT:C5546
   label: Rectal Adenoma
 examples:
 - rectal adenoma
@@ -11,4 +11,4 @@ input:
   label: Adenoma, NOS
 - id: icdot-C20.9
   label: Rectum, NOS
-updated: '2020-03-03'
+updated: '2020-05-20'
