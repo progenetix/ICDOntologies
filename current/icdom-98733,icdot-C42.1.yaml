@@ -1,0 +1,14 @@
+equivalents:
+- id: NCIT:C3249
+  label: Acute Myeloid Leukemia without Maturation
+examples:
+- Acute myeloblastic leukemia without maturation [FAB M1, refractory]
+- Acute myeloblastic leukemia without maturation [FAB type M1]
+- Acute myeloblastic leukemia without maturation (FAB type M1)
+- Acute myeloblastic leukemia without maturation [FAB M1]
+input:
+- id: icdom-98733
+  label: Acute myeloid leukemia without maturation
+- id: icdot-C42.1
+  label: Bone marrow
+updated: '2020-05-22'

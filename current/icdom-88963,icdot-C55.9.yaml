@@ -1,0 +1,11 @@
+equivalents:
+- id: NCIT:C3701
+  label: Myxoid Leiomyosarcoma
+examples:
+- Primary Tumor
+input:
+- id: icdom-88963
+  label: Myxoid leiomyosarcoma
+- id: icdot-C55.9
+  label: Uterus, NOS
+updated: '2020-05-22'

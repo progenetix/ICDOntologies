@@ -1,0 +1,11 @@
+equivalents:
+- id: NCIT:C3808
+  label: Rhabdoid Tumor
+examples:
+- rhabdoid tumor [extrarenal]
+input:
+- id: icdom-89633
+  label: Malignant rhabdoid tumor
+- id: icdot-C77.9
+  label: Lymph nodes, NOS
+updated: '2020-05-22'

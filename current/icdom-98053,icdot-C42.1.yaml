@@ -1,0 +1,13 @@
+equivalents:
+- id: NCIT:C4673
+  label: Acute Biphenotypic Leukemia
+examples:
+- acute biphenotypic leukemia [cell line MY]
+- Acute mixed lineage leukemia
+- Acute mixed lineage leukemia [remission]
+input:
+- id: icdom-98053
+  label: Acute biphenotypic leukemia
+- id: icdot-C42.1
+  label: Bone marrow
+updated: '2020-05-22'

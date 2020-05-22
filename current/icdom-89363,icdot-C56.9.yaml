@@ -1,0 +1,11 @@
+equivalents:
+- id: NCIT:C27243
+  label: High Risk Gastrointestinal Stromal Tumor
+examples:
+- gastrointestinal stromal tumor [high biological potential]
+input:
+- id: icdom-89363
+  label: Gastrointestinal stromal sarcoma
+- id: icdot-C56.9
+  label: ovary
+updated: '2020-05-22'

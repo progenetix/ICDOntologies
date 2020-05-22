@@ -1,0 +1,11 @@
+equivalents:
+- id: NCIT:C4906
+  label: Parathyroid Gland Carcinoma
+examples:
+- carcinoma
+input:
+- id: icdom-80103
+  label: Carcinoma, NOS
+- id: icdot-C75.0
+  label: parathyroid gland
+updated: '2020-05-22'

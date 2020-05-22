@@ -1,0 +1,12 @@
+equivalents:
+- id: NCIT:C3336
+  label: Polycythemia Vera
+examples:
+- polycythemia vera
+- Polycythemia vera
+input:
+- id: icdom-99503
+  label: Polycythemia vera
+- id: icdot-C42.1
+  label: Bone marrow
+updated: '2020-05-22'

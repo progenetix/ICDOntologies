@@ -1,0 +1,13 @@
+equivalents:
+- id: NCIT:C2862
+  label: Primary Myelofibrosis
+examples:
+- primary myelofibrosis
+- Osteomyelofibrosis
+- Idiopathic myelofibrosis
+input:
+- id: icdom-99613
+  label: Primary myelofibrosis
+- id: icdot-C42.1
+  label: Bone marrow
+updated: '2020-05-22'

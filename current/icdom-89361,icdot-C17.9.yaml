@@ -1,0 +1,14 @@
+equivalents:
+- id: NCIT:C5811
+  label: Small Intestinal Gastrointestinal Stromal Tumor
+examples:
+- gastrointestinal stromal tumor [low biological potential]
+- gastrointestinal stromal tumor, low biological potential
+- Gastrointestinal stromal tumor, uncertain malignant potential
+- gastrointestinal stroma tumor [Low Malignant Potential]
+input:
+- id: icdom-89361
+  label: Gastrointestinal stromal tumor, NOS
+- id: icdot-C17.9
+  label: small intestine
+updated: '2020-05-22'

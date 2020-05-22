@@ -1,0 +1,11 @@
+equivalents:
+- id: NCIT:C4542
+  label: Lacrimal Gland Pleomorphic Adenoma
+examples:
+- Pleomorphic adenoma
+input:
+- id: icdom-81400
+  label: Adenoma, NOS
+- id: icdot-C69.0
+  label: orbit and lacrimal gland, excl. retina, eye, nos
+updated: '2020-05-22'

@@ -1,10 +1,11 @@
 equivalents:
-- label: Rhabdoid Tumor
-  id: ncit:C3808
+- id: NCIT:C3808
+  label: Rhabdoid Tumor
 examples:
-- labels: Extrarenal rhabdoid tumor
+- Extrarenal rhabdoid tumor
 input:
-- label: Malignant rhabdoid tumor
-  id: icdom-89633
-- label: Brain, NOS
-  id: icdot-C71.9
+- id: icdom-89633
+  label: Malignant rhabdoid tumor
+- id: icdot-C71.9
+  label: brain, NOS
+updated: '2020-05-22'

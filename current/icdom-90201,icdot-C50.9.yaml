@@ -1,10 +1,12 @@
 equivalents:
-- label: Phyllodes Tumor
-  id: ncit:C2977
+- id: NCIT:C7503
+  label: Borderline Phyllodes Tumor
 examples:
-- labels: phyllodes tumor [breast, Borderline]
+- phyllodes tumor [breast, Borderline]
+- phyllodes tumor [breast, borderline]
 input:
-- label: Phyllodes tumor, borderline
-  id: icdom-90201
-- label: Breast, NOS
-  id: icdot-C50.9
+- id: icdom-90201
+  label: Phyllodes tumor, borderline
+- id: icdot-C50.9
+  label: Breast, NOS
+updated: '2020-05-22'

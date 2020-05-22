@@ -1,0 +1,14 @@
+equivalents:
+- id: NCIT:C4247
+  label: Undifferentiated Pleomorphic Sarcoma
+examples:
+- malignant fibrous histiocytoma [bone, primary tumor]
+- malignant fibrous histiocytoma [bone, metastasis]
+- Malignant fibrous histiocytoma [bone]
+- Sarcoma [postirradiation, MFH G4, Subcutis of proximal humerus]
+input:
+- id: icdom-88303
+  label: Malignant fibrous histiocytoma
+- id: icdot-C40.0
+  label: bones and joints
+updated: '2020-05-22'

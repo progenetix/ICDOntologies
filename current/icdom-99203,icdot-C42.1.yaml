@@ -1,0 +1,14 @@
+equivalents:
+- id: NCIT:C27912
+  label: Therapy-Related Myeloid Neoplasm
+examples:
+- Therapy related myeloid neoplasm [cell line OHN-GM]
+- Acute myeloid leukemia [Therapy-related myeloid neoplasms]
+- therapy-related acute leukemia [RAEB, after ovarian ca.]
+- therapy-related acute leukemia [villositary lymphocyte splenic lymphoma]
+input:
+- id: icdom-99203
+  label: Therapy related myeloid neoplasm
+- id: icdot-C42.1
+  label: Bone marrow
+updated: '2020-05-22'

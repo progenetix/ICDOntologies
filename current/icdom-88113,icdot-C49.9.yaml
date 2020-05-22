@@ -1,0 +1,13 @@
+equivalents:
+- id: NCIT:C6496
+  label: Myxofibrosarcoma
+examples:
+- myxoinflammatory fibroblastic sarcoma
+- Desmoplastic fibroma [myxofibrosarcoma-like component]
+- Myxofibrosarcoma
+input:
+- id: icdom-88113
+  label: Fibromyxosarcoma
+- id: icdot-C49.9
+  label: connective and soft tissue, NOS
+updated: '2020-05-22'

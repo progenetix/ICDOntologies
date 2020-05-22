@@ -1,0 +1,11 @@
+equivalents:
+- id: NCIT:C4912
+  label: Bladder Carcinoma
+examples:
+- Primary Tumor
+input:
+- id: icdom-80103
+  label: Carcinoma, NOS
+- id: icdot-C67.9
+  label: Bladder, NOS
+updated: '2020-05-22'

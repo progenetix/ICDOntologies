@@ -1,10 +1,12 @@
 equivalents:
-- label: Rhabdoid Tumor
-  id: ncit:C3808
+- id: NCIT:C3808
+  label: Rhabdoid Tumor
 examples:
-- labels: rhabdoid tumor [extrarenal]
+- extra-renal rhabdoid tumour [p53mut, Li-Fraumeni syndrome]
+- rhabdoid tumor [extrarenal]
 input:
-- label: Malignant rhabdoid tumor
-  id: icdom-89633
-- label: Connective and soft tissue, NOS
-  id: icdot-C49.9
+- id: icdom-89633
+  label: Malignant rhabdoid tumor
+- id: icdot-C49.9
+  label: connective and soft tissue, NOS
+updated: '2020-05-22'

@@ -1,0 +1,13 @@
+equivalents:
+- id: NCIT:C2872
+  label: Refractory Anemia
+examples:
+- myelodysplastic syndrome [RA]
+- Refractory anemia, NOS
+- Refractory anemia
+input:
+- id: icdom-99803
+  label: Refractory anemia
+- id: icdot-C42.1
+  label: Bone marrow
+updated: '2020-05-22'

@@ -1,0 +1,12 @@
+equivalents:
+- id: NCIT:C3043
+  label: Fibrosarcoma
+examples:
+- adult fibrosarcoma [grade 3, retroperitoneum]
+- adult fibrosarcoma [grade 2, retroperitoneum]
+input:
+- id: icdom-88103
+  label: Fibrosarcoma, NOS
+- id: icdot-C48.9
+  label: retroperitoneum and peritoneum
+updated: '2020-05-22'

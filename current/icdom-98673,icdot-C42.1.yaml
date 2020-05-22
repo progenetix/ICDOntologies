@@ -1,0 +1,14 @@
+equivalents:
+- id: NCIT:C7463
+  label: Acute myelomonocytic leukemia
+examples:
+- Acute myelomonocytic leukemia [cell line KY821]
+- Acute myelomonocytic leukemia [FAB M4, refractory]
+- Acute myelomonocytic leukemia [FAB type M4]
+- Acute myelomonocytic leukemia (FAB type M4)
+input:
+- id: icdom-98673
+  label: Acute myelomonocytic leukemia, NOS
+- id: icdot-C42.1
+  label: Bone marrow
+updated: '2020-05-22'

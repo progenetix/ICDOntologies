@@ -1,0 +1,13 @@
+equivalents:
+- id: NCIT:C9289
+  label: Acute Myeloid Leukemia with Multilineage Dysplasia
+examples:
+- Acute myeloid leukemia with prior myelodysplastic syndrome [RAEB]
+- Acute myeloid leukemia with prior myelodysplastic syndrome [RAEBT]
+- Acute myeloid leukemia with prior myelodysplastic syndrome
+input:
+- id: icdom-98953
+  label: Acute myeloid leukemia with myelodysplasia-related changes
+- id: icdot-C42.1
+  label: Bone marrow
+updated: '2020-05-22'

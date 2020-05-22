@@ -1,0 +1,11 @@
+equivalents:
+- id: NCIT:C3868
+  label: Gastrointestinal Stromal Tumor
+examples:
+- gastrointestinal stroma tumor
+input:
+- id: icdom-89361
+  label: Gastrointestinal stromal tumor, NOS
+- id: icdot-C38.9
+  label: mediastinum
+updated: '2020-05-22'

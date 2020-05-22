@@ -1,10 +1,14 @@
 equivalents:
-- label: Undifferentiated Pleomorphic Sarcoma
-  id: ncit:C4247
+- id: NCIT:C4247
+  label: Undifferentiated Pleomorphic Sarcoma
 examples:
-- labels: Malignant fibrous histiocytoma [stage IV]
+- Desmoplastic fibroma [malignant fibrous histiocytoma-like component]
+- Malignant fibrous histiocytoma [stage IV]
+- Malignant fibrous histiocytoma [stage III]
+- Malignant fibrous histiocytoma [stage II]
 input:
-- label: Malignant fibrous histiocytoma
-  id: icdom-88303
-- label: Connective and soft tissue, NOS
-  id: icdot-C49.9
+- id: icdom-88303
+  label: Malignant fibrous histiocytoma
+- id: icdot-C49.9
+  label: connective and soft tissue, NOS
+updated: '2020-05-22'

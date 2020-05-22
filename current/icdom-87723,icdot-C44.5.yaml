@@ -1,0 +1,11 @@
+equivalents:
+- id: NCIT:C4237
+  label: Spindle Cell Melanoma
+examples:
+- Primary Tumor
+input:
+- id: icdom-87723
+  label: Spindle cell melanoma, NOS
+- id: icdot-C44.5
+  label: Skin of trunk
+updated: '2020-05-22'

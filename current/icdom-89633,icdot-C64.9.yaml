@@ -1,10 +1,13 @@
 equivalents:
-- label: Rhabdoid tumor of the kidney
-  id: ncit:C8715
+- id: NCIT:C8715
+  label: Rhabdoid tumor of the kidney
 examples:
-- labels: Rhabdoid tumor of the kidney [cell line G-401]
+- Rhabdoid tumor of the kidney [cell line G-401]
+- rhabdoid tumor [renal]
+- rhabdoid tumor of the kidney
 input:
-- label: Malignant rhabdoid tumor
-  id: icdom-89633
-- label: Kidney
-  id: icdot-C64.9
+- id: icdom-89633
+  label: Malignant rhabdoid tumor
+- id: icdot-C64.9
+  label: kidney
+updated: '2020-05-22'

@@ -1,0 +1,14 @@
+equivalents:
+- id: NCIT:C7596
+  label: Malignant Myoepithelioma
+examples:
+- Myoepithelial carcinoma [Parotid gland; epitheloid, ex PA]
+- Myoepithelial carcinoma [Parotid gland; spindled]
+- Myoepithelial carcinoma [Parotid gland; plasmacytoid]
+- Myoepithelial carcinoma [Parotid gland; epitheloid]
+input:
+- id: icdom-89823
+  label: Malignant myoepithelioma
+- id: icdot-C07.9
+  label: parotid gland
+updated: '2020-05-22'

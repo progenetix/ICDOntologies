@@ -1,0 +1,11 @@
+equivalents:
+- id: NCIT:C39851
+  label: Bladder Urothelial Carcinoma
+examples:
+- Primary Tumor
+input:
+- id: icdom-81203
+  label: Transitional cell carcinoma, NOS
+- id: icdot-C67.5
+  label: Bladder neck
+updated: '2020-05-22'

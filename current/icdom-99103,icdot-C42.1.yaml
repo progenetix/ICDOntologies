@@ -1,0 +1,14 @@
+equivalents:
+- id: NCIT:C3170
+  label: Acute Megakaryoblastic Leukemia
+examples:
+- acute megakaryoblastic leukemia [Down syndrome]
+- Acute megakaryoblastic leukemia [cell line UoC-M1]
+- Acute megakaryoblastic leukemia
+- Acute megakaryoblastic leukemia [FAB M7, child, Down syndrome]
+input:
+- id: icdom-99103
+  label: Acute megakaryoblastic leukemia
+- id: icdot-C42.1
+  label: Bone marrow
+updated: '2020-05-22'

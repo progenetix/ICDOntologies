@@ -1,0 +1,12 @@
+equivalents:
+- id: NCIT:C3180
+  label: Plasma Cell Leukemia
+examples:
+- Plasma cell leukemia
+- plasma cell leukemia
+input:
+- id: icdom-97333
+  label: Plasma cell leukemia
+- id: icdot-C42.1
+  label: Bone marrow
+updated: '2020-05-22'

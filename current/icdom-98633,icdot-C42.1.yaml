@@ -1,0 +1,14 @@
+equivalents:
+- id: NCIT:C3174
+  label: Chronic Myelogenous Leukemia, BCR-ABL1 Positive
+examples:
+- Chronic myeloid leukemia
+- Chronic myelogenous leukemia [cell line MEG-01]
+- chronic myeloid leukemia
+- Chronic myeloid leukemia [cell line MEG01]
+input:
+- id: icdom-98633
+  label: Chronic myeloid leukemia, NOS
+- id: icdot-C42.1
+  label: Bone marrow
+updated: '2020-05-22'

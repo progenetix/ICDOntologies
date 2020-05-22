@@ -1,10 +1,14 @@
 equivalents:
-- label: Malignant Gastrointestinal Stromal Tumor
-  id: ncit:C53999
+- id: NCIT:C27243
+  label: High Risk Gastrointestinal Stromal Tumor
 examples:
-- labels: malignant gastrointestinal stromal tumor
+- Gastrointestinal stromal tumor
+- gastrointestinal stromal tumor [cell line GIST48]
+- gastrointestinal stromal tumor [cell line GIST62]
+- gastrointestinal stromal tumor [cell line GIST522]
 input:
-- label: Gastrointestinal stromal sarcoma
-  id: icdom-89363
-- label: Stomach
-  id: icdot-C16.9
+- id: icdom-89363
+  label: Gastrointestinal stromal sarcoma
+- id: icdot-C16.9
+  label: stomach
+updated: '2020-05-22'
