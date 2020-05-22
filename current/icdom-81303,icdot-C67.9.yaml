@@ -1,0 +1,11 @@
+equivalents:
+- id: NCIT:C7383
+  label: Bladder Papillary Urothelial Carcinoma
+examples:
+- Primary Tumor
+input:
+- id: icdom-81303
+  label: Papillary transitional cell carcinoma
+- id: icdot-C67.9
+  label: Bladder, NOS
+updated: '2020-05-22'

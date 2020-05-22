@@ -1,0 +1,11 @@
+equivalents:
+- id: NCIT:C3058
+  label: Glioblastoma
+examples:
+- Primary Tumor
+input:
+- id: icdom-94403
+  label: Glioblastoma
+- id: icdot-C71.8
+  label: Overlapping lesion of brain
+updated: '2020-05-22'

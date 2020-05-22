@@ -1,0 +1,14 @@
+equivalents:
+- id: NCIT:C8171
+  label: Lower Gingival Squamous Cell Carcinoma
+examples:
+- 'oral squamous cell carcinoma tumor [lower gingiva, Stage: 4]'
+- 'oral squamous cell carcinoma tumor [lower gingiva, Stage: 3]'
+- 'oral squamous cell carcinoma tumor [lower gingiva, Stage: 1]'
+- 'oral squamous cell carcinoma tumor [lower gingiva, Stage: 2]'
+input:
+- id: icdom-80703
+  label: Squamous cell carcinoma, NOS
+- id: icdot-C03.1
+  label: Lower gum
+updated: '2020-05-22'

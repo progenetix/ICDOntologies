@@ -1,0 +1,11 @@
+equivalents:
+- id: NCIT:C4649
+  label: Palate Squamous Cell Carcinoma
+examples:
+- 'oral squamous cell carcinoma tumor [pterygopalatine fossa, Stage: 3]'
+input:
+- id: icdom-80703
+  label: Squamous cell carcinoma, NOS
+- id: icdot-C05.9
+  label: Palate, NOS
+updated: '2020-05-22'

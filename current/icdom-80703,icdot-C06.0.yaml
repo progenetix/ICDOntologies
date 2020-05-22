@@ -1,0 +1,11 @@
+equivalents:
+- id: NCIT:C4833
+  label: Oral Cavity Squamous Cell Carcinoma
+examples:
+- Primary Tumor
+input:
+- id: icdom-80703
+  label: Squamous cell carcinoma, NOS
+- id: icdot-C06.0
+  label: Cheeck mucosa
+updated: '2020-05-22'

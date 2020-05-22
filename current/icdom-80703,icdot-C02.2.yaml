@@ -1,0 +1,11 @@
+equivalents:
+- id: NCIT:C4648
+  label: Tongue Squamous Cell Carcinoma
+examples:
+- Primary Tumor
+input:
+- id: icdom-80703
+  label: Squamous cell carcinoma, NOS
+- id: icdot-C02.2
+  label: Ventral surface of tongue, NOS
+updated: '2020-05-22'

@@ -1,0 +1,12 @@
+equivalents:
+- id: NCIT:C129857
+  label: Gingival Squamous Cell Carcinoma
+examples:
+- Head and Neck carcinoma [cell line UT-SCC-46]
+- Primary Tumor
+input:
+- id: icdom-80703
+  label: Squamous cell carcinoma, NOS
+- id: icdot-C03.9
+  label: Gum, NOS
+updated: '2020-05-22'

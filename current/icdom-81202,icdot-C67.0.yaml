@@ -1,0 +1,14 @@
+equivalents:
+- id: NCIT:C4116
+  label: Stage 0 Transitional Cell Carcinoma
+examples:
+- urothelial tumor [carcinoma in situ]
+- transitional cell carcinoma [urinary bladder, stage pTaG1, 51ys]
+- transitional cell carcinoma [urinary bladder, stage pTaG2, 65ys]
+- transitional cell carcinoma [urinary bladder, stage pTaG2, 36ys]
+input:
+- id: icdom-81202
+  label: Transitional cell carcinoma in situ
+- id: icdot-C67.0
+  label: urinary bladder
+updated: '2020-05-22'

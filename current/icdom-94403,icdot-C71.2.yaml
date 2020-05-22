@@ -1,0 +1,12 @@
+equivalents:
+- id: NCIT:C3058
+  label: Glioblastoma
+examples:
+- glioblastoma [temporal lobe]
+- Primary Tumor
+input:
+- id: icdom-94403
+  label: Glioblastoma
+- id: icdot-C71.2
+  label: temporal lobe
+updated: '2020-05-22'

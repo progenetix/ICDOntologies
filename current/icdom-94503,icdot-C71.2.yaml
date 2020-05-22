@@ -1,0 +1,12 @@
+equivalents:
+- id: NCIT:C3288
+  label: Oligodendroglioma
+examples:
+- Recurrent Tumor
+- Primary Tumor
+input:
+- id: icdom-94503
+  label: Oligodendroglioma, NOS
+- id: icdot-C71.2
+  label: Temporal lobe
+updated: '2020-05-22'

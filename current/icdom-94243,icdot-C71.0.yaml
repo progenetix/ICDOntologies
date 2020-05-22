@@ -1,10 +1,12 @@
 equivalents:
-- label: Pleomorphic Xanthoastrocytoma
-  id: ncit:C4323
+- id: NCIT:C4323
+  label: Pleomorphic Xanthoastrocytoma
 examples:
-- labels: pleomorphic xanthoastrocytoma [supratentorial]
+- Anaplastic pleomorphic xanthoastrocytoma
+- pleomorphic xanthoastrocytoma [supratentorial]
 input:
-- label: Pleomorphic xanthoastrocytoma
-  id: icdom-94243
-- label: Cerebrum
-  id: icdot-C71.0
+- id: icdom-94243
+  label: Pleomorphic xanthoastrocytoma
+- id: icdot-C71.0
+  label: cerebrum
+updated: '2020-05-22'

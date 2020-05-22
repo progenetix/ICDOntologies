@@ -1,0 +1,11 @@
+equivalents:
+- id: NCIT:C3058
+  label: Glioblastoma
+examples:
+- glioblastoma [parietal lobe]
+input:
+- id: icdom-94403
+  label: Glioblastoma
+- id: icdot-C71.3
+  label: parietal lobe
+updated: '2020-05-22'

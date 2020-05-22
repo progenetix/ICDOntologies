@@ -1,0 +1,13 @@
+equivalents:
+- id: NCIT:C150206
+  label: Metastatic Oral Cavity Squamous Cell Carcinoma
+examples:
+- 'oral squamous cell carcinoma tumor [tongue, Stage: 2, metastasis: lymph node]'
+- 'oral squamous cell carcinoma tumor [tongue, Stage: 3, metastasis: lymph node]'
+- 'oral squamous cell carcinoma tumor [tongue, Stage: 1, metastasis: lymph node]'
+input:
+- id: icdom-80706
+  label: Squamous cell carcinoma, metastatic
+- id: icdot-C02.9
+  label: Tongue, NOS
+updated: '2020-05-22'
