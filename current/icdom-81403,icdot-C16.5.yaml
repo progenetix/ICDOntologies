@@ -1,0 +1,11 @@
+equivalents:
+- id: NCIT:C4004
+  label: Gastric Adenocarcinoma
+examples:
+- Primary Tumor
+input:
+- id: icdom-81403
+  label: Adenocarcinoma, NOS
+- id: icdot-C16.5
+  label: Lesser curvature of stomach, NOS
+updated: '2020-05-22'

@@ -1,0 +1,12 @@
+equivalents:
+- id: NCIT:C8711
+  label: Non-Cutaneous Melanoma
+examples:
+- melanoma
+- Metastatic
+input:
+- id: icdom-87203
+  label: Malignant melanoma, NOS
+- id: icdot-C77.9
+  label: Lymph node, NOS
+updated: '2020-05-22'

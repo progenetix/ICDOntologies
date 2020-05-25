@@ -1,0 +1,11 @@
+equivalents:
+- id: NCIT:C9159
+  label: Diffuse Gastric Adenocarcinoma
+examples:
+- Primary Tumor
+input:
+- id: icdom-81453
+  label: Carcinoma, diffuse type
+- id: icdot-C16.1
+  label: Fundus of stomach
+updated: '2020-05-22'

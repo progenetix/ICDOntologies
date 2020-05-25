@@ -1,0 +1,11 @@
+equivalents:
+- id: NCIT:C5248
+  label: Mucinous Gastric Adenocarcinoma
+examples:
+- Primary Tumor
+input:
+- id: icdom-84803
+  label: Mucinous adenocarcinoma
+- id: icdot-C16.3
+  label: Gastric antrum
+updated: '2020-05-22'

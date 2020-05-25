@@ -1,0 +1,11 @@
+equivalents:
+- id: NCIT:C7999
+  label: Malignant Type A Thymoma
+examples:
+- Primary Tumor
+input:
+- id: icdom-85813
+  label: Thymoma, type A, malignant
+- id: icdot-C37.9
+  label: Thymus
+updated: '2020-05-22'

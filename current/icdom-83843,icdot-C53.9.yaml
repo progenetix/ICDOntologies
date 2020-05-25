@@ -1,0 +1,14 @@
+equivalents:
+- id: NCIT:C66951
+  label: Adenocarcinoma, Endocervical Type
+examples:
+- Adenocarcinoma [cervix, endocervical, stage Ib]
+- Adenocarcinoma [cervix, endocervical, stage IIb]
+- Adenocarcinoma [cervix, endocervical, stage IIa]
+- Primary Tumor
+input:
+- id: icdom-83843
+  label: Adenocarcinoma, endocervical type
+- id: icdot-C53.9
+  label: Cervix uteri
+updated: '2020-05-22'

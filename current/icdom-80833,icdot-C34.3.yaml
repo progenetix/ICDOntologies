@@ -1,0 +1,11 @@
+equivalents:
+- id: NCIT:C54244
+  label: Basaloid Squamous Cell Carcinoma
+examples:
+- Primary Tumor
+input:
+- id: icdom-80833
+  label: Basaloid squamous cell carcinoma
+- id: icdot-C34.3
+  label: Lower lobe, lung
+updated: '2020-05-22'

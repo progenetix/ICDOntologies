@@ -1,0 +1,11 @@
+equivalents:
+- id: NCIT:C4131
+  label: Fibrolamellar Carcinoma
+examples:
+- Primary Tumor
+input:
+- id: icdom-81713
+  label: Hepatocellular carcinoma, fibrolamellar
+- id: icdot-C22.9
+  label: Liver and intrahepatic bile ducts
+updated: '2020-05-22'

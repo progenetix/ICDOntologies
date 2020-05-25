@@ -1,0 +1,11 @@
+equivalents:
+- id: NCIT:C65173
+  label: Non-Keratinizing Large Cell Squamous Cell Carcinoma
+examples:
+- Primary Tumor
+input:
+- id: icdom-80723
+  label: Squamous cell carcinoma, large cell, nonkeratinizing, NOS
+- id: icdot-C34.3
+  label: Lower lobe, lung
+updated: '2020-05-22'

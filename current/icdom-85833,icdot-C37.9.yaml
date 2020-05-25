@@ -1,0 +1,11 @@
+equivalents:
+- id: NCIT:C7996
+  label: Malignant Type B1 Thymoma
+examples:
+- Primary Tumor
+input:
+- id: icdom-85833
+  label: Thymoma, type B1, malignant
+- id: icdot-C37.9
+  label: Thymus
+updated: '2020-05-22'

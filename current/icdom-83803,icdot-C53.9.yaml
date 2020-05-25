@@ -1,0 +1,13 @@
+equivalents:
+- id: NCIT:C3769
+  label: Endometrioid Adenocarcinoma
+examples:
+- Adenocarcinoma [cervix, endometrioid, stage Ib]
+- Adenocarcinoma [cervix, endometrioid, stage IIa]
+- Primary Tumor
+input:
+- id: icdom-83803
+  label: Endometrioid adenocarcinoma, NOS
+- id: icdot-C53.9
+  label: Cervix uteri
+updated: '2020-05-22'

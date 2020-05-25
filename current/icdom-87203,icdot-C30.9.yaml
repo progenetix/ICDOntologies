@@ -1,0 +1,11 @@
+equivalents:
+- id: NCIT:C8711
+  label: Non-Cutaneous Melanoma
+examples:
+- Malignant melanoma [sinunasal]
+input:
+- id: icdom-87203
+  label: Malignant melanoma, NOS
+- id: icdot-C30.9
+  label: nasal cavity including nasal cartilage
+updated: '2020-05-22'

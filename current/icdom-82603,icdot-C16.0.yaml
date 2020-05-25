@@ -1,0 +1,11 @@
+equivalents:
+- id: NCIT:C4004
+  label: Gastric Adenocarcinoma
+examples:
+- Primary Tumor
+input:
+- id: icdom-82603
+  label: Papillary adenocarcinoma, NOS
+- id: icdot-C16.0
+  label: Cardia, NOS
+updated: '2020-05-22'

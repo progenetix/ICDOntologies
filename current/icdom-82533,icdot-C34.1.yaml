@@ -1,0 +1,11 @@
+equivalents:
+- id: NCIT:C7268
+  label: Mucinous Minimally Invasive Lung Adenocarcinoma
+examples:
+- Primary Tumor
+input:
+- id: icdom-82533
+  label: Bronchiolo-alveolar carcinoma, mucinous
+- id: icdot-C34.1
+  label: Upper lobe, lung
+updated: '2020-05-22'

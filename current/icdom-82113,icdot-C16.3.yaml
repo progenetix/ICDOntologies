@@ -1,0 +1,11 @@
+equivalents:
+- id: NCIT:C5473
+  label: Gastric tubular adenocarcinoma
+examples:
+- Primary Tumor
+input:
+- id: icdom-82113
+  label: Tubular adenocarcinoma
+- id: icdot-C16.3
+  label: Gastric antrum
+updated: '2020-05-22'

@@ -1,0 +1,11 @@
+equivalents:
+- id: NCIT:C4004
+  label: Gastric Adenocarcinoma
+examples:
+- Primary Tumor
+input:
+- id: icdom-82553
+  label: Adenocarcinoma with mixed subtypes
+- id: icdot-C16.3
+  label: Gastric antrum
+updated: '2020-05-22'

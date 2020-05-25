@@ -1,0 +1,11 @@
+equivalents:
+- id: NCIT:C2923
+  label: Bronchioloalveolar Carcinoma
+examples:
+- Primary Tumor
+input:
+- id: icdom-82503
+  label: Bronchiolo-alveolar adenocarcinoma, NOS
+- id: icdot-C34.3
+  label: Lower lobe, lung
+updated: '2020-05-22'

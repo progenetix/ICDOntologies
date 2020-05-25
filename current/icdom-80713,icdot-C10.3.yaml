@@ -1,0 +1,11 @@
+equivalents:
+- id: NCIT:C4105
+  label: Keratinizing Squamous Cell Carcinoma
+examples:
+- Primary Tumor
+input:
+- id: icdom-80713
+  label: Squamous cell carcinoma, keratinizing, NOS
+- id: icdot-C10.3
+  label: Posterior wall of oropharynx
+updated: '2020-05-22'

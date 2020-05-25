@@ -1,0 +1,11 @@
+equivalents:
+- id: NCIT:C4349
+  label: Colon Adenocarcinoma
+examples:
+- Primary Tumor
+input:
+- id: icdom-81403
+  label: Adenocarcinoma, NOS
+- id: icdot-C18.5
+  label: Splenic flexure of colon
+updated: '2020-05-22'

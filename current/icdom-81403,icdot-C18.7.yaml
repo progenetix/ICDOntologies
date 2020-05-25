@@ -1,0 +1,14 @@
+equivalents:
+- id: NCIT:C43584
+  label: Rectosigmoid Adenocarcinoma
+examples:
+- Colorectal adenocarcinoma [Sigmoid Colon]
+- Colorectal adenocarcinoma [Rectosigmoid Junction]
+- rectum adenocarcinoma [Rectosigmoid Junction]
+- rectum adenocarcinoma [Sigmoid Colon]
+input:
+- id: icdom-81403
+  label: Adenocarcinoma, NOS
+- id: icdot-C18.7
+  label: Sigmoid colon
+updated: '2020-05-22'

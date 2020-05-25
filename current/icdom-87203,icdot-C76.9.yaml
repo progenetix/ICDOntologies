@@ -1,0 +1,14 @@
+equivalents:
+- id: NCIT:C3224
+  label: Melanoma
+examples:
+- malignant melanoma [toe nail bed]
+- malignant melanoma
+- malignant melanoma [cell line M34]
+- malignant melanoma [cell line CaCL 73-36]
+input:
+- id: icdom-87203
+  label: Malignant melanoma, NOS
+- id: icdot-C76.9
+  label: ill-defined
+updated: '2020-05-22'

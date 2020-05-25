@@ -1,0 +1,11 @@
+equivalents:
+- id: NCIT:C8711
+  label: Non-Cutaneous Melanoma
+examples:
+- Metastatic
+input:
+- id: icdom-87203
+  label: Malignant melanoma, NOS
+- id: icdot-C74.9
+  label: Adrenal gland, NOS
+updated: '2020-05-22'

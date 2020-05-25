@@ -1,0 +1,13 @@
+equivalents:
+- id: NCIT:C4349
+  label: Colon Adenocarcinoma
+examples:
+- Colorectal adenocarcinoma [Cecum]
+- adenocarcinoma [cecum]
+- Primary Tumor
+input:
+- id: icdom-81403
+  label: Adenocarcinoma, NOS
+- id: icdot-C18.0
+  label: Cecum
+updated: '2020-05-22'

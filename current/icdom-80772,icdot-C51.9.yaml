@@ -1,0 +1,11 @@
+equivalents:
+- id: NCIT:C8336
+  label: High Grade Squamous Intraepithelial Neoplasia
+examples:
+- Squamous intraepithelial neoplasia, grade III [vulva]
+input:
+- id: icdom-80772
+  label: Squamous intraepithelial neoplasia, grade III
+- id: icdot-C51.9
+  label: vulva, nos
+updated: '2020-05-22'

@@ -1,0 +1,14 @@
+equivalents:
+- id: NCIT:C4031
+  label: Bladder Squamous Cell Carcinoma
+examples:
+- squamous cell carcinoma [grade 3]
+- squamous cell carcinoma [grade 1]
+- squamous cell carcinoma [grade 2]
+- squamous cell carcinoma [grade 2-3]
+input:
+- id: icdom-80703
+  label: Squamous cell carcinoma, NOS
+- id: icdot-C67.0
+  label: Urinary bladder
+updated: '2020-05-22'

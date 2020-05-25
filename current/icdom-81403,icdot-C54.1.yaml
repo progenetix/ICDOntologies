@@ -1,0 +1,11 @@
+equivalents:
+- id: NCIT:C7359
+  label: Endometrial adenocarcinoma
+examples:
+- Primary Tumor
+input:
+- id: icdom-81403
+  label: Adenocarcinoma, NOS
+- id: icdot-C54.1
+  label: Endometrium
+updated: '2020-05-22'

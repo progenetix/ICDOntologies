@@ -1,0 +1,11 @@
+equivalents:
+- id: NCIT:C2970
+  label: Adenoid Cystic Carcinoma
+examples:
+- Adenoid cystic carcinoma
+input:
+- id: icdom-82003
+  label: Adenoid cystic carcinoma
+- id: icdot-C10.9
+  label: Oropharynx
+updated: '2020-05-22'

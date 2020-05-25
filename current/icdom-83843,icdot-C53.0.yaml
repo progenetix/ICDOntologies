@@ -1,0 +1,11 @@
+equivalents:
+- id: NCIT:C66951
+  label: Adenocarcinoma, Endocervical Type
+examples:
+- Primary Tumor
+input:
+- id: icdom-83843
+  label: Adenocarcinoma, endocervical type
+- id: icdot-C53.0
+  label: Endocervix
+updated: '2020-05-22'

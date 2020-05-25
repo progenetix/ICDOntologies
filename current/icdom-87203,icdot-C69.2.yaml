@@ -1,0 +1,13 @@
+equivalents:
+- id: NCIT:C8711
+  label: Non-Cutaneous Melanoma
+examples:
+- malignant melanoma [uvea, long-term survivor]
+- malignant melanoma [uvea, metastasized]
+- Malignant melanoma [uvea]
+input:
+- id: icdom-87203
+  label: Malignant melanoma, NOS
+- id: icdot-C69.2
+  label: retina
+updated: '2020-05-22'

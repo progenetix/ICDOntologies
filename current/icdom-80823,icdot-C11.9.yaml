@@ -1,0 +1,14 @@
+equivalents:
+- id: NCIT:C4107
+  label: Nasopharyngeal Type Undifferentiated Carcinoma
+examples:
+- Nasopharyngeal carcinoma
+- nasopharyngeal carcinoma [neck lymph node metastasis]
+- nasopharyngeal carcinoma [primary tumor]
+- nasopharyngeal carcinoma
+input:
+- id: icdom-80823
+  label: Lymphoepithelial carcinoma
+- id: icdot-C11.9
+  label: nasopharynx
+updated: '2020-05-22'

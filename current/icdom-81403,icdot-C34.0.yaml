@@ -1,0 +1,11 @@
+equivalents:
+- id: NCIT:C3512
+  label: Lung Adenocarcinoma
+examples:
+- Primary Tumor
+input:
+- id: icdom-81403
+  label: Adenocarcinoma, NOS
+- id: icdot-C34.0
+  label: Main bronchus
+updated: '2020-05-22'
