@@ -8,4 +8,4 @@ input:
   label: Carcinoma, metastatic, NOS
 - id: icdot-C61.9
   label: Prostate gland
-updated: '2020-05-22'
+updated: '2020-05-25'

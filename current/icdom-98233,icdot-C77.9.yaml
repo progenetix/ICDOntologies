@@ -10,4 +10,4 @@ input:
   label: B-cell chronic lymphocytic leukemia/small lymphocytic lymphoma
 - id: icdot-C77.9
   label: Lymph nodes, NOS
-updated: '2020-05-22'
+updated: '2020-05-25'
