@@ -2,7 +2,7 @@
 
 The _ICDOntologies_ repository provides a list of mapping files in YAML format, as input for mapping combinations of ICD-O 3 Morphology and Topography codes to single [NCIt neoplasm core](https://evs.nci.nih.gov/ftp1/NCI_Thesaurus/Neoplasm/About_Core.html) entities.
 
-The repository is being developed by the [_Theoretical Oncogenomics_](http://info.baudisgroup.org) group at the [University of Zurich](http://uzh.ch). It reflects work performed for the [arrayMap](arraymap.org) and [Progenetix](progenetix.org) resources and as part of the Global Alliance for Genomics and Health ([GA4GH](http://ga4gh.org)).
+The repository is being developed by the [_Theoretical Oncogenomics_](http://info.baudisgroup.org) group at the [University of Zurich](http://uzh.ch). It reflects work performed for the [arrayMap](http://arraymap.progenetix.org) and [Progenetix](http://progenetix.org) resources and as part of the Global Alliance for Genomics and Health ([GA4GH](http://ga4gh.org)).
 
 This repository contains mappings that have been manually curated and aims to be an open source for use and contibutions. 
 
