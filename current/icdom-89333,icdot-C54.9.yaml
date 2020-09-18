@@ -1,0 +1,10 @@
+equivalents:
+- term: Uterine Corpus Adenosarcoma
+  term_id: ncit:C6336
+examples:
+- labels: Uterine Adenosarcoma
+input:
+- term: 'Adenosarcoma '
+  term_id: icdom-89333
+- term: Corpus uteri
+  term_id: icdot-C54.9

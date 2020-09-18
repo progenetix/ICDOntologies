@@ -1,0 +1,10 @@
+equivalents:
+- term: Neuroendocrine Carcinoma of Unknown Primary
+  term_id: ncit:C163975
+examples:
+- labels: Neuroendocrine Tumor, NOS
+input:
+- term: Neuroendocrine carcinoma, NOS
+  term_id: icdom-82463
+- term: Unknown primary site
+  term_id: icdot-C80.9

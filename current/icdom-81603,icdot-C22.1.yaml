@@ -1,10 +1,10 @@
 equivalents:
-- id: NCIT:C35417
-  label: Intrahepatic Cholangiocarcinoma
-examples: []
+- term: Intrahepatic Cholangiocarcinoma
+  term_id: ncit:C35417
+examples:
+- labels: cholangiocarcinoma [Cholangiofibrosis]
 input:
-- id: icdom-81603
-  label: Cholangiocarcinoma
-- id: icdot-C22.1
-  label: Intrahepatic bile ducts
-updated: '2020-05-25'
+- term: Cholangiocarcinoma
+  term_id: icdom-81603
+- term: Intrahepatic bile duct
+  term_id: icdot-C22.1

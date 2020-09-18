@@ -1,0 +1,10 @@
+equivalents:
+- term: Squamous Cell Neoplasm
+  term_id: ncit:C3792
+examples:
+- labels: cervical intraepithelial neoplasia [grade 1]
+input:
+- term: Premalignant squamous epithelium, NOS
+  term_id: icdom-80701
+- term: Cervix uteri
+  term_id: icdot-C53.9

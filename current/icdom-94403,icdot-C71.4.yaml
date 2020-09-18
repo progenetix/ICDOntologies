@@ -1,12 +1,10 @@
 equivalents:
-- id: NCIT:C3058
-  label: Glioblastoma
+- term: Glioblastoma
+  term_id: ncit:C3058
 examples:
-- glioblastoma [occipital lobe]
-- Primary Tumor
+- labels: glioblastoma [occipital lobe]
 input:
-- id: icdom-94403
-  label: Glioblastoma
-- id: icdot-C71.4
-  label: occipital lobe
-updated: '2020-05-25'
+- term: Glioblastoma,NOS
+  term_id: icdom-94403
+- term: occipital lobe
+  term_id: icdot-C71.4

@@ -1,12 +1,10 @@
 equivalents:
-- id: NCIT:C3867
-  label: Fallopian Tube Carcinoma
+- term: Fallopian Tube Carcinoma
+  term_id: ncit:C3867
 examples:
-- Fallopian tube tumor
-- Fallopian tube carcinoma
+- labels: Fallopian tube tumor
 input:
-- id: icdom-80103
-  label: Carcinoma, NOS
-- id: icdot-C57.0
-  label: Fallopian tube
-updated: '2020-05-25'
+- term: Carcinoma, NOS
+  term_id: icdom-80103
+- term: Fallopian tube
+  term_id: icdot-C57.0

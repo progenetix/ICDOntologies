@@ -1,10 +1,10 @@
 equivalents:
-- id: NCIT:C9289
-  label: Acute Myeloid Leukemia with Multilineage Dysplasia
-examples: []
+- term: Acute Myeloid Leukemia with Multilineage Dysplasia
+  term_id: ncit:C9289
+examples:
+- labels: de novo acute myeloid leukemia
 input:
-- id: icdom-98953
-  label: Acute myeloid leukemia with myelodysplasia-related changes
-- id: icdot-C42.4
-  label: Hematopoietic system, NOS
-updated: '2020-05-25'
+- term: Acute myeloid leukemia with myelodysplasia-related changes
+  term_id: icdom-98953
+- term: Hematopoietic system, NOS
+  term_id: icdot-C42.4

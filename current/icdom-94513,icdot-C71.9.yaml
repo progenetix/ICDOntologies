@@ -1,14 +1,10 @@
 equivalents:
-- id: NCIT:C4326
-  label: Anaplastic Oligodendroglioma
+- term: Anaplastic Oligodendroglioma
+  term_id: ncit:C4326
 examples:
-- Oligodendroglioma, anaplastic
-- anaplastic oligodendroglioma
-- oligodendroglioma [grade 4]
-- oligodendroglioma[anaplastic]
+- labels: Anaplastic Astrocytoma
 input:
-- id: icdom-94513
-  label: Oligodendroglioma, anaplastic
-- id: icdot-C71.9
-  label: Brain, NOS
-updated: '2020-05-25'
+- term: 'Oligodendroglioma, anaplastic '
+  term_id: icdom-94513
+- term: Brain, NOS
+  term_id: icdot-C71.9

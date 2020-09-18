@@ -1,0 +1,10 @@
+equivalents:
+- term: Sarcomatoid Carcinoma
+  term_id: ncit:C27004
+examples:
+- labels: Sarcomatoid carcinoma
+input:
+- term: Pseudosarcomatous carcinoma
+  term_id: icdom-80333
+- term: Connective, subcutaneous and other soft tissues, NOS
+  term_id: icdot-C49.9

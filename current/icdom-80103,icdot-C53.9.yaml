@@ -1,14 +1,10 @@
 equivalents:
-- id: NCIT:C9039
-  label: Cervical Carcinoma
+- term: Cervical Carcinoma
+  term_id: ncit:C9039
 examples:
-- cervix carcinoma [cell line DoTc2 4510]
-- Carcinoma
-- carcinoma, NOS [cervix, cell line C4I]
-- carcinoma, NOS [cervix, cell line C33-A]
+- labels: carcinoma, NOS [cervix, cell line ME180]
 input:
-- id: icdom-80103
-  label: Carcinoma, NOS
-- id: icdot-C53.9
-  label: Cervix uteri
-updated: '2020-05-25'
+- term: Carcinoma, NOS
+  term_id: icdom-80103
+- term: Cervix uteri
+  term_id: icdot-C53.9

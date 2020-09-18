@@ -1,14 +1,10 @@
 equivalents:
-- id: NCIT:C4872
-  label: Breast Carcinoma
+- term: Triple-Negative Breast Cancer Finding
+  term_id: ncit:C71428
 examples:
-- Primary Breast Cancer [BRCA1mutation]
-- Primary Breast Cancer [CHEK2mutation]
-- Primary Breast Cancer [BRCA2mutation]
-- Primary Breast Cancer [BRCAXmutation]
+- labels: Triple negative breast carcinoma
 input:
-- id: icdom-80103
-  label: Carcinoma, NOS
-- id: icdot-C50.9
-  label: Breast, NOS
-updated: '2020-05-25'
+- term: Carcinoma, NOS
+  term_id: icdom-80103
+- term: Breast, NOS
+  term_id: icdot-C50.9

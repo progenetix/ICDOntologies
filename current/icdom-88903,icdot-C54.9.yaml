@@ -1,11 +1,10 @@
 equivalents:
-- id: NCIT:C6340
-  label: Uterine Corpus Leiomyosarcoma
+- term: Uterine Corpus Leiomyosarcoma
+  term_id: ncit:C6340
 examples:
-- Primary Tumor
+- labels: Leiomyosarcoma
 input:
-- id: icdom-88903
-  label: Leiomyosarcoma, NOS
-- id: icdot-C54.9
-  label: Corpus uteri
-updated: '2020-05-25'
+- term: 'Leiomyosarcoma,NOS '
+  term_id: icdom-88903
+- term: Corpus uteri
+  term_id: icdot-C54.9

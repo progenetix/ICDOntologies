@@ -1,0 +1,10 @@
+equivalents:
+- term: Primary central chondrosarcoma
+  term_id: ncit:C7155
+examples:
+- labels: Mesothelioma
+input:
+- term: 'Chondrosarcoma, NOS '
+  term_id: icdom-92203
+- term: Bone, NOS
+  term_id: icdot-C41.9

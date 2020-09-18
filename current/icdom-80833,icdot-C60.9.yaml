@@ -1,0 +1,10 @@
+equivalents:
+- term: Basaloid Squamous Cell Carcinoma of the Penis
+  term_id: ncit:C6980
+examples:
+- labels: Basaloid Penile Squamous Cell Carcinoma
+input:
+- term: Basaloid squamous cell carcinoma
+  term_id: icdom-80833
+- term: Penis, NOS
+  term_id: icdot-C60.9

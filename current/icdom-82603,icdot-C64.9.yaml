@@ -1,14 +1,10 @@
 equivalents:
-- id: NCIT:C6975
-  label: Papillary Renal Cell Carcinoma
+- term: Papillary Renal Cell Carcinoma
+  term_id: ncit:C6975
 examples:
-- renal cell carcinoma [papillary RCC]
-- papillary renal cell carcinoma
-- kidney renal papillary cell carcinoma
-- lung adenocarcinoma [R-Upper]
+- labels: Renal cell carcinoma [papillary]
 input:
-- id: icdom-82603
-  label: Papillary adenocarcinoma, NOS
-- id: icdot-C64.9
-  label: Kidney
-updated: '2020-05-25'
+- term: Papillary adenocarcinoma, NOS
+  term_id: icdom-82603
+- term: Kidney, NOS
+  term_id: icdot-C64.9

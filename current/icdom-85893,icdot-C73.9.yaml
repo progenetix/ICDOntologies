@@ -1,11 +1,10 @@
 equivalents:
-- id: NCIT:C46106
-  label: Thyroid Gland Carcinoma Showing Thymus-Like Differentiation
+- term: Thyroid Gland Carcinoma Showing Thymus-Like Differentiation
+  term_id: ncit:C46106
 examples:
-- Carcinoma showing thymus-like elements
+- labels: Carcinoma showing thymus-like elements
 input:
-- id: icdom-85893
-  label: Carcinoma showing thymus-like element
-- id: icdot-C73.9
-  label: Thyroid gland
-updated: '2020-05-25'
+- term: Carcinoma showing thymus-like element
+  term_id: icdom-85893
+- term: Thyroid gland
+  term_id: icdot-C73.9

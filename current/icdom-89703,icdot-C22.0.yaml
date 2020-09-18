@@ -1,10 +1,10 @@
 equivalents:
-- id: NCIT:C3728
-  label: Hepatoblastoma
-examples: []
+- term: Hepatoblastoma
+  term_id: ncit:C3728
+examples:
+- labels: Hepatoblastoma [Mesenchymal-epithelial]
 input:
-- id: icdom-89703
-  label: hepatoblastoma
-- id: icdot-C22.0
-  label: Liver
-updated: '2020-05-25'
+- term: 'Hepatoblastoma '
+  term_id: icdom-89703
+- term: Liver
+  term_id: icdot-C22.0

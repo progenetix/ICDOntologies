@@ -1,0 +1,10 @@
+equivalents:
+- term: Mature Teratoma
+  term_id: ncit:C9015
+examples:
+- labels: germ cell tumor [mature teratoma]
+input:
+- term: 'Teratoma, benign '
+  term_id: icdom-90800
+- term: Testis, NOS
+  term_id: icdot-C62.9

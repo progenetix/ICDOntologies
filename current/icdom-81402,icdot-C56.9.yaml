@@ -1,0 +1,10 @@
+equivalents:
+- term: Adenocarcinoma In Situ
+  term_id: ncit:C4123
+examples:
+- labels: Ovarian tumor [epithelial, low malignant potential]
+input:
+- term: Adenocarcinoma in situ, NOS
+  term_id: icdom-81402
+- term: Ovary
+  term_id: icdot-C56.9

@@ -1,14 +1,10 @@
 equivalents:
-- id: NCIT:C3246
-  label: Mycosis Fungoides
+- term: Mycosis Fungoides
+  term_id: ncit:C3246
 examples:
-- mycosis fungoides [tumor stage]
-- Mycosis fungoides
-- MF
-- Mycosis fungoides [stage IIA]
+- labels: Mycosis fungoides [stage IB]
 input:
-- id: icdom-97003
-  label: Mycosis fungoides
-- id: icdot-C44.9
-  label: Skin, NOS
-updated: '2020-05-25'
+- term: Mycosis Fungoides
+  term_id: icdom-97003
+- term: Skin, NOS
+  term_id: icdot-C44.9

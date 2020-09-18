@@ -1,0 +1,10 @@
+equivalents:
+- term: Spindle Cell Rhabdomyosarcoma
+  term_id: ncit:C6519
+examples:
+- labels: Spindle Cell Rhabdomyosarcoma
+input:
+- term: 'Spindle cell rhabdomyosarcoma '
+  term_id: icdom-89123
+- term: Connective, subcutaneous and other soft tissues, NOS
+  term_id: icdot-C49.9

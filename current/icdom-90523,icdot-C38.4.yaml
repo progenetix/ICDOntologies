@@ -1,14 +1,10 @@
 equivalents:
-- id: NCIT:C7985
-  label: Epithelioid Mesothelioma
+- term: Epithelioid Mesothelioma
+  term_id: ncit:C7985
 examples:
-- mesothelioma [epithelioid]
-- pleural epithelioid mesothelioma [cell line ACC-MESO-1]
-- pleural epithelioid mesothelioma [cell line ACC-MESO-4]
-- malignant mesothelioma
+- labels: mesothelioma [epithelioid]
 input:
-- id: icdom-90523
-  label: Epithelioid mesothelioma, malignant
-- id: icdot-C38.4
-  label: Pleura
-updated: '2020-05-25'
+- term: 'Epithelioid mesothelioma, malignant '
+  term_id: icdom-90523
+- term: Pleura, NOS
+  term_id: icdot-C38.4

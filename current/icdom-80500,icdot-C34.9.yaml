@@ -1,11 +1,10 @@
 equivalents:
-- id: NCIT:C8295
-  label: Lung Papilloma
+- term: Lung Papilloma
+  term_id: ncit:C8295
 examples:
-- flat ductal intraepithelial neoplasia
+- labels: flat ductal intraepithelial neoplasia
 input:
-- id: icdom-80500
-  label: Papilloma, NOS
-- id: icdot-C34.9
-  label: Lung and bronchus
-updated: '2020-05-25'
+- term: Papilloma, NOS
+  term_id: icdom-80500
+- term: Lung, NOS
+  term_id: icdot-C34.9

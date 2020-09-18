@@ -1,0 +1,10 @@
+equivalents:
+- term: Immature Teratoma
+  term_id: ncit:C4286
+examples:
+- labels: germ cell tumor [immature teratoma]
+input:
+- term: 'Teratoma,malignant,NOS '
+  term_id: icdom-90803
+- term: Kidney, NOS
+  term_id: icdot-C64.9

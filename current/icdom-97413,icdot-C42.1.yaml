@@ -1,0 +1,10 @@
+equivalents:
+- term: Systemic Mastocytosis
+  term_id: ncit:C9235
+examples:
+- labels: Systemic Mastocytosis
+input:
+- term: 'Malignant mastocytosis '
+  term_id: icdom-97413
+- term: Bone marrow
+  term_id: icdot-C42.1

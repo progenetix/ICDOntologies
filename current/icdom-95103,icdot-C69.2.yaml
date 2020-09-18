@@ -1,14 +1,10 @@
 equivalents:
-- id: NCIT:C7541
-  label: Retinoblastoma
+- term: Retinoblastoma
+  term_id: ncit:C7541
 examples:
-- Retinoblastoma
-- retinoblastoma
-- Retinoblastoma [familial, bilateral]
-- Retinoblastoma [familial]
+- labels: Retinoblastoma
 input:
-- id: icdom-95103
-  label: Retinoblastoma, NOS
-- id: icdot-C69.2
-  label: Retina
-updated: '2020-05-25'
+- term: 'Retinoblastoma, NOS '
+  term_id: icdom-95103
+- term: Retina
+  term_id: icdot-C69.2

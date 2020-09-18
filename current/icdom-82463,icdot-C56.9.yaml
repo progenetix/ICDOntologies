@@ -1,0 +1,10 @@
+equivalents:
+- term: Ovarian Neuroendocrine Carcinoma
+  term_id: ncit:C171032
+examples:
+- labels: High-Grade Neuroendocrine Carcinoma of the Ovary
+input:
+- term: Neuroendocrine carcinoma, NOS
+  term_id: icdom-82463
+- term: Ovary
+  term_id: icdot-C56.9

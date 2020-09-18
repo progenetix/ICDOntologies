@@ -1,0 +1,10 @@
+equivalents:
+- term: Dysgerminoma
+  term_id: ncit:C2996
+examples:
+- labels: testicular germ cell tumor [non-seminoma]
+input:
+- term: Dysgerminoma
+  term_id: icdom-90603
+- term: Testis, NOS
+  term_id: icdot-C62.9

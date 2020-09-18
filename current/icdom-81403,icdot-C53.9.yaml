@@ -1,14 +1,10 @@
 equivalents:
-- id: NCIT:C4029
-  label: Cervical Adenocarcinoma
+- term: Cervical Adenocarcinoma
+  term_id: ncit:C4029
 examples:
-- Cervix adenocarcinoma [cell line HeLa]
-- cervix carcinoma [adenocarcinoma]
-- adenocarcinoma [cell line HeLa]
-- adenocarcinoma [cervix, cell line HeLa]
+- labels: adenocarcinoma [cervix]
 input:
-- id: icdom-81403
-  label: Adenocarcinoma, NOS
-- id: icdot-C53.9
-  label: Cervix uteri
-updated: '2020-05-25'
+- term: Adenocarcinoma, NOS
+  term_id: icdom-81403
+- term: Cervix uteri
+  term_id: icdot-C53.9

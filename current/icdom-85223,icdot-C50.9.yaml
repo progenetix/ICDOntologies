@@ -1,14 +1,10 @@
 equivalents:
-- id: NCIT:C6393
-  label: Invasive Ductal and Invasive Lobular Breast Carcinoma
+- term: invasive ductal and lobular carcinoma
+  term_id: ncit:C7688
 examples:
-- Infiltrating duct and lobular carcinoma
-- breast carcinoma [cell line T-47D]
-- 'Infiltrating duct and lobular carcinoma '
-- breast ductal adenocarcinoma [Right Upper Outer Quadrant]
+- labels: invasive ductal and lobular carcinoma
 input:
-- id: icdom-85223
-  label: Infiltrating duct and lobular carcinoma
-- id: icdot-C50.9
-  label: Breast, NOS
-updated: '2020-05-25'
+- term: Infiltrating duct and lobular carcinoma
+  term_id: icdom-85223
+- term: Breast, NOS
+  term_id: icdot-C50.9

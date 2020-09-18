@@ -1,0 +1,10 @@
+equivalents:
+- term: Invasive Breast Carcinoma
+  term_id: ncit:C9245
+examples:
+- labels: invasive breast cancer
+input:
+- term: 'Intraductal papillary adenocarcinoma with invasion '
+  term_id: icdom-85033
+- term: Breast, NOS
+  term_id: icdot-C50.9

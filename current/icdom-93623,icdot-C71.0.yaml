@@ -1,0 +1,10 @@
+equivalents:
+- term: Pineoblastoma
+  term_id: ncit:C9344
+examples:
+- labels: Primitive Neuroectodermal Tumor [supratentorial; pineal]
+input:
+- term: 'Pineoblastoma '
+  term_id: icdom-93623
+- term: cerebrum
+  term_id: icdot-C71.0

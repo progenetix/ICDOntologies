@@ -1,0 +1,10 @@
+equivalents:
+- term: Uterine Corpus Malignant PEComa
+  term_id: ncit:C127072
+examples:
+- labels: Uterine Perivascular Epithelioid Cell Tumor
+input:
+- term: 'Epithelioid sarcoma '
+  term_id: icdom-88043
+- term: Corpus uteri
+  term_id: icdot-C54.9

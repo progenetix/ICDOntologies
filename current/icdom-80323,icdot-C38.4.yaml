@@ -1,0 +1,10 @@
+equivalents:
+- term: Sarcomatoid Carcinoma
+  term_id: ncit:C27004
+examples:
+- labels: Spindle-cell carcinoma
+input:
+- term: Spindle cell carcinoma, NOS
+  term_id: icdom-80323
+- term: Pleura, NOS
+  term_id: icdot-C38.4

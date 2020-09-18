@@ -1,14 +1,10 @@
 equivalents:
-- id: NCIT:C9003
-  label: Adrenal Cortex Adenoma
+- term: Adrenal Cortex Adenoma
+  term_id: ncit:C9003
 examples:
-- cortisol producing adrenocortical adenoma
-- adrenocortical adenoma
-- Adrenocortical tumor [adenoma, left]
-- Adrenocortical tumor [adenoma, right]
+- labels: adrenocortical tumor [Adenoma, Nil]
 input:
-- id: icdom-83700
-  label: Adrenal cortical adenoma, NOS
-- id: icdot-C74.0
-  label: Adrenal cortex
-updated: '2020-05-25'
+- term: Adrenal cortical adenoma, NOS
+  term_id: icdom-83700
+- term: Cortex of adrenal gland
+  term_id: icdot-C74.0

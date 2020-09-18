@@ -1,0 +1,10 @@
+equivalents:
+- term: Non-Hodgkin Lymphoma
+  term_id: ncit:C3211
+examples:
+- labels: B-cell non-Hodgkin lymphoma [cell line BEVA]
+input:
+- term: 'Malignant lymphoma, non-Hodgkin, NOS '
+  term_id: icdom-95913
+- term: Hematopoietic system, NOS
+  term_id: icdot-C42.4

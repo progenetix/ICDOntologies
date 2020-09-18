@@ -1,14 +1,10 @@
 equivalents:
-- id: NCIT:C27816
-  label: Pigmented Nevus
+- term: Acral Nevus
+  term_id: ncit:C54659
 examples:
-- Pigmented nevus [benign]
-- dermal melanocytic proliferation
-- Benign nevus [ovoid melanocytes]
-- Benign nevus [cellular,fascicle]
+- labels: acral nevus
 input:
-- id: icdom-87200
-  label: Pigmented nevus, NOS
-- id: icdot-C44.9
-  label: Skin, NOS
-updated: '2020-05-25'
+- term: 'Pigmented nevus, NOS '
+  term_id: icdom-87200
+- term: Skin, NOS
+  term_id: icdot-C44.9

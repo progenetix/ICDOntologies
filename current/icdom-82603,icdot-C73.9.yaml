@@ -1,14 +1,10 @@
 equivalents:
-- id: NCIT:C4035
-  label: Thyroid Gland Papillary Carcinoma
+- term: Thyroid Gland Papillary Carcinoma
+  term_id: ncit:C4035
 examples:
-- papillary thyroid carcinoma [cell line IHH-4]
-- Papillary carcinoma of thyroid [stage PT2NOMx, grade High]
-- Papillary carcinoma of thyroid [stage PT4N1b, grade High]
-- Papillary carcinoma of thyroid [stage PT2N1aM0, grade Low]
+- labels: Papillary carcinoma of thyroid [stage PT1N0M0, grade High]
 input:
-- id: icdom-82603
-  label: Papillary adenocarcinoma, NOS
-- id: icdot-C73.9
-  label: Thyroid gland
-updated: '2020-05-25'
+- term: Papillary adenocarcinoma, NOS
+  term_id: icdom-82603
+- term: Thyroid gland
+  term_id: icdot-C73.9

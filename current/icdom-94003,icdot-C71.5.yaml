@@ -1,0 +1,10 @@
+equivalents:
+- term: Astrocytoma
+  term_id: ncit:C60781
+examples:
+- labels: Astrocytoma [3rd ventricle]
+input:
+- term: Astrocytoma,NOS
+  term_id: icdom-94003
+- term: Ventricle, NOS
+  term_id: icdot-C71.5

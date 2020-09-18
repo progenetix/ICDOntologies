@@ -1,0 +1,10 @@
+equivalents:
+- term: Mantle Cell Lymphoma
+  term_id: ncit:C4337
+examples:
+- labels: mantle cell lymphoma [classic]
+input:
+- term: 'Mantle cell lymphoma '
+  term_id: icdom-96733
+- term: Colon, NOS
+  term_id: icdot-C18.9

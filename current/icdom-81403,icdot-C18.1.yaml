@@ -1,0 +1,10 @@
+equivalents:
+- term: Appendix Adenocarcinoma
+  term_id: ncit:C7718
+examples:
+- labels: Appendiceal Adenocarcinoma
+input:
+- term: Adenocarcinoma, NOS
+  term_id: icdom-81403
+- term: Appendix
+  term_id: icdot-C18.1

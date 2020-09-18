@@ -1,14 +1,10 @@
 equivalents:
-- id: NCIT:C27096
-  label: Undifferentiated (Embryonal) Sarcoma
+- term: Undifferentiated (Embryonal) Sarcoma
+  term_id: ncit:C27096
 examples:
-- undifferentiated pleomorphic sarcoma
-- Pediatric undifferentiated sarcoma [trunk]
-- Pediatric undifferentiated sarcoma [head and neck]
-- Undifferentiated Sarcoma
+- labels: Pediatric undifferentiated sarcoma [trunk]
 input:
-- id: icdom-88053
-  label: Undifferentiated sarcoma
-- id: icdot-C49.9
-  label: Connective and soft tissue, NOS
-updated: '2020-05-25'
+- term: 'Undifferentiated sarcoma '
+  term_id: icdom-88053
+- term: Connective, subcutaneous and other soft tissues, NOS
+  term_id: icdot-C49.9

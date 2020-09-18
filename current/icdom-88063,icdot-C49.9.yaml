@@ -1,0 +1,10 @@
+equivalents:
+- term: Desmoplastic Small Round Cell Tumor
+  term_id: ncit:C8300
+examples:
+- labels: Desmoplastic Small-Round-Cell Tumor
+input:
+- term: 'Desmoplastic small round cell tumor '
+  term_id: icdom-88063
+- term: Connective, subcutaneous and other soft tissues, NOS
+  term_id: icdot-C49.9

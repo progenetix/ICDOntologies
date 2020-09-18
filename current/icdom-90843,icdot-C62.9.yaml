@@ -1,0 +1,10 @@
+equivalents:
+- term: Teratoma with Somatic-Type Malignancy
+  term_id: ncit:C4289
+examples:
+- labels: Teratoma with Malignant Transformation
+input:
+- term: 'Teratomawithmalignanttransformation '
+  term_id: icdom-90843
+- term: Testis, NOS
+  term_id: icdot-C62.9

@@ -1,0 +1,10 @@
+equivalents:
+- term: Anal Squamous Cell Carcinoma
+  term_id: ncit:C9161
+examples:
+- labels: Anal Squamous Cell Carcinoma
+input:
+- term: Squamous cell carcinoma, NOS
+  term_id: icdom-80703
+- term: Overlapping lesion of rectum, anus and anal canal
+  term_id: icdot-C21.8

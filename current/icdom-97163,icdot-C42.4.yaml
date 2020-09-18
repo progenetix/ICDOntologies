@@ -1,0 +1,10 @@
+equivalents:
+- term: Hepatosplenic T-Cell Lymphoma
+  term_id: ncit:C8459
+examples:
+- labels: Hepatosplenic T-cell lymphoma
+input:
+- term: Hepatosplenic T-cell lymphoma
+  term_id: icdom-97163
+- term: Hematopoietic system, NOS
+  term_id: icdot-C42.4

@@ -1,0 +1,10 @@
+equivalents:
+- term: Pancreatic Undifferentiated Carcinoma
+  term_id: ncit:C5722
+examples:
+- labels: Undifferentiated Carcinoma of the Pancreas
+input:
+- term: Carcinoma, undifferentiated, NOS
+  term_id: icdom-80203
+- term: Pancreas, NOS
+  term_id: icdot-C25.9

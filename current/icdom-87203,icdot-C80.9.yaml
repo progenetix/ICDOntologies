@@ -1,0 +1,10 @@
+equivalents:
+- term: Melanoma of Unknown Primary
+  term_id: ncit:C154473
+examples:
+- labels: Melanoma of Unknown Primary
+input:
+- term: 'Malignant melanoma, NOS '
+  term_id: icdom-87203
+- term: Unknown primary site
+  term_id: icdot-C80.9

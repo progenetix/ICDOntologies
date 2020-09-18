@@ -1,12 +1,10 @@
 equivalents:
-- id: NCIT:C40076
-  label: Ovarian Clear Cell Tumor
+- term: Ovarian Clear Cell Tumor
+  term_id: ncit:C40076
 examples:
-- Clear cell ovarian tumor [xenograft]
-- Clear cell ovarian tumor
+- labels: Clear cell ovarian tumor
 input:
-- id: icdom-80050
-  label: Clear cell tumor, NOS
-- id: icdot-C56.9
-  label: Ovary
-updated: '2020-05-25'
+- term: Clear cell tumor, NOS
+  term_id: icdom-80050
+- term: Ovary
+  term_id: icdot-C56.9

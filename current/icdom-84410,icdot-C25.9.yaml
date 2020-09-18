@@ -1,0 +1,10 @@
+equivalents:
+- term: Pancreatic Serous Cystadenoma
+  term_id: ncit:C5712
+examples:
+- labels: Serous Cystadenoma of the Pancreas
+input:
+- term: Serous cystadenoma, NOS
+  term_id: icdom-84410
+- term: Pancreas, NOS
+  term_id: icdot-C25.9

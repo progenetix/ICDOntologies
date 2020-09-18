@@ -1,14 +1,10 @@
 equivalents:
-- id: NCIT:C7355
-  label: Renal Pelvis Urothelial Carcinoma
+- term: Renal Pelvis Urothelial Carcinoma
+  term_id: ncit:C7355
 examples:
-- Urothelial carcinoma
-- transitional cell carcinoma [pT3, G3] in Balkan endemic nephropathy]
-- transitional cell carcinoma [pT2, G2, in Balkan endemic nephropathy]
-- transitional cell carcinoma [pT3, G2-3] in Balkan endemic nephropathy]
+- labels: transitional cell carcinoma [pT3, G3] in Balkan endemic nephropathy]
 input:
-- id: icdom-81203
-  label: Transitional cell carcinoma, NOS
-- id: icdot-C65.9
-  label: Renal pelvis, ureter
-updated: '2020-05-25'
+- term: Transitional cell carcinoma, NOS
+  term_id: icdom-81203
+- term: Renal pelvis
+  term_id: icdot-C65.9

@@ -1,11 +1,10 @@
 equivalents:
-- id: NCIT:C8021
-  label: Salivary Gland Adenocarcinoma
+- term: Salivary Gland Adenocarcinoma
+  term_id: ncit:C8021
 examples:
-- Adenocarcinoma [Basal cell adenocarcinoma, membranous type, palatal gland]]
+- labels: Adenocarcinoma [Basal cell adenocarcinoma, membranous type, palatal gland]]
 input:
-- id: icdom-81403
-  label: Adenocarcinoma, NOS
-- id: icdot-C08.9
-  label: Salivary gland, NOS
-updated: '2020-05-25'
+- term: Adenocarcinoma, NOS
+  term_id: icdom-81403
+- term: Major salivary gland, NOS
+  term_id: icdot-C08.9

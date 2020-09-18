@@ -1,0 +1,10 @@
+equivalents:
+- term: Plasmablastic lymphoma
+  term_id: ncit:C7224
+examples:
+- labels: Plasmablastic lymphoma
+input:
+- term: 'Plasmablastic lymphoma '
+  term_id: icdom-97353
+- term: Lymph node, NOS
+  term_id: icdot-C77.9

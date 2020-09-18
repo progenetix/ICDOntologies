@@ -1,0 +1,10 @@
+equivalents:
+- term: Adnexal Carcinoma
+  term_id: ncit:C3775
+examples:
+- labels: Skin Adnexal Carcinoma
+input:
+- term: Skin appendage carcinoma
+  term_id: icdom-83903
+- term: Skin, NOS
+  term_id: icdot-C44.9

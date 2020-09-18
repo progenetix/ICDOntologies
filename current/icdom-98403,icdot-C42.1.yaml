@@ -1,14 +1,10 @@
 equivalents:
-- id: NCIT:C8923
-  label: Acute Erythroid Leukemia
+- term: Acute Erythroid Leukemia
+  term_id: ncit:C8923
 examples:
-- Erythroleukemia [cell line HEL]
-- acute myeloid leukemia [cell line MOLM-13]
-- acute myeloid leukemia [cell line OCI-AML2]
-- acute myeloid leukemia [cell line KO52]
+- labels: acute myeloid leukemia [cell line KO52]
 input:
-- id: icdom-98403
-  label: Acute myeloid leukemia, M6 type
-- id: icdot-C42.1
-  label: Bone marrow
-updated: '2020-05-25'
+- term: Acute erythroid leukemia
+  term_id: icdom-98403
+- term: Bone marrow
+  term_id: icdot-C42.1

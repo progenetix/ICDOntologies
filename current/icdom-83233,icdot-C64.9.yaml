@@ -1,0 +1,10 @@
+equivalents:
+- term: Clear Cell Papillary Renal Neoplasm
+  term_id: ncit:C121955
+examples:
+- labels: Clear Cell Papillary Renal Cell Carcinoma
+input:
+- term: Mixed cell adenocarcinoma
+  term_id: icdom-83233
+- term: Kidney, NOS
+  term_id: icdot-C64.9

@@ -1,0 +1,10 @@
+equivalents:
+- term: Uterine Corpus Carcinosarcoma
+  term_id: ncit:C9180
+examples:
+- labels: Uterine Carcinosarcoma/Uterine Malignant Mixed Mullerian Tumor
+input:
+- term: 'Carcinosarcoma, NOS '
+  term_id: icdom-89803
+- term: Corpus uteri
+  term_id: icdot-C54.9

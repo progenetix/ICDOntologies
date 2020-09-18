@@ -1,0 +1,10 @@
+equivalents:
+- term: Pilocytic Astrocytoma
+  term_id: ncit:C4047
+examples:
+- labels: Pilocytic astrocytoma [Optic nerve]
+input:
+- term: 'Pilocytic astrocytoma '
+  term_id: icdom-94211
+- term: Optic chiasm
+  term_id: icdot-C72.3

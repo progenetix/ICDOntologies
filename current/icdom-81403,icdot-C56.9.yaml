@@ -1,14 +1,10 @@
 equivalents:
-- id: NCIT:C7700
-  label: Ovarian adenocarcinoma
+- term: Ovarian adenocarcinoma
+  term_id: ncit:C7700
 examples:
-- Adenocarcinoma [ovary]
-- Ovarian carcinoma
-- ovarian endometrioid adenocarcinoma [cell line A2780ADR]
-- ovarian endometrioid adenocarcinoma [cell line A2780cis]
+- labels: Papillary serous cystadenocarcinoma
 input:
-- id: icdom-81403
-  label: Adenocarcinoma, NOS
-- id: icdot-C56.9
-  label: Ovary
-updated: '2020-05-25'
+- term: Adenocarcinoma, NOS
+  term_id: icdom-81403
+- term: Ovary
+  term_id: icdot-C56.9

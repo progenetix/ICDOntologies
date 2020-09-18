@@ -1,0 +1,10 @@
+equivalents:
+- term: Malignant Mesothelioma
+  term_id: ncit:C4456
+examples:
+- labels: Pleural malignant mesothelioma [cell line JU77]
+input:
+- term: 'Mesothelioma, malignant '
+  term_id: icdom-90503
+- term: Connective, subcutaneous and other soft tissues, NOS
+  term_id: icdot-C49.9

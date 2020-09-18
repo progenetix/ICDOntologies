@@ -1,14 +1,10 @@
 equivalents:
-- id: NCIT:C9357
-  label: Hodgkin Lymphoma
+- term: Hodgkin Lymphoma
+  term_id: ncit:C9357
 examples:
-- Hodgkin lymphoma [cell line HDLM-2]
-- Hodgkin lymphoma [cell line KM-H2]
-- Hodgkin lymphoma [cell line L-540]
-- Hodgkin lymphoma
+- labels: Hodgkin lymphoma [cell line U-HO1]
 input:
-- id: icdom-96503
-  label: Hodgkin lymphoma, NOS
-- id: icdot-C77.9
-  label: Lymph nodes, NOS
-updated: '2020-05-25'
+- term: 'Hodgkin lymphoma, NOS '
+  term_id: icdom-96503
+- term: Lymph node, NOS
+  term_id: icdot-C77.9

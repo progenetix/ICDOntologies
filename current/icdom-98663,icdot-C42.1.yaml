@@ -1,14 +1,10 @@
 equivalents:
-- id: NCIT:C3182
-  label: Acute Promyelocytic Leukemia with PML-RARA
+- term: Acute promyelocytic leukemia with PML-RARA
+  term_id: ncit:C3182
 examples:
-- acute promyelocytic leukemia
-- Acute promyelocytic leukemia
-- Acute promyelocytic leukemia (FAB type M3)
-- Acute promyelocytic leukemia [FAB M3]
+- labels: Acute promyelocytic leukemia
 input:
-- id: icdom-98663
-  label: Acute promyelocytic leukemia
-- id: icdot-C42.1
-  label: Bone marrow
-updated: '2020-05-25'
+- term: Acute promyelocytic leukemia
+  term_id: icdom-98663
+- term: Bone marrow
+  term_id: icdot-C42.1

@@ -1,0 +1,10 @@
+equivalents:
+- term: Chondroma
+  term_id: ncit:C53459
+examples:
+- labels: Enchondroma [phalanx]
+input:
+- term: Chondroma, NOS
+  term_id: icdom-92200
+- term: Short bones of upper limb and associated joints
+  term_id: "icdot-C40.1\_"

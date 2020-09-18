@@ -1,11 +1,10 @@
 equivalents:
-- id: NCIT:C4031
-  label: Bladder Squamous Cell Carcinoma
+- term: Bladder Squamous Cell Carcinoma
+  term_id: ncit:C4031
 examples:
-- Primary Tumor
+- labels: Bladder Squamous Cell Carcinoma
 input:
-- id: icdom-80703
-  label: Squamous cell carcinoma, NOS
-- id: icdot-C67.9
-  label: Bladder, NOS
-updated: '2020-05-25'
+- term: Squamous cell carcinoma, NOS
+  term_id: icdom-80703
+- term: Bladder, NOS
+  term_id: icdot-C67.9

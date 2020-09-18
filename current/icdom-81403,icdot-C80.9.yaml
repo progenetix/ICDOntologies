@@ -1,0 +1,10 @@
+equivalents:
+- term: Adenocarcinoma of Unknown Primary
+  term_id: ncit:C4039
+examples:
+- labels: Adenocarcinoma, NOS
+input:
+- term: Adenocarcinoma, NOS
+  term_id: icdom-81403
+- term: Unknown primary site
+  term_id: icdot-C80.9

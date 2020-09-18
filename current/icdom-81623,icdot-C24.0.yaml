@@ -1,0 +1,10 @@
+equivalents:
+- term: Hilar Cholangiocarcinoma
+  term_id: ncit:C36077
+examples:
+- labels: Perihilar Cholangiocarcinoma
+input:
+- term: Klatskin tumor
+  term_id: icdom-81623
+- term: Extrahepatic bile duct
+  term_id: icdot-C24.0

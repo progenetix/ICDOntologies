@@ -1,0 +1,10 @@
+equivalents:
+- term: Myelodysplastic Syndrome with Excess Blasts
+  term_id: ncit:C7506
+examples:
+- labels: myelodysplastic syndrome [RAEB]
+input:
+- term: Refractory anemia with excess blasts
+  term_id: icdom-99833
+- term: Bone marrow
+  term_id: icdot-C42.1

@@ -1,0 +1,10 @@
+equivalents:
+- term: Colorectal Neuroendocrine Carcinoma
+  term_id: ncit:C96156
+examples:
+- labels: High-Grade Neuroendocrine Carcinoma of the Colon and Rectum
+input:
+- term: Neuroendocrine carcinoma, NOS
+  term_id: icdom-82463
+- term: Rectosigmoid junction
+  term_id: icdot-C19.9

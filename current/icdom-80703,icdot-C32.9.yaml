@@ -1,14 +1,10 @@
 equivalents:
-- id: NCIT:C4044
-  label: Laryngeal Squamous Cell Carcinoma
+- term: Laryngeal Squamous Cell Carcinoma
+  term_id: ncit:C4044
 examples:
-- head and neck squamous cell carcinoma [Larynx]
-- HNSCC, laringeal tumor [metastasis]
-- HNSCC,laringeal tumor [metastasis]
-- HNSCC, laringeal tumor
+- labels: Carcinoma [larynx, stage T3N0M0]
 input:
-- id: icdom-80703
-  label: Squamous cell carcinoma, NOS
-- id: icdot-C32.9
-  label: Larynx
-updated: '2020-05-25'
+- term: Squamous cell carcinoma, NOS
+  term_id: icdom-80703
+- term: Larynx, NOS
+  term_id: icdot-C32.9

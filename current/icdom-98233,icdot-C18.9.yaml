@@ -1,0 +1,10 @@
+equivalents:
+- term: Chronic lymphocytic leukemia
+  term_id: ncit:C3163
+examples:
+- labels: Chronic lymphocytic leukemia [Richter syndrome, colon]
+input:
+- term: B-cell chronic lymphocytic leukemia/small lymphocytic lymphoma
+  term_id: icdom-98233
+- term: Colon, NOS
+  term_id: icdot-C18.9

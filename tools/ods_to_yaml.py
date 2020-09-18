@@ -4,7 +4,7 @@ from pyexcel_ods import get_data
 
 # TODO: input file specification
 
-data = get_data("arrayMap&progenetix_maps.ods")
+data = get_data("../editing/progenetix_maps.ods")
 table = data['Sheet1']
 
 import yaml
@@ -46,7 +46,7 @@ for i in range(0, len(table)):
             ]
         }
 
-        with open(icdom_c +','+ icdot_c +'.yaml','w') as outfile:
+        with open('../current/'+icdom_c +','+ icdot_c +'.yaml','w') as outfile:
             yaml.safe_dump(mapping, outfile, default_flow_style=False)
 
     except:

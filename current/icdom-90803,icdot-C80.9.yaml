@@ -1,0 +1,10 @@
+equivalents:
+- term: Immature Teratoma
+  term_id: ncit:C4286
+examples:
+- labels: Teratoma
+input:
+- term: 'Teratoma,malignant,NOS '
+  term_id: icdom-90803
+- term: Unknown primary site
+  term_id: icdot-C80.9

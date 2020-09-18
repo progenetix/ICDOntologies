@@ -1,0 +1,10 @@
+equivalents:
+- term: Seminoma
+  term_id: ncit:C9309
+examples:
+- labels: testicular germ cell tumor [seminoma, cell line]
+input:
+- term: 'Seminoma, NOS '
+  term_id: icdom-90613
+- term: Testis, NOS
+  term_id: icdot-C62.9

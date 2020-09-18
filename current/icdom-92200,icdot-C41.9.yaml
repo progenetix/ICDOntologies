@@ -1,0 +1,10 @@
+equivalents:
+- term: Chondroma
+  term_id: ncit:C53459
+examples:
+- labels: enchondroma
+input:
+- term: Chondroma, NOS
+  term_id: icdom-92200
+- term: Bone, NOS
+  term_id: icdot-C41.9

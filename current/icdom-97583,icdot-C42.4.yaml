@@ -1,0 +1,10 @@
+equivalents:
+- term: Follicular Dendritic Cell Sarcoma
+  term_id: ncit:C9281
+examples:
+- labels: Histiocytic Dendritic Cell Sarcoma
+input:
+- term: 'Follicular dendritic cell sarcoma '
+  term_id: icdom-97583
+- term: Hematopoietic system, NOS
+  term_id: icdot-C42.4

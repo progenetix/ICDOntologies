@@ -1,0 +1,10 @@
+equivalents:
+- term: Askin tumor
+  term_id: ncit:C7542
+examples:
+- labels: askin tumor [cell line TASK1]
+input:
+- term: Askin tumor
+  term_id: icdom-93653
+- term: Brain, NOS
+  term_id: icdot-C71.9

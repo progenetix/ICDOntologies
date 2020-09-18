@@ -1,0 +1,10 @@
+equivalents:
+- term: Seminoma
+  term_id: ncit:C9309
+examples:
+- labels: Primary Seminoma Testicular Germ Cell Tumour
+input:
+- term: 'Seminoma, NOS '
+  term_id: icdom-90613
+- term: epididymis, spermatic cord, male genital, nos
+  term_id: icdot-C63.9

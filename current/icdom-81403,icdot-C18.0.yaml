@@ -1,13 +1,10 @@
 equivalents:
-- id: NCIT:C4349
-  label: Colon Adenocarcinoma
+- term: Cecum adenocarcinoma
+  term_id: ncit:C5543
 examples:
-- Colorectal adenocarcinoma [Cecum]
-- adenocarcinoma [cecum]
-- Primary Tumor
+- labels: Acute Lymphoblastic Leukemia
 input:
-- id: icdom-81403
-  label: Adenocarcinoma, NOS
-- id: icdot-C18.0
-  label: Cecum
-updated: '2020-05-25'
+- term: Adenocarcinoma, NOS
+  term_id: icdom-81403
+- term: Cecum
+  term_id: icdot-C18.0

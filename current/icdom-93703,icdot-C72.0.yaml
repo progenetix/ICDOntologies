@@ -1,0 +1,10 @@
+equivalents:
+- term: Chordoma
+  term_id: ncit:C2947
+examples:
+- labels: Chordoma
+input:
+- term: 'Chordoma, NOS '
+  term_id: icdom-93703
+- term: Spinal cord
+  term_id: icdot-C72.0

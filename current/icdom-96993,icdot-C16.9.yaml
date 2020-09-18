@@ -1,14 +1,10 @@
 equivalents:
-- id: NCIT:C5266
-  label: Gastric Mucosa-Associated Lymphoid Tissue Lymphoma
+- term: Gastric Mucosa-Associated Lymphoid Tissue Lymphoma
+  term_id: ncit:C5266
 examples:
-- MALT Lymphoma
-- gastric MALT lymphoma
-- Marginal Zone B-cell Lymphoma [Stomach]
-- Extranodal marginal zone B-cell lymphoma
+- labels: Extranodal marginal zone B-cell lymphoma [small cell]
 input:
-- id: icdom-96993
-  label: Marginal zone B-cell lymphoma, NOS
-- id: icdot-C16.9
-  label: Stomach
-updated: '2020-05-25'
+- term: Marginal zone B-cell lymphoma, NOS
+  term_id: icdom-96993
+- term: Stomach, NOS
+  term_id: icdot-C16.9

@@ -1,0 +1,10 @@
+equivalents:
+- term: Transitional Cell Carcinoma
+  term_id: ncit:C2930
+examples:
+- labels: Ovarian carcinoma [Transitional cell carcinoma]
+input:
+- term: Transitional cell carcinoma, NOS
+  term_id: icdom-81203
+- term: Ovary
+  term_id: icdot-C56.9

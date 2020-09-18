@@ -1,11 +1,10 @@
 equivalents:
-- id: NCIT:C4052
-  label: Vulvar Squamous Cell Carcinoma
+- term: Vulvar Squamous Cell Carcinoma
+  term_id: ncit:C4052
 examples:
-- Squamous cell carcinoma
+- labels: Squamous cell carcinoma
 input:
-- id: icdom-80703
-  label: Squamous cell carcinoma, NOS
-- id: icdot-C51.0
-  label: vagina and labia
-updated: '2020-05-25'
+- term: Squamous cell carcinoma, NOS
+  term_id: icdom-80703
+- term: vagina and labia
+  term_id: icdot-C51.0

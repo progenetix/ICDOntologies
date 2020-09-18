@@ -1,13 +1,10 @@
 equivalents:
-- id: NCIT:C3878
-  label: Thyroid Gland Anaplastic Carcinoma
+- term: Thyroid Gland Anaplastic Carcinoma
+  term_id: ncit:C3878
 examples:
-- anaplastic thyroid carcinoma [cell line TCO-1]
-- anaplastic thyroid carcinoma [cell line ASH-3]
-- anaplastic thyroid carcinoma [cell line KMH-2]
+- labels: anaplastic thyroid carcinoma [cell line ASH-3]
 input:
-- id: icdom-80213
-  label: Carcinoma, anaplastic, NOS
-- id: icdot-C73.9
-  label: Thyroid gland
-updated: '2020-05-25'
+- term: Carcinoma, anaplastic, NOS
+  term_id: icdom-80213
+- term: Thyroid gland
+  term_id: icdot-C73.9

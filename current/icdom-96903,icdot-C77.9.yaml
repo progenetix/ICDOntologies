@@ -1,14 +1,10 @@
 equivalents:
-- id: NCIT:C3209
-  label: Follicular Lymphoma
+- term: Pediatric-Type Follicular Lymphoma
+  term_id: ncit:C80297
 examples:
-- follicular lymphoma
-- Follicular lymphoma
-- lymphoma primary specimen
-- Follicular lymphoma, NOS
+- labels: pediatric-type follicular lymphoma
 input:
-- id: icdom-96903
-  label: Follicular lymphoma, NOS
-- id: icdot-C77.9
-  label: Lymph nodes, NOS
-updated: '2020-05-25'
+- term: Follicular lymphoma, NOS
+  term_id: icdom-96903
+- term: Lymph node, NOS
+  term_id: icdot-C77.9

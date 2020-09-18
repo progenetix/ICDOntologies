@@ -1,0 +1,10 @@
+equivalents:
+- term: Vulvar leiomyosarcoma
+  term_id: ncit:C40318
+examples:
+- labels: Acute B Cell Lymphocytic Leukemia
+input:
+- term: 'Leiomyosarcoma,NOS '
+  term_id: icdom-88903
+- term: Vulva, NOS
+  term_id: icdot-C51.9

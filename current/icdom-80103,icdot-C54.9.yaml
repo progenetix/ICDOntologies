@@ -1,0 +1,10 @@
+equivalents:
+- term: Endometrial Serous Adenocarcinoma
+  term_id: ncit:C27838
+examples:
+- labels: Uterine Serous Carcinoma/Uterine Papillary Serous Carcinoma
+input:
+- term: Carcinoma, NOS
+  term_id: icdom-80103
+- term: Corpus uteri
+  term_id: icdot-C54.9

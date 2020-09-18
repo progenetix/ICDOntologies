@@ -1,0 +1,10 @@
+equivalents:
+- term: Hypopharyngeal Squamous Cell Carcinoma
+  term_id: ncit:C4043
+examples:
+- labels: acute myeloid leukemia
+input:
+- term: Squamous cell carcinoma, NOS
+  term_id: icdom-80703
+- term: Hypopharynx
+  term_id: icdot-C13

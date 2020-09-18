@@ -1,14 +1,10 @@
 equivalents:
-- id: NCIT:C4024
-  label: Esophageal Squamous Cell Carcinoma
+- term: Esophageal Poorly Differentiated Squamous Cell Carcinoma
+  term_id: ncit:C95612
 examples:
-- esophageal squamous cell carcinoma
-- Esophageal squamous cell carcinoma
-- esophageal squamous cell carcinoma [cell line TE-1]
-- esophageal squamous cell carcinoma [cell line TE-2]
+- labels: Esophageal Poorly Differentiated Carcinoma
 input:
-- id: icdom-80703
-  label: Squamous cell carcinoma, NOS
-- id: icdot-C15.9
-  label: Esophagus
-updated: '2020-05-25'
+- term: Squamous cell carcinoma, NOS
+  term_id: icdom-80703
+- term: Esophagus, NOS
+  term_id: icdot-C15.9

@@ -1,14 +1,10 @@
 equivalents:
-- id: NCIT:C4004
-  label: Gastric Adenocarcinoma
+- term: Gastric Adenocarcinoma
+  term_id: ncit:C4004
 examples:
-- gastric adenocarcinoma [cell line AGS]
-- Gastric adenocarcinoma [cell line Hs 746T]
-- Signe ring gastric adenocarcinoma [cell line KATO III]
-- Adenocarcinoma [gastric, cell line]
+- labels: gastric carcinoma [with HNPCC, diffuse]
 input:
-- id: icdom-81403
-  label: Adenocarcinoma, NOS
-- id: icdot-C16.9
-  label: Stomach
-updated: '2020-05-25'
+- term: Adenocarcinoma, NOS
+  term_id: icdom-81403
+- term: Stomach, NOS
+  term_id: icdot-C16.9

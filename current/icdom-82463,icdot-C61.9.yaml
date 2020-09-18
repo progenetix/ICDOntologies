@@ -1,0 +1,10 @@
+equivalents:
+- term: Prostate Neuroendocrine Carcinoma
+  term_id: ncit:C158912
+examples:
+- labels: Prostate Neuroendocrine Carcinoma
+input:
+- term: Neuroendocrine carcinoma, NOS
+  term_id: icdom-82463
+- term: Prostate gland
+  term_id: icdot-C61.9

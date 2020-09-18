@@ -1,0 +1,10 @@
+equivalents:
+- term: Myeloid Leukemia associated with Down syndrome
+  term_id: ncit:C43223
+examples:
+- labels: neuroblastoma
+input:
+- term: Myeloid leukemia associated with Down syndrome
+  term_id: icdom-98983
+- term: Bone marrow
+  term_id: icdot-C42.1

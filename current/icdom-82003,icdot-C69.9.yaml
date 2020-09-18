@@ -1,0 +1,10 @@
+equivalents:
+- term: Adenoid Cystic Carcinoma
+  term_id: ncit:C2970
+examples:
+- labels: adenoid cystic carcinomas [lacrimal gland, grade III, stage T4a NO MO]
+input:
+- term: Adenoid cystic carcinoma
+  term_id: icdom-82003
+- term: Eye, NOS
+  term_id: icdot-C69.9

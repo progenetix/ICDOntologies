@@ -1,14 +1,10 @@
 equivalents:
-- id: NCIT:C2923
-  label: Bronchioloalveolar carcinoma
+- term: 'Minimally invasive lung adenocarcinoma '
+  term_id: ncit:C2923
 examples:
-- Bronchioalveolar carcinoma [cell line NCI-H1781]
-- Bronchioalveolar carcinoma [cell line NCI-H1666]
-- Bronchioalveolar carcinoma [cell line NCI-H1650]
-- Minimally invasive lung adenocarcinoma [cell line NCI-H322M]
+- labels: Bronchioalveolar carcinoma [cell line NCI-H1781]
 input:
-- id: icdom-82513
-  label: Alveolar adenocarcinoma
-- id: icdot-C34.9
-  label: lung and bronchus
-updated: '2020-05-25'
+- term: Alveolar adenocarcinoma
+  term_id: icdom-82513
+- term: Lung, NOS
+  term_id: icdot-C34.9

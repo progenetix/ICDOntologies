@@ -1,0 +1,10 @@
+equivalents:
+- term: Lymphoma
+  term_id: ncit:C3208
+examples:
+- labels: Primary CNS lymphoma
+input:
+- term: 'Malignant lymphoma, NOS '
+  term_id: icdom-95903
+- term: Brain, NOS
+  term_id: icdot-C71.9

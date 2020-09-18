@@ -1,0 +1,10 @@
+equivalents:
+- term: Combined Lung Small Cell Carcinoma
+  term_id: ncit:C9137
+examples:
+- labels: Combined Small Cell Lung Carcinoma
+input:
+- term: Combined small cell carcinoma
+  term_id: icdom-80453
+- term: Lung, NOS
+  term_id: icdot-C34.9

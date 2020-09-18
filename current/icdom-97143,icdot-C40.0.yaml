@@ -1,0 +1,10 @@
+equivalents:
+- term: Mature T-Cell and NK-Cell Non-Hodgkin Lymphoma
+  term_id: ncit:C3468
+examples:
+- labels: Anaplastic large cell lymphoma, systemic type [ALK neg.]
+input:
+- term: Anaplastic large cell lymphoma, T cell and Null cell type
+  term_id: icdom-97143
+- term: Bones and joints
+  term_id: icdot-C40.0

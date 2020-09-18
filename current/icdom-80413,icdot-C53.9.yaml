@@ -1,0 +1,10 @@
+equivalents:
+- term: Cervical Small Cell Carcinoma
+  term_id: ncit:C7982
+examples:
+- labels: Small Cell Carcinoma of the Cervix
+input:
+- term: Small cell carcinoma, NOS
+  term_id: icdom-80413
+- term: Cervix uteri
+  term_id: icdot-C53.9

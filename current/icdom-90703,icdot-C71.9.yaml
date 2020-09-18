@@ -1,0 +1,10 @@
+equivalents:
+- term: Embryonal Carcinoma
+  term_id: ncit:C3752
+examples:
+- labels: CNS germ cell tumor [embryonal carcinoma with yolk sac tumor]
+input:
+- term: 'Embryonal carcinoma, NOS '
+  term_id: icdom-90703
+- term: Brain, NOS
+  term_id: icdot-C71.9

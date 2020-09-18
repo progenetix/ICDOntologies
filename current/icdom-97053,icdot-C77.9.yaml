@@ -1,14 +1,10 @@
 equivalents:
-- id: NCIT:C7528
-  label: Angioimmunoblastic T-Cell Lymphoma
+- term: Angioimmunoblastic T-Cell Lymphoma
+  term_id: ncit:C7528
 examples:
-- Angioimmunoblastic T-cell lymphoma
-- peripheral T-cell lymphoma, unspecified
-- Peripheral T-cell lymphoma unspecified [Lymph node]
-- Peripheral T-cell lymphoma unspecified [Mediastinum lymph node]
+- labels: Peripheral T-cell lymphoma unspecified [Mediastinum lymph node]
 input:
-- id: icdom-97053
-  label: Angioimmunoblastic T-cell lymphoma
-- id: icdot-C77.9
-  label: Lymph nodes, NOS
-updated: '2020-05-25'
+- term: Angioimmunoblastic T-cell lymphoma
+  term_id: icdom-97053
+- term: Lymph node, NOS
+  term_id: icdot-C77.9

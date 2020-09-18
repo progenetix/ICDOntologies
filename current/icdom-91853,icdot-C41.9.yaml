@@ -1,0 +1,10 @@
+equivalents:
+- term: Small Cell Osteosarcoma
+  term_id: ncit:C4023
+examples:
+- labels: Small Cell Osteosarcoma
+input:
+- term: 'Small cell osteosarcoma '
+  term_id: icdom-91853
+- term: Bone, NOS
+  term_id: icdot-C41.9

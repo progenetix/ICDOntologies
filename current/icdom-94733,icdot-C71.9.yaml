@@ -1,14 +1,10 @@
 equivalents:
-- id: NCIT:C5398
-  label: Central Nervous System Embryonal Tumor, Not Otherwise Specified
+- term: Central Nervous System Embryonal Tumor, Not Otherwise Specified
+  term_id: ncit:C5398
 examples:
-- Primitive neuroectodermal tumor [medulloepithelioma]
-- Primitive neuroectodermal tumor [ependymal or ependymoblastic differentiation]
-- Primitive neuroectodermal tumor
-- primitive neuroectodermal tumor
+- labels: Central nervous system primitive neuroectodermal tumor [ETANTR]
 input:
-- id: icdom-94733
-  label: Primitive neuroectodermal tumor, NOS
-- id: icdot-C71.9
-  label: Brain, NOS
-updated: '2020-05-25'
+- term: CNS primitive neuroectodermal tumor (PNET)
+  term_id: icdom-94733
+- term: Brain, NOS
+  term_id: icdot-C71.9

@@ -1,0 +1,10 @@
+equivalents:
+- term: Uterine Corpus Epithelioid Leiomyosarcoma
+  term_id: ncit:C40174
+examples:
+- labels: Uterine Epithelioid Leiomyosarcoma
+input:
+- term: 'Epithelioid leiomyosarcoma '
+  term_id: icdom-88913
+- term: Endometrium
+  term_id: icdot-C54.1

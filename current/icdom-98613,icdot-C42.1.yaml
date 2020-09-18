@@ -1,14 +1,10 @@
 equivalents:
-- id: NCIT:C27753
-  label: Acute Myeloid Leukemia Not Otherwise Specified
+- term: Adult acute myeloid leukemia
+  term_id: ncit:C9154
 examples:
-- acute myeloid leukemia
-- Acute myeloid leukemia [relapse]
-- acute myeloid leukemia [relapse]
-- Acute Myeloid Leukemia
+- labels: Acute Lymphoblastic Leukemia
 input:
-- id: icdom-98613
-  label: Acute myeloid leukemia, NOS
-- id: icdot-C42.1
-  label: Bone marrow
-updated: '2020-05-25'
+- term: 'Acute myeloid leukemia, NOS '
+  term_id: icdom-98613
+- term: Bone marrow
+  term_id: icdot-C42.1

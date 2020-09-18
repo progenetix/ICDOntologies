@@ -1,14 +1,10 @@
 equivalents:
-- id: NCIT:C39851
-  label: Bladder Urothelial Carcinoma
+- term: Bladder Urothelial Carcinoma
+  term_id: ncit:C39851
 examples:
-- bladder carcinoma [cell line 5637]
-- bladder carcinoma [cell line HT-1197]
-- bladder carcinoma [cell line HT-1376]
-- bladder cancer [cell line T110]
+- labels: urothelial tumor [stage pT1, G2]
 input:
-- id: icdom-81203
-  label: Transitional cell carcinoma, NOS
-- id: icdot-C67.0
-  label: Urinary bladder
-updated: '2020-05-25'
+- term: Transitional cell carcinoma, NOS
+  term_id: icdom-81203
+- term: Urinary bladder
+  term_id: icdot-C67.0

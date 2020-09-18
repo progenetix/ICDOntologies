@@ -1,0 +1,10 @@
+equivalents:
+- term: Extraskeletal Myxoid Chondrosarcoma
+  term_id: ncit:C27502
+examples:
+- labels: Extraskeletal Myxoid Chondrosarcoma
+input:
+- term: 'Myxoid chondrosarcoma '
+  term_id: icdom-92313
+- term: Connective, subcutaneous and other soft tissues, NOS
+  term_id: icdot-C49.9

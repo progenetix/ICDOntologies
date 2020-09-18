@@ -1,13 +1,10 @@
 equivalents:
-- id: NCIT:C4225
-  label: Nodular Melanoma
+- term: Nodular Melanoma
+  term_id: ncit:C4225
 examples:
-- nodular melanoma
-- Nodular Melanoma
-- Primary Tumor
+- labels: nodular melanoma
 input:
-- id: icdom-87213
-  label: Nodular melanoma
-- id: icdot-C44.9
-  label: Skin, NOS
-updated: '2020-05-25'
+- term: Nodular melanoma
+  term_id: icdom-87213
+- term: Skin, NOS
+  term_id: icdot-C44.9

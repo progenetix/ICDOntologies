@@ -1,14 +1,10 @@
 equivalents:
-- id: NCIT:C5546
-  label: Rectal Adenoma
+- term: Rectal Adenoma
+  term_id: ncit:C5546
 examples:
-- rectal adenoma
-- adenoma [colorectal, low-grade]
-- Adenoma [in metastasized colorectal adenocarcinoma]
-- adenoma [colorectal]
+- labels: adenoma [colorectal]
 input:
-- id: icdom-81400
-  label: Adenoma, NOS
-- id: icdot-C20.9
-  label: Rectum, NOS
-updated: '2020-05-25'
+- term: Adenoma, NOS
+  term_id: icdom-81400
+- term: Rectum, NOS
+  term_id: icdot-C20.9

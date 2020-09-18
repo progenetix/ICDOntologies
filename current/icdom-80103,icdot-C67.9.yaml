@@ -1,11 +1,10 @@
 equivalents:
-- id: NCIT:C4912
-  label: Bladder Carcinoma
+- term: Recurrent bladder carcinoma
+  term_id: ncit:C7899
 examples:
-- Primary Tumor
+- labels: ''
 input:
-- id: icdom-80103
-  label: Carcinoma, NOS
-- id: icdot-C67.9
-  label: Bladder, NOS
-updated: '2020-05-25'
+- term: Carcinoma, NOS
+  term_id: icdom-80103
+- term: Bladder, NOS
+  term_id: icdot-C67.9

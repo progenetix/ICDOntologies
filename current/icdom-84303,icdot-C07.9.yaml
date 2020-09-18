@@ -1,0 +1,10 @@
+equivalents:
+- term: Mucoepidermoid Carcinoma
+  term_id: ncit:C3772
+examples:
+- labels: Mucoepidermoid Carcinoma [cell line]
+input:
+- term: Mucoepidermoid carcinoma
+  term_id: icdom-84303
+- term: 'Parotid gland '
+  term_id: icdot-C07.9

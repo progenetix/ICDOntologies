@@ -1,12 +1,10 @@
 equivalents:
-- id: NCIT:C4906
-  label: Parathyroid Gland Carcinoma
+- term: Parathyroid Gland Carcinoma
+  term_id: ncit:C4906
 examples:
-- parathyroid carcinoma [Sporadic]
-- parathyroid carcinoma [Familial]
+- labels: parathyroid carcinoma [Sporadic]
 input:
-- id: icdom-81403
-  label: Adenocarcinoma, NOS
-- id: icdot-C75.0
-  label: Parathyroid gland
-updated: '2020-05-25'
+- term: Adenocarcinoma, NOS
+  term_id: icdom-81403
+- term: parathyroid gland
+  term_id: icdot-C75.0

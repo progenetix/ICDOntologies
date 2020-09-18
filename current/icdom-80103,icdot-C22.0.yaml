@@ -1,0 +1,10 @@
+equivalents:
+- term: Liver and Intrahepatic Bile Duct Carcinoma
+  term_id: ncit:C7927
+examples:
+- labels: Hepatocellular Carcinoma
+input:
+- term: Carcinoma, NOS
+  term_id: icdom-80103
+- term: Liver
+  term_id: icdot-C22.0

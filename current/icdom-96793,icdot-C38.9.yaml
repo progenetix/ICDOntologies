@@ -1,12 +1,10 @@
 equivalents:
-- id: NCIT:C9280
-  label: Mediastinal (Thymic) Large B-Cell Lymphoma
+- term: Primary Mediastinal (Thymic) Large B-Cell Lymphoma
+  term_id: ncit:C9280
 examples:
-- diffuse large B-cell lymphoma [cell line Karpas-231]
-- Diffuse large B-cell lymphoma
+- labels: diffuse large B-cell lymphoma [cell line Karpas-231]
 input:
-- id: icdom-96793
-  label: Mediastinal large B-cell lymphoma
-- id: icdot-C38.9
-  label: Mediastinum
-updated: '2020-05-25'
+- term: 'Mediastinal large B-cell lymphoma '
+  term_id: icdom-96793
+- term: Mediastinum
+  term_id: icdot-C38.9

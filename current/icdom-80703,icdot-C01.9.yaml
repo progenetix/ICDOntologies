@@ -1,14 +1,10 @@
 equivalents:
-- id: NCIT:C4648
-  label: Tongue Squamous Cell Carcinoma
+- term: Tongue squamous cell carcinoma
+  term_id: ncit:C4648
 examples:
-- salivary gland squamous cell carcinoma [cell line A-253]
-- tongue squamous cell carcinoma [cell line CAL-27]
-- tongue squamous cell carcinoma [cell line SCC-4]
-- tongue squamous cell carcinoma [cell line SCC-9]
+- labels: oral squamous cell carcinoma [cell line HSC-4]
 input:
-- id: icdom-80703
-  label: Squamous cell carcinoma, NOS
-- id: icdot-C01.9
-  label: Tongue
-updated: '2020-05-25'
+- term: Squamous cell carcinoma, NOS
+  term_id: icdom-80703
+- term: tongue
+  term_id: icdot-C01.9

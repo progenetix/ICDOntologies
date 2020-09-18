@@ -1,0 +1,10 @@
+equivalents:
+- term: Marginal Zone Lymphoma
+  term_id: ncit:C4341
+examples:
+- labels: Marginal zone lymphoma lymphoma of the orbit [Orbit]
+input:
+- term: Marginal zone B-cell lymphoma, NOS
+  term_id: icdom-96993
+- term: orbit and lacrimal gland, excl. retina, eye, nos
+  term_id: icdot-C69.0

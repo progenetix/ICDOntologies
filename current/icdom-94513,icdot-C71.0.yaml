@@ -1,13 +1,10 @@
 equivalents:
-- id: NCIT:C6959
-  label: Anaplastic Oligoastrocytoma
+- term: Anaplastic Oligoastrocytoma
+  term_id: ncit:C6959
 examples:
-- Anaplastic oligodendroglioma
-- Primary Tumor
-- Recurrent Tumor
+- labels: Anaplastic oligodendroglioma
 input:
-- id: icdom-94513
-  label: Oligodendroglioma, anaplastic
-- id: icdot-C71.0
-  label: Cerebrum
-updated: '2020-05-25'
+- term: 'Oligodendroglioma, anaplastic '
+  term_id: icdom-94513
+- term: cerebrum
+  term_id: icdot-C71.0

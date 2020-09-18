@@ -1,0 +1,10 @@
+equivalents:
+- term: Choroid Plexus Carcinoma
+  term_id: ncit:C4715
+examples:
+- labels: Choroid plexus carcinoma
+input:
+- term: Choroid plexus carcinoma
+  term_id: icdom-93903
+- term: Spinal cord
+  term_id: icdot-C72.0

@@ -1,14 +1,10 @@
 equivalents:
-- id: NCIT:C3043
-  label: Fibrosarcoma
+- term: Sclerosing Epithelioid Fibrosarcoma
+  term_id: ncit:C49027
 examples:
-- Fibrosarcoma [cell line A-204]
-- Fibrosarcoma [cell line HT-1080]
-- Fibrosarcoma [cell line SW684]
-- Fibrosarcoma [cell line HT-1080, modified]
+- labels: Sclerosing Epithelioid Fibrosarcoma
 input:
-- id: icdom-88103
-  label: Fibrosarcoma, NOS
-- id: icdot-C49.9
-  label: Connective and soft tissue, NOS
-updated: '2020-05-25'
+- term: 'Fibrosarcoma, NOS '
+  term_id: icdom-88103
+- term: Connective, subcutaneous and other soft tissues, NOS
+  term_id: icdot-C49.9

@@ -1,14 +1,10 @@
 equivalents:
-- id: NCIT:C4349
-  label: Colon Adenocarcinoma
+- term: Colorectal Adenocarcinoma
+  term_id: ncit:C5105
 examples:
-- colorectal carcinoma [left, well differentiated]
-- colorectal carcinoma [right, well differentiated]
-- colorectal carcinoma [left, well differentiated, lymph node metastasis]
-- colorectal carcinoma [left, moderately differentiated]
+- labels: Colorectal Adenocarcinoma
 input:
-- id: icdom-81403
-  label: Adenocarcinoma, NOS
-- id: icdot-C18.9
-  label: Large intestine, excl. Rectum and rectosigmoid junction
-updated: '2020-05-25'
+- term: Adenocarcinoma, NOS
+  term_id: icdom-81403
+- term: Colon, NOS
+  term_id: icdot-C18.9

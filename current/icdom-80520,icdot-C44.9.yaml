@@ -1,11 +1,10 @@
 equivalents:
-- id: NCIT:C4462
-  label: Skin Squamous Cell Papilloma
+- term: Skin Squamous Cell Papilloma
+  term_id: ncit:C4462
 examples:
-- Squamous cell papilloma
+- labels: Squamous cell papilloma
 input:
-- id: icdom-80520
-  label: Squamous cell papilloma, NOS
-- id: icdot-C44.9
-  label: Skin, NOS
-updated: '2020-05-25'
+- term: Squamous cell papilloma, NOS
+  term_id: icdom-80520
+- term: Skin, NOS
+  term_id: icdot-C44.9

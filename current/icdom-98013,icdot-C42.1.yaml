@@ -1,14 +1,10 @@
 equivalents:
-- id: NCIT:C7464
-  label: Acute Leukemia of Ambiguous Lineage
+- term: Acute Leukemia of Ambiguous Lineage
+  term_id: ncit:C7464
 examples:
-- acute myeloid leukemia [cell line OCI-AML3]
-- mixed-phenotype acute leukemia
-- Leukemia NOS [cell line F36P]
-- Leukemia NOS [cell line HEL]
+- labels: Acute myeloid leukemia [cell line ML2]
 input:
-- id: icdom-98013
-  label: Acute leukemia, NOS
-- id: icdot-C42.1
-  label: Bone marrow
-updated: '2020-05-25'
+- term: Acute leukemia, NOS
+  term_id: icdom-98013
+- term: Bone marrow
+  term_id: icdot-C42.1

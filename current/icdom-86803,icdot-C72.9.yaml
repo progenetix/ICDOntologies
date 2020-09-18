@@ -1,0 +1,10 @@
+equivalents:
+- term: Malignant Paraganglioma
+  term_id: ncit:C8559
+examples:
+- labels: ''
+input:
+- term: Paraganglioma, malignant
+  term_id: icdom-86803
+- term: Nervous system, NOS
+  term_id: icdot-C72.9

@@ -1,0 +1,10 @@
+equivalents:
+- term: Germinoma
+  term_id: ncit:C3753
+examples:
+- labels: CNS germ cell tumor [germinoma]
+input:
+- term: Germinoma
+  term_id: icdom-90643
+- term: Pineal gland
+  term_id: icdot-C75.3

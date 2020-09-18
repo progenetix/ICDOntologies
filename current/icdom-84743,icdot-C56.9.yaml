@@ -1,0 +1,10 @@
+equivalents:
+- term: Ovarian Seromucinous Carcinoma
+  term_id: ncit:C40090
+examples:
+- labels: Ovarian Seromucinous Carcinoma
+input:
+- term: Seromucinous carcinoma
+  term_id: icdom-84743
+- term: Ovary
+  term_id: icdot-C56.9

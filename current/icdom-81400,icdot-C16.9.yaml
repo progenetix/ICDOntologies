@@ -1,14 +1,10 @@
 equivalents:
-- id: NCIT:C7699
-  label: Gastric Adenoma
+- term: Gastric Adenoma
+  term_id: ncit:C7699
 examples:
-- gastric adenoma
-- adenoma [stomach, tubulovilous]
-- adenoma [stomach, tubular]
-- adenoma [gastric, moderate dysplasia]
+- labels: adenoma [stomach, tubulovilous]
 input:
-- id: icdom-81400
-  label: Adenoma, NOS
-- id: icdot-C16.9
-  label: Stomach
-updated: '2020-05-25'
+- term: Adenoma, NOS
+  term_id: icdom-81400
+- term: Stomach, NOS
+  term_id: icdot-C16.9

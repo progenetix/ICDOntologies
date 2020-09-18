@@ -1,0 +1,10 @@
+equivalents:
+- term: Chondroblastic Osteosarcoma
+  term_id: ncit:C4021
+examples:
+- labels: Osteosarcoma
+input:
+- term: 'Chondroblastic osteosarcoma '
+  term_id: icdom-91813
+- term: Bone, NOS
+  term_id: icdot-C41.9

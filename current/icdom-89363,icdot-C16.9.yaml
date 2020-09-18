@@ -1,14 +1,10 @@
 equivalents:
-- id: NCIT:C27243
-  label: High Risk Gastrointestinal Stromal Tumor
+- term: Epithelioid cell type gastrointestinal stromal tumor
+  term_id: ncit:C3486
 examples:
-- Gastrointestinal stromal tumor
-- gastrointestinal stromal tumor [cell line GIST48]
-- gastrointestinal stromal tumor [cell line GIST62]
-- gastrointestinal stromal tumor [cell line GIST522]
+- labels: Erythroleukemia
 input:
-- id: icdom-89363
-  label: Gastrointestinal stromal sarcoma
-- id: icdot-C16.9
-  label: stomach
-updated: '2020-05-25'
+- term: Gastrointestinal stromal tumor, NOS
+  term_id: icdom-89363
+- term: Stomach, NOS
+  term_id: icdot-C16.9

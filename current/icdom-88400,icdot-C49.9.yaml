@@ -1,0 +1,10 @@
+equivalents:
+- term: Myxoma
+  term_id: ncit:C6577
+examples:
+- labels: Myxoma
+input:
+- term: 'Myxoma,NOS '
+  term_id: icdom-88400
+- term: Connective, subcutaneous and other soft tissues, NOS
+  term_id: icdot-C49.9

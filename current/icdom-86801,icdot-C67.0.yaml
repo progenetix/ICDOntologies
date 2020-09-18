@@ -1,0 +1,10 @@
+equivalents:
+- term: Paraganglioma
+  term_id: ncit:C3308
+examples:
+- labels: Paraganglioma [urinary bladder]
+input:
+- term: 'Paraganglioma, NOS '
+  term_id: icdom-86801
+- term: Urinary bladder
+  term_id: icdot-C67.0

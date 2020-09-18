@@ -1,0 +1,10 @@
+equivalents:
+- term: Leiomyosarcoma
+  term_id: ncit:C3158
+examples:
+- labels: leiomyosarcoma
+input:
+- term: 'Leiomyosarcoma,NOS '
+  term_id: icdom-88903
+- term: 'Connective, subcutaneous and other soft tissues, NOS '
+  term_id: 'icdot-C49.9 '

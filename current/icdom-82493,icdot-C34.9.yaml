@@ -1,11 +1,10 @@
 equivalents:
-- id: NCIT:C45551
-  label: Lung Atypical Carcinoid Tumor
+- term: Lung Atypical Carcinoid Tumor
+  term_id: ncit:C45551
 examples:
-- atypical carcinoid tumor [lung]
+- labels: atypical carcinoid tumor [lung]
 input:
-- id: icdom-82493
-  label: Atypical carcinoid tumor
-- id: icdot-C34.9
-  label: Lung and bronchus
-updated: '2020-05-25'
+- term: Atypical carcinoid tumor
+  term_id: icdom-82493
+- term: Lung, NOS
+  term_id: icdot-C34.9

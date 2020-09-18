@@ -1,0 +1,10 @@
+equivalents:
+- term: Adenoid Cystic Carcinoma
+  term_id: ncit:C2970
+examples:
+- labels: thymic neoplasms with ACC-like features
+input:
+- term: Adenoid cystic carcinoma
+  term_id: icdom-82003
+- term: Thymus
+  term_id: icdot-C37.9

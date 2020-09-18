@@ -1,14 +1,10 @@
 equivalents:
-- id: NCIT:C8644
-  label: Precursor B Lymphoblastic Leukemia
+- term: B acute lymphoblastic leukemia
+  term_id: ncit:C8644
 examples:
-- B-cell precursor acute lymphoblastic leukemia
-- B-cell precursor acute lymphoblastic leukaemia
-- B-cell precursor acute lymphoblastic leukaemia [relapse]
-- B-lineage acute lymphoblastic leukemia
+- labels: B-cell precursor acute lymphoblastic leukaemia
 input:
-- id: icdom-98363
-  label: Precursor B-cell lymphoblastic leukemia
-- id: icdot-C42.1
-  label: Bone marrow
-updated: '2020-05-25'
+- term: PRECURSOR B-CELL LYMPHOBLASTIC LYMPHOMA
+  term_id: icdom-98363
+- term: Bone marrow
+  term_id: icdot-C42.1

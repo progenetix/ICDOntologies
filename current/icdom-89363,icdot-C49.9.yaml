@@ -1,14 +1,10 @@
 equivalents:
-- id: NCIT:C27243
-  label: High Risk Gastrointestinal Stromal Tumor
+- term: High Risk Gastrointestinal Stromal Tumor
+  term_id: ncit:C27243
 examples:
-- Gastrointestinal stromal tumor [cell line GIST]
-- Gastrointestinal stromal tumor
-- gastric gastrointestinal stromal tumor
-- gastrointestinal stroma tumor [cell line GIST]
+- labels: gastrointestinal stroma tumor [cell line GIST]
 input:
-- id: icdom-89363
-  label: Gastrointestinal stromal sarcoma
-- id: icdot-C49.9
-  label: connective and soft tissue, nos
-updated: '2020-05-25'
+- term: Gastrointestinal stromal tumor, NOS
+  term_id: icdom-89363
+- term: Connective, subcutaneous and other soft tissues, NOS
+  term_id: icdot-C49.9

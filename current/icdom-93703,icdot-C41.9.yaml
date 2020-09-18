@@ -1,0 +1,10 @@
+equivalents:
+- term: Chordoma
+  term_id: ncit:C2947
+examples:
+- labels: chordoma [Coccyx]
+input:
+- term: 'Chordoma, NOS '
+  term_id: icdom-93703
+- term: Bone, NOS
+  term_id: icdot-C41.9

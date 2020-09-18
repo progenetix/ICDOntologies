@@ -1,14 +1,10 @@
 equivalents:
-- id: NCIT:C4025
-  label: Esophageal Adenocarcinoma
+- term: Barrett adenocarcinoma
+  term_id: ncit:C7027
 examples:
-- adenocarcinoma [esophagus]
-- Esophageal adenocarcinoma
-- esophageal adenocarcinoma
-- Esophageal adenocarcinoma [cell line OE19]
+- labels: Burkitt Lymphoma
 input:
-- id: icdom-81403
-  label: Adenocarcinoma, NOS
-- id: icdot-C15.9
-  label: Esophagus
-updated: '2020-05-25'
+- term: Adenocarcinoma, NOS
+  term_id: icdom-81403
+- term: Esophagus, NOS
+  term_id: icdot-C15.9

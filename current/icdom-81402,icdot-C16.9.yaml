@@ -1,0 +1,10 @@
+equivalents:
+- term: Adenocarcinoma In Situ
+  term_id: ncit:C4123
+examples:
+- labels: gastric carcinoma in situ
+input:
+- term: Adenocarcinoma in situ, NOS
+  term_id: icdom-81402
+- term: Stomach, NOS
+  term_id: icdot-C16.9

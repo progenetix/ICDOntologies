@@ -1,14 +1,10 @@
 equivalents:
-- id: NCIT:C5214
-  label: Breast Adenocarcinoma
+- term: Breast adenocarcinoma
+  term_id: ncit:C5214
 examples:
-- 'breast cancer '
-- 'breast cancer [cell line MCF7] '
-- 'breast cancer [cell line IMR90] '
-- breast cancer
+- labels: breast carcinoma [adenocarcinoma, cell line MDAMB231]
 input:
-- id: icdom-81403
-  label: Adenocarcinoma, NOS
-- id: icdot-C50.9
-  label: Breast, NOS
-updated: '2020-05-25'
+- term: Adenocarcinoma, NOS
+  term_id: icdom-81403
+- term: Breast, NOS
+  term_id: icdot-C50.9

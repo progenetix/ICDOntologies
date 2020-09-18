@@ -1,0 +1,10 @@
+equivalents:
+- term: Meningioma
+  term_id: ncit:C3230
+examples:
+- labels: Meningioma [grade I, Meningothelial]
+input:
+- term: 'Meningioma, NOS '
+  term_id: icdom-95300
+- term: meninges cerebral, spinal
+  term_id: icdot-C70.0

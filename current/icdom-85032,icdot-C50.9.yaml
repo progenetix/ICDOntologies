@@ -1,0 +1,10 @@
+equivalents:
+- term: Intraductal Papillary Breast Carcinoma
+  term_id: ncit:C4190
+examples:
+- labels: 'Solid papillary carcinoma [grade: 3,er: ER+,pr: PR-,her2: HER-]'
+input:
+- term: Noninfiltrating intraductal papillary adenocarcinoma
+  term_id: icdom-85032
+- term: Breast, NOS
+  term_id: icdot-C50.9

@@ -1,0 +1,10 @@
+equivalents:
+- term: Malignant Peripheral Nerve Sheath Tumor
+  term_id: ncit:C3798
+examples:
+- labels: malignant peripheral nerve sheath tumor [with focal pigmentation]
+input:
+- term: 'Malignant peripheral nerve sheath tumor '
+  term_id: icdom-95403
+- term: Pancreas, NOS
+  term_id: icdot-C25.9

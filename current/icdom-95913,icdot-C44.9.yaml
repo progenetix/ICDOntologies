@@ -1,12 +1,10 @@
 equivalents:
-- id: NCIT:C6858
-  label: Cutaneous B-Cell Non-Hodgkin Lymphoma
+- term: Cutaneous B-Cell Non-Hodgkin Lymphoma
+  term_id: ncit:C6858
 examples:
-- cBNHL
-- B-cell lymphoma [cutaneous, not subtyped]
+- labels: B-cell lymphoma [cutaneous, not subtyped]
 input:
-- id: icdom-95913
-  label: Malignant lymphoma, B-cell NOS
-- id: icdot-C44.9
-  label: Skin, NOS
-updated: '2020-05-25'
+- term: 'Malignant lymphoma, non-Hodgkin, NOS '
+  term_id: icdom-95913
+- term: Skin, NOS
+  term_id: icdot-C44.9

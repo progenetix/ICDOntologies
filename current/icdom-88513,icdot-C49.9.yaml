@@ -1,14 +1,10 @@
 equivalents:
-- id: NCIT:C4250
-  label: Well Differentiated Liposarcoma
+- term: Well Differentiated Liposarcoma
+  term_id: ncit:C4250
 examples:
-- lipoma-like liposarcoma [thigh, deep]
-- lipoma-like liposarcoma [shoulder, deep]
-- liposarcoma [well differentiated]
-- well-differentiated and dedifferentiated liposarcoma
+- labels: lipoma-like liposarcoma [thigh, deep]
 input:
-- id: icdom-88513
-  label: Liposarcoma, well differentiated
-- id: icdot-C49.9
-  label: Connective and soft tissue, NOS
-updated: '2020-05-25'
+- term: 'Liposarcoma, well differentiated '
+  term_id: icdom-88513
+- term: Connective, subcutaneous and other soft tissues, NOS
+  term_id: icdot-C49.9

@@ -1,0 +1,10 @@
+equivalents:
+- term: Peripheral Primitive Neuroectodermal Tumor
+  term_id: ncit:C9341
+examples:
+- labels: peripheral primitive neuroectodermal tumor
+input:
+- term: Peripheral neuroectodermal tumor
+  term_id: icdom-93643
+- term: Autonomic nervous system, NOS
+  term_id: icdot-C47.9

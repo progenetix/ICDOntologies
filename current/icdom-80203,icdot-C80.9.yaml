@@ -1,0 +1,10 @@
+equivalents:
+- term: Metastatic Malignant Neoplasm of Unknown Primary
+  term_id: ncit:C8566
+examples:
+- labels: Poorly Differentiated Carcinoma, NOS
+input:
+- term: Carcinoma, undifferentiated, NOS
+  term_id: icdom-80203
+- term: Unknown primary site
+  term_id: icdot-C80.9

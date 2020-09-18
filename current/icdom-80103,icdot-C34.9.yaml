@@ -1,14 +1,10 @@
 equivalents:
-- id: NCIT:C4878
-  label: Lung Carcinoma
+- term: Lung Carcinoma
+  term_id: ncit:C4878
 examples:
-- Lung carcinoma [cell line]
-- lung carcinoma
-- lung carcinoma [brain metastasis]
-- lung carcinoma [primary]
+- labels: Carcinoma [bronchial, after carcinoma in situ of left main bronchus]
 input:
-- id: icdom-80103
-  label: Carcinoma, NOS
-- id: icdot-C34.9
-  label: Lung and bronchus
-updated: '2020-05-25'
+- term: Carcinoma, NOS
+  term_id: icdom-80103
+- term: Lung, NOS
+  term_id: icdot-C34.9

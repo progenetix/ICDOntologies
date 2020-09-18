@@ -1,12 +1,10 @@
 equivalents:
-- id: NCIT:C8711
-  label: Non-Cutaneous Melanoma
+- term: Non-Cutaneous Melanoma
+  term_id: ncit:C8711
 examples:
-- Malignant melanoma
-- Metastatic
+- labels: Malignant melanoma
 input:
-- id: icdom-87203
-  label: Malignant melanoma, NOS
-- id: icdot-C51.9
-  label: Vulva, NOS
-updated: '2020-05-25'
+- term: 'Malignant melanoma, NOS '
+  term_id: icdom-87203
+- term: Vulva, NOS
+  term_id: icdot-C51.9

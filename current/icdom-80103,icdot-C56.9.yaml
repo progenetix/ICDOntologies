@@ -1,14 +1,10 @@
 equivalents:
-- id: NCIT:C4908
-  label: Ovarian Carcinoma
+- term: Ovarian Carcinoma
+  term_id: ncit:C4908
 examples:
-- Ovarian carcinoma
-- Ovarian carcinoma [omentum metastasis]
-- Ovarian Carcinoma
-- ovarian carcinoma [cell line]
+- labels: ovarian carcinoma [carboplatin resistant]
 input:
-- id: icdom-80103
-  label: Carcinoma, NOS
-- id: icdot-C56.9
-  label: Ovary
-updated: '2020-05-25'
+- term: Carcinoma, NOS
+  term_id: icdom-80103
+- term: Ovary
+  term_id: icdot-C56.9

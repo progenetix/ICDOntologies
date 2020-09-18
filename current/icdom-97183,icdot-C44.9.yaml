@@ -1,0 +1,10 @@
+equivalents:
+- term: Primary Cutaneous CD30-Positive T-Cell Lymphoproliferative Disorder
+  term_id: ncit:C7195
+examples:
+- labels: Anaplastic large cell lymphoma[pleomorphic, CD30 pos., stage IIIb]
+input:
+- term: anaplastic large cell lymphoma, cutaneous type
+  term_id: icdom-97183
+- term: Skin, NOS
+  term_id: icdot-C44.9

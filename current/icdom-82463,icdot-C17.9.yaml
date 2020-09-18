@@ -1,16 +1,11 @@
 equivalents:
-- id: NCIT:C96064
-  label: Small Intestinal Neuroendocrine Carcinoma
+- term: Small Intestinal Neuroendocrine Carcinoma
+  term_id: ncit:C96064
 examples:
-- neuroendocrine tumour [duodenum, No metastasis, non-functional]
-- Neuroendocrine gastroenteropancreatic tumour [ileum, Liver, ovary metastasis, functional]
-- Neuroendocrine gastroenteropancreatic tumour [ileum, Liver, lymphnodes metastasis,
-  functional]
-- Neuroendocrine gastroenteropancreatic tumour [ileocecal valve, Liver, lymphnodes
-  metastasis, functional]
+- labels: Neuroendocrine gastroenteropancreatic tumour [ileum, Liver, lymphnodes metastasis,
+    functional]
 input:
-- id: icdom-82463
-  label: Neuroendocrine carcinoma, NOS
-- id: icdot-C17.9
-  label: Small intestine
-updated: '2020-05-25'
+- term: Neuroendocrine carcinoma, NOS
+  term_id: icdom-82463
+- term: Small intestine, NOS
+  term_id: icdot-C17.9

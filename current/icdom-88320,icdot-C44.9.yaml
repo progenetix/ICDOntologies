@@ -1,0 +1,10 @@
+equivalents:
+- term: Skin Fibrous Histiocytoma
+  term_id: ncit:C6801
+examples:
+- labels: Dermatofibroma
+input:
+- term: 'Dermatofibroma, NOS '
+  term_id: icdom-88320
+- term: Skin, NOS
+  term_id: icdot-C44.9

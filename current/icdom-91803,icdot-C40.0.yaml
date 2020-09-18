@@ -1,14 +1,10 @@
 equivalents:
-- id: NCIT:C9145
-  label: Osteosarcoma
+- term: Osteosarcoma
+  term_id: ncit:C9145
 examples:
-- Osteosarcoma [Osteoblastic]
-- osteosarcoma [high-grade, pre-chemotherapy]
-- Osteosarcoma [cell line 143B]
-- osteosarcoma [cell line HOS]
+- labels: osteosarcoma [cell line MG-63]
 input:
-- id: icdom-91803
-  label: Osteosarcoma, NOS
-- id: icdot-C40.0
-  label: Bones and joints
-updated: '2020-05-25'
+- term: 'Osteosarcoma, NOS '
+  term_id: icdom-91803
+- term: Bones and joints
+  term_id: icdot-C40.0

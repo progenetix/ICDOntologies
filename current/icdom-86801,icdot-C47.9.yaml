@@ -1,0 +1,10 @@
+equivalents:
+- term: Paraganglioma
+  term_id: ncit:C3308
+examples:
+- labels: paraganglioma
+input:
+- term: 'Paraganglioma, NOS '
+  term_id: icdom-86801
+- term: Autonomic nervous system, NOS
+  term_id: icdot-C47.9

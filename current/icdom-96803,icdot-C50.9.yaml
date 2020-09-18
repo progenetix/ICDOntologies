@@ -1,0 +1,11 @@
+equivalents:
+- term: Diffuse Large B-Cell Lymphoma
+  term_id: ncit:C8851
+examples:
+- labels: Diffuse Large B-cell Lymphoma [extranodal, breast, IG-MYC neg., 3q2 break
+    neg., t(14;18) neg.]
+input:
+- term: Malignant lymphoma, large B-cell, diffuse, NOS
+  term_id: icdom-96803
+- term: Breast, NOS
+  term_id: icdot-C50.9

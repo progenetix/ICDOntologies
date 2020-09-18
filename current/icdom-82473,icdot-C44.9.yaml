@@ -1,14 +1,10 @@
 equivalents:
-- id: NCIT:C9231
-  label: Merkel Cell Carcinoma
+- term: Merkel Cell Carcinoma
+  term_id: ncit:C9231
 examples:
-- Merkel cell carcinoma
-- merkel cell carcinoma [lip]
-- Merkel cell carcinoma [cell line AlDo]
-- Merkel cell carcinoma [cell line Loke]
+- labels: Merkel cell carcinoma [left ankle]
 input:
-- id: icdom-82473
-  label: Merkel cell carcinoma
-- id: icdot-C44.9
-  label: Skin, NOS
-updated: '2020-05-25'
+- term: Merkel cell carcinoma
+  term_id: icdom-82473
+- term: Skin, NOS
+  term_id: icdot-C44.9

@@ -1,0 +1,10 @@
+equivalents:
+- term: Uterine Corpus Smooth Muscle Tumor of Uncertain Malignant Potential
+  term_id: ncit:C40177
+examples:
+- labels: Uterine Smooth Muscle Tumor of Uncertain Malignant Potential
+input:
+- term: 'Smooth muscle tumor of uncertain malignant potential '
+  term_id: icdom-88971
+- term: Corpus uteri
+  term_id: icdot-C54.9

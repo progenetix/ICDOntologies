@@ -1,14 +1,10 @@
 equivalents:
-- id: NCIT:C3059
-  label: Glioma
+- term: Glioma
+  term_id: ncit:C3059
 examples:
-- glioma [cell line 8-MG-BA]
-- glioma [cell line DK-MG]
-- glioma [cell line GA-MG]
-- glioma [cell line HS-683]
+- labels: Glioma [cell line U87]
 input:
-- id: icdom-93803
-  label: Glioma, malignant
-- id: icdot-C71.9
-  label: Brain, NOS
-updated: '2020-05-25'
+- term: 'Glioma, malignant '
+  term_id: icdom-93803
+- term: Brain, NOS
+  term_id: icdot-C71.9

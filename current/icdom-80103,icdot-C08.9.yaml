@@ -1,0 +1,10 @@
+equivalents:
+- term: Salivary Duct Carcinoma
+  term_id: ncit:C5904
+examples:
+- labels: Salivary Duct Carcinoma
+input:
+- term: Carcinoma, NOS
+  term_id: icdom-80103
+- term: Major salivary gland, NOS
+  term_id: icdot-C08.9

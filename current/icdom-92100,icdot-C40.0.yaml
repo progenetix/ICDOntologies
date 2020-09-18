@@ -1,0 +1,10 @@
+equivalents:
+- term: Osteochondroma
+  term_id: ncit:C3295
+examples:
+- labels: osteochondroma [scapula]
+input:
+- term: Osteochondroma
+  term_id: icdom-92100
+- term: Bones and joints
+  term_id: icdot-C40.0

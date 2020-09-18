@@ -1,0 +1,10 @@
+equivalents:
+- term: Anaplastic Ependymoma
+  term_id: ncit:C4049
+examples:
+- labels: ependymoma [anaplastic, medullary]
+input:
+- term: 'Ependymoma, anaplastic '
+  term_id: icdom-93923
+- term: Brain stem
+  term_id: icdot-C71.7

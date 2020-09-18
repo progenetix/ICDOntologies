@@ -1,0 +1,10 @@
+equivalents:
+- term: Cervical Undifferentiated Carcinoma
+  term_id: ncit:C6345
+examples:
+- labels: Uterine Undifferentiated Carcinoma
+input:
+- term: Carcinoma, undifferentiated, NOS
+  term_id: icdom-80203
+- term: Corpus uteri
+  term_id: icdot-C54.9

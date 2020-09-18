@@ -1,0 +1,10 @@
+equivalents:
+- term: Giant Cell Tumor of Bone
+  term_id: ncit:C121932
+examples:
+- labels: Giant cell tumor of bone
+input:
+- term: Giant cell tumor of bone, NOS
+  term_id: icdom-92501
+- term: Bone, NOS
+  term_id: icdot-C41.9

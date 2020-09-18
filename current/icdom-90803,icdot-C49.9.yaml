@@ -1,0 +1,10 @@
+equivalents:
+- term: Immature Teratoma
+  term_id: ncit:C4286
+examples:
+- labels: Teratoma [Sacrococcygeal]
+input:
+- term: 'Teratoma,malignant,NOS '
+  term_id: icdom-90803
+- term: Connective, subcutaneous and other soft tissues, NOS
+  term_id: icdot-C49.9

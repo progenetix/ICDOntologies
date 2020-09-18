@@ -1,0 +1,10 @@
+equivalents:
+- term: Pancreatic ductal adenocarcinoma
+  term_id: ncit:C9120
+examples:
+- labels: ''
+input:
+- term: Adenocarcinoma, NOS
+  term_id: icdom-81403
+- term: Pancreatic duct
+  term_id: icdot-C25.3

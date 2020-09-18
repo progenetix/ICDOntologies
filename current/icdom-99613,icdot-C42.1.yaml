@@ -1,13 +1,10 @@
 equivalents:
-- id: NCIT:C2862
-  label: Primary Myelofibrosis
+- term: Myelofibrosis
+  term_id: ncit:C3248
 examples:
-- primary myelofibrosis
-- Osteomyelofibrosis
-- Idiopathic myelofibrosis
+- labels: accelerated phase;secondary myelofibrosis;hematopoietic cell
 input:
-- id: icdom-99613
-  label: Primary myelofibrosis
-- id: icdot-C42.1
-  label: Bone marrow
-updated: '2020-05-25'
+- term: 'Primary myelofibrosis '
+  term_id: icdom-99613
+- term: Bone marrow
+  term_id: icdot-C42.1

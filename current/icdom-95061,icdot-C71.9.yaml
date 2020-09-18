@@ -1,0 +1,10 @@
+equivalents:
+- term: Extraventricular Neurocytoma
+  term_id: ncit:C92555
+examples:
+- labels: Extraventricular Neurocytoma
+input:
+- term: 'Central neurocytoma '
+  term_id: icdom-95061
+- term: Brain, NOS
+  term_id: icdot-C71.9

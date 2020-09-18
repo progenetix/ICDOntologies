@@ -1,0 +1,10 @@
+equivalents:
+- term: Salivary Gland Mucoepidermoid Carcinoma
+  term_id: ncit:C5908
+examples:
+- labels: Mucoepidermoid Carcinoma
+input:
+- term: Mucoepidermoid tumor
+  term_id: icdom-84301
+- term: Major salivary gland, NOS
+  term_id: icdot-C08.9

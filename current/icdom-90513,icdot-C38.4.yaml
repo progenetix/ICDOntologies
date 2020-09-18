@@ -1,14 +1,10 @@
 equivalents:
-- id: NCIT:C6747
-  label: Desmoplastic Mesothelioma
+- term: Desmoplastic Mesothelioma
+  term_id: ncit:C6747
 examples:
-- Sarcomatoid mesothelioma
-- malignant mesothelioma [desmoplastic]
-- malignant mesothelioma [sarcomatoid]
-- Sarcomatoid mesothelioma [familial occurence]
+- labels: Sarcomatoid mesothelioma [familial occurence]
 input:
-- id: icdom-90513
-  label: Fibrous mesothelioma, malignant
-- id: icdot-C38.4
-  label: Pleura
-updated: '2020-05-25'
+- term: 'Fibrous mesothelioma, malignant '
+  term_id: icdom-90513
+- term: Pleura, NOS
+  term_id: icdot-C38.4

@@ -1,0 +1,10 @@
+equivalents:
+- term: Marginal Zone Lymphoma
+  term_id: ncit:C4341
+examples:
+- labels: marginal zone B-cell lymphoma [stage IVE]
+input:
+- term: Marginal zone B-cell lymphoma, NOS
+  term_id: icdom-96993
+- term: Eye, NOS
+  term_id: icdot-C69.9

@@ -1,0 +1,10 @@
+equivalents:
+- term: Poorly Differentiated Thyroid Carcinoma
+  term_id: ncit:C6040
+examples:
+- labels: Poorly Differentiated Thyroid Cancer
+input:
+- term: Insular carcinoma
+  term_id: icdom-83373
+- term: Thyroid gland
+  term_id: icdot-C73.9

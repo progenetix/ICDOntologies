@@ -1,0 +1,10 @@
+equivalents:
+- term: Clear Cell Odontogenic Carcinoma
+  term_id: ncit:C54300
+examples:
+- labels: Clear Cell Odontogenic Carcinoma
+input:
+- term: 'Clear cell odontogenic tumor '
+  term_id: icdom-93411
+- term: Mandible
+  term_id: icdot-C41.1

@@ -1,14 +1,10 @@
 equivalents:
-- id: NCIT:C3434
-  label: Uterine Corpus Leiomyoma
+- term: Uterine Corpus Leiomyoma
+  term_id: ncit:C3434
 examples:
-- Uterine Leiomyoma
-- Leiomyoma [Uterus]
-- uterine leiomyoma
-- leiomyoma [Uterus]
+- labels: Uterine leiomyoma
 input:
-- id: icdom-88900
-  label: Leiomyoma, NOS
-- id: icdot-C55.9
-  label: Uterus, NOS
-updated: '2020-05-25'
+- term: Leiomyoma, NOS
+  term_id: icdom-88900
+- term: Uterus, NOS
+  term_id: icdot-C55.9

@@ -1,11 +1,10 @@
 equivalents:
-- id: NCIT:C8647
-  label: Aggressive NK-Cell Leukemia
+- term: Aggressive NK-Cell Leukemia
+  term_id: ncit:C8647
 examples:
-- Aggressive NK-cell leukemia
+- labels: Aggressive NK-cell leukemia
 input:
-- id: icdom-99483
-  label: Aggressive NK-cell leukemia
-- id: icdot-C42.1
-  label: Bone marrow
-updated: '2020-05-25'
+- term: Aggressive NK-cell leukemia
+  term_id: icdom-99483
+- term: Bone marrow
+  term_id: icdot-C42.1

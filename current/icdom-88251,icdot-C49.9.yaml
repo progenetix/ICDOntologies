@@ -1,0 +1,10 @@
+equivalents:
+- term: Inflammatory Myofibroblastic Tumor
+  term_id: ncit:C6481
+examples:
+- labels: Inflammatory Myofibroblastic Tumor
+input:
+- term: 'Myofibroblastic tumor, NOS '
+  term_id: icdom-88251
+- term: Connective, subcutaneous and other soft tissues, NOS
+  term_id: icdot-C49.9

@@ -1,14 +1,10 @@
 equivalents:
-- id: NCIT:C8644
-  label: B Acute Lymphoblastic Leukemia
+- term: Adult B acute lymphoblastic leukemia
+  term_id: ncit:C9143
 examples:
-- Burkitt leukemia [cell line KHM-10B]
-- B acute lymphoblastic leukemia [cell line Granta-452]
-- B acute lymphoblastic leukemia [cell line Reh]
-- Acute lymphoblastic leukemia, mature B-cell type [cell line U-293]
+- labels: Lymphoma
 input:
-- id: icdom-98263
-  label: Burkitt cell leukemia
-- id: icdot-C42.1
-  label: Bone marrow
-updated: '2020-05-25'
+- term: Burkitt cell leukemia
+  term_id: icdom-98263
+- term: Bone marrow
+  term_id: icdot-C42.1

@@ -1,0 +1,10 @@
+equivalents:
+- term: Adenoid Cystic Carcinoma
+  term_id: ncit:C2970
+examples:
+- labels: adenoid cystic carcinomas [soft palate, grade I, stage I]
+input:
+- term: Adenoid cystic carcinoma
+  term_id: icdom-82003
+- term: Mouth, NOS
+  term_id: icdot-C06.9

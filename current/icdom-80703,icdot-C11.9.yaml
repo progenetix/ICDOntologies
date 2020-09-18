@@ -1,13 +1,10 @@
 equivalents:
-- id: NCIT:C102872
-  label: Pharyngeal Squamous Cell Carcinoma
+- term: Pharyngeal squamous cell carcinoma
+  term_id: ncit:C102872
 examples:
-- head and neck carcinoma [cell line]
-- Head and neck squamous cell carcinoma [Maxillary antrum, stage I, T4N0M0]
-- Head and neck squamous cell carcinoma [Maxillary antrum, stage III, T4N2Mo]
+- labels: Head and neck squamous cell carcinoma [Maxillary antrum, stage III, T4N2Mo]
 input:
-- id: icdom-80703
-  label: Squamous cell carcinoma, NOS
-- id: icdot-C11.9
-  label: Nasopharynx
-updated: '2020-05-25'
+- term: Squamous cell carcinoma, NOS
+  term_id: icdom-80703
+- term: Nasopharynx, NOS
+  term_id: icdot-C11.9

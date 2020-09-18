@@ -1,14 +1,10 @@
 equivalents:
-- id: NCIT:C9306
-  label: Soft Tissue Sarcoma
+- term: Soft Tissue Sarcoma
+  term_id: ncit:C9306
 examples:
-- Sarcoma, NOS
-- Pulmonary artery intimal sarcoma
-- soft tissue sarcoma
-- Undifferentiated Pleomorphic Sarcoma
+- labels: Sarcoma [G4]
 input:
-- id: icdom-88003
-  label: Sarcoma, NOS
-- id: icdot-C49.9
-  label: Connective and soft tissue, NOS
-updated: '2020-05-25'
+- term: 'Sarcoma,NOS '
+  term_id: icdom-88003
+- term: Connective, subcutaneous and other soft tissues, NOS
+  term_id: icdot-C49.9

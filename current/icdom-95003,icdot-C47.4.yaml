@@ -1,0 +1,10 @@
+equivalents:
+- term: Neuroblastoma
+  term_id: ncit:C3270
+examples:
+- labels: Precursor B-Lymphoblastic Leukemia
+input:
+- term: 'Neuroblastoma, NOS '
+  term_id: icdom-95003
+- term: autonomic nervous system
+  term_id: icdot-C47.4

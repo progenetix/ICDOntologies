@@ -1,0 +1,10 @@
+equivalents:
+- term: Atypical Teratoid/Rhabdoid Tumor
+  term_id: ncit:C6906
+examples:
+- labels: Atypical teratoid/rhabdoid tumor [CNS]
+input:
+- term: Atypical teratoid/rhabdoid tumor
+  term_id: icdom-95083
+- term: Spinal cord
+  term_id: icdot-C72.0

@@ -1,11 +1,10 @@
 equivalents:
-- id: NCIT:C9151
-  label: Lentigo Maligna Melanoma
+- term: Lentigo Maligna Melanoma
+  term_id: ncit:C9151
 examples:
-- lentigo maligna melanoma
+- labels: lentigo maligna melanoma
 input:
-- id: icdom-87423
-  label: Lentigo maligna melanoma
-- id: icdot-C44.9
-  label: Skin, NOS
-updated: '2020-05-25'
+- term: Lentigo maligna melanoma
+  term_id: icdom-87423
+- term: Skin, NOS
+  term_id: icdot-C44.9

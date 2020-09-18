@@ -1,0 +1,10 @@
+equivalents:
+- term: 'Amelanotic melanoma '
+  term_id: ncit:C3802
+examples:
+- labels: amelanotic melanoma [cell line A375.S2]
+input:
+- term: 'Amelanotic melanoma '
+  term_id: icdom-87303
+- term: Skin, NOS
+  term_id: icdot-C44.9

@@ -1,14 +1,10 @@
 equivalents:
-- id: NCIT:C3234
-  label: Mesothelioma
+- term: Pleural Mesothelioma
+  term_id: ncit:C9351
 examples:
-- pleural mesothelioma
-- pleural malignant mesothelioma [cell line Y-MESO-9]
-- pleural malignant mesothelioma [cell line Y-MESO-12]
-- pleural malignant mesothelioma [cell line Y-MESO-14]
+- labels: Pleural Mesothelioma
 input:
-- id: icdom-90503
-  label: Mesothelioma, malignant
-- id: icdot-C38.4
-  label: Pleura
-updated: '2020-05-25'
+- term: 'Mesothelioma, malignant '
+  term_id: icdom-90503
+- term: Pleura, NOS
+  term_id: icdot-C38.4

@@ -1,0 +1,10 @@
+equivalents:
+- term: Anaplastic Ependymoma
+  term_id: ncit:C4049
+examples:
+- labels: Anaplastic ependymoma [WHO grade III, Supratentorial]
+input:
+- term: 'Ependymoma, anaplastic '
+  term_id: icdom-93923
+- term: cerebrum
+  term_id: icdot-C71.0

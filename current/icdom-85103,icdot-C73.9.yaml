@@ -1,14 +1,10 @@
 equivalents:
-- id: NCIT:C3879
-  label: Thyroid Gland Medullary Carcinoma
+- term: Thyroid Gland Medullary Carcinoma
+  term_id: ncit:C3879
 examples:
-- Medullary thyroid carcinoma [cervical node metastasis]
-- Medullary thyroid carcinoma
-- sporadic medullary thyroid carcinoma [metastasis]
-- sporadic medullary thyroid carcinoma
+- labels: Medullary thyroid carcinoma [familial, MEN 2A, RET status L790F, Primary]
 input:
-- id: icdom-85103
-  label: Medullary carcinoma, NOS
-- id: icdot-C73.9
-  label: Thyroid gland
-updated: '2020-05-25'
+- term: Medullary carcinoma, NOS
+  term_id: icdom-85103
+- term: Thyroid gland
+  term_id: icdot-C73.9

@@ -1,14 +1,10 @@
 equivalents:
-- id: NCIT:C3359
-  label: Rhabdomyosarcoma
+- term: Rhabdomyosarcoma
+  term_id: ncit:C3359
 examples:
-- Rhabdomyosarcoma
-- Rhabdomyosarcoma [cell line GCT]
-- Alveolar rhabdomyosarcoma [cell line Rh18c]
-- Rhabdomyosarcoma [cell line Rh30]
+- labels: Alveolar rhabdomyosarcoma [cell line Rh18c]
 input:
-- id: icdom-89003
-  label: Rhabdomyosarcoma, NOS
-- id: icdot-C49.9
-  label: Connective and soft tissue, NOS
-updated: '2020-05-25'
+- term: 'Rhabdomyosarcoma, NOS '
+  term_id: icdom-89003
+- term: Connective, subcutaneous and other soft tissues, NOS
+  term_id: icdot-C49.9

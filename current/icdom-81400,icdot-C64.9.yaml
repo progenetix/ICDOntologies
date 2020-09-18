@@ -1,14 +1,10 @@
 equivalents:
-- id: NCIT:C8383
-  label: Kidney adenoma
+- term: Kidney adenoma
+  term_id: ncit:C8383
 examples:
-- Low-Grade Tubular-Mucinous Renal Neoplasm [pT2]
-- Tubular-mucinous renal tumor of low malignant potential [pT]
-- Low-Grade Tubular-Mucinous Renal Neoplasm [pT1]
-- Low-Grade Tubular-Mucinous Renal Neoplasm [pT3a]
+- labels: Adenoma
 input:
-- id: icdom-81400
-  label: Adenoma, NOS
-- id: icdot-C64.9
-  label: Kidney
-updated: '2020-05-25'
+- term: Adenoma, NOS
+  term_id: icdom-81400
+- term: Kidney, NOS
+  term_id: icdot-C64.9

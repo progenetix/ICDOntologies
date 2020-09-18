@@ -1,0 +1,10 @@
+equivalents:
+- term: Pineoblastoma
+  term_id: ncit:C9344
+examples:
+- labels: Pineoblastoma
+input:
+- term: 'Pineoblastoma '
+  term_id: icdom-93623
+- term: Pineal gland
+  term_id: icdot-C75.3

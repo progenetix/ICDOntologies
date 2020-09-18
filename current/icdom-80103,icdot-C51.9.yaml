@@ -1,0 +1,10 @@
+equivalents:
+- term: Vulvar carcinoma
+  term_id: ncit:C4866
+examples:
+- labels: Acute T Cell Lymphoblastic Leukemia
+input:
+- term: Carcinoma, NOS
+  term_id: icdom-80103
+- term: Vulva, NOS
+  term_id: icdot-C51.9

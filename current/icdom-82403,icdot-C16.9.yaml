@@ -1,11 +1,10 @@
 equivalents:
-- id: NCIT:C7709
-  label: Digestive System Neuroendocrine Tumor G1
+- term: Digestive System Neuroendocrine Tumor
+  term_id: ncit:C95404
 examples:
-- Gastrointestinal carcinoid
+- labels: Gastrointestinal Neuroendocrine Tumors
 input:
-- id: icdom-82403
-  label: Carcinoid tumor, NOS
-- id: icdot-C16.9
-  label: Stomach
-updated: '2020-05-25'
+- term: Carcinoid tumor, NOS
+  term_id: icdom-82403
+- term: Stomach, NOS
+  term_id: icdot-C16.9

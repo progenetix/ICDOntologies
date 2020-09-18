@@ -1,11 +1,10 @@
 equivalents:
-- id: NCIT:C9291
-  label: 'Anal Carcinoma '
+- term: 'Anal Carcinoma '
+  term_id: ncit:C9291
 examples:
-- Carcinoma
+- labels: 'Anal Carcinoma '
 input:
-- id: icdom-80103
-  label: Carcinoma, NOS
-- id: icdot-C21.9
-  label: anal canal and anus
-updated: '2020-05-25'
+- term: Carcinoma, NOS
+  term_id: icdom-80103
+- term: anal canal and anus
+  term_id: icdot-C21.9

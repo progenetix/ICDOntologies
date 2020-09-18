@@ -1,12 +1,10 @@
 equivalents:
-- id: NCIT:C3502
-  label: Thyroid Gland Follicular Adenoma
+- term: Thyroid Gland Follicular Adenoma
+  term_id: ncit:C3502
 examples:
-- Parathyroid adenoma
-- Adenoma
+- labels: ''
 input:
-- id: icdom-81400
-  label: Adenoma, NOS
-- id: icdot-C73.9
-  label: Thyroid gland
-updated: '2020-05-25'
+- term: Adenoma, NOS
+  term_id: icdom-81400
+- term: Thyroid gland
+  term_id: icdot-C73.9

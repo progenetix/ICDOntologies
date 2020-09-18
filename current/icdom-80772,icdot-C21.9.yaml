@@ -1,11 +1,10 @@
 equivalents:
-- id: NCIT:C27275
-  label: High Grade Anal Canal Squamous Intraepithelial Neoplasia
+- term: High Grade Anal Canal Squamous Intraepithelial Neoplasia
+  term_id: ncit:C27275
 examples:
-- anal intraepithelial neoplasia
+- labels: anal intraepithelial neoplasia
 input:
-- id: icdom-80772
-  label: Squamous intraepithelial neoplasia, grade III
-- id: icdot-C21.9
-  label: Anal canal and anus
-updated: '2020-05-25'
+- term: Squamous intraepithelial neoplasia, grade III
+  term_id: icdom-80772
+- term: anal canal and anus
+  term_id: icdot-C21.9

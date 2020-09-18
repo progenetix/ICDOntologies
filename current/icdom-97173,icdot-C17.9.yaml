@@ -1,12 +1,10 @@
 equivalents:
-- id: NCIT:C4737
-  label: Enteropathy-Associated T-Cell Lymphoma
+- term: Enteropathy-Associated T-Cell Lymphoma
+  term_id: ncit:C4737
 examples:
-- Enteropathy type T-cell lymphoma
-- Enteropathy-associated T-cell lymphoma [Type II]
+- labels: Enteropathy-associated T-cell lymphoma [Type II]
 input:
-- id: icdom-97173
-  label: Intestinal T-cell lymphoma
-- id: icdot-C17.9
-  label: Small intestine
-updated: '2020-05-25'
+- term: Intestinal T-cell lymphoma
+  term_id: icdom-97173
+- term: Small intestine, NOS
+  term_id: icdot-C17.9

@@ -1,14 +1,10 @@
 equivalents:
-- id: NCIT:C6904
-  label: Large Cell Medulloblastoma
+- term: Large Cell Medulloblastoma
+  term_id: ncit:C6904
 examples:
-- medulloblastoma [Large Cell/Anaplastic]
-- large cell/anaplastic medulloblastoma
-- classic medulloblastoma
-- nodular/desmoplastic medulloblastoma
+- labels: medulloblastoma [moderate to severe anaplasia]
 input:
-- id: icdom-94743
-  label: Large cell medulloblastoma
-- id: icdot-C71.6
-  label: Cerebellum
-updated: '2020-05-25'
+- term: Large cell medulloblastoma
+  term_id: icdom-94743
+- term: Cerebellum
+  term_id: icdot-C71.6

@@ -1,0 +1,10 @@
+equivalents:
+- term: Intimal Sarcoma
+  term_id: ncit:C53677
+examples:
+- labels: Intimal Sarcoma
+input:
+- term: 'Intimal sarcoma '
+  term_id: icdom-91373
+- term: Connective, subcutaneous and other soft tissues, NOS
+  term_id: icdot-C49.9

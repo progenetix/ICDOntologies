@@ -1,14 +1,10 @@
 equivalents:
-- id: NCIT:C2926
-  label: Lung Non-Small Cell Carcinoma
+- term: Lung Non-Small Cell Carcinoma
+  term_id: ncit:C2926
 examples:
-- Non-Small Cell Lung Cancer
-- non-small cell Lung carcinoma [cell line NCI-H2887]
-- lung adenocarcinoma [cell line NCI-H2122]
-- lung adenocarcinoma [cell line NCI-H2347]
+- labels: non-small cell lung carcinoma [cell line H1355]
 input:
-- id: icdom-80463
-  label: Non-small cell carcinoma
-- id: icdot-C34.9
-  label: Lung and bronchus
-updated: '2020-05-25'
+- term: Non-small cell carcinoma
+  term_id: icdom-80463
+- term: Lung, NOS
+  term_id: icdot-C34.9

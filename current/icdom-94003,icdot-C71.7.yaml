@@ -1,0 +1,10 @@
+equivalents:
+- term: Astrocytoma
+  term_id: ncit:C60781
+examples:
+- labels: Low-grade Astrocytoma
+input:
+- term: Astrocytoma,NOS
+  term_id: icdom-94003
+- term: Brain stem
+  term_id: icdot-C71.7

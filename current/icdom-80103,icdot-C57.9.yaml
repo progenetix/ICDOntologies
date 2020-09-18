@@ -1,0 +1,10 @@
+equivalents:
+- term: Carcinoma
+  term_id: ncit:C2916
+examples:
+- labels: Carcinoma
+input:
+- term: Carcinoma, NOS
+  term_id: icdom-80103
+- term: other female genital
+  term_id: icdot-C57.9

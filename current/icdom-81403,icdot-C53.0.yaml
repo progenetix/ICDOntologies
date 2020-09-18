@@ -1,0 +1,10 @@
+equivalents:
+- term: Endocervical Adenocarcinoma
+  term_id: ncit:C28327
+examples:
+- labels: Endocervical Adenocarcinoma
+input:
+- term: Adenocarcinoma, NOS
+  term_id: icdom-81403
+- term: Endocervix
+  term_id: icdot-C53.0

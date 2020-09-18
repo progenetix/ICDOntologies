@@ -1,14 +1,10 @@
 equivalents:
-- id: NCIT:C9477
-  label: Anaplastic Astrocytoma
+- term: Anaplastic Astrocytoma
+  term_id: ncit:C9477
 examples:
-- Astrocytoma, anaplastic
-- anaplastic astrocytoma
-- Anaplastic Astrocytoma
-- Anaplastic astrocytoma
+- labels: Anaplastic Astrocytoma
 input:
-- id: icdom-94013
-  label: Astrocytoma, anaplastic
-- id: icdot-C71.9
-  label: Brain, NOS
-updated: '2020-05-25'
+- term: 'Astrocytoma, anaplastic '
+  term_id: icdom-94013
+- term: Brain, NOS
+  term_id: icdot-C71.9

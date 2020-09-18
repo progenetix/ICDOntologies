@@ -1,0 +1,10 @@
+equivalents:
+- term: Gliomatosis Cerebri
+  term_id: ncit:C4318
+examples:
+- labels: Gliomatosis cerebri
+input:
+- term: Gliomatosis cerebri
+  term_id: icdom-93813
+- term: Brain, NOS
+  term_id: icdot-C71.9

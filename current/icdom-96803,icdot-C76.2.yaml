@@ -1,0 +1,10 @@
+equivalents:
+- term: Diffuse Large B-Cell Lymphoma
+  term_id: ncit:C8851
+examples:
+- labels: Diffuse large B-cell lymphoma [Abdominal cavity]
+input:
+- term: Malignant lymphoma, large B-cell, diffuse, NOS
+  term_id: icdom-96803
+- term: abdomen, NOS
+  term_id: icdot-C76.2

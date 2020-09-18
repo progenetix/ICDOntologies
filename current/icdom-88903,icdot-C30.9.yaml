@@ -1,0 +1,10 @@
+equivalents:
+- term: Leiomyosarcoma
+  term_id: ncit:C3158
+examples:
+- labels: Leiomyosarcoma
+input:
+- term: 'Leiomyosarcoma,NOS '
+  term_id: icdom-88903
+- term: nasal cavity including nasal cartilage
+  term_id: icdot-C30.9

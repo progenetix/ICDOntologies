@@ -1,0 +1,10 @@
+equivalents:
+- term: Granular Cell Tumor
+  term_id: ncit:C3474
+examples:
+- labels: Granular Cell Tumor
+input:
+- term: 'Granular cell tumor, NOS '
+  term_id: icdom-95800
+- term: Connective, subcutaneous and other soft tissues, NOS
+  term_id: icdot-C49.9

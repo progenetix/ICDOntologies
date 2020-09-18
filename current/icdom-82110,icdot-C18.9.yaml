@@ -1,0 +1,10 @@
+equivalents:
+- term: Tubular Adenoma
+  term_id: ncit:C4133
+examples:
+- labels: tubular adenoma [colorectal]
+input:
+- term: Tubular adenoma, NOS
+  term_id: icdom-82110
+- term: Colon, NOS
+  term_id: icdot-C18.9

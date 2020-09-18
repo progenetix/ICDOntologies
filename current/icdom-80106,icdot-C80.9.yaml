@@ -1,0 +1,10 @@
+equivalents:
+- term: Metastatic Malignant Neoplasm of Unknown Primary
+  term_id: ncit:C8566
+examples:
+- labels: Cancer of Unknown Primary
+input:
+- term: Carcinoma, metastatic, NOS
+  term_id: icdom-80106
+- term: Unknown primary site
+  term_id: icdot-C80.9

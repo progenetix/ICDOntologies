@@ -1,0 +1,10 @@
+equivalents:
+- term: Appendix Neuroendocrine Tumor
+  term_id: ncit:C96422
+examples:
+- labels: Well-Differentiated Neuroendocrine Tumor of the Rectum
+input:
+- term: Neuroendocrine carcinoma, NOS
+  term_id: icdom-82463
+- term: Appendix
+  term_id: icdot-C18.1

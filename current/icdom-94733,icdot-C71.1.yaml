@@ -1,0 +1,10 @@
+equivalents:
+- term: Primitive Neuroectodermal Tumor
+  term_id: ncit:C3716
+examples:
+- labels: PNET [frontal lobe, metastasis]
+input:
+- term: CNS primitive neuroectodermal tumor (PNET)
+  term_id: icdom-94733
+- term: frontal lobe
+  term_id: icdot-C71.1

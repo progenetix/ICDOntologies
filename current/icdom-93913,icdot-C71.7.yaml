@@ -1,0 +1,10 @@
+equivalents:
+- term: Ependymoma
+  term_id: ncit:C3017
+examples:
+- labels: ependymoma [Medulla]
+input:
+- term: 'Ependymoma, NOS '
+  term_id: icdom-93913
+- term: Brain stem
+  term_id: icdot-C71.7

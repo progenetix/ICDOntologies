@@ -1,0 +1,10 @@
+equivalents:
+- term: Atypical Teratoid/Rhabdoid Tumor
+  term_id: ncit:C6906
+examples:
+- labels: atypical teratoid/rhabdoid tumour [Pineal region]
+input:
+- term: Atypical teratoid/rhabdoid tumor
+  term_id: icdom-95083
+- term: Pineal gland
+  term_id: icdot-C75.3

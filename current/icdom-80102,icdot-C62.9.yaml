@@ -1,0 +1,11 @@
+equivalents:
+- term: Carcinoma In Situ
+  term_id: ncit:C2917
+examples:
+- labels: Carcinoma in situ [testicular, adjacent to Combined tumor - Seminoma teratoma,
+    immature]
+input:
+- term: Carcinoma in situ, NOS
+  term_id: icdom-80102
+- term: Testis, NOS
+  term_id: icdot-C62.9

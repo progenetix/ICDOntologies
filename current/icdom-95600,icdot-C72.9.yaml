@@ -1,0 +1,10 @@
+equivalents:
+- term: Cellular Schwannoma
+  term_id: ncit:C4724
+examples:
+- labels: Cellular Schwannoma
+input:
+- term: 'Neurilemoma, NOS '
+  term_id: icdom-95600
+- term: Nervous system, NOS
+  term_id: icdot-C72.9

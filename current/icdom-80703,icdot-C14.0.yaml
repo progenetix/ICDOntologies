@@ -1,0 +1,10 @@
+equivalents:
+- term: Squamous Cell Carcinoma
+  term_id: ncit:C2929
+examples:
+- labels: Head and neck squamous cell carcinoma [squamous cell carcinoma, T3N0]
+input:
+- term: Squamous cell carcinoma, NOS
+  term_id: icdom-80703
+- term: pharynx, NOS
+  term_id: icdot-C14.0

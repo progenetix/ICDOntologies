@@ -1,0 +1,10 @@
+equivalents:
+- term: Urethral Urothelial Carcinoma
+  term_id: ncit:C6166
+examples:
+- labels: Urethral Urothelial Carcinoma
+input:
+- term: Transitional cell carcinoma, NOS
+  term_id: icdom-81203
+- term: Gallbladder
+  term_id: icdot-C23.9

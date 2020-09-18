@@ -1,0 +1,10 @@
+equivalents:
+- term: Primitive Neuroectodermal Tumor
+  term_id: ncit:C3716
+examples:
+- labels: Primitive Neuroectodermal Tumor
+input:
+- term: 'Neuroepithelioma, NOS '
+  term_id: icdom-95033
+- term: Brain, NOS
+  term_id: icdot-C71.9

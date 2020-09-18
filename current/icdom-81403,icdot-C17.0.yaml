@@ -1,0 +1,10 @@
+equivalents:
+- term: Duodenal Adenocarcinoma
+  term_id: ncit:C7889
+examples:
+- labels: Duodenal Adenocarcinoma
+input:
+- term: Adenocarcinoma, NOS
+  term_id: icdom-81403
+- term: Duodenum
+  term_id: icdot-C17.0

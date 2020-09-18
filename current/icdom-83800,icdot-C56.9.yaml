@@ -1,0 +1,10 @@
+equivalents:
+- term: Adenoma
+  term_id: ncit:C2855
+examples:
+- labels: Ovarian endometrioid adenocarcinoma [cell line OCI-E3x]
+input:
+- term: Endometroid adenoma, NOS
+  term_id: icdom-83800
+- term: Ovary
+  term_id: icdot-C56.9

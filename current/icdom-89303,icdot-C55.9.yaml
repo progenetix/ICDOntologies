@@ -1,0 +1,10 @@
+equivalents:
+- term: Endometrioid Stromal Sarcoma
+  term_id: ncit:C8973
+examples:
+- labels: endometrial sarcoma [undifferentiated]
+input:
+- term: 'Endometrial stromal sarcoma, NOS '
+  term_id: icdom-89303
+- term: Uterus, NOS
+  term_id: icdot-C55.9

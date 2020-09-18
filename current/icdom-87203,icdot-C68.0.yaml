@@ -1,0 +1,10 @@
+equivalents:
+- term: Urethral Melanoma
+  term_id: ncit:C159665
+examples:
+- labels: Mucosal Melanoma of the Urethra
+input:
+- term: 'Malignant melanoma, NOS '
+  term_id: icdom-87203
+- term: Urethra
+  term_id: icdot-C68.0

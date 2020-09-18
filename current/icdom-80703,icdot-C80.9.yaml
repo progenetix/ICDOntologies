@@ -1,0 +1,10 @@
+equivalents:
+- term: Squamous Cell Carcinoma of Unknown Primary
+  term_id: ncit:C8099
+examples:
+- labels: Squamous Cell Carcinoma, NOS
+input:
+- term: Squamous cell carcinoma, NOS
+  term_id: icdom-80703
+- term: Unknown primary site
+  term_id: icdot-C80.9

@@ -1,11 +1,10 @@
 equivalents:
-- id: NCIT:C8946
-  label: Metastatic Prostate Carcinoma
+- term: Metastatic Prostate Carcinoma
+  term_id: ncit:C8946
 examples:
-- prostate cancer [liver metastasis]
+- labels: prostate cancer [liver metastasis]
 input:
-- id: icdom-80106
-  label: Carcinoma, metastatic, NOS
-- id: icdot-C61.9
-  label: Prostate gland
-updated: '2020-05-25'
+- term: Carcinoma, metastatic, NOS
+  term_id: icdom-80106
+- term: Prostate gland
+  term_id: icdot-C61.9

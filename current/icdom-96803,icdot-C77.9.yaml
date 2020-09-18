@@ -1,14 +1,10 @@
 equivalents:
-- id: NCIT:C80280
-  label: Diffuse Large B-Cell Lymphoma, Not Otherwise Specified
+- term: Diffuse Large B-Cell Lymphoma
+  term_id: ncit:C8851
 examples:
-- diffuse large B-cell lymphoma
-- diffuse large B-cell lymphoma [transformed FCL]
-- Diffuse large B-cell lymphoma [cell line RL]
-- diffuse large B-cell lymphoma [cell line Karpas-422]
+- labels: Diffuse Large B-Cell Lymphoma, NOS
 input:
-- id: icdom-96803
-  label: Malignant lymphoma, large B-cell, diffuse, NOS
-- id: icdot-C77.9
-  label: Lymph nodes, NOS
-updated: '2020-05-25'
+- term: Malignant lymphoma, large B-cell, diffuse, NOS
+  term_id: icdom-96803
+- term: Lymph node, NOS
+  term_id: icdot-C77.9

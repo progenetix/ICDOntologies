@@ -1,0 +1,10 @@
+equivalents:
+- term: Nasal Type Extranodal NK/T-Cell Lymphoma
+  term_id: ncit:C4684
+examples:
+- labels: NK/Tcell lymphoma [cutaneous]
+input:
+- term: NK/T-cell lymphoma, nasal and nasal-type
+  term_id: icdom-97193
+- term: Skin, NOS
+  term_id: icdot-C44.9

@@ -1,0 +1,10 @@
+equivalents:
+- term: Papillary Serous Cystadenocarcinoma
+  term_id: ncit:C8377
+examples:
+- labels: Papillary serous cystadenocarcinoma
+input:
+- term: Papillary serous cystadenocarcinoma
+  term_id: icdom-84603
+- term: Ovary
+  term_id: icdot-C56.9

@@ -1,14 +1,10 @@
 equivalents:
-- id: NCIT:C39851
-  label: Bladder Urothelial Carcinoma
+- term: Renal Pelvis and Ureter Urothelial Carcinoma
+  term_id: ncit:C7716
 examples:
-- urothelial carcinoma
-- Urothelial bladder tumor
-- Primary Tumor
-- Metastatic
+- labels: Upper Tract Urothelial Carcinoma
 input:
-- id: icdom-81203
-  label: Transitional cell carcinoma, NOS
-- id: icdot-C67.9
-  label: Bladder, NOS
-updated: '2020-05-25'
+- term: Transitional cell carcinoma, NOS
+  term_id: icdom-81203
+- term: Bladder, NOS
+  term_id: icdot-C67.9

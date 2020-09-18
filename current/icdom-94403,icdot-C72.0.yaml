@@ -1,0 +1,10 @@
+equivalents:
+- term: Glioblastoma
+  term_id: ncit:C3058
+examples:
+- labels: Glioblastoma
+input:
+- term: Glioblastoma,NOS
+  term_id: icdom-94403
+- term: Spinal cord
+  term_id: icdot-C72.0

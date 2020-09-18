@@ -1,0 +1,10 @@
+equivalents:
+- term: Synovial Sarcoma
+  term_id: ncit:C3400
+examples:
+- labels: Synovial Sarcoma
+input:
+- term: 'Synovialsarcoma,NOS '
+  term_id: icdom-90403
+- term: Skin, NOS
+  term_id: icdot-C44.9

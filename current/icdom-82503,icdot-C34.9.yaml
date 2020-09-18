@@ -1,11 +1,10 @@
 equivalents:
-- id: NCIT:C2923
-  label: Bronchioloalveolar Carcinoma
+- term: 'Minimally invasive lung adenocarcinoma '
+  term_id: ncit:C2923
 examples:
-- Bronchiolo-alveolar adenocarcinoma
+- labels: Lung Adenocarcinoma
 input:
-- id: icdom-82503
-  label: Bronchiolo-alveolar adenocarcinoma, NOS
-- id: icdot-C34.9
-  label: Lung and bronchus
-updated: '2020-05-25'
+- term: Bronchiolo-alveolar adenocarcinoma, NOS
+  term_id: icdom-82503
+- term: Lung, NOS
+  term_id: icdot-C34.9

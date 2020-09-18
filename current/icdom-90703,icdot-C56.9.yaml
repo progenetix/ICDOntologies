@@ -1,0 +1,10 @@
+equivalents:
+- term: Embryonal Carcinoma
+  term_id: ncit:C3752
+examples:
+- labels: Embryonal Carcinoma
+input:
+- term: 'Embryonal carcinoma, NOS '
+  term_id: icdom-90703
+- term: Ovary
+  term_id: icdot-C56.9

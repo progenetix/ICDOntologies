@@ -1,0 +1,10 @@
+equivalents:
+- term: Bladder Adenocarcinoma
+  term_id: ncit:C4032
+examples:
+- labels: Bladder Adenocarcinoma
+input:
+- term: Adenocarcinoma, NOS
+  term_id: icdom-81403
+- term: Bladder, NOS
+  term_id: icdot-C67.9

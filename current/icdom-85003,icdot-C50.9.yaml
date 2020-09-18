@@ -1,14 +1,10 @@
 equivalents:
-- id: NCIT:C4017
-  label: Ductal Breast Carcinoma
+- term: Invasive Breast Carcinoma
+  term_id: ncit:C9245
 examples:
-- breast ductal adenocarcinoma [breast]
-- multifocal breast ductal adenocarcinoma [breast]
-- breast ductal adenocarcinoma [lymph node]
-- Breast carcinoma [metastasis, brain]
+- labels: Breast Invasive Ductal Carcinoma
 input:
-- id: icdom-85003
-  label: Infiltrating duct carcinoma, NOS
-- id: icdot-C50.9
-  label: Breast, NOS
-updated: '2020-05-25'
+- term: Infiltrating duct carcinoma, NOS
+  term_id: icdom-85003
+- term: Breast, NOS
+  term_id: icdot-C50.9

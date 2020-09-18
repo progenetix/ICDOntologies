@@ -1,0 +1,10 @@
+equivalents:
+- term: Thyroid Gland Medullary Carcinoma
+  term_id: ncit:C3879
+examples:
+- labels: Medullary thyroid carcinoma
+input:
+- term: Medullary carcinoma with amyloid stroma
+  term_id: icdom-83453
+- term: Thyroid gland
+  term_id: icdot-C73.9

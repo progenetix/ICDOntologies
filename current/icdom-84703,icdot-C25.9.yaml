@@ -1,0 +1,10 @@
+equivalents:
+- term: Pancreatic Mucinous-Cystic Neoplasm
+  term_id: ncit:C41247
+examples:
+- labels: Mucinous Cystic Neoplasm
+input:
+- term: Mucinous cystadenocarcinoma, NOS
+  term_id: icdom-84703
+- term: Pancreas, NOS
+  term_id: icdot-C25.9

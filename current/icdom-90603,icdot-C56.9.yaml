@@ -1,0 +1,10 @@
+equivalents:
+- term: Dysgerminoma
+  term_id: ncit:C2996
+examples:
+- labels: germ cell tumor [dysgerminoma]
+input:
+- term: Dysgerminoma
+  term_id: icdom-90603
+- term: Ovary
+  term_id: icdot-C56.9

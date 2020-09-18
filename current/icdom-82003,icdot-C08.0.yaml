@@ -1,0 +1,10 @@
+equivalents:
+- term: Submandibular Gland Adenoid Cystic Carcinoma
+  term_id: ncit:C5935
+examples:
+- labels: adenoid cystic carcinoma
+input:
+- term: Adenoid cystic carcinoma
+  term_id: icdom-82003
+- term: 'Submandibular gland '
+  term_id: icdot-C08.0

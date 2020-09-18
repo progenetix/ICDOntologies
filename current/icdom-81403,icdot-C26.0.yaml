@@ -1,0 +1,10 @@
+equivalents:
+- term: Colon Adenocarcinoma
+  term_id: ncit:C2852
+examples:
+- labels: Gastric adenocarcinoma
+input:
+- term: Adenocarcinoma, NOS
+  term_id: icdom-81403
+- term: Intestinal tract, NOS
+  term_id: icdot-C26.0

@@ -1,14 +1,10 @@
 equivalents:
-- id: NCIT:C6287
-  label: Endometrial Endometrioid Adenocarcinoma
+- term: Endometrial Endometrioid Adenocarcinoma
+  term_id: ncit:C6287
 examples:
-- endometrial adenocarcinoma [cell line SNG-M]
-- endometrioid adenocarcinoma [grade G2]
-- endometrioid adenocarcinoma [grade G1]
-- endometrioid adenocarcinoma [with squamous differentiation, grade G2]
+- labels: endometrioid adenocarcinoma [with squamous differentiation, grade G2]
 input:
-- id: icdom-83803
-  label: Endometrioid adenocarcinoma, NOS
-- id: icdot-C55.9
-  label: uterus, nos
-updated: '2020-05-25'
+- term: Endometrioid adenocarcinoma, NOS
+  term_id: icdom-83803
+- term: Uterus, NOS
+  term_id: icdot-C55.9

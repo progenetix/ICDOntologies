@@ -1,0 +1,10 @@
+equivalents:
+- term: Myxopapillary Ependymoma
+  term_id: ncit:C3697
+examples:
+- labels: Myxopapillary Ependymoma
+input:
+- term: 'Myxopapillary ependymoma '
+  term_id: icdom-93941
+- term: Nervous system, NOS
+  term_id: icdot-C72.9

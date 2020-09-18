@@ -1,0 +1,10 @@
+equivalents:
+- term: Adrenal Gland Pheochromocytoma
+  term_id: ncit:C3326
+examples:
+- labels: Pheochromocytoma
+input:
+- term: 'Pheochromocytoma, NOS '
+  term_id: icdom-87000
+- term: Cortex of adrenal gland
+  term_id: icdot-C74.0

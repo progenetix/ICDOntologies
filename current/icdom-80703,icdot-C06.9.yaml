@@ -1,14 +1,10 @@
 equivalents:
-- id: NCIT:C4833
-  label: Oral Cavity Squamous Cell Carcinoma
+- term: Oral Cavity Squamous Cell Carcinoma
+  term_id: ncit:C4833
 examples:
-- squamous cell carcinoma [oral]
-- head and neck squamous cell carcinoma [Floor of Mouth]
-- head and neck squamous cell carcinoma [Buccal Mucosa]
-- head and neck squamous cell carcinoma [Oral Cavity]
+- labels: oral squamous cell carcinoma [cell line TYS]
 input:
-- id: icdom-80703
-  label: Squamous cell carcinoma, NOS
-- id: icdot-C06.9
-  label: Mouth, NOS
-updated: '2020-05-25'
+- term: Squamous cell carcinoma, NOS
+  term_id: icdom-80703
+- term: Mouth, NOS
+  term_id: icdot-C06.9

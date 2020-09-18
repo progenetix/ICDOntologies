@@ -1,0 +1,10 @@
+equivalents:
+- term: Marginal Zone Lymphoma
+  term_id: ncit:C4341
+examples:
+- labels: Marginal Zone B-cell Lymphoma [Breast]
+input:
+- term: Marginal zone B-cell lymphoma, NOS
+  term_id: icdom-96993
+- term: Breast, NOS
+  term_id: icdot-C50.9

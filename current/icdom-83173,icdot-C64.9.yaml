@@ -1,14 +1,10 @@
 equivalents:
-- id: NCIT:C4146
-  label: Chromophobe Renal Cell Carcinoma
+- term: Chromophobe Renal Cell Carcinoma
+  term_id: ncit:C4146
 examples:
-- Chromophobe Renal carcinoma
-- renal cell carcinoma [chromophobe RCC]
-- Renal neoplasm, Chromophobe
-- Renal cell carcinoma, chromophobe type
+- labels: Renal cell carcinoma [T3bN2M0, G3, chromoohobe, without microsatellite alterations]
 input:
-- id: icdom-83173
-  label: Renal cell carcinoma, chromophobe type
-- id: icdot-C64.9
-  label: Kidney
-updated: '2020-05-25'
+- term: RENAL CELL CARCINOMA, CHROMOPHOBE TYPE
+  term_id: icdom-83173
+- term: Kidney, NOS
+  term_id: icdot-C64.9

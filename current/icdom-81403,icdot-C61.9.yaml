@@ -1,14 +1,10 @@
 equivalents:
-- id: NCIT:C2919
-  label: Prostate Adenocarcinoma
+- term: Prostate Adenocarcinoma
+  term_id: ncit:C2919
 examples:
-- prostate adenocarcinoma
-- prostate adenocarcinoma [metastatic]
-- prostate adenocarcinoma [cell line]
-- prostate carcinoma [cell line MDA-PCa-2a]
+- labels: prostate carcinoma
 input:
-- id: icdom-81403
-  label: Adenocarcinoma, NOS
-- id: icdot-C61.9
-  label: Prostate gland
-updated: '2020-05-25'
+- term: Adenocarcinoma, NOS
+  term_id: icdom-81403
+- term: Prostate gland
+  term_id: icdot-C61.9

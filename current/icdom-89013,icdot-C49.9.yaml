@@ -1,14 +1,10 @@
 equivalents:
-- id: NCIT:C27369
-  label: Adult Pleomorphic Rhabdomyosarcoma
+- term: Adult Pleomorphic Rhabdomyosarcoma
+  term_id: ncit:C27369
 examples:
-- Pleomorphic rhabdomyosarcoma [PAX3-FKHR pos.]
-- Pleomorphic rhabdomyosarcoma [PAX3-FKHR ND]
-- Pleomorphic rhabdomyosarcoma [limb, PAX3-FKHR neg.]
-- Pleomorphic rhabdomyosarcoma [buttock, PAX3-FKHR neg.]
+- labels: Pleomorphic rhabdomyosarcoma [PAX3-FKHR ND]
 input:
-- id: icdom-89013
-  label: Pleomorphic rhabdomyosarcoma, adult type
-- id: icdot-C49.9
-  label: Connective and soft tissue, NOS
-updated: '2020-05-25'
+- term: 'Pleomorphic rhabdomyosarcoma, adult type '
+  term_id: icdom-89013
+- term: Connective, subcutaneous and other soft tissues, NOS
+  term_id: icdot-C49.9

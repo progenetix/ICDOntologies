@@ -1,0 +1,10 @@
+equivalents:
+- term: Glandular Papilloma
+  term_id: ncit:C6880
+examples:
+- labels: Nodular thyroid hyperplasia [familial]
+input:
+- term: Papillary adenoma, NOS
+  term_id: icdom-82600
+- term: Thyroid gland
+  term_id: icdot-C73.9

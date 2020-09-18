@@ -1,11 +1,10 @@
 equivalents:
-- id: NCIT:C4004
-  label: Gastric Adenocarcinoma
+- term: Gastroesophageal Junction Adenocarcinoma
+  term_id: ncit:C9296
 examples:
-- Primary Tumor
+- labels: Adenocarcinoma of the Gastroesophageal Junction
 input:
-- id: icdom-81403
-  label: Adenocarcinoma, NOS
-- id: icdot-C16.0
-  label: Cardia, NOS
-updated: '2020-05-25'
+- term: Adenocarcinoma, NOS
+  term_id: icdom-81403
+- term: Cardia, NOS
+  term_id: icdot-C16.0

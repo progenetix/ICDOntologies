@@ -1,0 +1,10 @@
+equivalents:
+- term: Papillary Meningioma
+  term_id: ncit:C3904
+examples:
+- labels: cerebral tumor with extensive rhabdoid features
+input:
+- term: Papillary meningioma
+  term_id: icdom-95383
+- term: cerebrum
+  term_id: icdot-C71.0

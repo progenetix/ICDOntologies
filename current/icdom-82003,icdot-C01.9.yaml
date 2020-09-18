@@ -1,0 +1,10 @@
+equivalents:
+- term: Adenoid Cystic Carcinoma
+  term_id: ncit:C2970
+examples:
+- labels: adenoid cystic carcinomas [tongue, grade II, stage unknown]
+input:
+- term: Adenoid cystic carcinoma
+  term_id: icdom-82003
+- term: tongue
+  term_id: icdot-C01.9

@@ -1,0 +1,10 @@
+equivalents:
+- term: Dedifferentiated Chondrosarcoma
+  term_id: ncit:C6476
+examples:
+- labels: Dedifferentiated Chondrosarcoma
+input:
+- term: 'Dedifferentiated chondrosarcoma '
+  term_id: icdom-92433
+- term: Bone, NOS
+  term_id: icdot-C41.9

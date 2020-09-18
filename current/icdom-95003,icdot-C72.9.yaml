@@ -1,0 +1,10 @@
+equivalents:
+- term: Neuroblastoma
+  term_id: ncit:C3270
+examples:
+- labels: Neuroblastoma
+input:
+- term: 'Neuroblastoma, NOS '
+  term_id: icdom-95003
+- term: Nervous system, NOS
+  term_id: icdot-C72.9

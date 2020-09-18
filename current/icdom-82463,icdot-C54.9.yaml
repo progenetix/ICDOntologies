@@ -1,0 +1,10 @@
+equivalents:
+- term: Neuroendocrine Carcinoma
+  term_id: ncit:C3773
+examples:
+- labels: Uterine Neuroendocrine Carcinoma
+input:
+- term: Neuroendocrine carcinoma, NOS
+  term_id: icdom-82463
+- term: Corpus uteri
+  term_id: icdot-C54.9

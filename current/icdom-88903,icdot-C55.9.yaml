@@ -1,14 +1,10 @@
 equivalents:
-- id: NCIT:C6340
-  label: Uterine Corpus Leiomyosarcoma
+- term: Uterine Corpus Leiomyosarcoma
+  term_id: ncit:C6340
 examples:
-- Uterine corpus leiomyosarcoma [cell line SK-UT-1B]
-- uterine corpus sarcoma [cell line SKN]
-- Uterine Leiomyosarcoma [grade I]
-- Uterine Leiomyosarcoma [grade III, stage A]
+- labels: Uterine Leiomyosarcoma [grade IV, stage B]
 input:
-- id: icdom-88903
-  label: Leiomyosarcoma, NOS
-- id: icdot-C55.9
-  label: Uterus, NOS
-updated: '2020-05-25'
+- term: 'Leiomyosarcoma,NOS '
+  term_id: icdom-88903
+- term: Uterus, NOS
+  term_id: icdot-C55.9

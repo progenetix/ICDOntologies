@@ -1,11 +1,10 @@
 equivalents:
-- id: NCIT:C2970
-  label: Adenoid Cystic Carcinoma
+- term: Adenoid Cystic Carcinoma
+  term_id: ncit:C2970
 examples:
-- adenoid cystic carcinomas [nasal septum, grade II, stage II]
+- labels: adenoid cystic carcinomas [nasal septum, grade II, stage II]
 input:
-- id: icdom-82003
-  label: Adenoid cystic carcinoma
-- id: icdot-C30.9
-  label: nasal cavity including nasal cartilage
-updated: '2020-05-25'
+- term: Adenoid cystic carcinoma
+  term_id: icdom-82003
+- term: nasal cavity including nasal cartilage
+  term_id: icdot-C30.9

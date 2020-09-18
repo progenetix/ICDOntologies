@@ -1,0 +1,10 @@
+equivalents:
+- term: Bladder Signet Ring Cell Adenocarcinoma
+  term_id: ncit:C6163
+examples:
+- labels: Plasmacytoid/Signet Ring Cell Bladder Carcinoma
+input:
+- term: Signet ring cell carcinoma
+  term_id: icdom-84903
+- term: Gallbladder
+  term_id: icdot-C23.9

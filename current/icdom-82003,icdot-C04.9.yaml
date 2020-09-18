@@ -1,0 +1,10 @@
+equivalents:
+- term: Floor of Mouth Adenoid Cystic Carcinoma
+  term_id: ncit:C8180
+examples:
+- labels: adenoid cystic carcinoma
+input:
+- term: Adenoid cystic carcinoma
+  term_id: icdom-82003
+- term: floor of mouth, NOS
+  term_id: icdot-C04.9

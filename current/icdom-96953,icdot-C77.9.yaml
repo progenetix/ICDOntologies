@@ -1,11 +1,10 @@
 equivalents:
-- id: NCIT:C3465
-  label: Grade 1 Follicular Lymphoma
+- term: Grade 1 Follicular Lymphoma
+  term_id: ncit:C3465
 examples:
-- Follicular lymphoma, grade 1
+- labels: Follicular lymphoma, grade 1
 input:
-- id: icdom-96953
-  label: Follicular lymphoma, grade 1
-- id: icdot-C77.9
-  label: Lymph nodes, NOS
-updated: '2020-05-25'
+- term: Follicular lymphoma, grade 1
+  term_id: icdom-96953
+- term: Lymph node, NOS
+  term_id: icdot-C77.9

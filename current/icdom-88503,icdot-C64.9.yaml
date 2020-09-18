@@ -1,0 +1,10 @@
+equivalents:
+- term: Liposarcoma
+  term_id: ncit:C3194
+examples:
+- labels: Liposarcoma
+input:
+- term: 'Liposarcoma, NOS '
+  term_id: icdom-88503
+- term: Kidney, NOS
+  term_id: icdot-C64.9

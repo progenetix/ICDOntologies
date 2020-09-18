@@ -1,13 +1,10 @@
 equivalents:
-- id: NCIT:C3163
-  label: Chronic Lymphocytic Leukemia
+- term: Chronic lymphocytic leukemia
+  term_id: ncit:C3163
 examples:
-- Chronic Lymphocytic Leukemia [Richter-syndrome]
-- B-cell chronic lymphocytic leukemia
-- B-cell chronic lymphocytic leukemia/small lymphocytic lymphoma
+- labels: B-cell chronic lymphocytic leukemia
 input:
-- id: icdom-98233
-  label: B-cell chronic lymphocytic leukemia/small lymphocytic lymphoma
-- id: icdot-C77.9
-  label: Lymph nodes, NOS
-updated: '2020-05-25'
+- term: B-cell chronic lymphocytic leukemia/small lymphocytic lymphoma
+  term_id: icdom-98233
+- term: Lymph node, NOS
+  term_id: icdot-C77.9

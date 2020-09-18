@@ -1,0 +1,10 @@
+equivalents:
+- term: Mesenchymal Chondrosarcoma
+  term_id: ncit:C3737
+examples:
+- labels: Mesenchymal Chondrosarcoma
+input:
+- term: 'Mesenchymal chondrosarcoma '
+  term_id: icdom-92403
+- term: Bone, NOS
+  term_id: icdot-C41.9

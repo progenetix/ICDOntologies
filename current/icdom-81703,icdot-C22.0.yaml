@@ -1,10 +1,10 @@
 equivalents:
-- id: NCIT:C3099
-  label: Hepatocellular Carcinoma
-examples: []
+- term: Childhood hepatocellular carcinoma
+  term_id: ncit:C7955
+examples:
+- labels: Hepatocellular Carcinoma
 input:
-- id: icdom-81703
-  label: Hepatocellular carcinoma, NOS
-- id: icdot-C22.0
-  label: Liver
-updated: '2020-05-25'
+- term: Hepatocellular carcinoma, NOS
+  term_id: icdom-81703
+- term: Liver
+  term_id: icdot-C22.0

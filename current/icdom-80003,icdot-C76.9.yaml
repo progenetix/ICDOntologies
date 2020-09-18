@@ -1,12 +1,10 @@
 equivalents:
-- id: NCIT:C9305
-  label: Malignant Neoplasm
+- term: Malignant Neoplasm
+  term_id: ncit:C9305
 examples:
-- cancers of unknown primary
-- Cancer of unknown primary
+- labels: cancers of unknown primary
 input:
-- id: icdom-80003
-  label: Neoplasm, malignant
-- id: icdot-C76.9
-  label: Ill-defined
-updated: '2020-05-25'
+- term: Neoplasm, malignant
+  term_id: icdom-80003
+- term: ill-defined
+  term_id: icdot-C76.9

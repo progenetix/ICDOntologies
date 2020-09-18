@@ -1,0 +1,10 @@
+equivalents:
+- term: Fibrolamellar Carcinoma
+  term_id: ncit:C4131
+examples:
+- labels: Fibrolamellar Carcinoma
+input:
+- term: Hepatocellular carcinoma, fibrolamellar
+  term_id: icdom-81713
+- term: Liver
+  term_id: icdot-C22.0

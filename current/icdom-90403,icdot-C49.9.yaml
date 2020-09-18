@@ -1,14 +1,10 @@
 equivalents:
-- id: NCIT:C3400
-  label: Synovial Sarcoma
+- term: Synovial Sarcoma
+  term_id: ncit:C3400
 examples:
-- Synovial sarcoma
-- Synovial sarcoma [poorly differentiated]
-- poorly differentiated synovial sarcoma
-- Synovial sarcoma [cell line Fuji]
+- labels: poorly differentiated synovial sarcoma
 input:
-- id: icdom-90403
-  label: Synovial sarcoma, NOS
-- id: icdot-C49.9
-  label: Connective and soft tissue, NOS
-updated: '2020-05-25'
+- term: 'Synovialsarcoma,NOS '
+  term_id: icdom-90403
+- term: Connective, subcutaneous and other soft tissues, NOS
+  term_id: icdot-C49.9

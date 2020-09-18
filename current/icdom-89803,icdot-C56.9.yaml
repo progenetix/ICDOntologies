@@ -1,0 +1,10 @@
+equivalents:
+- term: Ovarian Carcinosarcoma
+  term_id: ncit:C9192
+examples:
+- labels: Ovarian Carcinosarcoma/Malignant Mixed Mesodermal Tumor
+input:
+- term: 'Carcinosarcoma, NOS '
+  term_id: icdom-89803
+- term: Ovary
+  term_id: icdot-C56.9

@@ -1,0 +1,10 @@
+equivalents:
+- term: Childhood T acute lymphoblastic leukemia
+  term_id: ncit:C7953
+examples:
+- labels: Acute Myeloid Leukemia
+input:
+- term: 'Precursor T-cell lymphoblastic leukemia '
+  term_id: icdom-98373
+- term: Bone marrow
+  term_id: icdot-C42.1

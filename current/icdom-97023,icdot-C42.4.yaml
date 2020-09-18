@@ -1,0 +1,10 @@
+equivalents:
+- term: Peripheral T-Cell Lymphoma, Not Otherwise Specified
+  term_id: ncit:C4340
+examples:
+- labels: non-Hodgkins Lymphoma [T-cell]
+input:
+- term: Mature T-cell lymphoma, NOS
+  term_id: icdom-97023
+- term: Hematopoietic system, NOS
+  term_id: icdot-C42.4

@@ -1,0 +1,10 @@
+equivalents:
+- term: Cerebellar Hemangioblastoma
+  term_id: ncit:C5146
+examples:
+- labels: capillary hemangioblastoma [cerebellum, von-Hippel-Lindau]
+input:
+- term: 'Hemangioblastoma '
+  term_id: icdom-91611
+- term: Cerebellum
+  term_id: icdot-C71.6

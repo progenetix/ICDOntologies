@@ -1,14 +1,10 @@
 equivalents:
-- id: NCIT:C3242
-  label: Plasma Cell Myeloma
+- term: Plasma Cell Myeloma
+  term_id: ncit:C3242
 examples:
-- Plasma cell myeloma [cell line KMS-12-PE]
-- plasma cell myeloma [cell line EJM]
-- Plasma cell myeloma [cell line U266B1]
-- plasma cell myeloma [cell line RPMI-8226]
+- labels: Multiple Myeloma
 input:
-- id: icdom-97323
-  label: Multiple myeloma
-- id: icdot-C42.1
-  label: Bone marrow
-updated: '2020-05-25'
+- term: Multiple myeloma
+  term_id: icdom-97323
+- term: Bone marrow
+  term_id: icdot-C42.1

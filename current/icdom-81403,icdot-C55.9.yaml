@@ -1,14 +1,10 @@
 equivalents:
-- id: NCIT:C7359
-  label: Endometrial adenocarcinoma
+- term: Endometrial adenocarcinoma
+  term_id: ncit:C7359
 examples:
-- uterine corpus endometrioid carcinoma
-- endometrial adenocarcinoma [cell line COLO 685]
-- Endometrial adenocarcinoma [cell line COLO 684]
-- endometrial carcinoma [adenocarcinoma, FIGO stage Ia, FIGO grade 1]
+- labels: endometrial carcinoma [adenocarcinoma, FIGO stage Ia, FIGO grade 1]
 input:
-- id: icdom-81403
-  label: Adenocarcinoma, NOS
-- id: icdot-C55.9
-  label: uterus, nos
-updated: '2020-05-25'
+- term: Adenocarcinoma, NOS
+  term_id: icdom-81403
+- term: Uterus, NOS
+  term_id: icdot-C55.9

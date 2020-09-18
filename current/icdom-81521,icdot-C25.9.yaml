@@ -1,13 +1,10 @@
 equivalents:
-- id: NCIT:C95597
-  label: Pancreatic Glucagonoma
+- term: Pancreatic Glucagonoma
+  term_id: ncit:C95597
 examples:
-- endocrine pancreatic tumor [Glucagonoma, metastasizing, metastasis]
-- endocrine pancreatic tumor [Glucogonoma]
-- Glucagonoma
+- labels: endocrine pancreatic tumor [Glucagonoma, metastasizing, metastasis]
 input:
-- id: icdom-81521
-  label: Glucagonoma, NOS
-- id: icdot-C25.9
-  label: Pancreas, NOS
-updated: '2020-05-25'
+- term: Glucagonoma, NOS
+  term_id: icdom-81521
+- term: Pancreas, NOS
+  term_id: icdot-C25.9

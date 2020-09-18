@@ -1,14 +1,10 @@
 equivalents:
-- id: NCIT:C3099
-  label: Hepatocellular Carcinoma
+- term: Hepatocellular Carcinoma
+  term_id: ncit:C3099
 examples:
-- hepatocellular carcinoma
-- hepatocellular carcinoma [cell line Huh-7]
-- hepatocellular carcinoma [cell line Hep-G2]
-- hepatocellular carcinoma [cell line Hep 3B2.1-7]
+- labels: hepatocellular carcinoma [cell line Li7]
 input:
-- id: icdom-81703
-  label: Hepatocellular carcinoma, NOS
-- id: icdot-C22.9
-  label: Liver and intrahepatic bile ducts
-updated: '2020-05-25'
+- term: Hepatocellular carcinoma, NOS
+  term_id: icdom-81703
+- term: liver
+  term_id: icdot-C22.9

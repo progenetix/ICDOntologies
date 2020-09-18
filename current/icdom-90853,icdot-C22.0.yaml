@@ -1,0 +1,10 @@
+equivalents:
+- term: Mixed Germ Cell Tumor
+  term_id: ncit:C4290
+examples:
+- labels: Mixed germ cell tumor [embryonal carcinoma and teratocarcinoma]
+input:
+- term: 'Mixed germ cell tumor '
+  term_id: icdom-90853
+- term: Liver
+  term_id: icdot-C22.0

@@ -1,0 +1,10 @@
+equivalents:
+- term: Acute Panmyelosis with Myelofibrosis
+  term_id: ncit:C4344
+examples:
+- labels: primary myelofibrosis
+input:
+- term: Acute panmyelosis with myelofibrosis
+  term_id: icdom-99313
+- term: Bone marrow
+  term_id: icdot-C42.1

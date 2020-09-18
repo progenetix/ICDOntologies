@@ -1,14 +1,10 @@
 equivalents:
-- id: NCIT:C3493
-  label: Squamous Cell Lung Carcinoma
+- term: Lung Squamous Cell Carcinoma
+  term_id: ncit:C3493
 examples:
-- squamous cell Lung carcinoma [cell line NCI-H2882]
-- Squamous cell lung carcinoma [cell line NCI-H520]
-- non-small cell Lung carcinoma [cell line LouNH91]
-- squamous cell lung carcinoma [HCC15]
+- labels: Squamous cell carcinoma
 input:
-- id: icdom-80703
-  label: Squamous cell carcinoma, NOS
-- id: icdot-C34.9
-  label: Lung and bronchus
-updated: '2020-05-25'
+- term: Squamous cell carcinoma, NOS
+  term_id: icdom-80703
+- term: Lung, NOS
+  term_id: icdot-C34.9

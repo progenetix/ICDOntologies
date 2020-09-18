@@ -1,0 +1,10 @@
+equivalents:
+- term: Squamous Cell Carcinoma
+  term_id: ncit:C2929
+examples:
+- labels: endometrial hyperplasia [high-grade carcinoma, squamous]
+input:
+- term: Squamous cell carcinoma, NOS
+  term_id: icdom-80703
+- term: Uterus, NOS
+  term_id: icdot-C55.9

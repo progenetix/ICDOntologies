@@ -1,0 +1,10 @@
+equivalents:
+- term: Myofibroma
+  term_id: ncit:C7052
+examples:
+- labels: Myofibroma
+input:
+- term: 'Myofibroma '
+  term_id: icdom-88240
+- term: Connective, subcutaneous and other soft tissues, NOS
+  term_id: icdot-C49.9

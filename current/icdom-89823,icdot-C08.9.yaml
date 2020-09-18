@@ -1,14 +1,10 @@
 equivalents:
-- id: NCIT:C7596
-  label: Malignant Myoepithelioma
+- term: Malignant Myoepithelioma
+  term_id: ncit:C7596
 examples:
-- Myoepithelial carcinoma [Lower lip; clear cell]
-- Myoepithelial carcinoma [Paramandibular; epitheloid]
-- Myoepithelial carcinoma [Neck; spindled, ex PA]
-- Myoepithelial carcinoma [Palate; plasmacytoid]
+- labels: Myoepithelial carcinoma [Tongue; plasmacytoid]
 input:
-- id: icdom-89823
-  label: Malignant myoepithelioma
-- id: icdot-C08.9
-  label: salivary gland, NOS
-updated: '2020-05-25'
+- term: 'Malignant myoepithelioma '
+  term_id: icdom-89823
+- term: Major salivary gland, NOS
+  term_id: icdot-C08.9

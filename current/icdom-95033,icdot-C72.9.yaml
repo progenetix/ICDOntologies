@@ -1,0 +1,10 @@
+equivalents:
+- term: Primitive Neuroectodermal Tumor
+  term_id: ncit:C3716
+examples:
+- labels: Cribriform neuroepithelial tumor
+input:
+- term: 'Neuroepithelioma, NOS '
+  term_id: icdom-95033
+- term: Nervous system, NOS
+  term_id: icdot-C72.9

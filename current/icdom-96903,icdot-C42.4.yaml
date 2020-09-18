@@ -1,0 +1,10 @@
+equivalents:
+- term: Follicular Lymphoma
+  term_id: ncit:C3209
+examples:
+- labels: Follicular lymphoma in situ
+input:
+- term: Follicular lymphoma, NOS
+  term_id: icdom-96903
+- term: Hematopoietic system, NOS
+  term_id: icdot-C42.4

@@ -1,0 +1,10 @@
+equivalents:
+- term: Colon Adenocarcinoma
+  term_id: ncit:C2852
+examples:
+- labels: colorectal adenocarcinoma [stage na, liver metastasis]
+input:
+- term: Adenocarcinoma, NOS
+  term_id: icdom-81403
+- term: Liver
+  term_id: icdot-C22.0

@@ -1,0 +1,10 @@
+equivalents:
+- term: Colorectal Adenocarcinoma
+  term_id: ncit:C5105
+examples:
+- labels: Colorectal Adenocarcinoma
+input:
+- term: Adenocarcinoma, NOS
+  term_id: icdom-80403
+- term: Rectosigmoid junction
+  term_id: icdot-C19.9

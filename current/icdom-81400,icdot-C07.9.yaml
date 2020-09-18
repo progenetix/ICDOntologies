@@ -1,0 +1,10 @@
+equivalents:
+- term: Adenoma
+  term_id: ncit:C2855
+examples:
+- labels: pleomorphic adenoma
+input:
+- term: Adenoma, NOS
+  term_id: icdom-81400
+- term: 'Parotid gland '
+  term_id: icdot-C07.9

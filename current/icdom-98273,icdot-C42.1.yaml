@@ -1,0 +1,10 @@
+equivalents:
+- term: Adult T-Cell Leukemia/Lymphoma
+  term_id: ncit:C3184
+examples:
+- labels: Adult T-cell leukemia/lymphoma [HTLV-1 pos., lymphoma]
+input:
+- term: Acute lymphoblastic leukemia, mature B-cell type
+  term_id: icdom-98273
+- term: Bone marrow
+  term_id: icdot-C42.1

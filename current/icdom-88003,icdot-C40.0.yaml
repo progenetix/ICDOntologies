@@ -1,11 +1,10 @@
 equivalents:
-- id: NCIT:C7059
-  label: Mesenchymal Cell Neoplasm
+- term: Sarcoma
+  term_id: ncit:C9118
 examples:
-- Osteosarcoma [grade high, primary]
+- labels: Osteosarcoma [grade high, primary]
 input:
-- id: icdom-88003
-  label: Sarcoma, NOS
-- id: icdot-C40.0
-  label: bones and joints
-updated: '2020-05-25'
+- term: 'Sarcoma,NOS '
+  term_id: icdom-88003
+- term: Bones and joints
+  term_id: icdot-C40.0

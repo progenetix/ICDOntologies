@@ -1,14 +1,10 @@
 equivalents:
-- id: NCIT:C40078
-  label: Ovarian Clear Cell Adenocarcinoma
+- term: Ovarian Clear Cell Adenocarcinoma
+  term_id: ncit:C40078
 examples:
-- ovarian clear cell adenocarcinoma [cell line TOV21G]
-- ovarian clear cell adenocarcinoma [cell line ES-2]
-- ovarian clear cell adenocarcinoma [cell line OVMANA]
-- ovarian clear cell adenocarcinoma [cell line OVTOKO]
+- labels: Clear cell adenocarcinoma
 input:
-- id: icdom-83103
-  label: Clear cell adenocarcinoma, NOS
-- id: icdot-C56.9
-  label: Ovary
-updated: '2020-05-25'
+- term: Clear cell adenocarcinoma, NOS
+  term_id: icdom-83103
+- term: Ovary
+  term_id: icdot-C56.9

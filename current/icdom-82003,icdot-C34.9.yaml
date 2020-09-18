@@ -1,0 +1,10 @@
+equivalents:
+- term: Adenoid Cystic Carcinoma
+  term_id: ncit:C2970
+examples:
+- labels: adenoid cystic carcinomas [bronchus, grade II, stage I A]
+input:
+- term: Adenoid cystic carcinoma
+  term_id: icdom-82003
+- term: Lung, NOS
+  term_id: icdot-C34.9

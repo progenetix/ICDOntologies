@@ -1,11 +1,10 @@
 equivalents:
-- id: NCIT:C95749
-  label: Gastric choriocarcinoma
+- term: Gastric choriocarcinoma
+  term_id: ncit:C95749
 examples:
-- Gastric choriocarcinoma [cell line SCH]
+- labels: Gastric choriocarcinoma [cell line SCH]
 input:
-- id: icdom-91003
-  label: Choriocarcinoma, NOS
-- id: icdot-C16.9
-  label: Stomach
-updated: '2020-05-25'
+- term: 'Choriocarcinoma, NOS '
+  term_id: icdom-91003
+- term: Stomach, NOS
+  term_id: icdot-C16.9

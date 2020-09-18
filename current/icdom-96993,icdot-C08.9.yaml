@@ -1,0 +1,10 @@
+equivalents:
+- term: Marginal Zone Lymphoma
+  term_id: ncit:C4341
+examples:
+- labels: MALT lymphoma
+input:
+- term: Marginal zone B-cell lymphoma, NOS
+  term_id: icdom-96993
+- term: Major salivary gland, NOS
+  term_id: icdot-C08.9

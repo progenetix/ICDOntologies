@@ -1,0 +1,10 @@
+equivalents:
+- term: Endometrial Carcinoma
+  term_id: ncit:C7558
+examples:
+- labels: Uterine Mixed Endometrial Carcinoma
+input:
+- term: Carcinoma, NOS
+  term_id: icdom-80103
+- term: Endometrium
+  term_id: icdot-C54.1

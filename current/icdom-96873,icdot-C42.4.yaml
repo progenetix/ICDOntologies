@@ -1,0 +1,10 @@
+equivalents:
+- term: Burkitt lymphoma
+  term_id: ncit:C2912
+examples:
+- labels: Burkitt like lymphoma
+input:
+- term: Burkitt lymphoma, NOS
+  term_id: icdom-96873
+- term: Hematopoietic system, NOS
+  term_id: icdot-C42.4

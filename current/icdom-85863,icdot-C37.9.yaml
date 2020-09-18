@@ -1,13 +1,10 @@
 equivalents:
-- id: NCIT:C7569
-  label: Thymic Carcinoma
+- term: Thymic Carcinoma
+  term_id: ncit:C7569
 examples:
-- Thymoma [WHO C]
-- Thymoma [WHO C, recurrence]
-- Primary Tumor
+- labels: Thymoma [WHO C]
 input:
-- id: icdom-85863
-  label: Thymic carcinoma, NOS
-- id: icdot-C37.9
-  label: Thymus
-updated: '2020-05-25'
+- term: Thymic carcinoma, NOS
+  term_id: icdom-85863
+- term: Thymus
+  term_id: icdot-C37.9

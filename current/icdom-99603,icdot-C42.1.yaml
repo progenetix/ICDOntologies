@@ -1,14 +1,10 @@
 equivalents:
-- id: NCIT:C4345
-  label: Myeloproliferative Neoplasm
+- term: Myeloproliferative Neoplasm
+  term_id: ncit:C4345
 examples:
-- post-essential thrombocythemia myelofibrosis
-- post-polycythemia vera myelofibrosis
-- myeloproliferative neoplasm
-- Myeloproliferative neoplasm
+- labels: post-essential thrombocythemia myelofibrosis
 input:
-- id: icdom-99603
-  label: Myeloproliferative neoplasm, NOS
-- id: icdot-C42.1
-  label: Bone marrow
-updated: '2020-05-25'
+- term: 'Myeloproliferative neoplasm, NOS '
+  term_id: icdom-99603
+- term: Bone marrow
+  term_id: icdot-C42.1

@@ -1,10 +1,10 @@
 equivalents:
-- id: NCIT:C3167
-  label: Acute Lymphoblastic Leukemia
-examples: []
+- term: Acute Lymphoblastic Leukemia
+  term_id: ncit:C3167
+examples:
+- labels: in remission of acute lymphoblastic leukemia
 input:
-- id: icdom-98353
-  label: Precursor cell lymphoblastic leukemia, NOS
-- id: icdot-C42.4
-  label: Hematopoietic system, NOS
-updated: '2020-05-25'
+- term: 'Precursor cell lymphoblastic leukemia, NOS '
+  term_id: icdom-98353
+- term: Hematopoietic system, NOS
+  term_id: icdot-C42.4

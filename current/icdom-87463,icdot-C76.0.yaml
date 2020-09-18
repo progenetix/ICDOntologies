@@ -1,0 +1,10 @@
+equivalents:
+- term: Mucosal Melanoma of the Head and Neck
+  term_id: ncit:C133187
+examples:
+- labels: Head and Neck Mucosal Melanoma
+input:
+- term: 'Mucosal lentiginous melanoma '
+  term_id: icdom-87463
+- term: Head, face or neck, NOS
+  term_id: icdot-C76.0

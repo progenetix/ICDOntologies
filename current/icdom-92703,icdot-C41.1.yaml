@@ -1,0 +1,10 @@
+equivalents:
+- term: Malignant Odontogenic Neoplasm
+  term_id: ncit:C4812
+examples:
+- labels: Odontogenic Carcinoma
+input:
+- term: 'Odontogenic tumor, malignant '
+  term_id: icdom-92703
+- term: Mandible
+  term_id: icdot-C41.1

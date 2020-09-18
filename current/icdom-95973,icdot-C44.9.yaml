@@ -1,0 +1,10 @@
+equivalents:
+- term: Primary Cutaneous Follicle Center Lymphoma
+  term_id: ncit:C7217
+examples:
+- labels: Follicular lymphoma [cutaneous]
+input:
+- term: Primary cutaneous follicle center lymphoma
+  term_id: icdom-95973
+- term: Skin, NOS
+  term_id: icdot-C44.9

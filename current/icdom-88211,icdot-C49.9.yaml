@@ -1,14 +1,10 @@
 equivalents:
-- id: NCIT:C9182
-  label: Desmoid-Type Fibromatosis
+- term: Desmoid-Type Fibromatosis
+  term_id: ncit:C9182
 examples:
-- Desmoid tumor
-- Desmoid tumor [ass. with Pregnancy]
-- Desmoid tumor[ass. with Pregnancy]
-- Desmoid tumor[ass. with Gardner syndrome]
+- labels: Desmoid tumor[ass. with Gardner syndrome]
 input:
-- id: icdom-88211
-  label: Aggressive fibromatosis
-- id: icdot-C49.9
-  label: Connective and soft tissue, NOS
-updated: '2020-05-25'
+- term: 'Aggressive fibromatosis '
+  term_id: icdom-88211
+- term: Connective, subcutaneous and other soft tissues, NOS
+  term_id: icdot-C49.9

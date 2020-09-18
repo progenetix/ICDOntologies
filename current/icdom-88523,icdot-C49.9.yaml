@@ -1,14 +1,10 @@
 equivalents:
-- id: NCIT:C27781
-  label: Myxoid Liposarcoma
+- term: Myxoid Liposarcoma
+  term_id: ncit:C27781
 examples:
-- Liposarcoma, myxoid
-- liposarcoma [myxoid]
-- Myxoid liposarcoma [G2]
-- Myxoid liposarcoma [G2, local recurrence]
+- labels: Myxoid liposarcoma [G2, local recurrence]
 input:
-- id: icdom-88523
-  label: Myxoid liposarcoma
-- id: icdot-C49.9
-  label: Connective and soft tissue, NOS
-updated: '2020-05-25'
+- term: 'Myxoid liposarcoma '
+  term_id: icdom-88523
+- term: Connective, subcutaneous and other soft tissues, NOS
+  term_id: icdot-C49.9

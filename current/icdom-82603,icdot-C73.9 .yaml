@@ -1,0 +1,10 @@
+equivalents:
+- term: Thyroid Gland Papillary Carcinoma
+  term_id: ncit:C4035
+examples:
+- labels: papillary thyroid carcinoma
+input:
+- term: Papillary adenocarcinoma, NOS
+  term_id: icdom-82603
+- term: Thyroid gland
+  term_id: 'icdot-C73.9 '

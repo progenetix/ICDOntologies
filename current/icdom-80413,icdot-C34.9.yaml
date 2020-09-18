@@ -1,14 +1,10 @@
 equivalents:
-- id: NCIT:C4917
-  label: Lung Small Cell Carcinoma
+- term: Small Cell Lung Carcinoma
+  term_id: ncit:C4917
 examples:
-- Small cell lung carcinoma [cell line NCI-H748]
-- Small cell lung carcinoma [cell line NCI-H889]
-- Small cell lung carcinoma [cell line NCI-H1963]
-- Small cell lung carcinoma [cell line NCI-H1417]
+- labels: small cell carcinoma [lung]
 input:
-- id: icdom-80413
-  label: Small cell carcinoma, NOS
-- id: icdot-C34.9
-  label: Lung and bronchus
-updated: '2020-05-25'
+- term: Small cell carcinoma, NOS
+  term_id: icdom-80413
+- term: Lung, NOS
+  term_id: icdot-C34.9

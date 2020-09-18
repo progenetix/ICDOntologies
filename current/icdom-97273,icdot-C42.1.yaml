@@ -1,0 +1,10 @@
+equivalents:
+- term: Lymphoblastic Lymphoma
+  term_id: ncit:C9360
+examples:
+- labels: lastic plasmacytoid dendritic cell neoplasm
+input:
+- term: Precursor cell lymphoblastic lymphoma, NOS
+  term_id: icdom-97273
+- term: Bone marrow
+  term_id: icdot-C42.1

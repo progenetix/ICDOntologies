@@ -1,11 +1,10 @@
 equivalents:
-- id: NCIT:C27467
-  label: Stage 0 Lung Cancer
+- term: Stage 0 Lung Cancer
+  term_id: ncit:C27467
 examples:
-- Carcinoma in situ [left main bronchus]
+- labels: Carcinoma in situ [left main bronchus]
 input:
-- id: icdom-80102
-  label: Carcinoma in situ, NOS
-- id: icdot-C34.9
-  label: lung and bronchus
-updated: '2020-05-25'
+- term: Carcinoma in situ, NOS
+  term_id: icdom-80102
+- term: Lung, NOS
+  term_id: icdot-C34.9

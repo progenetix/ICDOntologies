@@ -1,0 +1,10 @@
+equivalents:
+- term: Astrocytoma
+  term_id: ncit:C60781
+examples:
+- labels: diffuse astrocytoma [supratentorial]
+input:
+- term: Astrocytoma,NOS
+  term_id: icdom-94003
+- term: cerebrum
+  term_id: icdot-C71.0

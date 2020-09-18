@@ -1,11 +1,10 @@
 equivalents:
-- id: NCIT:C6966
-  label: Pineocytoma
+- term: Pineocytoma
+  term_id: ncit:C6966
 examples:
-- Pineocytoma
+- labels: Pineocytoma
 input:
-- id: icdom-93611
-  label: Pineocytoma
-- id: icdot-C75.3
-  label: Pineal gland
-updated: '2020-05-25'
+- term: Pineocytoma
+  term_id: icdom-93611
+- term: Pineal gland
+  term_id: icdot-C75.3

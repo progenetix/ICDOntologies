@@ -1,11 +1,10 @@
 equivalents:
-- id: NCIT:C4321
-  label: Gemistocytic Astrocytoma
+- term: Gemistocytic Astrocytoma
+  term_id: ncit:C4321
 examples:
-- Gemistocytic astrocytoma
+- labels: Gemistocytic astrocytoma
 input:
-- id: icdom-94113
-  label: Gemistocytic astrocytoma
-- id: icdot-C71.9
-  label: Brain, NOS
-updated: '2020-05-25'
+- term: Gemistocytic astrocytoma
+  term_id: icdom-94113
+- term: Brain, NOS
+  term_id: icdot-C71.9

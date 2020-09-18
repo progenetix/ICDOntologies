@@ -1,13 +1,10 @@
 equivalents:
-- id: NCIT:C4038
-  label: Lung Carcinoid Tumor
+- term: Lung Carcinoid Tumor
+  term_id: ncit:C4038
 examples:
-- Bronchial carcinoid
-- Carcinoid tumor
-- carcinoid [lung]
+- labels: Lung Atypical Carcinoid Tumor
 input:
-- id: icdom-82403
-  label: Carcinoid tumor, NOS
-- id: icdot-C34.9
-  label: Lung and bronchus
-updated: '2020-05-25'
+- term: Carcinoid tumor, NOS
+  term_id: icdom-82403
+- term: Lung, NOS
+  term_id: icdot-C34.9

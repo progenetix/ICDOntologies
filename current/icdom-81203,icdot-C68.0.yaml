@@ -1,0 +1,10 @@
+equivalents:
+- term: Transitional Cell Carcinoma
+  term_id: ncit:C2930
+examples:
+- labels: Urothelial carcinoma
+input:
+- term: Transitional cell carcinoma, NOS
+  term_id: icdom-81203
+- term: Urethra
+  term_id: icdot-C68.0

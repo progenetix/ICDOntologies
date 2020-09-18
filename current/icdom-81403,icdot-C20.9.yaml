@@ -1,14 +1,10 @@
 equivalents:
-- id: NCIT:C9383
-  label: Rectal Adenocarcinoma
+- term: Rectal Adenocarcinoma
+  term_id: ncit:C9383
 examples:
-- rectal adenocarcinoma
-- Rectal adenocarcinoma [cell line SW837]
-- rectum adenocarcinoma [Rectum]
-- rectum adenocarcinoma
+- labels: Adenocarcinoma [colorectal]
 input:
-- id: icdom-81403
-  label: Adenocarcinoma, NOS
-- id: icdot-C20.9
-  label: Rectum, NOS
-updated: '2020-05-25'
+- term: Adenocarcinoma, NOS
+  term_id: icdom-81403
+- term: Rectum, NOS
+  term_id: icdot-C20.9

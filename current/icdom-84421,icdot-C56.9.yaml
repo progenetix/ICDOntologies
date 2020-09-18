@@ -1,0 +1,10 @@
+equivalents:
+- term: Borderline Ovarian Serous Tumor
+  term_id: ncit:C5226
+examples:
+- labels: Serous Borderline Ovarian Tumor, Micropapillary
+input:
+- term: Serous cystadenoma, borderline malignancy
+  term_id: icdom-84421
+- term: Ovary
+  term_id: icdot-C56.9

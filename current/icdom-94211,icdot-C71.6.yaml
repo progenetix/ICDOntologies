@@ -1,0 +1,10 @@
+equivalents:
+- term: Pilocytic Astrocytoma
+  term_id: ncit:C4047
+examples:
+- labels: pilocytic astrocytoma [Posterior fossa]
+input:
+- term: 'Pilocytic astrocytoma '
+  term_id: icdom-94211
+- term: Cerebellum
+  term_id: icdot-C71.6

@@ -1,0 +1,10 @@
+equivalents:
+- term: Neuroblastoma
+  term_id: ncit:C3270
+examples:
+- labels: neuroblastoma [cell line STA-NB-3]
+input:
+- term: 'Neuroblastoma, NOS '
+  term_id: icdom-95003
+- term: Lung, NOS
+  term_id: icdot-C34.9

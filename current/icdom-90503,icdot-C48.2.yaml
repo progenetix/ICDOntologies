@@ -1,0 +1,10 @@
+equivalents:
+- term: Peritoneal Mesothelioma
+  term_id: ncit:C7633
+examples:
+- labels: Peritoneal Mesothelioma
+input:
+- term: 'Mesothelioma, malignant '
+  term_id: icdom-90503
+- term: Peritoneum, NOS
+  term_id: icdot-C48.2

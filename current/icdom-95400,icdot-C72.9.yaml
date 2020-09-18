@@ -1,0 +1,10 @@
+equivalents:
+- term: Neurofibroma
+  term_id: ncit:C3272
+examples:
+- labels: Neurofibroma
+input:
+- term: Neurofibroma, NOS
+  term_id: icdom-95400
+- term: Nervous system, NOS
+  term_id: icdot-C72.9

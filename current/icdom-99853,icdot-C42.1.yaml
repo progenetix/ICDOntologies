@@ -1,0 +1,10 @@
+equivalents:
+- term: Myelodysplastic Syndrome with Multilineage Dysplasia
+  term_id: ncit:C8574
+examples:
+- labels: myelodysplastic syndrome [RCMD]
+input:
+- term: Refractory cytopenia with multilineage dysplasia
+  term_id: icdom-99853
+- term: Bone marrow
+  term_id: icdot-C42.1

@@ -1,0 +1,10 @@
+equivalents:
+- term: Germinoma
+  term_id: ncit:C3753
+examples:
+- labels: Ovarian Carcinoma
+input:
+- term: Germinoma
+  term_id: icdom-90643
+- term: Ovary
+  term_id: icdot-C56.9

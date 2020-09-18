@@ -1,14 +1,10 @@
 equivalents:
-- id: NCIT:C3326
-  label: Adrenal Gland Pheochromocytoma
+- term: Adrenal Gland Pheochromocytoma
+  term_id: ncit:C3326
 examples:
-- ACTH-Independent Macronodular Adrenal Hyperplasia (AIMAH)
-- adrenal pheochromocytoma
-- Left adrenal pheochromocyroma, benign
-- Right adrenal pheochromocytoma [Benign]
+- labels: pheochromocytoma [von Hippel-Lindau associated]
 input:
-- id: icdom-87000
-  label: Pheochromocytoma, NOS
-- id: icdot-C74.9
-  label: Adrenal gland
-updated: '2020-05-25'
+- term: 'Pheochromocytoma, NOS '
+  term_id: icdom-87000
+- term: Adrenal gland, NOS
+  term_id: icdot-C74.9

@@ -1,11 +1,10 @@
 equivalents:
-- id: NCIT:C7662
-  label: High Grade Glandular Intraepithelial Neoplasia
+- term: High Grade Glandular Intraepithelial Neoplasia
+  term_id: ncit:C7662
 examples:
-- prostate adenocarcinoma
+- labels: prostate adenocarcinoma
 input:
-- id: icdom-81482
-  label: Glandular intraepithelial neoplasia, high grade
-- id: icdot-C61.9
-  label: Prostate gland
-updated: '2020-05-25'
+- term: Glandular intraepithelial neoplasia, high grade
+  term_id: icdom-81482
+- term: Prostate gland
+  term_id: icdot-C61.9

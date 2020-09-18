@@ -1,0 +1,10 @@
+equivalents:
+- term: Malignant Mesothelioma
+  term_id: ncit:C4456
+examples:
+- labels: Pleural sarcomatoid mesothelioma [cell line NCI-H2052]
+input:
+- term: 'Mesothelioma, malignant '
+  term_id: icdom-90503
+- term: Lung, NOS
+  term_id: icdot-C34.9

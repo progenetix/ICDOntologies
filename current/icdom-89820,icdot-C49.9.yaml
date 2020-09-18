@@ -1,0 +1,10 @@
+equivalents:
+- term: Myoepithelial Tumor
+  term_id: ncit:C40392
+examples:
+- labels: myoepithelioma
+input:
+- term: Myoepithelioma
+  term_id: icdom-89820
+- term: Connective, subcutaneous and other soft tissues, NOS
+  term_id: icdot-C49.9

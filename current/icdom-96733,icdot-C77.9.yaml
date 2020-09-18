@@ -1,14 +1,10 @@
 equivalents:
-- id: NCIT:C4337
-  label: Mantle Cell Lymphoma
+- term: Mantle Cell Lymphoma
+  term_id: ncit:C4337
 examples:
-- Mantle cell lymphoma
-- mantle cell lymphoma [Classic]
-- mantle cell lymphoma [Blastoid]
-- mantle cell lymphoma [Leukemic]
+- labels: mantle cell lymphoma [classic]
 input:
-- id: icdom-96733
-  label: Mantle cell lymphoma
-- id: icdot-C77.9
-  label: Lymph nodes, NOS
-updated: '2020-05-25'
+- term: 'Mantle cell lymphoma '
+  term_id: icdom-96733
+- term: Lymph node, NOS
+  term_id: icdot-C77.9

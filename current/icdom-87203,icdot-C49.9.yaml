@@ -1,12 +1,10 @@
 equivalents:
-- id: NCIT:C8711
-  label: Non-Cutaneous Melanoma
+- term: Non-Cutaneous Melanoma
+  term_id: ncit:C8711
 examples:
-- Malignant melanoma [soft tissue]
-- Metastatic
+- labels: Malignant melanoma [soft tissue]
 input:
-- id: icdom-87203
-  label: Malignant melanoma, NOS
-- id: icdot-C49.9
-  label: Connective, Subcutaneous and other soft tissues, NOS
-updated: '2020-05-25'
+- term: 'Malignant melanoma, NOS '
+  term_id: icdom-87203
+- term: Connective, subcutaneous and other soft tissues, NOS
+  term_id: icdot-C49.9

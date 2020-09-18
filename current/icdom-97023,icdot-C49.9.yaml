@@ -1,0 +1,10 @@
+equivalents:
+- term: Peripheral T-Cell Lymphoma, Not Otherwise Specified
+  term_id: ncit:C4340
+examples:
+- labels: Peripheral T-cell lymphoma [Soft tissue]
+input:
+- term: Mature T-cell lymphoma, NOS
+  term_id: icdom-97023
+- term: Connective, subcutaneous and other soft tissues, NOS
+  term_id: icdot-C49.9

@@ -1,0 +1,10 @@
+equivalents:
+- term: Colorectal Signet Ring Cell Carcinoma
+  term_id: ncit:C43586
+examples:
+- labels: Signet Ring Cell Adenocarcinoma of the Colon and Rectum
+input:
+- term: Signet ring cell carcinoma
+  term_id: icdom-84903
+- term: Rectosigmoid junction
+  term_id: icdot-C19.9

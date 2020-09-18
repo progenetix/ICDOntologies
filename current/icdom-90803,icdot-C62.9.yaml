@@ -1,0 +1,10 @@
+equivalents:
+- term: Immature Teratoma
+  term_id: ncit:C4286
+examples:
+- labels: testicular germ cell tumor [non-seminoma, malignant teratoma differentiated]
+input:
+- term: 'Teratoma,malignant,NOS '
+  term_id: icdom-90803
+- term: Testis, NOS
+  term_id: icdot-C62.9

@@ -1,0 +1,10 @@
+equivalents:
+- term: Tonsillar squamous cell carcinoma
+  term_id: ncit:C8183
+examples:
+- labels: ''
+input:
+- term: Squamous cell carcinoma, NOS
+  term_id: icdom-80703
+- term: Tonsil, NOS
+  term_id: icdot-C09.9

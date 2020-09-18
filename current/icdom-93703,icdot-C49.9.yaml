@@ -1,0 +1,10 @@
+equivalents:
+- term: Chordoma
+  term_id: ncit:C2947
+examples:
+- labels: Chordoma [Sacrum]
+input:
+- term: 'Chordoma, NOS '
+  term_id: icdom-93703
+- term: Connective, subcutaneous and other soft tissues, NOS
+  term_id: icdot-C49.9

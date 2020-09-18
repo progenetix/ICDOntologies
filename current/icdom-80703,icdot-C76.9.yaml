@@ -1,0 +1,10 @@
+equivalents:
+- term: Squamous Cell Carcinoma
+  term_id: ncit:C2929
+examples:
+- labels: oral squamous cell carcinoma
+input:
+- term: Squamous cell carcinoma, NOS
+  term_id: icdom-80703
+- term: ill-defined
+  term_id: icdot-C76.9

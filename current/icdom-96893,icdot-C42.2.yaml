@@ -1,14 +1,10 @@
 equivalents:
-- id: NCIT:C4663
-  label: Splenic Marginal Zone Lymphoma
+- term: Splenic Marginal Zone Lymphoma
+  term_id: ncit:C4663
 examples:
-- Marginal zone lymphoma
-- Splenic Marginal Zone Lymphoma
-- Splenic marginal zone lymphoma
-- Splenic marginal zone lymphoma [cell line VL51]
+- labels: Marginal Zone B-cell Lymphoma [Spleen, Liver, BM, PB]
 input:
-- id: icdom-96893
-  label: Splenic marginal zone B-cell lymphoma
-- id: icdot-C42.2
-  label: Spleen
-updated: '2020-05-25'
+- term: Splenic marginal zone B-cell lymphoma
+  term_id: icdom-96893
+- term: Spleen
+  term_id: icdot-C42.2

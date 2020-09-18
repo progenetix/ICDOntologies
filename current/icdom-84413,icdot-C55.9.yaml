@@ -1,0 +1,11 @@
+equivalents:
+- term: Serous Cystadenocarcinoma
+  term_id: ncit:C3778
+examples:
+- labels: endometrial carcinoma [papillary serous ca., FIGO stage III, FIGO grade
+    3]
+input:
+- term: Serous cystadenocarcinoma, NOS
+  term_id: icdom-84413
+- term: Uterus, NOS
+  term_id: icdot-C55.9

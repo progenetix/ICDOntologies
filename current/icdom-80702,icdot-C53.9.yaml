@@ -1,11 +1,10 @@
 equivalents:
-- id: NCIT:C7347
-  label: Cervical Squamous Cell Carcinoma In Situ
+- term: Cervical Squamous Cell Carcinoma In Situ
+  term_id: ncit:C7347
 examples:
-- Squamous cell carcinoma in situ [cervix]
+- labels: Squamous cell carcinoma in situ [cervix]
 input:
-- id: icdom-80702
-  label: Squamous cell carcinoma in situ, NOS
-- id: icdot-C53.9
-  label: Cervix uteri
-updated: '2020-05-25'
+- term: Squamous cell carcinoma in situ, NOS
+  term_id: icdom-80702
+- term: Cervix uteri
+  term_id: icdot-C53.9

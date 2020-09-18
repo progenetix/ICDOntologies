@@ -1,14 +1,10 @@
 equivalents:
-- id: NCIT:C7978
-  label: Ovarian Serous Cystadenocarcinoma
+- term: Ovarian serous cystadenocarcinoma
+  term_id: ncit:C7978
 examples:
-- Ovarian Carcinoma
-- peritoneum carcinoma
-- Serous ovarian carcinoma
-- serous adenocarcinoma of the ovary [cell line 41M]
+- labels: ovarian carcinoma [serous, grade NA]
 input:
-- id: icdom-84413
-  label: Serous cystadenocarcinoma, NOS
-- id: icdot-C56.9
-  label: Ovary
-updated: '2020-05-25'
+- term: Serous cystadenocarcinoma, NOS
+  term_id: icdom-84413
+- term: Ovary
+  term_id: icdot-C56.9

@@ -1,0 +1,10 @@
+equivalents:
+- term: Mixed Embryonal Carcinoma and Teratoma
+  term_id: ncit:C3756
+examples:
+- labels: Ovarian germ cell tumor [cell line PA-1]
+input:
+- term: Teratocarcinoma
+  term_id: icdom-90813
+- term: Ovary
+  term_id: icdot-C56.9

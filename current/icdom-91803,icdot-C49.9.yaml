@@ -1,0 +1,10 @@
+equivalents:
+- term: Osteosarcoma
+  term_id: ncit:C9145
+examples:
+- labels: Sarcoma [postirradiation, Extraskeletal osteosarcoma CB G4, Armpit]
+input:
+- term: 'Osteosarcoma, NOS '
+  term_id: icdom-91803
+- term: Connective, subcutaneous and other soft tissues, NOS
+  term_id: icdot-C49.9

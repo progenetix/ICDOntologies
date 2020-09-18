@@ -1,0 +1,10 @@
+equivalents:
+- term: Uterine Corpus Myxoid Leiomyosarcoma
+  term_id: ncit:C40175
+examples:
+- labels: Uterine Myxoid Leiomyosarcoma
+input:
+- term: 'Myxoid leiomyosarcoma '
+  term_id: icdom-88963
+- term: Corpus uteri
+  term_id: icdot-C54.9

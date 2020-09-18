@@ -1,11 +1,10 @@
 equivalents:
-- id: NCIT:C6794
-  label: Gastric Cardia Carcinoma
+- term: Gastric Cardia Carcinoma
+  term_id: ncit:C6794
 examples:
-- cardia cancer
+- labels: cardia cancer
 input:
-- id: icdom-80103
-  label: Carcinoma, NOS
-- id: icdot-C16.0
-  label: Cardia, NOS
-updated: '2020-05-25'
+- term: Carcinoma, NOS
+  term_id: icdom-80103
+- term: Cardia, NOS
+  term_id: icdot-C16.0

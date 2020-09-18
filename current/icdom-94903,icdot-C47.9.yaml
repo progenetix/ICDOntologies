@@ -1,0 +1,10 @@
+equivalents:
+- term: Ganglioneuroblastoma
+  term_id: ncit:C3790
+examples:
+- labels: Ganglioneuroblastoma [atypical nodular, Abdominal, grade 2]
+input:
+- term: Ganglioneuroblastoma
+  term_id: icdom-94903
+- term: Autonomic nervous system, NOS
+  term_id: icdot-C47.9

@@ -1,11 +1,10 @@
 equivalents:
-- id: NCIT:C3297
-  label: Osteoid Osteoma
+- term: Osteoid Osteoma
+  term_id: ncit:C3297
 examples:
-- osteoid osteoma
+- labels: osteoid osteoma
 input:
-- id: icdom-91910
-  label: Osteoid osteoma, NOS
-- id: icdot-C41.9
-  label: Bones and joints
-updated: '2020-05-25'
+- term: Osteoid osteoma, NOS
+  term_id: icdom-91910
+- term: Bone, NOS
+  term_id: icdot-C41.9

@@ -1,0 +1,10 @@
+equivalents:
+- term: Adenoid Cystic Carcinoma
+  term_id: ncit:C2970
+examples:
+- labels: adenoid cystic carcinoma
+input:
+- term: Adenoid cystic carcinoma
+  term_id: icdom-82003
+- term: Orbit, NOS
+  term_id: icdot-C69.6

@@ -1,0 +1,10 @@
+equivalents:
+- term: Medulloblastoma
+  term_id: ncit:C3222
+examples:
+- labels: Medulloblastoma
+input:
+- term: 'Medulloblastoma, NOS '
+  term_id: icdom-94703
+- term: Brain, NOS
+  term_id: icdot-C71.9

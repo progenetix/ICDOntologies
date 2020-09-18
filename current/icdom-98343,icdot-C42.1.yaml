@@ -1,11 +1,10 @@
 equivalents:
-- id: NCIT:C4752
-  label: T-Cell Prolymphocytic Leukemia
+- term: T-Cell Prolymphocytic Leukemia
+  term_id: ncit:C4752
 examples:
-- T-cell prolymphocytic leukemia
+- labels: T-cell prolymphocytic leukemia
 input:
-- id: icdom-98343
-  label: Prolymphocytic leukemia, T-cell type
-- id: icdot-C42.1
-  label: Bone marrow
-updated: '2020-05-25'
+- term: Prolymphocytic leukemia, T-cell type
+  term_id: icdom-98343
+- term: Bone marrow
+  term_id: icdot-C42.1

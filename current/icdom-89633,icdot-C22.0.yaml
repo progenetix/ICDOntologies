@@ -1,0 +1,10 @@
+equivalents:
+- term: Liver and Intrahepatic Bile Duct Malignant Non-Epithelial Neoplasm
+  term_id: ncit:C7115
+examples:
+- labels: rhabdoid tumor [extrarenal]
+input:
+- term: Malignant rhabdoid tumor
+  term_id: icdom-89633
+- term: Liver
+  term_id: icdot-C22.0

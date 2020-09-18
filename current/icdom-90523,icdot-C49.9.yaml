@@ -1,0 +1,10 @@
+equivalents:
+- term: Epithelioid Mesothelioma
+  term_id: ncit:C7985
+examples:
+- labels: pleural epithelioid mesothelioma [cell line Meso56]
+input:
+- term: 'Epithelioid mesothelioma, malignant '
+  term_id: icdom-90523
+- term: Connective, subcutaneous and other soft tissues, NOS
+  term_id: icdot-C49.9

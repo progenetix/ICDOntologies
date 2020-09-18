@@ -1,11 +1,10 @@
 equivalents:
-- id: NCIT:C3294
-  label: Osteoblastoma
+- term: Osteoblastoma
+  term_id: ncit:C3294
 examples:
-- osteoblastoma
+- labels: osteoblastoma
 input:
-- id: icdom-92000
-  label: Osteoblastoma, NOS
-- id: icdot-C41.9
-  label: Bones and joints
-updated: '2020-05-25'
+- term: Osteoblastoma, NOS
+  term_id: icdom-92000
+- term: Bone, NOS
+  term_id: icdot-C41.9

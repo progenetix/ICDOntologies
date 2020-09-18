@@ -1,0 +1,10 @@
+equivalents:
+- term: Esophageal Melanoma
+  term_id: ncit:C5707
+examples:
+- labels: Mucosal Melanoma of the Esophagus
+input:
+- term: 'Malignant melanoma, NOS '
+  term_id: icdom-87203
+- term: Esophagus, NOS
+  term_id: icdot-C15.9

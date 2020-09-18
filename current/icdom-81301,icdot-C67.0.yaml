@@ -1,0 +1,10 @@
+equivalents:
+- term: Bladder Papillary Urothelial Neoplasm of Low Malignant Potential
+  term_id: ncit:C27884
+examples:
+- labels: Urothelial papilloma, NOS
+input:
+- term: Papillary transitional cell neoplasm of low malignant potential
+  term_id: icdom-81301
+- term: Urinary bladder
+  term_id: icdot-C67.0

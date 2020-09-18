@@ -1,0 +1,10 @@
+equivalents:
+- term: Oral Cavity Squamous Cell Carcinoma
+  term_id: ncit:C4833
+examples:
+- labels: Oral Cavity Squamous Cell Carcinoma
+input:
+- term: Squamous cell carcinoma, NOS
+  term_id: icdom-80703
+- term: Overlapping lesion of lip, oral cavity and pharynx
+  term_id: icdot-C14.8

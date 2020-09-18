@@ -1,14 +1,10 @@
 equivalents:
-- id: NCIT:C65200
-  label: Thyroid Gland Follicular Carcinoma, Minimally Invasive
+- term: Thyroid Gland Follicular Carcinoma, Minimally Invasive
+  term_id: ncit:C65200
 examples:
-- Follicular carcinoma [cell line FTC-133]
-- Thyroid gland follicular carcinoma [cell line FTC-238]
-- Follicular carcinoma [cell line WRO]
-- Primary Tumor
+- labels: Follicular carcinoma [cell line FTC-133]
 input:
-- id: icdom-83353
-  label: Follicular carcinoma, minimally invasive
-- id: icdot-C73.9
-  label: Thyroid gland
-updated: '2020-05-25'
+- term: Follicular carcinoma, encapsulated
+  term_id: icdom-83353
+- term: Thyroid gland
+  term_id: icdot-C73.9

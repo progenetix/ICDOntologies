@@ -1,0 +1,10 @@
+equivalents:
+- term: Thymoma
+  term_id: ncit:C3411
+examples:
+- labels: Thymoma
+input:
+- term: Thymoma, NOS
+  term_id: icdom-85801
+- term: Thymus
+  term_id: icdot-C37.9

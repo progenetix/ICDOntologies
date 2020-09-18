@@ -1,11 +1,10 @@
 equivalents:
-- id: NCIT:C3049
-  label: Ganglioneuroma
+- term: Ganglioneuroma
+  term_id: ncit:C3049
 examples:
-- Ganglioneuroma [Abdominal]
+- labels: Ganglioneuroma [Abdominal]
 input:
-- id: icdom-94900
-  label: Ganglioneuroma
-- id: icdot-C72.9
-  label: Nervous system, NOS
-updated: '2020-05-25'
+- term: Ganglioneuroma
+  term_id: icdom-94900
+- term: Nervous system, NOS
+  term_id: icdot-C72.9

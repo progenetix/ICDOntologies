@@ -1,0 +1,10 @@
+equivalents:
+- term: Salivary Gland Acinic Cell Carcinoma
+  term_id: ncit:C8013
+examples:
+- labels: Acinic Cell Carcinoma
+input:
+- term: Acinar cell carcinoma
+  term_id: icdom-85503
+- term: Major salivary gland, NOS
+  term_id: icdot-C08.9

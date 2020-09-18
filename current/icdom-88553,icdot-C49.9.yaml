@@ -1,11 +1,10 @@
 equivalents:
-- id: NCIT:C4253
-  label: Mixed Liposarcoma
+- term: Mixed Liposarcoma
+  term_id: ncit:C4253
 examples:
-- double-component liposarcoma
+- labels: double-component liposarcoma
 input:
-- id: icdom-88553
-  label: Mixed liposarcoma
-- id: icdot-C49.9
-  label: Connective and soft tissue, NOS
-updated: '2020-05-25'
+- term: Mixed liposarcoma
+  term_id: icdom-88553
+- term: Connective, subcutaneous and other soft tissues, NOS
+  term_id: icdot-C49.9

@@ -1,14 +1,11 @@
 equivalents:
-- id: NCIT:C9159
-  label: Diffuse Gastric Adenocarcinoma
+- term: Gastric Diffuse Adenocarcinoma
+  term_id: ncit:C9159
 examples:
-- carcinoma [gastric, diffuse-type]
-- carcinoma [gastric,diffuse-type]
-- gastric adenocarcinoma [Fundus/Body]
-- gastric adenocarcinoma [Antrum/Distal]
+- labels: ' Diffuse adenocarcinoma [poorly differentiated, Lymph node and pancreatic
+    metastasis]'
 input:
-- id: icdom-81453
-  label: Carcinoma diffuse type
-- id: icdot-C16.9
-  label: Stomach, NOS
-updated: '2020-05-25'
+- term: Carcinoma, diffuse type
+  term_id: icdom-81453
+- term: Stomach, NOS
+  term_id: icdot-C16.9

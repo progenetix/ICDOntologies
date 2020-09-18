@@ -1,0 +1,10 @@
+equivalents:
+- term: Head and Neck Neuroendocrine Carcinoma
+  term_id: ncit:C160980
+examples:
+- labels: Head and Neck Neuroendocrine Carcinoma
+input:
+- term: Neuroendocrine carcinoma, NOS
+  term_id: icdom-82463
+- term: Head, face or neck, NOS
+  term_id: icdot-C76.0

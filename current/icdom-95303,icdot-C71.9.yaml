@@ -1,11 +1,10 @@
 equivalents:
-- id: NCIT:C4051
-  label: Anaplastic (Malignant) Meningioma
+- term: Anaplastic (Malignant) Meningioma
+  term_id: ncit:C4051
 examples:
-- Malignant meningioma [recurrent]
+- labels: Malignant meningioma [recurrent]
 input:
-- id: icdom-95303
-  label: Meningioma, malignant
-- id: icdot-C71.9
-  label: Brain, NOS
-updated: '2020-05-25'
+- term: 'Meningioma, malignant '
+  term_id: icdom-95303
+- term: Brain, NOS
+  term_id: icdot-C71.9

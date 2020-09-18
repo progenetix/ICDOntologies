@@ -1,10 +1,10 @@
 equivalents:
-- id: NCIT:C7126
-  label: Intrahepatic Bile Duct Adenoma
-examples: []
+- term: Intrahepatic Bile Duct Adenoma
+  term_id: ncit:C7126
+examples:
+- labels: Intrahepatic cile duct adenoma
 input:
-- id: icdom-81400
-  label: Adenoma, NOS
-- id: icdot-C22.1
-  label: Intrahepatic bile ducts
-updated: '2020-05-25'
+- term: Adenoma, NOS
+  term_id: icdom-81400
+- term: Intrahepatic bile duct
+  term_id: icdot-C22.1

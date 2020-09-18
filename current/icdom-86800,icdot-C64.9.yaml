@@ -1,0 +1,10 @@
+equivalents:
+- term: Benign Paraganglioma
+  term_id: ncit:C48314
+examples:
+- labels: Infra renal paraortic paraganglioma, benign
+input:
+- term: PARAGANGLIOMA, BENIGN
+  term_id: icdom-86800
+- term: Kidney, NOS
+  term_id: icdot-C64.9

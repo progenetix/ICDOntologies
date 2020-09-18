@@ -1,0 +1,10 @@
+equivalents:
+- term: Gastrointestinal Stromal Tumor
+  term_id: ncit:C3868
+examples:
+- labels: gastrointestinal stromal tumor, low biological potential
+input:
+- term: 'Gastrointestinal stromal tumor, NOS '
+  term_id: icdom-89361
+- term: Stomach, NOS
+  term_id: icdot-C16.9

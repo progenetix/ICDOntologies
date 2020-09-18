@@ -1,0 +1,10 @@
+equivalents:
+- term: Osteosarcoma
+  term_id: ncit:C9145
+examples:
+- labels: Osteosarcoma [Extraskeletal]
+input:
+- term: 'Osteosarcoma, NOS '
+  term_id: icdom-91803
+- term: Pleura, NOS
+  term_id: icdot-C38.4

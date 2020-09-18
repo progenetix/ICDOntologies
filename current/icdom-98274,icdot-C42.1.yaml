@@ -1,0 +1,10 @@
+equivalents:
+- term: Adult T acute lymphoblastic leukemia
+  term_id: ncit:C9142
+examples:
+- labels: acute lymphoblastic leukemia
+input:
+- term: Acute lymphoblastic leukemia, mature B-cell type
+  term_id: icdom-98274
+- term: Bone marrow
+  term_id: icdot-C42.1

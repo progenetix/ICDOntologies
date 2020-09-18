@@ -1,0 +1,10 @@
+equivalents:
+- term: Metastatic Colon Carcinoma
+  term_id: ncit:C156097
+examples:
+- labels: metastatic colon cancer
+input:
+- term: Carcinoma, metastatic, NOS
+  term_id: icdom-80106
+- term: Cecum
+  term_id: icdot-C18.0

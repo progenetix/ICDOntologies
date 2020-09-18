@@ -1,0 +1,10 @@
+equivalents:
+- term: Papillary Adenocarcinoma
+  term_id: ncit:C2853
+examples:
+- labels: Papillary serous adenocarcinoma
+input:
+- term: Papillary adenocarcinoma, NOS
+  term_id: icdom-82603
+- term: Ovary
+  term_id: icdot-C56.9

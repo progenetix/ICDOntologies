@@ -1,0 +1,10 @@
+equivalents:
+- term: Appendix Goblet Cell Adenocarcinoma
+  term_id: ncit:C3689
+examples:
+- labels: Goblet Cell Carcinoid of the Appendix
+input:
+- term: Goblet cell carcinoid
+  term_id: icdom-82433
+- term: Appendix
+  term_id: icdot-C18.1

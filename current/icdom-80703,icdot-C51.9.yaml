@@ -1,14 +1,10 @@
 equivalents:
-- id: NCIT:C4052
-  label: Vulvar Squamous Cell Carcinoma
+- term: Vulvar Squamous Cell Carcinoma
+  term_id: ncit:C4052
 examples:
-- Squamous cell carcinoma
-- squamous cell carcinomas [HPVpos]
-- squamous cell carcinomas [HPVneg]
-- squamous cell carcinoma [vulva, stage 3B, HPV16neg, HPV18neg]
+- labels: squamous cell carcinoma [vulva, stage 3B, HPV16neg, HPV18neg]
 input:
-- id: icdom-80703
-  label: Squamous cell carcinoma, NOS
-- id: icdot-C51.9
-  label: Vulva, NOS
-updated: '2020-05-25'
+- term: Squamous cell carcinoma, NOS
+  term_id: icdom-80703
+- term: Vulva, NOS
+  term_id: icdot-C51.9

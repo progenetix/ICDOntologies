@@ -1,0 +1,10 @@
+equivalents:
+- term: Sarcomatoid Renal Cell Carcinoma
+  term_id: ncit:C27893
+examples:
+- labels: clear cell renal carcinoma [cell line TK-10]
+input:
+- term: Renal cell carcinoma, sarcomatoid
+  term_id: icdom-83183
+- term: Kidney, NOS
+  term_id: icdot-C64.9

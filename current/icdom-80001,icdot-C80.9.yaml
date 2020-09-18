@@ -1,0 +1,10 @@
+equivalents:
+- term: Neoplasm, Uncertain Whether Benign or Malignant
+  term_id: ncit:C65157
+examples:
+- labels: unknown cancer type
+input:
+- term: Neoplasm, uncertain whether benign or malignant
+  term_id: icdom-80001
+- term: Unknown primary site
+  term_id: icdot-C80.9

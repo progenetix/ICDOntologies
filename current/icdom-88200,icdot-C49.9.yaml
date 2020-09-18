@@ -1,11 +1,10 @@
 equivalents:
-- id: NCIT:C4245
-  label: Elastofibroma
+- term: Elastofibroma
+  term_id: ncit:C4245
 examples:
-- Elastofibroma
+- labels: Elastofibroma
 input:
-- id: icdom-88200
-  label: Elastofibroma
-- id: icdot-C49.9
-  label: Connective and soft tissue, NOS
-updated: '2020-05-25'
+- term: Elastofibroma
+  term_id: icdom-88200
+- term: Connective, subcutaneous and other soft tissues, NOS
+  term_id: icdot-C49.9

@@ -1,11 +1,10 @@
 equivalents:
-- id: NCIT:C139030
-  label: THRLBCL-Like Transformation of NLPHL
+- term: Nodular Lymphocyte Predominant Hodgkin Lymphoma
+  term_id: ncit:C7258
 examples:
-- 'Hodgkin lymphoma, nodular lymphocyte predominant '
+- labels: Nodular lymphocyte-predominant Hodgkin lymphoma
 input:
-- id: icdom-96593
-  label: Hodgkin lymphoma, nodular lymphocyte predominance
-- id: icdot-C77.9
-  label: Lymph node, NOS
-updated: '2020-05-25'
+- term: Hodgkin lymphoma, nodular lymphocyte predominance
+  term_id: icdom-96593
+- term: Lymph node, NOS
+  term_id: icdot-C77.9

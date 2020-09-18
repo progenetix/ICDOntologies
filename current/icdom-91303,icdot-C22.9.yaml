@@ -1,0 +1,10 @@
+equivalents:
+- term: Angiosarcoma
+  term_id: ncit:C3088
+examples:
+- labels: Epithelioid hemangioendothelioma [cell line LI90]
+input:
+- term: 'Hemangioendothelioma, malignant '
+  term_id: icdom-91303
+- term: liver
+  term_id: icdot-C22.9

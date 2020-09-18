@@ -1,0 +1,10 @@
+equivalents:
+- term: Diffuse Large B-Cell Lymphoma
+  term_id: ncit:C8851
+examples:
+- labels: diffuse large B-cell lymphoma [stage IAE]
+input:
+- term: Malignant lymphoma, large B-cell, diffuse, NOS
+  term_id: icdom-96803
+- term: Eye, NOS
+  term_id: icdot-C69.9

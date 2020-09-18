@@ -1,0 +1,10 @@
+equivalents:
+- term: Pilocytic Astrocytoma
+  term_id: ncit:C4047
+examples:
+- labels: Pilocytic astrocytoma
+input:
+- term: 'Pilocytic astrocytoma '
+  term_id: icdom-94211
+- term: cerebrum
+  term_id: icdot-C71.0

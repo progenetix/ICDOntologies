@@ -1,12 +1,10 @@
 equivalents:
-- id: NCIT:C4504
-  label: Malignant Breast Phyllodes Tumor
+- term: Malignant Breast Phyllodes Tumor
+  term_id: ncit:C4504
 examples:
-- Malignant phyllodes tumor
-- Primary Tumor
+- labels: Malignant phyllodes tumor
 input:
-- id: icdom-90203
-  label: Phyllodes tumor, malignant
-- id: icdot-C50.9
-  label: Breast, NOS
-updated: '2020-05-25'
+- term: 'Phyllodes tumor, malignant '
+  term_id: icdom-90203
+- term: Breast, NOS
+  term_id: icdot-C50.9

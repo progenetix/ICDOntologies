@@ -1,14 +1,10 @@
 equivalents:
-- id: NCIT:C9385
-  label: Renal Cell Carcinoma
+- term: Renal Cell Carcinoma
+  term_id: ncit:C9385
 examples:
-- renal cell carcinoma
-- renal cell carcinoma [lymphovascular invasion]
-- Renal cell carcinoma [cell line A-704]
-- renal cell carcinoma [cell line SW156]
+- labels: Renal cell carcinoma with prominent smooth muscle stroma
 input:
-- id: icdom-83123
-  label: Renal cell carcinoma, NOS
-- id: icdot-C64.9
-  label: Kidney
-updated: '2020-05-25'
+- term: Renal cell carcinoma, NOS
+  term_id: icdom-83123
+- term: Kidney, NOS
+  term_id: icdot-C64.9

@@ -1,0 +1,10 @@
+equivalents:
+- term: Adamantinomatous Craniopharyngioma
+  term_id: ncit:C4726
+examples:
+- labels: Craniopharyngioma, Adamantinomatous Type
+input:
+- term: 'Craniopharyngioma, adamantinomatous '
+  term_id: icdom-93511
+- term: Brain, NOS
+  term_id: icdot-C71.9
