@@ -12,8 +12,6 @@ The mappings can be accessed through the [Progenetix API](https://info.progeneti
 
 * [progenetix.org/services/ontologymaps/?filters=icdom-85003,icdot-C50.9](https://progenetix.org/services/ontologymaps/?filters=icdom-85003,icdot-C50.9)  
     - Retrieving the matching ncit code(s) from an input of comma-separated icdom and icdot values, as key (code) : value (label) objects
-* [progenetix.org/services/ontologymaps/?filters=icdom-85003,icdot-C50.9&responseType=text](https://progenetix.org/services/ontologymaps/?filters=icdom-85003,icdot-C50.9&responseType=text)  
-    - as before, but tab-delimited term(s)/label
 * [progenetix.org/services/ontologymaps/?filters=icdom-85,icdot-C50&filterPrecision=start](https://progenetix.org/services/ontologymaps/?filters=icdom-85,icdot-C50&filterPrecision=start)  
     - As in the example above, but by stemmming the query parameters the response will now be a list of matched data objects (inputs and equivalents)
     
