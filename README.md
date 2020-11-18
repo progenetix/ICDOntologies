@@ -1,6 +1,6 @@
 # ICDOntologies
 
-The _ICDOntologies_ repository provides a list of mapping files in YAML format, as input for mapping combinations of ICD-O 3 Morphology and Topography codes to single [NCIt neoplasm core](https://evs.nci.nih.gov/ftp1/NCI_Thesaurus/Neoplasm/About_Core.html) entities.
+The _ICDOntologies_ repository provides a list of mapping files in YAML format, as input for mapping combinations of ICD-O 3 Morphology and Topography codes to [NCIt neoplasm core](https://evs.nci.nih.gov/ftp1/NCI_Thesaurus/Neoplasm/About_Core.html) entities.
 
 The repository is being developed by the [_Theoretical Oncogenomics_](http://info.baudisgroup.org) group at the [University of Zurich](http://uzh.ch). It reflects work performed for the [arrayMap](http://arraymap.progenetix.org) and [Progenetix](http://progenetix.org) resources and as part of the Global Alliance for Genomics and Health ([GA4GH](http://ga4gh.org)).
 
@@ -8,13 +8,13 @@ This repository contains mappings that have been manually curated and aims to be
 
 ## API Access
 
-The mappings can be accessed through the [Progenetix API](https://info.progenetix.org/doc/+generated-doc-API-api/), as seen in these examples:
+The mappings can be accessed through the [Progenetix API](https://info.progenetix.org/doc/services/ontologymaps.html), as seen in these examples:
 
-* [progenetix.org/api/ncitcodes/icdom-85003,icdot-C50/](https://progenetix.org/api/ncitcodes/icdom-85003,icdot-C50/)  
+* [progenetix.org/services/ontologymaps/?filters=icdom-85003,icdot-C50](https://progenetix.org/services/ontologymaps/?filters=icdom-85003,icdot-C50)  
     - Retrieving the matching ncit code(s) from an input of comma-separated icdom and icdot values, as key (code) : value (label) objects
-* [progenetix.org/api/ncitcodes/icdom-85003,icdot-C50/text/](https://progenetix.org/api/ncitcodes/icdom-85003,icdot-C50/text/)  
+* [progenetix.org/services/ontologymaps/?filters=icdom-85003,icdot-C50&responseType=text](https://progenetix.org/services/ontologymaps/?filters=icdom-85003,icdot-C50&responseType=text)  
     - as before, but tab-delimited term(s)/label
-* [progenetix.org/api/equivalents/icdom-85,icdot-C50/](https://progenetix.org/api/equivalents/icdom-85,icdot-C50/)  
+* [progenetix.org/services/ontologymaps/?filters=icdom-85,icdot-C50&filterPrecision=start](https://progenetix.org/services/ontologymaps/?filters=icdom-85,icdot-C50&filterPrecision=start)  
     - As in the example above, but by a) stemmming the query parameters and b) removing the ncitcodes format argument, the response will now be a list of matched data objects (inputs and equivalents)
     
 Further documentation about the Progenetix API can be accessed through the resource's [documentation pages](https://info.progenetix.org/tags/API.html).
