@@ -10,9 +10,9 @@ This repository contains mappings that have been manually curated and aims to be
 
 The mappings can be accessed through the [Progenetix API](https://info.progenetix.org/doc/services/ontologymaps.html), as seen in these examples:
 
-* [progenetix.org/services/ontologymaps/?filters=icdom-85003,icdot-C50.9](https://progenetix.org/services/ontologymaps/?filters=icdom-85003,icdot-C50)  
+* [progenetix.org/services/ontologymaps/?filters=icdom-85003,icdot-C50.9](https://progenetix.org/services/ontologymaps/?filters=icdom-85003,icdot-C50.9)  
     - Retrieving the matching ncit code(s) from an input of comma-separated icdom and icdot values, as key (code) : value (label) objects
-* [progenetix.org/services/ontologymaps/?filters=icdom-85003,icdot-C50.9&responseType=text](https://progenetix.org/services/ontologymaps/?filters=icdom-85003,icdot-C50&responseType=text)  
+* [progenetix.org/services/ontologymaps/?filters=icdom-85003,icdot-C50.9&responseType=text](https://progenetix.org/services/ontologymaps/?filters=icdom-85003,icdot-C50.9&responseType=text)  
     - as before, but tab-delimited term(s)/label
 * [progenetix.org/services/ontologymaps/?filters=icdom-85,icdot-C50&filterPrecision=start](https://progenetix.org/services/ontologymaps/?filters=icdom-85,icdot-C50&filterPrecision=start)  
     - As in the example above, but by a) stemmming the query parameters and b) removing the ncitcodes format argument, the response will now be a list of matched data objects (inputs and equivalents)
