@@ -11,14 +11,14 @@ mapping = {}
 
 for i in tqdm(range(0, len(table))):
 
-    diagnosis = table[i][1]
-    icdom_c = 'icdom-'+(table[i][2]).replace("/","")
-    icdom = table[i][3]
-    icdot_c = 'icdot-'+(table[i][4])
-    icdot = table[i][5]
+    diagnosis = table[i][1].strip()
+    icdom_c = 'icdom-'+(table[i][2]).replace("/","").strip()
+    icdom = table[i][3].strip()
+    icdot_c = 'icdot-'+(table[i][4]).strip()
+    icdot = table[i][5].strip()
     #seer = 'seer:'+ str(table[i][8])
-    ncit_c = 'NCIT:'+table[i][6]
-    ncit = table[i][7]
+    ncit_c = 'NCIT:'+table[i][6].strip()
+    ncit = table[i][7].strip()
 
     if (icdom_c, icdot_c) in mapping:
         for eq in mapping[(icdom_c, icdot_c)]['equivalents']:

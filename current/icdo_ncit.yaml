@@ -278,7 +278,7 @@
 - equivalents:
   - examples:
     - Carcinoma
-    term: 'Anal Carcinoma '
+    term: Anal Carcinoma
     term_id: NCIT:C9291
   input:
   - term: Carcinoma, NOS
@@ -530,8 +530,8 @@
   input:
   - term: Carcinoma, NOS
     term_id: icdom-80103
-  - term: 'Nervous system, NOS '
-    term_id: 'icdot-C72.9 '
+  - term: Nervous system, NOS
+    term_id: icdot-C72.9
 - equivalents:
   - examples:
     - thyroid carcinoma [cell line TH15]
@@ -1781,12 +1781,6 @@
     - Squamous cell carcinoma [cervix, II b]
     term: Cervical Squamous Cell Carcinoma, Not Otherwise Specified
     term_id: NCIT:C4028
-  input:
-  - term: Squamous cell carcinoma, NOS
-    term_id: icdom-80703
-  - term: Cervix uteri
-    term_id: icdot-C53.9
-- equivalents:
   - examples:
     - ''
     term: Human papillomavirus-related cervical squamous cell carcinoma
@@ -1795,7 +1789,7 @@
   - term: Squamous cell carcinoma, NOS
     term_id: icdom-80703
   - term: Cervix uteri
-    term_id: 'icdot-C53.9 '
+    term_id: icdot-C53.9
 - equivalents:
   - examples:
     - endometrial hyperplasia [high-grade carcinoma, squamous]
@@ -2742,7 +2736,7 @@
   input:
   - term: Adenoma, NOS
     term_id: icdom-81400
-  - term: 'Parotid gland '
+  - term: Parotid gland
     term_id: icdot-C07.9
 - equivalents:
   - examples:
@@ -3740,7 +3734,7 @@
 - equivalents:
   - examples:
     - carcinoma [gastric,diffuse-type]
-    - ' Diffuse adenocarcinoma [poorly differentiated, Lymph node and pancreatic metastasis]'
+    - Diffuse adenocarcinoma [poorly differentiated, Lymph node and pancreatic metastasis]
     - Diffuse Type Stomach Adenocarcinoma
     - carcinoma [gastric, diffuse-type]
     term: Gastric Diffuse Adenocarcinoma
@@ -4072,7 +4066,7 @@
   input:
   - term: Adenoid cystic carcinoma
     term_id: icdom-82003
-  - term: 'Parotid gland '
+  - term: Parotid gland
     term_id: icdot-C07.9
 - equivalents:
   - examples:
@@ -4082,7 +4076,7 @@
   input:
   - term: Adenoid cystic carcinoma
     term_id: icdom-82003
-  - term: 'Submandibular gland '
+  - term: Submandibular gland
     term_id: icdot-C08.0
 - equivalents:
   - examples:
@@ -4662,7 +4656,7 @@
 - equivalents:
   - examples:
     - ''
-    term: 'Minimally invasive lung adenocarcinoma '
+    term: Minimally invasive lung adenocarcinoma
     term_id: NCIT:C2923
   input:
   - term: Bronchiolo-alveolar adenocarcinoma, NOS
@@ -4672,7 +4666,7 @@
 - equivalents:
   - examples:
     - ''
-    term: 'Minimally invasive lung adenocarcinoma '
+    term: Minimally invasive lung adenocarcinoma
     term_id: NCIT:C2923
   input:
   - term: Bronchiolo-alveolar adenocarcinoma, NOS
@@ -4685,7 +4679,7 @@
     - Carcinoma
     - Bronchiolo-alveolar adenocarcinoma
     - Non-Small Cell Lung Cancer
-    term: 'Minimally invasive lung adenocarcinoma '
+    term: Minimally invasive lung adenocarcinoma
     term_id: NCIT:C2923
   input:
   - term: Bronchiolo-alveolar adenocarcinoma, NOS
@@ -4698,7 +4692,7 @@
     - Minimally invasive lung adenocarcinoma [cell line NCI-H322M]
     - Bronchioalveolar carcinoma [cell line NCI-H1666]
     - Bronchioalveolar carcinoma [cell line NCI-H1781]
-    term: 'Minimally invasive lung adenocarcinoma '
+    term: Minimally invasive lung adenocarcinoma
     term_id: NCIT:C2923
   input:
   - term: Alveolar adenocarcinoma
@@ -5052,15 +5046,6 @@
     - Papillary carcinoma of thyroid [stage PT2N1aM0, grade Low]
     - Papillary carcinoma of thyroid [grade High]
     - Papillary carcinoma of thyroid [stage PT3NO, grade High]
-    term: Thyroid Gland Papillary Carcinoma
-    term_id: NCIT:C4035
-  input:
-  - term: Papillary adenocarcinoma, NOS
-    term_id: icdom-82603
-  - term: Thyroid gland
-    term_id: icdot-C73.9
-- equivalents:
-  - examples:
     - ''
     term: Thyroid Gland Papillary Carcinoma
     term_id: NCIT:C4035
@@ -5068,7 +5053,7 @@
   - term: Papillary adenocarcinoma, NOS
     term_id: icdom-82603
   - term: Thyroid gland
-    term_id: 'icdot-C73.9 '
+    term_id: icdot-C73.9
 - equivalents:
   - examples:
     - tubullovillous adenoma [colorectal]
@@ -5766,7 +5751,7 @@
   input:
   - term: Mucoepidermoid carcinoma
     term_id: icdom-84303
-  - term: 'Parotid gland '
+  - term: Parotid gland
     term_id: icdot-C07.9
 - equivalents:
   - examples:
@@ -6386,7 +6371,7 @@
     term: Mucinous Adenocarcinoma
     term_id: NCIT:C26712
   input:
-  - term: 'Mucinous adenocarcinoma '
+  - term: Mucinous adenocarcinoma
     term_id: icdom-84803
   - term: Breast, NOS
     term_id: icdot-C50.9
@@ -6743,7 +6728,7 @@
     term: Invasive Breast Carcinoma
     term_id: NCIT:C9245
   - examples:
-    - 'invasive ductal carcinoma '
+    - invasive ductal carcinoma
     - acute lymphoblastic leukemia
     - Acute B Cell Lymphocytic Leukemia
     - Carcinoma
@@ -6828,7 +6813,7 @@
     term: Intraductal Papillary Adenocarcinoma with Invasion
     term_id: NCIT:C7439
   input:
-  - term: 'Intraductal papillary adenocarcinoma with invasion '
+  - term: Intraductal papillary adenocarcinoma with invasion
     term_id: icdom-85033
   - term: Breast, NOS
     term_id: icdot-C50.9
@@ -6926,7 +6911,7 @@
   - examples:
     - Adenocarcinoma [breast, ductal lobular]
     - breast carcinoma [cell line T-47D]
-    - 'Infiltrating duct and lobular carcinoma '
+    - Infiltrating duct and lobular carcinoma
     - Infiltrating duct and lobular carcinoma
     term: Invasive Ductal and Invasive Lobular Breast Carcinoma
     term_id: NCIT:C6393
@@ -7085,7 +7070,7 @@
     term: Gastric adenosquamous carcinoma
     term_id: NCIT:C5474
   input:
-  - term: 'Adenosquamous carcinoma '
+  - term: Adenosquamous carcinoma
     term_id: icdom-85603
   - term: Stomach, NOS
     term_id: icdot-C16.9
@@ -7095,7 +7080,7 @@
     term: Adenosquamous Carcinoma
     term_id: NCIT:C3727
   input:
-  - term: 'Adenosquamous carcinoma '
+  - term: Adenosquamous carcinoma
     term_id: icdom-85603
   - term: Ascending colon
     term_id: icdot-C18.2
@@ -7106,7 +7091,7 @@
     term: Pancreatic Adenosquamous Carcinoma
     term_id: NCIT:C5721
   input:
-  - term: 'Adenosquamous carcinoma '
+  - term: Adenosquamous carcinoma
     term_id: icdom-85603
   - term: Pancreas, NOS
     term_id: icdot-C25.9
@@ -7120,7 +7105,7 @@
     term: Lung Adenosquamous Carcinoma
     term_id: NCIT:C9133
   input:
-  - term: 'Adenosquamous carcinoma '
+  - term: Adenosquamous carcinoma
     term_id: icdom-85603
   - term: Lung, NOS
     term_id: icdot-C34.9
@@ -7130,7 +7115,7 @@
     term: Adenosquamous Carcinoma
     term_id: NCIT:C3727
   input:
-  - term: 'Adenosquamous carcinoma '
+  - term: Adenosquamous carcinoma
     term_id: icdom-85603
   - term: Breast, NOS
     term_id: icdot-C50.9
@@ -7144,7 +7129,7 @@
     term: Cervical Adenosquamous Carcinoma
     term_id: NCIT:C4519
   input:
-  - term: 'Adenosquamous carcinoma '
+  - term: Adenosquamous carcinoma
     term_id: icdom-85603
   - term: Cervix uteri
     term_id: icdot-C53.9
@@ -7155,7 +7140,7 @@
     term: Endometrial adenosquamous carcinoma
     term_id: NCIT:C114656
   input:
-  - term: 'Adenosquamous carcinoma '
+  - term: Adenosquamous carcinoma
     term_id: icdom-85603
   - term: Endometrium
     term_id: icdot-C54.1
@@ -7165,7 +7150,7 @@
     term: Adenosquamous Carcinoma
     term_id: NCIT:C3727
   input:
-  - term: 'Adenosquamous carcinoma '
+  - term: Adenosquamous carcinoma
     term_id: icdom-85603
   - term: Uterus, NOS
     term_id: icdot-C55.9
@@ -7179,7 +7164,7 @@
     term: Salivary Gland Myoepithelial Carcinoma
     term_id: NCIT:C35700
   input:
-  - term: 'Adenosquamous carcinoma '
+  - term: Adenosquamous carcinoma
     term_id: icdom-85623
   - term: Major salivary gland, NOS
     term_id: icdot-C08.9
@@ -7189,7 +7174,7 @@
     term: Epithelial-Myoepithelial Carcinoma
     term_id: NCIT:C4199
   input:
-  - term: 'Adenosquamous carcinoma '
+  - term: Adenosquamous carcinoma
     term_id: icdom-85623
   - term: Breast, NOS
     term_id: icdot-C50.9
@@ -7475,7 +7460,7 @@
     term: Sex Cord-Stromal Tumor
     term_id: NCIT:C3794
   input:
-  - term: 'Sex cord-gonadal stromal tumor, NOS '
+  - term: Sex cord-gonadal stromal tumor, NOS
     term_id: icdom-85901
   - term: Ovary
     term_id: icdot-C56.9
@@ -7485,7 +7470,7 @@
     term: Granulosa Cell Tumor
     term_id: NCIT:C3070
   input:
-  - term: 'Granulosa cell tumor, adult type '
+  - term: Granulosa cell tumor, adult type
     term_id: icdom-86201
   - term: Ovary
     term_id: icdot-C56.9
@@ -7505,7 +7490,7 @@
     term: Ovarian Sertoli-Leydig Cell Tumor
     term_id: NCIT:C2880
   input:
-  - term: 'Sertoli-Leydig cell tumor of intermediate differentiation '
+  - term: Sertoli-Leydig cell tumor of intermediate differentiation
     term_id: icdom-86311
   - term: Ovary
     term_id: icdot-C56.9
@@ -7515,7 +7500,7 @@
     term: Ovarian Steroid Cell Tumor, Not Otherwise Specified
     term_id: NCIT:C39979
   input:
-  - term: 'Lipid cell tumor of ovary '
+  - term: Lipid cell tumor of ovary
     term_id: icdom-86700
   - term: Ovary
     term_id: icdot-C56.9
@@ -7546,7 +7531,7 @@
     term: Paraganglioma
     term_id: NCIT:C3308
   input:
-  - term: 'Paraganglioma, NOS '
+  - term: Paraganglioma, NOS
     term_id: icdom-86801
   - term: Autonomic nervous system, NOS
     term_id: icdot-C47.9
@@ -7556,7 +7541,7 @@
     term: Paraganglioma
     term_id: NCIT:C3308
   input:
-  - term: 'Paraganglioma, NOS '
+  - term: Paraganglioma, NOS
     term_id: icdom-86801
   - term: Retroperitoneum
     term_id: icdot-C48.0
@@ -7566,7 +7551,7 @@
     term: Paraganglioma
     term_id: NCIT:C3308
   input:
-  - term: 'Paraganglioma, NOS '
+  - term: Paraganglioma, NOS
     term_id: icdom-86801
   - term: thoracic wall
     term_id: icdot-C49.3
@@ -7576,7 +7561,7 @@
     term: Paraganglioma
     term_id: NCIT:C3308
   input:
-  - term: 'Paraganglioma, NOS '
+  - term: Paraganglioma, NOS
     term_id: icdom-86801
   - term: Connective, subcutaneous and other soft tissues of abdomen
     term_id: icdot-C49.4
@@ -7586,7 +7571,7 @@
     term: Paraganglioma
     term_id: NCIT:C3308
   input:
-  - term: 'Paraganglioma, NOS '
+  - term: Paraganglioma, NOS
     term_id: icdom-86801
   - term: Urinary bladder
     term_id: icdot-C67.0
@@ -7596,7 +7581,7 @@
     term: Paraganglioma
     term_id: NCIT:C3308
   input:
-  - term: 'Paraganglioma, NOS '
+  - term: Paraganglioma, NOS
     term_id: icdom-86801
   - term: Nervous system, NOS
     term_id: icdot-C72.9
@@ -7606,7 +7591,7 @@
     term: Paraganglioma
     term_id: NCIT:C3308
   input:
-  - term: 'Paraganglioma, NOS '
+  - term: Paraganglioma, NOS
     term_id: icdom-86801
   - term: Cortex of adrenal gland
     term_id: icdot-C74.0
@@ -7760,7 +7745,7 @@
     term: Adrenal Gland Pheochromocytoma
     term_id: NCIT:C3326
   input:
-  - term: 'Pheochromocytoma, NOS '
+  - term: Pheochromocytoma, NOS
     term_id: icdom-87000
   - term: Autonomic nervous system, NOS
     term_id: icdot-C47.9
@@ -7770,7 +7755,7 @@
     term: Adrenal Gland Pheochromocytoma
     term_id: NCIT:C3326
   input:
-  - term: 'Pheochromocytoma, NOS '
+  - term: Pheochromocytoma, NOS
     term_id: icdom-87000
   - term: Retroperitoneum
     term_id: icdot-C48.0
@@ -7780,7 +7765,7 @@
     term: Adrenal Gland Pheochromocytoma
     term_id: NCIT:C3326
   input:
-  - term: 'Pheochromocytoma, NOS '
+  - term: Pheochromocytoma, NOS
     term_id: icdom-87000
   - term: Kidney, NOS
     term_id: icdot-C64.9
@@ -7790,7 +7775,7 @@
     term: Adrenal Gland Pheochromocytoma
     term_id: NCIT:C3326
   input:
-  - term: 'Pheochromocytoma, NOS '
+  - term: Pheochromocytoma, NOS
     term_id: icdom-87000
   - term: Brain, NOS
     term_id: icdot-C71.9
@@ -7800,7 +7785,7 @@
     term: Adrenal Gland Pheochromocytoma
     term_id: NCIT:C3326
   input:
-  - term: 'Pheochromocytoma, NOS '
+  - term: Pheochromocytoma, NOS
     term_id: icdom-87000
   - term: Cortex of adrenal gland
     term_id: icdot-C74.0
@@ -7810,7 +7795,7 @@
     term: Adrenal Gland Pheochromocytoma
     term_id: NCIT:C3326
   input:
-  - term: 'Pheochromocytoma, NOS '
+  - term: Pheochromocytoma, NOS
     term_id: icdom-87000
   - term: Medulla of adrenal gland
     term_id: icdot-C74.1
@@ -7824,7 +7809,7 @@
     term: Adrenal Gland Pheochromocytoma
     term_id: NCIT:C3326
   input:
-  - term: 'Pheochromocytoma, NOS '
+  - term: Pheochromocytoma, NOS
     term_id: icdom-87000
   - term: Adrenal gland, NOS
     term_id: icdot-C74.9
@@ -7887,7 +7872,7 @@
     term: Malignant Glomus Tumor
     term_id: NCIT:C4221
   input:
-  - term: 'Glomangiosarcoma '
+  - term: Glomangiosarcoma
     term_id: icdom-87103
   - term: Aortic body and other paraganglia
     term_id: icdot-C75.5
@@ -7905,7 +7890,7 @@
     term: Pigmented Nevus
     term_id: NCIT:C27816
   input:
-  - term: 'Pigmented nevus, NOS '
+  - term: Pigmented nevus, NOS
     term_id: icdom-87200
   - term: Skin, NOS
     term_id: icdot-C44.9
@@ -7915,9 +7900,9 @@
     term: Non-Cutaneous Melanoma
     term_id: NCIT:C8711
   input:
-  - term: 'Malignant melanoma, NOS '
+  - term: Malignant melanoma, NOS
     term_id: icdom-87203
-  - term: 'Parotid gland '
+  - term: Parotid gland
     term_id: icdot-C07.9
 - equivalents:
   - examples:
@@ -7925,7 +7910,7 @@
     term: Esophageal Melanoma
     term_id: NCIT:C5707
   input:
-  - term: 'Malignant melanoma, NOS '
+  - term: Malignant melanoma, NOS
     term_id: icdom-87203
   - term: Esophagus, NOS
     term_id: icdot-C15.9
@@ -7935,7 +7920,7 @@
     term: Non-Cutaneous Melanoma
     term_id: NCIT:C8711
   input:
-  - term: 'Malignant melanoma, NOS '
+  - term: Malignant melanoma, NOS
     term_id: icdom-87203
   - term: Small intestine, NOS
     term_id: icdot-C17.9
@@ -7945,7 +7930,7 @@
     term: Non-Cutaneous Melanoma
     term_id: NCIT:C8711
   input:
-  - term: 'Malignant melanoma, NOS '
+  - term: Malignant melanoma, NOS
     term_id: icdom-87203
   - term: Overlapping lesion of rectum, anus and anal canal
     term_id: icdot-C21.8
@@ -7955,7 +7940,7 @@
     term: Melanoma
     term_id: NCIT:C3224
   input:
-  - term: 'Malignant melanoma, NOS '
+  - term: Malignant melanoma, NOS
     term_id: icdom-87203
   - term: Liver
     term_id: icdot-C22.0
@@ -7965,7 +7950,7 @@
     term: Non-Cutaneous Melanoma
     term_id: NCIT:C8711
   input:
-  - term: 'Malignant melanoma, NOS '
+  - term: Malignant melanoma, NOS
     term_id: icdom-87203
   - term: Nasal cavity
     term_id: icdot-C30.0
@@ -7975,7 +7960,7 @@
     term: Non-Cutaneous Melanoma
     term_id: NCIT:C8711
   input:
-  - term: 'Malignant melanoma, NOS '
+  - term: Malignant melanoma, NOS
     term_id: icdom-87203
   - term: nasal cavity including nasal cartilage
     term_id: icdot-C30.9
@@ -7985,7 +7970,7 @@
     term: Non-Cutaneous Melanoma
     term_id: NCIT:C8711
   input:
-  - term: 'Malignant melanoma, NOS '
+  - term: Malignant melanoma, NOS
     term_id: icdom-87203
   - term: Upper lobe, lung
     term_id: icdot-C34.1
@@ -7995,7 +7980,7 @@
     term: Non-Cutaneous Melanoma
     term_id: NCIT:C8711
   input:
-  - term: 'Malignant melanoma, NOS '
+  - term: Malignant melanoma, NOS
     term_id: icdom-87203
   - term: Lower lobe, lung
     term_id: icdot-C34.3
@@ -8005,7 +7990,7 @@
     term: Non-Cutaneous Melanoma
     term_id: NCIT:C8711
   input:
-  - term: 'Malignant melanoma, NOS '
+  - term: Malignant melanoma, NOS
     term_id: icdom-87203
   - term: Lung, NOS
     term_id: icdot-C34.9
@@ -8015,7 +8000,7 @@
     term: Non-Cutaneous Melanoma
     term_id: NCIT:C8711
   input:
-  - term: 'Malignant melanoma, NOS '
+  - term: Malignant melanoma, NOS
     term_id: icdom-87203
   - term: Maxilla
     term_id: icdot-C41.0
@@ -8025,7 +8010,7 @@
     term: Cutaneous Melanoma
     term_id: NCIT:C3510
   input:
-  - term: 'Malignant melanoma, NOS '
+  - term: Malignant melanoma, NOS
     term_id: icdom-87203
   - term: Hair
     term_id: icdot-C44.4
@@ -8035,7 +8020,7 @@
     term: Cutaneous Melanoma
     term_id: NCIT:C3510
   input:
-  - term: 'Malignant melanoma, NOS '
+  - term: Malignant melanoma, NOS
     term_id: icdom-87203
   - term: Skin of trunk
     term_id: icdot-C44.5
@@ -8045,7 +8030,7 @@
     term: Cutaneous Melanoma
     term_id: NCIT:C3510
   input:
-  - term: 'Malignant melanoma, NOS '
+  - term: Malignant melanoma, NOS
     term_id: icdom-87203
   - term: Skin of upper limb and shoulder
     term_id: icdot-C44.6
@@ -8055,7 +8040,7 @@
     term: Cutaneous Melanoma
     term_id: NCIT:C3510
   input:
-  - term: 'Malignant melanoma, NOS '
+  - term: Malignant melanoma, NOS
     term_id: icdom-87203
   - term: Skin of lower limb and hip
     term_id: icdot-C44.7
@@ -8081,7 +8066,7 @@
     term: Spitz Melanoma
     term_id: NCIT:C165497
   input:
-  - term: 'Malignant melanoma, NOS '
+  - term: Malignant melanoma, NOS
     term_id: icdom-87203
   - term: Skin, NOS
     term_id: icdot-C44.9
@@ -8091,7 +8076,7 @@
     term: Non-Cutaneous Melanoma
     term_id: NCIT:C8711
   input:
-  - term: 'Malignant melanoma, NOS '
+  - term: Malignant melanoma, NOS
     term_id: icdom-87203
   - term: Peritoneum, NOS
     term_id: icdot-C48.2
@@ -8101,7 +8086,7 @@
     term: Non-Cutaneous Melanoma
     term_id: NCIT:C8711
   input:
-  - term: 'Malignant melanoma, NOS '
+  - term: Malignant melanoma, NOS
     term_id: icdom-87203
   - term: Head, neck
     term_id: icdot-C49.0
@@ -8111,7 +8096,7 @@
     term: Non-Cutaneous Melanoma
     term_id: NCIT:C8711
   input:
-  - term: 'Malignant melanoma, NOS '
+  - term: Malignant melanoma, NOS
     term_id: icdom-87203
   - term: Connective, Subcutaneous and other soft tissues of upper limb and shoulder
     term_id: icdot-C49.1
@@ -8121,7 +8106,7 @@
     term: Non-Cutaneous Melanoma
     term_id: NCIT:C8711
   input:
-  - term: 'Malignant melanoma, NOS '
+  - term: Malignant melanoma, NOS
     term_id: icdom-87203
   - term: Connective, Subcutaneous and other soft tissues of lower limb and hip
     term_id: icdot-C49.2
@@ -8131,7 +8116,7 @@
     term: Non-Cutaneous Melanoma
     term_id: NCIT:C8711
   input:
-  - term: 'Malignant melanoma, NOS '
+  - term: Malignant melanoma, NOS
     term_id: icdom-87203
   - term: thoracic wall
     term_id: icdot-C49.3
@@ -8141,7 +8126,7 @@
     term: Non-Cutaneous Melanoma
     term_id: NCIT:C8711
   input:
-  - term: 'Malignant melanoma, NOS '
+  - term: Malignant melanoma, NOS
     term_id: icdom-87203
   - term: Connective, subcutaneous and other soft tissues of abdomen
     term_id: icdot-C49.4
@@ -8151,7 +8136,7 @@
     term: Non-Cutaneous Melanoma
     term_id: NCIT:C8711
   input:
-  - term: 'Malignant melanoma, NOS '
+  - term: Malignant melanoma, NOS
     term_id: icdom-87203
   - term: Connective, Subcutaneous and other soft tissues of pelvis
     term_id: icdot-C49.5
@@ -8161,7 +8146,7 @@
     term: Non-Cutaneous Melanoma
     term_id: NCIT:C8711
   input:
-  - term: 'Malignant melanoma, NOS '
+  - term: Malignant melanoma, NOS
     term_id: icdom-87203
   - term: Connective, Subcutaneous and other soft tissues of trunk, NOS
     term_id: icdot-C49.6
@@ -8171,7 +8156,7 @@
     term: Non-Cutaneous Melanoma
     term_id: NCIT:C8711
   input:
-  - term: 'Malignant melanoma, NOS '
+  - term: Malignant melanoma, NOS
     term_id: icdom-87203
   - term: Connective, subcutaneous and other soft tissues, NOS
     term_id: icdot-C49.9
@@ -8181,7 +8166,7 @@
     term: Non-Cutaneous Melanoma
     term_id: NCIT:C8711
   input:
-  - term: 'Malignant melanoma, NOS '
+  - term: Malignant melanoma, NOS
     term_id: icdom-87203
   - term: Breast, NOS
     term_id: icdot-C50.9
@@ -8195,7 +8180,7 @@
     term: Vulvar Melanoma
     term_id: NCIT:C40329
   input:
-  - term: 'Malignant melanoma, NOS '
+  - term: Malignant melanoma, NOS
     term_id: icdom-87203
   - term: Vulva, NOS
     term_id: icdot-C51.9
@@ -8205,7 +8190,7 @@
     term: Non-Cutaneous Melanoma
     term_id: NCIT:C8711
   input:
-  - term: 'Malignant melanoma, NOS '
+  - term: Malignant melanoma, NOS
     term_id: icdom-87203
   - term: Vagina, NOS
     term_id: icdot-C52.9
@@ -8215,7 +8200,7 @@
     term: Non-Cutaneous Melanoma
     term_id: NCIT:C8711
   input:
-  - term: 'Malignant melanoma, NOS '
+  - term: Malignant melanoma, NOS
     term_id: icdom-87203
   - term: Endometrium
     term_id: icdot-C54.1
@@ -8225,7 +8210,7 @@
     term: Urethral Melanoma
     term_id: NCIT:C159665
   input:
-  - term: 'Malignant melanoma, NOS '
+  - term: Malignant melanoma, NOS
     term_id: icdom-87203
   - term: Urethra
     term_id: icdot-C68.0
@@ -8237,7 +8222,7 @@
     term: Non-Cutaneous Melanoma
     term_id: NCIT:C8711
   input:
-  - term: 'Malignant melanoma, NOS '
+  - term: Malignant melanoma, NOS
     term_id: icdom-87203
   - term: Retina
     term_id: icdot-C69.2
@@ -8247,7 +8232,7 @@
     term: Non-Cutaneous Melanoma
     term_id: NCIT:C8711
   input:
-  - term: 'Malignant melanoma, NOS '
+  - term: Malignant melanoma, NOS
     term_id: icdom-87203
   - term: Choroid
     term_id: icdot-C69.3
@@ -8257,7 +8242,7 @@
     term: Uveal Melanoma
     term_id: NCIT:C7712
   input:
-  - term: 'Malignant melanoma, NOS '
+  - term: Malignant melanoma, NOS
     term_id: icdom-87203
   - term: Ciliary body
     term_id: icdot-C69.4
@@ -8271,7 +8256,7 @@
     term: Ocular Melanoma
     term_id: NCIT:C8562
   input:
-  - term: 'Malignant melanoma, NOS '
+  - term: Malignant melanoma, NOS
     term_id: icdom-87203
   - term: Eye, NOS
     term_id: icdot-C69.9
@@ -8281,7 +8266,7 @@
     term: Non-Cutaneous Melanoma
     term_id: NCIT:C8711
   input:
-  - term: 'Malignant melanoma, NOS '
+  - term: Malignant melanoma, NOS
     term_id: icdom-87203
   - term: frontal lobe
     term_id: icdot-C71.1
@@ -8291,7 +8276,7 @@
     term: Non-Cutaneous Melanoma
     term_id: NCIT:C8711
   input:
-  - term: 'Malignant melanoma, NOS '
+  - term: Malignant melanoma, NOS
     term_id: icdom-87203
   - term: parietal lobe
     term_id: icdot-C71.3
@@ -8301,7 +8286,7 @@
     term: Non-Cutaneous Melanoma
     term_id: NCIT:C8711
   input:
-  - term: 'Malignant melanoma, NOS '
+  - term: Malignant melanoma, NOS
     term_id: icdom-87203
   - term: Brain, NOS
     term_id: icdot-C71.9
@@ -8311,7 +8296,7 @@
     term: Non-Cutaneous Melanoma
     term_id: NCIT:C8711
   input:
-  - term: 'Malignant melanoma, NOS '
+  - term: Malignant melanoma, NOS
     term_id: icdom-87203
   - term: Spinal cord
     term_id: icdot-C72.0
@@ -8321,7 +8306,7 @@
     term: Non-Cutaneous Melanoma
     term_id: NCIT:C8711
   input:
-  - term: 'Malignant melanoma, NOS '
+  - term: Malignant melanoma, NOS
     term_id: icdom-87203
   - term: Adrenal gland, NOS
     term_id: icdot-C74.9
@@ -8331,7 +8316,7 @@
     term: Non-Cutaneous Melanoma
     term_id: NCIT:C8711
   input:
-  - term: 'Malignant melanoma, NOS '
+  - term: Malignant melanoma, NOS
     term_id: icdom-87203
   - term: thorax, NOS
     term_id: icdot-C76.1
@@ -8341,7 +8326,7 @@
     term: Non-Cutaneous Melanoma
     term_id: NCIT:C8711
   input:
-  - term: 'Malignant melanoma, NOS '
+  - term: Malignant melanoma, NOS
     term_id: icdom-87203
   - term: abdomen, NOS
     term_id: icdot-C76.2
@@ -8351,7 +8336,7 @@
     term: Non-Cutaneous Melanoma
     term_id: NCIT:C8711
   input:
-  - term: 'Malignant melanoma, NOS '
+  - term: Malignant melanoma, NOS
     term_id: icdom-87203
   - term: Pelvis, NOS
     term_id: icdot-C76.3
@@ -8364,7 +8349,7 @@
     term: Melanoma
     term_id: NCIT:C3224
   input:
-  - term: 'Malignant melanoma, NOS '
+  - term: Malignant melanoma, NOS
     term_id: icdom-87203
   - term: ill-defined
     term_id: icdot-C76.9
@@ -8374,7 +8359,7 @@
     term: Non-Cutaneous Melanoma
     term_id: NCIT:C8711
   input:
-  - term: 'Malignant melanoma, NOS '
+  - term: Malignant melanoma, NOS
     term_id: icdom-87203
   - term: Lymph nodes of head, face and neck
     term_id: icdot-C77.0
@@ -8384,7 +8369,7 @@
     term: Non-Cutaneous Melanoma
     term_id: NCIT:C8711
   input:
-  - term: 'Malignant melanoma, NOS '
+  - term: Malignant melanoma, NOS
     term_id: icdom-87203
   - term: Intra-abdominal lymph nodes
     term_id: icdot-C77.2
@@ -8394,7 +8379,7 @@
     term: Non-Cutaneous Melanoma
     term_id: NCIT:C8711
   input:
-  - term: 'Malignant melanoma, NOS '
+  - term: Malignant melanoma, NOS
     term_id: icdom-87203
   - term: Lymph nodes of axilla or arm
     term_id: icdot-C77.3
@@ -8404,7 +8389,7 @@
     term: Non-Cutaneous Melanoma
     term_id: NCIT:C8711
   input:
-  - term: 'Malignant melanoma, NOS '
+  - term: Malignant melanoma, NOS
     term_id: icdom-87203
   - term: Lymph nodes of inguinal region or leg
     term_id: icdot-C77.4
@@ -8414,7 +8399,7 @@
     term: Non-Cutaneous Melanoma
     term_id: NCIT:C8711
   input:
-  - term: 'Malignant melanoma, NOS '
+  - term: Malignant melanoma, NOS
     term_id: icdom-87203
   - term: Pelvic lymph nodes
     term_id: icdot-C77.5
@@ -8424,7 +8409,7 @@
     term: Non-Cutaneous Melanoma
     term_id: NCIT:C8711
   input:
-  - term: 'Malignant melanoma, NOS '
+  - term: Malignant melanoma, NOS
     term_id: icdom-87203
   - term: Lymph node, NOS
     term_id: icdot-C77.9
@@ -8434,7 +8419,7 @@
     term: Melanoma of Unknown Primary
     term_id: NCIT:C154473
   input:
-  - term: 'Malignant melanoma, NOS '
+  - term: Malignant melanoma, NOS
     term_id: icdom-87203
   - term: Unknown primary site
     term_id: icdot-C80.9
@@ -8502,20 +8487,20 @@
 - equivalents:
   - examples:
     - Melanoma
-    term: 'Amelanotic melanoma '
+    term: Amelanotic melanoma
     term_id: NCIT:C3802
   input:
-  - term: 'Amelanotic melanoma '
+  - term: Amelanotic melanoma
     term_id: icdom-87303
   - term: Skin of trunk
     term_id: icdot-C44.5
 - equivalents:
   - examples:
     - ''
-    term: 'Amelanotic melanoma '
+    term: Amelanotic melanoma
     term_id: NCIT:C3802
   input:
-  - term: 'Amelanotic melanoma '
+  - term: Amelanotic melanoma
     term_id: icdom-87303
   - term: Skin of lower limb and hip
     term_id: icdot-C44.7
@@ -8526,30 +8511,30 @@
     - amelanotic melanoma  [cell line MDA-MB-435S]
     - amelanotic melanoma [cell line A-375]
     - Amelanotic melanoma [cell line LOXIMVI]
-    term: 'Amelanotic melanoma '
+    term: Amelanotic melanoma
     term_id: NCIT:C3802
   input:
-  - term: 'Amelanotic melanoma '
+  - term: Amelanotic melanoma
     term_id: icdom-87303
   - term: Skin, NOS
     term_id: icdot-C44.9
 - equivalents:
   - examples:
     - ''
-    term: 'Amelanotic melanoma '
+    term: Amelanotic melanoma
     term_id: NCIT:C3802
   input:
-  - term: 'Amelanotic melanoma '
+  - term: Amelanotic melanoma
     term_id: icdom-87303
   - term: Connective, Subcutaneous and other soft tissues of lower limb and hip
     term_id: icdot-C49.2
 - equivalents:
   - examples:
     - ''
-    term: 'Amelanotic melanoma '
+    term: Amelanotic melanoma
     term_id: NCIT:C3802
   input:
-  - term: 'Amelanotic melanoma '
+  - term: Amelanotic melanoma
     term_id: icdom-87303
   - term: Lymph nodes of axilla or arm
     term_id: icdot-C77.3
@@ -8662,7 +8647,7 @@
     term: Esophageal Melanoma
     term_id: NCIT:C5707
   input:
-  - term: 'Mucosal lentiginous melanoma '
+  - term: Mucosal lentiginous melanoma
     term_id: icdom-87463
   - term: Esophagus, NOS
     term_id: icdot-C15.9
@@ -8672,7 +8657,7 @@
     term: Mucosal melanoma
     term_id: NCIT:C114828
   input:
-  - term: 'Mucosal lentiginous melanoma '
+  - term: Mucosal lentiginous melanoma
     term_id: icdom-87463
   - term: Overlapping lesion of rectum, anus and anal canal
     term_id: icdot-C21.8
@@ -8682,7 +8667,7 @@
     term: Mucosal Melanoma of the Head and Neck
     term_id: NCIT:C133187
   input:
-  - term: 'Mucosal lentiginous melanoma '
+  - term: Mucosal lentiginous melanoma
     term_id: icdom-87463
   - term: Head, face or neck, NOS
     term_id: icdot-C76.0
@@ -8696,7 +8681,7 @@
     term: Spitz Nevus
     term_id: NCIT:C27007
   input:
-  - term: 'Epithelioid and spindle cell nevus '
+  - term: Epithelioid and spindle cell nevus
     term_id: icdom-87700
   - term: Skin, NOS
     term_id: icdot-C44.9
@@ -8917,7 +8902,7 @@
     term: Sarcoma
     term_id: NCIT:C9118
   input:
-  - term: 'Sarcoma,NOS '
+  - term: Sarcoma,NOS
     term_id: icdom-88003
   - term: Bones and joints
     term_id: icdot-C40.0
@@ -8927,7 +8912,7 @@
     term: Soft Tissue Sarcoma
     term_id: NCIT:C9306
   input:
-  - term: 'Sarcoma,NOS '
+  - term: Sarcoma,NOS
     term_id: icdom-88003
   - term: Retroperitoneum
     term_id: icdot-C48.0
@@ -8941,7 +8926,7 @@
     term: Soft Tissue Sarcoma
     term_id: NCIT:C9306
   - examples:
-    - ' Sarcoma, NOS'
+    - Sarcoma, NOS
     term: Sarcoma
     term_id: NCIT:C9118
   - examples:
@@ -8949,7 +8934,7 @@
     term: Malignant PEComa
     term_id: NCIT:C121792
   input:
-  - term: 'Sarcoma,NOS '
+  - term: Sarcoma,NOS
     term_id: icdom-88003
   - term: Connective, subcutaneous and other soft tissues, NOS
     term_id: icdot-C49.9
@@ -8959,7 +8944,7 @@
     term: Uterine Corpus Sarcoma
     term_id: NCIT:C6339
   input:
-  - term: 'Sarcoma,NOS '
+  - term: Sarcoma,NOS
     term_id: icdom-88003
   - term: Corpus uteri
     term_id: icdot-C54.9
@@ -8971,7 +8956,7 @@
     term: Uterine Corpus Sarcoma
     term_id: NCIT:C6339
   input:
-  - term: 'Sarcoma,NOS '
+  - term: Sarcoma,NOS
     term_id: icdom-88003
   - term: Uterus, NOS
     term_id: icdot-C55.9
@@ -8981,7 +8966,7 @@
     term: Thyroid gland sarcoma
     term_id: NCIT:C6041
   input:
-  - term: 'Sarcoma,NOS '
+  - term: Sarcoma,NOS
     term_id: icdom-88003
   - term: Thyroid gland
     term_id: icdot-C73.9
@@ -9025,7 +9010,7 @@
     term: Proximal-Type Epithelioid Sarcoma
     term_id: NCIT:C27472
   input:
-  - term: 'Epithelioid sarcoma '
+  - term: Epithelioid sarcoma
     term_id: icdom-88043
   - term: Connective, subcutaneous and other soft tissues, NOS
     term_id: icdot-C49.9
@@ -9035,7 +9020,7 @@
     term: Uterine Corpus Malignant PEComa
     term_id: NCIT:C127072
   input:
-  - term: 'Epithelioid sarcoma '
+  - term: Epithelioid sarcoma
     term_id: icdom-88043
   - term: Corpus uteri
     term_id: icdot-C54.9
@@ -9045,7 +9030,7 @@
     term: Epithelioid Sarcoma
     term_id: NCIT:C3714
   input:
-  - term: 'Epithelioid sarcoma '
+  - term: Epithelioid sarcoma
     term_id: icdom-88043
   - term: Lymph node, NOS
     term_id: icdot-C77.9
@@ -9055,7 +9040,7 @@
     term: Undifferentiated (Embryonal) Sarcoma
     term_id: NCIT:C27096
   input:
-  - term: 'Undifferentiated sarcoma '
+  - term: Undifferentiated sarcoma
     term_id: icdom-88053
   - term: Retroperitoneum
     term_id: icdot-C48.0
@@ -9065,7 +9050,7 @@
     term: Undifferentiated (Embryonal) Sarcoma
     term_id: NCIT:C27096
   input:
-  - term: 'Undifferentiated sarcoma '
+  - term: Undifferentiated sarcoma
     term_id: icdom-88053
   - term: Head, neck
     term_id: icdot-C49.0
@@ -9075,7 +9060,7 @@
     term: Undifferentiated (Embryonal) Sarcoma
     term_id: NCIT:C27096
   input:
-  - term: 'Undifferentiated sarcoma '
+  - term: Undifferentiated sarcoma
     term_id: icdom-88053
   - term: Connective, Subcutaneous and other soft tissues of upper limb and shoulder
     term_id: icdot-C49.1
@@ -9085,7 +9070,7 @@
     term: Undifferentiated (Embryonal) Sarcoma
     term_id: NCIT:C27096
   input:
-  - term: 'Undifferentiated sarcoma '
+  - term: Undifferentiated sarcoma
     term_id: icdom-88053
   - term: Connective, Subcutaneous and other soft tissues of lower limb and hip
     term_id: icdot-C49.2
@@ -9095,7 +9080,7 @@
     term: Undifferentiated (Embryonal) Sarcoma
     term_id: NCIT:C27096
   input:
-  - term: 'Undifferentiated sarcoma '
+  - term: Undifferentiated sarcoma
     term_id: icdom-88053
   - term: thoracic wall
     term_id: icdot-C49.3
@@ -9105,7 +9090,7 @@
     term: Undifferentiated (Embryonal) Sarcoma
     term_id: NCIT:C27096
   input:
-  - term: 'Undifferentiated sarcoma '
+  - term: Undifferentiated sarcoma
     term_id: icdom-88053
   - term: Connective, Subcutaneous and other soft tissues of pelvis
     term_id: icdot-C49.5
@@ -9115,7 +9100,7 @@
     term: Undifferentiated (Embryonal) Sarcoma
     term_id: NCIT:C27096
   input:
-  - term: 'Undifferentiated sarcoma '
+  - term: Undifferentiated sarcoma
     term_id: icdom-88053
   - term: Connective, Subcutaneous and other soft tissues of trunk, NOS
     term_id: icdot-C49.6
@@ -9128,7 +9113,7 @@
     term: Undifferentiated (Embryonal) Sarcoma
     term_id: NCIT:C27096
   input:
-  - term: 'Undifferentiated sarcoma '
+  - term: Undifferentiated sarcoma
     term_id: icdom-88053
   - term: Connective, subcutaneous and other soft tissues, NOS
     term_id: icdot-C49.9
@@ -9138,7 +9123,7 @@
     term: Uterine Corpus Undifferentiated Sarcoma
     term_id: NCIT:C8972
   input:
-  - term: 'Undifferentiated sarcoma '
+  - term: Undifferentiated sarcoma
     term_id: icdom-88053
   - term: Corpus uteri
     term_id: icdot-C54.9
@@ -9148,7 +9133,7 @@
     term: Desmoplastic Small Round Cell Tumor
     term_id: NCIT:C8300
   input:
-  - term: 'Desmoplastic small round cell tumor '
+  - term: Desmoplastic small round cell tumor
     term_id: icdom-88063
   - term: Connective, subcutaneous and other soft tissues, NOS
     term_id: icdot-C49.9
@@ -9158,7 +9143,7 @@
     term: Desmoplastic Small Round Cell Tumor
     term_id: NCIT:C8300
   input:
-  - term: 'Desmoplastic small round cell tumor '
+  - term: Desmoplastic small round cell tumor
     term_id: icdom-88063
   - term: Unknown primary site
     term_id: icdot-C80.9
@@ -9179,7 +9164,7 @@
     term: Fibrosarcoma
     term_id: NCIT:C3043
   input:
-  - term: 'Fibrosarcoma, NOS '
+  - term: Fibrosarcoma, NOS
     term_id: icdom-88103
   - term: retroperitoneum and peritoneum
     term_id: icdot-C48.9
@@ -9197,7 +9182,7 @@
     term: Fibrosarcoma
     term_id: NCIT:C3043
   input:
-  - term: 'Fibrosarcoma, NOS '
+  - term: Fibrosarcoma, NOS
     term_id: icdom-88103
   - term: Connective, subcutaneous and other soft tissues, NOS
     term_id: icdot-C49.9
@@ -9217,7 +9202,7 @@
     term: Myxofibrosarcoma
     term_id: NCIT:C6496
   input:
-  - term: 'Fibromyxosarcoma '
+  - term: Fibromyxosarcoma
     term_id: icdom-88113
   - term: Retroperitoneum
     term_id: icdot-C48.0
@@ -9227,7 +9212,7 @@
     term: Myxofibrosarcoma
     term_id: NCIT:C6496
   input:
-  - term: 'Fibromyxosarcoma '
+  - term: Fibromyxosarcoma
     term_id: icdom-88113
   - term: Connective, Subcutaneous and other soft tissues of lower limb and hip
     term_id: icdot-C49.2
@@ -9237,7 +9222,7 @@
     term: Myxofibrosarcoma
     term_id: NCIT:C6496
   input:
-  - term: 'Fibromyxosarcoma '
+  - term: Fibromyxosarcoma
     term_id: icdom-88113
   - term: thoracic wall
     term_id: icdot-C49.3
@@ -9247,7 +9232,7 @@
     term: Myxofibrosarcoma
     term_id: NCIT:C6496
   input:
-  - term: 'Fibromyxosarcoma '
+  - term: Fibromyxosarcoma
     term_id: icdom-88113
   - term: Connective, Subcutaneous and other soft tissues of pelvis
     term_id: icdot-C49.5
@@ -9257,7 +9242,7 @@
     term: Myxofibrosarcoma
     term_id: NCIT:C6496
   input:
-  - term: 'Fibromyxosarcoma '
+  - term: Fibromyxosarcoma
     term_id: icdom-88113
   - term: Connective, Subcutaneous and other soft tissues of trunk, NOS
     term_id: icdot-C49.6
@@ -9272,7 +9257,7 @@
     term: Low Grade Fibromyxoid Sarcoma
     term_id: NCIT:C45202
   input:
-  - term: 'Fibromyxosarcoma '
+  - term: Fibromyxosarcoma
     term_id: icdom-88113
   - term: Connective, subcutaneous and other soft tissues, NOS
     term_id: icdot-C49.9
@@ -9283,7 +9268,7 @@
     term: Solitary Fibrous Tumor
     term_id: NCIT:C7634
   input:
-  - term: 'Solitary fibrous tumor '
+  - term: Solitary fibrous tumor
     term_id: icdom-88150
   - term: Connective, subcutaneous and other soft tissues, NOS
     term_id: icdot-C49.9
@@ -9293,7 +9278,7 @@
     term: Central Nervous System Solitary Fibrous Tumor/Hemangiopericytoma
     term_id: NCIT:C129526
   input:
-  - term: 'Solitary fibrous tumor '
+  - term: Solitary fibrous tumor
     term_id: icdom-88150
   - term: Nervous system, NOS
     term_id: icdot-C72.9
@@ -9313,7 +9298,7 @@
     term: Desmoid-Type Fibromatosis
     term_id: NCIT:C9182
   input:
-  - term: 'Aggressive fibromatosis '
+  - term: Aggressive fibromatosis
     term_id: icdom-88211
   - term: thoracic wall
     term_id: icdot-C49.3
@@ -9327,7 +9312,7 @@
     term: Desmoid-Type Fibromatosis
     term_id: NCIT:C9182
   input:
-  - term: 'Aggressive fibromatosis '
+  - term: Aggressive fibromatosis
     term_id: icdom-88211
   - term: Connective, subcutaneous and other soft tissues, NOS
     term_id: icdot-C49.9
@@ -9359,7 +9344,7 @@
     term: Myofibroma
     term_id: NCIT:C7052
   input:
-  - term: 'Myofibroma '
+  - term: Myofibroma
     term_id: icdom-88240
   - term: Connective, subcutaneous and other soft tissues, NOS
     term_id: icdot-C49.9
@@ -9379,7 +9364,7 @@
     term: Lung Inflammatory Myofibroblastic Tumor
     term_id: NCIT:C39740
   input:
-  - term: 'Myofibroblastic tumor, NOS '
+  - term: Myofibroblastic tumor, NOS
     term_id: icdom-88251
   - term: Lung, NOS
     term_id: icdot-C34.9
@@ -9389,7 +9374,7 @@
     term: Inflammatory Myofibroblastic Tumor
     term_id: NCIT:C6481
   input:
-  - term: 'Myofibroblastic tumor, NOS '
+  - term: Myofibroblastic tumor, NOS
     term_id: icdom-88251
   - term: Connective, subcutaneous and other soft tissues, NOS
     term_id: icdot-C49.9
@@ -9402,7 +9387,7 @@
     term: Undifferentiated Pleomorphic Sarcoma
     term_id: NCIT:C4247
   input:
-  - term: 'Malignant fibrous histiocytoma '
+  - term: Malignant fibrous histiocytoma
     term_id: icdom-88303
   - term: Bones and joints
     term_id: icdot-C40.0
@@ -9412,7 +9397,7 @@
     term: Undifferentiated Pleomorphic Sarcoma
     term_id: NCIT:C4247
   input:
-  - term: 'Malignant fibrous histiocytoma '
+  - term: Malignant fibrous histiocytoma
     term_id: icdom-88303
   - term: Retroperitoneum
     term_id: icdot-C48.0
@@ -9422,7 +9407,7 @@
     term: Undifferentiated Pleomorphic Sarcoma
     term_id: NCIT:C4247
   input:
-  - term: 'Malignant fibrous histiocytoma '
+  - term: Malignant fibrous histiocytoma
     term_id: icdom-88303
   - term: Connective, subcutaneous and other soft tissues, NOS
     term_id: icdot-C49,9
@@ -9432,7 +9417,7 @@
     term: Undifferentiated Pleomorphic Sarcoma
     term_id: NCIT:C4247
   input:
-  - term: 'Malignant fibrous histiocytoma '
+  - term: Malignant fibrous histiocytoma
     term_id: icdom-88303
   - term: Connective, Subcutaneous and other soft tissues of lower limb and hip
     term_id: icdot-C49.2
@@ -9442,7 +9427,7 @@
     term: Undifferentiated Pleomorphic Sarcoma
     term_id: NCIT:C4247
   input:
-  - term: 'Malignant fibrous histiocytoma '
+  - term: Malignant fibrous histiocytoma
     term_id: icdom-88303
   - term: thoracic wall
     term_id: icdot-C49.3
@@ -9452,7 +9437,7 @@
     term: Undifferentiated Pleomorphic Sarcoma
     term_id: NCIT:C4247
   input:
-  - term: 'Malignant fibrous histiocytoma '
+  - term: Malignant fibrous histiocytoma
     term_id: icdom-88303
   - term: Connective, Subcutaneous and other soft tissues of pelvis
     term_id: icdot-C49.5
@@ -9462,7 +9447,7 @@
     term: Undifferentiated Pleomorphic Sarcoma
     term_id: NCIT:C4247
   input:
-  - term: 'Malignant fibrous histiocytoma '
+  - term: Malignant fibrous histiocytoma
     term_id: icdom-88303
   - term: Connective, Subcutaneous and other soft tissues of trunk, NOS
     term_id: icdot-C49.6
@@ -9476,7 +9461,7 @@
     term: Undifferentiated Pleomorphic Sarcoma
     term_id: NCIT:C4247
   input:
-  - term: 'Malignant fibrous histiocytoma '
+  - term: Malignant fibrous histiocytoma
     term_id: icdom-88303
   - term: Connective, subcutaneous and other soft tissues, NOS
     term_id: icdot-C49.9
@@ -9486,7 +9471,7 @@
     term: Skin Fibrous Histiocytoma
     term_id: NCIT:C6801
   input:
-  - term: 'Dermatofibroma, NOS '
+  - term: Dermatofibroma, NOS
     term_id: icdom-88320
   - term: Skin, NOS
     term_id: icdot-C44.9
@@ -9496,7 +9481,7 @@
     term: Dermatofibrosarcoma Protuberans
     term_id: NCIT:C4683
   input:
-  - term: 'Dermatofibrosarcoma, NO '
+  - term: Dermatofibrosarcoma, NO
     term_id: icdom-88323
   - term: Skin, NOS
     term_id: icdot-C44.9
@@ -9506,7 +9491,7 @@
     term: Dermatofibrosarcoma Protuberans
     term_id: NCIT:C4683
   input:
-  - term: 'Dermatofibrosarcoma, NO '
+  - term: Dermatofibrosarcoma, NO
     term_id: icdom-88323
   - term: Breast, NOS
     term_id: icdot-C50.9
@@ -9526,7 +9511,7 @@
     term: Myxoma
     term_id: NCIT:C6577
   input:
-  - term: 'Myxoma,NOS '
+  - term: Myxoma,NOS
     term_id: icdom-88400
   - term: Connective, subcutaneous and other soft tissues, NOS
     term_id: icdot-C49.9
@@ -9536,7 +9521,7 @@
     term: Ossifying Fibromyxoid Tumor
     term_id: NCIT:C6582
   input:
-  - term: 'Ossifyingfibromyxoidtumor '
+  - term: Ossifyingfibromyxoidtumor
     term_id: icdom-88420
   - term: Connective, subcutaneous and other soft tissues, NOS
     term_id: icdot-C49.9
@@ -9560,30 +9545,21 @@
     - Liposarcoma NOS [cell line LiSa-2]
     - Liposarcoma NOS [cell line SW872]
     - liposarcoma [well differentiated]
-    term: Liposarcoma
-    term_id: NCIT:C3194
-  input:
-  - term: 'Liposarcoma, NOS '
-    term_id: icdom-88503
-  - term: Connective, subcutaneous and other soft tissues, NOS
-    term_id: icdot-C49.9
-- equivalents:
-  - examples:
     - ''
     term: Liposarcoma
     term_id: NCIT:C3194
   input:
-  - term: 'Liposarcoma, NOS '
+  - term: Liposarcoma, NOS
     term_id: icdom-88503
-  - term: 'Connective, subcutaneous and other soft tissues, NOS '
-    term_id: 'icdot-C49.9 '
+  - term: Connective, subcutaneous and other soft tissues, NOS
+    term_id: icdot-C49.9
 - equivalents:
   - examples:
     - Liposarcoma
     term: Liposarcoma
     term_id: NCIT:C3194
   input:
-  - term: 'Liposarcoma, NOS '
+  - term: Liposarcoma, NOS
     term_id: icdom-88503
   - term: Kidney, NOS
     term_id: icdot-C64.9
@@ -9593,7 +9569,7 @@
     term: Well Differentiated Liposarcoma
     term_id: NCIT:C4250
   input:
-  - term: 'Liposarcoma, well differentiated '
+  - term: Liposarcoma, well differentiated
     term_id: icdom-88513
   - term: Retroperitoneum
     term_id: icdot-C48.0
@@ -9607,7 +9583,7 @@
     term: Well Differentiated Liposarcoma
     term_id: NCIT:C4250
   input:
-  - term: 'Liposarcoma, well differentiated '
+  - term: Liposarcoma, well differentiated
     term_id: icdom-88513
   - term: Connective, subcutaneous and other soft tissues, NOS
     term_id: icdot-C49.9
@@ -9621,7 +9597,7 @@
     term: Myxoid Liposarcoma
     term_id: NCIT:C27781
   input:
-  - term: 'Myxoid liposarcoma '
+  - term: Myxoid liposarcoma
     term_id: icdom-88523
   - term: Connective, subcutaneous and other soft tissues, NOS
     term_id: icdot-C49.9
@@ -9631,7 +9607,7 @@
     term: Pleomorphic Liposarcoma
     term_id: NCIT:C3705
   input:
-  - term: 'Pleomorphicliposarcoma '
+  - term: Pleomorphicliposarcoma
     term_id: icdom-88543
   - term: Head, neck
     term_id: icdot-C49.0
@@ -9641,7 +9617,7 @@
     term: Pleomorphic Liposarcoma
     term_id: NCIT:C3705
   input:
-  - term: 'Pleomorphicliposarcoma '
+  - term: Pleomorphicliposarcoma
     term_id: icdom-88543
   - term: Connective, Subcutaneous and other soft tissues of lower limb and hip
     term_id: icdot-C49.2
@@ -9654,7 +9630,7 @@
     term: Pleomorphic Liposarcoma
     term_id: NCIT:C3705
   input:
-  - term: 'Pleomorphicliposarcoma '
+  - term: Pleomorphicliposarcoma
     term_id: icdom-88543
   - term: Connective, subcutaneous and other soft tissues, NOS
     term_id: icdot-C49.9
@@ -9674,7 +9650,7 @@
     term: Dedifferentiated Liposarcoma
     term_id: NCIT:C3704
   input:
-  - term: 'Dedifferentiated liposarcoma '
+  - term: Dedifferentiated liposarcoma
     term_id: icdom-88583
   - term: Stomach, NOS
     term_id: icdot-C16.9
@@ -9684,7 +9660,7 @@
     term: Dedifferentiated Liposarcoma
     term_id: NCIT:C3704
   input:
-  - term: 'Dedifferentiated liposarcoma '
+  - term: Dedifferentiated liposarcoma
     term_id: icdom-88583
   - term: Descending colon
     term_id: icdot-C18.6
@@ -9694,7 +9670,7 @@
     term: Dedifferentiated Liposarcoma
     term_id: NCIT:C3704
   input:
-  - term: 'Dedifferentiated liposarcoma '
+  - term: Dedifferentiated liposarcoma
     term_id: icdom-88583
   - term: Retroperitoneum
     term_id: icdot-C48.0
@@ -9704,7 +9680,7 @@
     term: Dedifferentiated Liposarcoma
     term_id: NCIT:C3704
   input:
-  - term: 'Dedifferentiated liposarcoma '
+  - term: Dedifferentiated liposarcoma
     term_id: icdom-88583
   - term: Specified parts of peritoneum
     term_id: icdot-C48.1
@@ -9714,7 +9690,7 @@
     term: Dedifferentiated Liposarcoma
     term_id: NCIT:C3704
   input:
-  - term: 'Dedifferentiated liposarcoma '
+  - term: Dedifferentiated liposarcoma
     term_id: icdom-88583
   - term: Connective, Subcutaneous and other soft tissues of upper limb and shoulder
     term_id: icdot-C49.1
@@ -9724,7 +9700,7 @@
     term: Dedifferentiated Liposarcoma
     term_id: NCIT:C3704
   input:
-  - term: 'Dedifferentiated liposarcoma '
+  - term: Dedifferentiated liposarcoma
     term_id: icdom-88583
   - term: Connective, Subcutaneous and other soft tissues of lower limb and hip
     term_id: icdot-C49.2
@@ -9734,7 +9710,7 @@
     term: Dedifferentiated Liposarcoma
     term_id: NCIT:C3704
   input:
-  - term: 'Dedifferentiated liposarcoma '
+  - term: Dedifferentiated liposarcoma
     term_id: icdom-88583
   - term: thoracic wall
     term_id: icdot-C49.3
@@ -9744,7 +9720,7 @@
     term: Dedifferentiated Liposarcoma
     term_id: NCIT:C3704
   input:
-  - term: 'Dedifferentiated liposarcoma '
+  - term: Dedifferentiated liposarcoma
     term_id: icdom-88583
   - term: Connective, Subcutaneous and other soft tissues of pelvis
     term_id: icdot-C49.5
@@ -9758,7 +9734,7 @@
     term: Dedifferentiated Liposarcoma
     term_id: NCIT:C3704
   input:
-  - term: 'Dedifferentiated liposarcoma '
+  - term: Dedifferentiated liposarcoma
     term_id: icdom-88583
   - term: Connective, subcutaneous and other soft tissues, NOS
     term_id: icdot-C49.9
@@ -9768,7 +9744,7 @@
     term: Dedifferentiated Liposarcoma
     term_id: NCIT:C3704
   input:
-  - term: 'Dedifferentiated liposarcoma '
+  - term: Dedifferentiated liposarcoma
     term_id: icdom-88583
   - term: Spermatic cord
     term_id: icdot-C63.1
@@ -9778,7 +9754,7 @@
     term: Kidney Angiomyolipoma
     term_id: NCIT:C3888
   input:
-  - term: 'Angiomyolipoma '
+  - term: Angiomyolipoma
     term_id: icdom-88600
   - term: Kidney, NOS
     term_id: icdot-C64.9
@@ -9822,7 +9798,7 @@
     term: Leiomyosarcoma
     term_id: NCIT:C3158
   input:
-  - term: 'Leiomyosarcoma,NOS '
+  - term: Leiomyosarcoma,NOS
     term_id: icdom-88903
   - term: Tongue, NOS
     term_id: icdot-C02.9
@@ -9832,7 +9808,7 @@
     term: Leiomyosarcoma
     term_id: NCIT:C3158
   input:
-  - term: 'Leiomyosarcoma,NOS '
+  - term: Leiomyosarcoma,NOS
     term_id: icdom-88903
   - term: Stomach, NOS
     term_id: icdot-C16.9
@@ -9842,7 +9818,7 @@
     term: Leiomyosarcoma
     term_id: NCIT:C3158
   input:
-  - term: 'Leiomyosarcoma,NOS '
+  - term: Leiomyosarcoma,NOS
     term_id: icdom-88903
   - term: Liver
     term_id: icdot-C22.0
@@ -9852,7 +9828,7 @@
     term: Leiomyosarcoma
     term_id: NCIT:C3158
   input:
-  - term: 'Leiomyosarcoma,NOS '
+  - term: Leiomyosarcoma,NOS
     term_id: icdom-88903
   - term: nasal cavity including nasal cartilage
     term_id: icdot-C30.9
@@ -9862,7 +9838,7 @@
     term: Leiomyosarcoma
     term_id: NCIT:C3158
   input:
-  - term: 'Leiomyosarcoma,NOS '
+  - term: Leiomyosarcoma,NOS
     term_id: icdom-88903
   - term: Long bones of lower limb and associated joints
     term_id: icdot-C40.2
@@ -9872,7 +9848,7 @@
     term: Leiomyosarcoma
     term_id: NCIT:C3158
   input:
-  - term: 'Leiomyosarcoma,NOS '
+  - term: Leiomyosarcoma,NOS
     term_id: icdom-88903
   - term: Short bones of lower limb and associated joints
     term_id: icdot-C40.3
@@ -9882,7 +9858,7 @@
     term: Leiomyosarcoma
     term_id: NCIT:C3158
   input:
-  - term: 'Leiomyosarcoma,NOS '
+  - term: Leiomyosarcoma,NOS
     term_id: icdom-88903
   - term: Skin, NOS
     term_id: icdot-C44.9
@@ -9892,7 +9868,7 @@
     term: Leiomyosarcoma
     term_id: NCIT:C3158
   input:
-  - term: 'Leiomyosarcoma,NOS '
+  - term: Leiomyosarcoma,NOS
     term_id: icdom-88903
   - term: Retroperitoneum
     term_id: icdot-C48.0
@@ -9904,7 +9880,7 @@
     term: Leiomyosarcoma
     term_id: NCIT:C3158
   input:
-  - term: 'Leiomyosarcoma,NOS '
+  - term: Leiomyosarcoma,NOS
     term_id: icdom-88903
   - term: retroperitoneum and peritoneum
     term_id: icdot-C48.9
@@ -9914,7 +9890,7 @@
     term: Leiomyosarcoma
     term_id: NCIT:C3158
   input:
-  - term: 'Leiomyosarcoma,NOS '
+  - term: Leiomyosarcoma,NOS
     term_id: icdom-88903
   - term: Connective, Subcutaneous and other soft tissues of upper limb and shoulder
     term_id: icdot-C49.1
@@ -9924,7 +9900,7 @@
     term: Leiomyosarcoma
     term_id: NCIT:C3158
   input:
-  - term: 'Leiomyosarcoma,NOS '
+  - term: Leiomyosarcoma,NOS
     term_id: icdom-88903
   - term: Connective, Subcutaneous and other soft tissues of lower limb and hip
     term_id: icdot-C49.2
@@ -9934,7 +9910,7 @@
     term: Leiomyosarcoma
     term_id: NCIT:C3158
   input:
-  - term: 'Leiomyosarcoma,NOS '
+  - term: Leiomyosarcoma,NOS
     term_id: icdom-88903
   - term: thoracic wall
     term_id: icdot-C49.3
@@ -9944,7 +9920,7 @@
     term: Leiomyosarcoma
     term_id: NCIT:C3158
   input:
-  - term: 'Leiomyosarcoma,NOS '
+  - term: Leiomyosarcoma,NOS
     term_id: icdom-88903
   - term: Connective, subcutaneous and other soft tissues of abdomen
     term_id: icdot-C49.4
@@ -9954,7 +9930,7 @@
     term: Leiomyosarcoma
     term_id: NCIT:C3158
   input:
-  - term: 'Leiomyosarcoma,NOS '
+  - term: Leiomyosarcoma,NOS
     term_id: icdom-88903
   - term: Connective, Subcutaneous and other soft tissues of pelvis
     term_id: icdot-C49.5
@@ -9964,7 +9940,7 @@
     term: Leiomyosarcoma
     term_id: NCIT:C3158
   input:
-  - term: 'Leiomyosarcoma,NOS '
+  - term: Leiomyosarcoma,NOS
     term_id: icdom-88903
   - term: Connective, Subcutaneous and other soft tissues of trunk, NOS
     term_id: icdot-C49.6
@@ -9974,7 +9950,7 @@
     term: Leiomyosarcoma
     term_id: NCIT:C3158
   input:
-  - term: 'Leiomyosarcoma,NOS '
+  - term: Leiomyosarcoma,NOS
     term_id: icdom-88903
   - term: Overlapping lesion of connective, subcutaneous and other soft tissues
     term_id: icdot-C49.8
@@ -9985,23 +9961,14 @@
     - Leiomyosarcoma [Head and neck, cutaneous]
     - Leiomyosarcoma [Large tumor, between 5 and 20 cm]
     - Leiomyosarcoma [Small tumor, less than 5 cm]
-    term: Leiomyosarcoma
-    term_id: NCIT:C3158
-  input:
-  - term: 'Leiomyosarcoma,NOS '
-    term_id: icdom-88903
-  - term: Connective, subcutaneous and other soft tissues, NOS
-    term_id: icdot-C49.9
-- equivalents:
-  - examples:
     - ''
     term: Leiomyosarcoma
     term_id: NCIT:C3158
   input:
-  - term: 'Leiomyosarcoma,NOS '
+  - term: Leiomyosarcoma,NOS
     term_id: icdom-88903
-  - term: 'Connective, subcutaneous and other soft tissues, NOS '
-    term_id: 'icdot-C49.9 '
+  - term: Connective, subcutaneous and other soft tissues, NOS
+    term_id: icdot-C49.9
 - equivalents:
   - examples:
     - Acute B Cell Lymphocytic Leukemia
@@ -10009,7 +9976,7 @@
     term: Vulvar leiomyosarcoma
     term_id: NCIT:C40318
   input:
-  - term: 'Leiomyosarcoma,NOS '
+  - term: Leiomyosarcoma,NOS
     term_id: icdom-88903
   - term: Vulva, NOS
     term_id: icdot-C51.9
@@ -10019,7 +9986,7 @@
     term: Uterine Corpus Leiomyosarcoma
     term_id: NCIT:C6340
   input:
-  - term: 'Leiomyosarcoma,NOS '
+  - term: Leiomyosarcoma,NOS
     term_id: icdom-88903
   - term: Endometrium
     term_id: icdot-C54.1
@@ -10029,7 +9996,7 @@
     term: Uterine Corpus Leiomyosarcoma
     term_id: NCIT:C6340
   input:
-  - term: 'Leiomyosarcoma,NOS '
+  - term: Leiomyosarcoma,NOS
     term_id: icdom-88903
   - term: Myometrium
     term_id: icdot-C54.2
@@ -10039,7 +10006,7 @@
     term: Uterine Corpus Leiomyosarcoma
     term_id: NCIT:C6340
   input:
-  - term: 'Leiomyosarcoma,NOS '
+  - term: Leiomyosarcoma,NOS
     term_id: icdom-88903
   - term: Corpus uteri
     term_id: icdot-C54.9
@@ -10053,7 +10020,7 @@
     term: Uterine Corpus Leiomyosarcoma
     term_id: NCIT:C6340
   input:
-  - term: 'Leiomyosarcoma,NOS '
+  - term: Leiomyosarcoma,NOS
     term_id: icdom-88903
   - term: Uterus, NOS
     term_id: icdot-C55.9
@@ -10063,7 +10030,7 @@
     term: Ovarian leiomyosarcoma
     term_id: NCIT:C5234
   input:
-  - term: 'Leiomyosarcoma,NOS '
+  - term: Leiomyosarcoma,NOS
     term_id: icdom-88903
   - term: Ovary
     term_id: icdot-C56.9
@@ -10073,7 +10040,7 @@
     term: Leiomyosarcoma
     term_id: NCIT:C3158
   input:
-  - term: 'Leiomyosarcoma,NOS '
+  - term: Leiomyosarcoma,NOS
     term_id: icdom-88903
   - term: Kidney, NOS
     term_id: icdot-C64.9
@@ -10083,7 +10050,7 @@
     term: Leiomyosarcoma
     term_id: NCIT:C3158
   input:
-  - term: 'Leiomyosarcoma,NOS '
+  - term: Leiomyosarcoma,NOS
     term_id: icdom-88903
   - term: thorax, NOS
     term_id: icdot-C76.1
@@ -10103,7 +10070,7 @@
     term: Epithelioid Leiomyosarcoma
     term_id: NCIT:C3700
   input:
-  - term: 'Epithelioid leiomyosarcoma '
+  - term: Epithelioid leiomyosarcoma
     term_id: icdom-88913
   - term: Connective, subcutaneous and other soft tissues, NOS
     term_id: icdot-C49.9
@@ -10113,7 +10080,7 @@
     term: Uterine Corpus Epithelioid Leiomyosarcoma
     term_id: NCIT:C40174
   input:
-  - term: 'Epithelioid leiomyosarcoma '
+  - term: Epithelioid leiomyosarcoma
     term_id: icdom-88913
   - term: Endometrium
     term_id: icdot-C54.1
@@ -10144,7 +10111,7 @@
     term: Myxoid Leiomyosarcoma
     term_id: NCIT:C3701
   input:
-  - term: 'Myxoid leiomyosarcoma '
+  - term: Myxoid leiomyosarcoma
     term_id: icdom-88963
   - term: Retroperitoneum
     term_id: icdot-C48.0
@@ -10154,7 +10121,7 @@
     term: Myxoid Leiomyosarcoma
     term_id: NCIT:C3701
   input:
-  - term: 'Myxoid leiomyosarcoma '
+  - term: Myxoid leiomyosarcoma
     term_id: icdom-88963
   - term: fallopian tube
     term_id: icdot-C54.0
@@ -10164,7 +10131,7 @@
     term: Uterine Corpus Myxoid Leiomyosarcoma
     term_id: NCIT:C40175
   input:
-  - term: 'Myxoid leiomyosarcoma '
+  - term: Myxoid leiomyosarcoma
     term_id: icdom-88963
   - term: Corpus uteri
     term_id: icdot-C54.9
@@ -10174,7 +10141,7 @@
     term: Myxoid Leiomyosarcoma
     term_id: NCIT:C3701
   input:
-  - term: 'Myxoid leiomyosarcoma '
+  - term: Myxoid leiomyosarcoma
     term_id: icdom-88963
   - term: Uterus, NOS
     term_id: icdot-C55.9
@@ -10184,7 +10151,7 @@
     term: Uterine Corpus Smooth Muscle Tumor of Uncertain Malignant Potential
     term_id: NCIT:C40177
   input:
-  - term: 'Smooth muscle tumor of uncertain malignant potential '
+  - term: Smooth muscle tumor of uncertain malignant potential
     term_id: icdom-88971
   - term: Corpus uteri
     term_id: icdot-C54.9
@@ -10194,7 +10161,7 @@
     term: Rhabdomyosarcoma
     term_id: NCIT:C3359
   input:
-  - term: 'Rhabdomyosarcoma, NOS '
+  - term: Rhabdomyosarcoma, NOS
     term_id: icdom-89003
   - term: Pleura, NOS
     term_id: icdot-C38.4
@@ -10208,7 +10175,7 @@
     term: Rhabdomyosarcoma
     term_id: NCIT:C3359
   input:
-  - term: 'Rhabdomyosarcoma, NOS '
+  - term: Rhabdomyosarcoma, NOS
     term_id: icdom-89003
   - term: Connective, subcutaneous and other soft tissues, NOS
     term_id: icdot-C49.9
@@ -10218,7 +10185,7 @@
     term: Pleomorphic Rhabdomyosarcoma
     term_id: NCIT:C4258
   input:
-  - term: 'Pleomorphic rhabdomyosarcoma, adult type '
+  - term: Pleomorphic rhabdomyosarcoma, adult type
     term_id: icdom-89013
   - term: Connective, subcutaneous and other soft tissues of abdomen
     term_id: icdot-C49.4
@@ -10232,7 +10199,7 @@
     term: Adult Pleomorphic Rhabdomyosarcoma
     term_id: NCIT:C27369
   input:
-  - term: 'Pleomorphic rhabdomyosarcoma, adult type '
+  - term: Pleomorphic rhabdomyosarcoma, adult type
     term_id: icdom-89013
   - term: Connective, subcutaneous and other soft tissues, NOS
     term_id: icdot-C49.9
@@ -10242,7 +10209,7 @@
     term: Embryonal Rhabdomyosarcoma
     term_id: NCIT:C8971
   input:
-  - term: 'Embryonal rhabdomyosarcoma, NOS '
+  - term: Embryonal rhabdomyosarcoma, NOS
     term_id: icdom-89103
   - term: Nasopharynx, NOS
     term_id: icdot-C11.9
@@ -10252,7 +10219,7 @@
     term: Embryonal Rhabdomyosarcoma
     term_id: NCIT:C8971
   input:
-  - term: 'Embryonal rhabdomyosarcoma, NOS '
+  - term: Embryonal rhabdomyosarcoma, NOS
     term_id: icdom-89103
   - term: Middle ear
     term_id: icdot-C30.1
@@ -10262,7 +10229,7 @@
     term: Embryonal Rhabdomyosarcoma
     term_id: NCIT:C8971
   input:
-  - term: 'Embryonal rhabdomyosarcoma, NOS '
+  - term: Embryonal rhabdomyosarcoma, NOS
     term_id: icdom-89103
   - term: Bone, NOS
     term_id: icdot-C41.9
@@ -10273,7 +10240,7 @@
     term: Embryonal Rhabdomyosarcoma
     term_id: NCIT:C8971
   input:
-  - term: 'Embryonal rhabdomyosarcoma, NOS '
+  - term: Embryonal rhabdomyosarcoma, NOS
     term_id: icdom-89103
   - term: Connective, subcutaneous and other soft tissues of abdomen
     term_id: icdot-C49.4
@@ -10285,7 +10252,7 @@
     term: Embryonal Rhabdomyosarcoma
     term_id: NCIT:C8971
   input:
-  - term: 'Embryonal rhabdomyosarcoma, NOS '
+  - term: Embryonal rhabdomyosarcoma, NOS
     term_id: icdom-89103
   - term: Connective, subcutaneous and other soft tissues, NOS
     term_id: icdot-C49.9
@@ -10295,7 +10262,7 @@
     term: Embryonal Rhabdomyosarcoma
     term_id: NCIT:C8971
   input:
-  - term: 'Embryonal rhabdomyosarcoma, NOS '
+  - term: Embryonal rhabdomyosarcoma, NOS
     term_id: icdom-89103
   - term: Prostate gland
     term_id: icdot-C61.9
@@ -10305,7 +10272,7 @@
     term: Embryonal Rhabdomyosarcoma
     term_id: NCIT:C8971
   input:
-  - term: 'Embryonal rhabdomyosarcoma, NOS '
+  - term: Embryonal rhabdomyosarcoma, NOS
     term_id: icdom-89103
   - term: Testis, NOS
     term_id: icdot-C62.9
@@ -10315,7 +10282,7 @@
     term: Embryonal Rhabdomyosarcoma
     term_id: NCIT:C8971
   input:
-  - term: 'Embryonal rhabdomyosarcoma, NOS '
+  - term: Embryonal rhabdomyosarcoma, NOS
     term_id: icdom-89103
   - term: Kidney, NOS
     term_id: icdot-C64.9
@@ -10325,7 +10292,7 @@
     term: Embryonal Rhabdomyosarcoma
     term_id: NCIT:C8971
   input:
-  - term: 'Embryonal rhabdomyosarcoma, NOS '
+  - term: Embryonal rhabdomyosarcoma, NOS
     term_id: icdom-89103
   - term: Bladder, NOS
     term_id: icdot-C67.9
@@ -10335,7 +10302,7 @@
     term: Embryonal Rhabdomyosarcoma
     term_id: NCIT:C8971
   input:
-  - term: 'Embryonal rhabdomyosarcoma, NOS '
+  - term: Embryonal rhabdomyosarcoma, NOS
     term_id: icdom-89103
   - term: abdomen, NOS
     term_id: icdot-C76.2
@@ -10345,7 +10312,7 @@
     term: Spindle Cell Rhabdomyosarcoma
     term_id: NCIT:C6519
   input:
-  - term: 'Spindle cell rhabdomyosarcoma '
+  - term: Spindle cell rhabdomyosarcoma
     term_id: icdom-89123
   - term: Connective, subcutaneous and other soft tissues, NOS
     term_id: icdot-C49.9
@@ -10355,7 +10322,7 @@
     term: Alveolar Rhabdomyosarcoma
     term_id: NCIT:C3749
   input:
-  - term: 'Alveolar rhabdomyosarcoma '
+  - term: Alveolar rhabdomyosarcoma
     term_id: icdom-89203
   - term: Lung, NOS
     term_id: icdot-C34.9
@@ -10368,7 +10335,7 @@
     term: Alveolar Rhabdomyosarcoma
     term_id: NCIT:C3749
   input:
-  - term: 'Alveolar rhabdomyosarcoma '
+  - term: Alveolar rhabdomyosarcoma
     term_id: icdom-89203
   - term: Connective, subcutaneous and other soft tissues, NOS
     term_id: icdot-C49.9
@@ -10379,7 +10346,7 @@
     term: Endometrioid Stromal Sarcoma
     term_id: NCIT:C8973
   input:
-  - term: 'Endometrial stromal sarcoma, NOS '
+  - term: Endometrial stromal sarcoma, NOS
     term_id: icdom-89303
   - term: Endometrium
     term_id: icdot-C54.1
@@ -10389,7 +10356,7 @@
     term: Endometrioid Stromal Sarcoma
     term_id: NCIT:C8973
   input:
-  - term: 'Endometrial stromal sarcoma, NOS '
+  - term: Endometrial stromal sarcoma, NOS
     term_id: icdom-89303
   - term: Uterus, NOS
     term_id: icdot-C55.9
@@ -10400,7 +10367,7 @@
     term: Low Grade Endometrioid Stromal Sarcoma
     term_id: NCIT:C4263
   input:
-  - term: 'Endometrial stromal sarcoma, low grade '
+  - term: Endometrial stromal sarcoma, low grade
     term_id: icdom-89313
   - term: Endometrium
     term_id: icdot-C54.1
@@ -10410,7 +10377,7 @@
     term: Uterine Corpus Adenosarcoma
     term_id: NCIT:C6336
   input:
-  - term: 'Adenosarcoma '
+  - term: Adenosarcoma
     term_id: icdom-89333
   - term: Corpus uteri
     term_id: icdot-C54.9
@@ -10420,7 +10387,7 @@
     term: Uterine Corpus Adenosarcoma
     term_id: NCIT:C6336
   input:
-  - term: 'Adenosarcoma '
+  - term: Adenosarcoma
     term_id: icdom-89333
   - term: Uterus, NOS
     term_id: icdot-C55.9
@@ -10430,7 +10397,7 @@
     term: Ovarian adenosarcoma
     term_id: NCIT:C7317
   input:
-  - term: 'Adenosarcoma '
+  - term: Adenosarcoma
     term_id: icdom-89333
   - term: Ovary
     term_id: icdot-C56.9
@@ -10444,7 +10411,7 @@
     term: Gastrointestinal Stromal Tumor
     term_id: NCIT:C3868
   input:
-  - term: 'Gastrointestinal stromal tumor, NOS '
+  - term: Gastrointestinal stromal tumor, NOS
     term_id: icdom-89361
   - term: Stomach, NOS
     term_id: icdot-C16.9
@@ -10456,7 +10423,7 @@
     term: Small Intestinal Gastrointestinal Stromal Tumor
     term_id: NCIT:C5811
   input:
-  - term: 'Gastrointestinal stromal tumor, NOS '
+  - term: Gastrointestinal stromal tumor, NOS
     term_id: icdom-89361
   - term: Small intestine, NOS
     term_id: icdot-C17.9
@@ -10466,7 +10433,7 @@
     term: Gastrointestinal Stromal Tumor
     term_id: NCIT:C3868
   input:
-  - term: 'Gastrointestinal stromal tumor, NOS '
+  - term: Gastrointestinal stromal tumor, NOS
     term_id: icdom-89361
   - term: Colon, NOS
     term_id: icdot-C18.9
@@ -10476,7 +10443,7 @@
     term: Gastrointestinal Stromal Tumor
     term_id: NCIT:C3868
   input:
-  - term: 'Gastrointestinal stromal tumor, NOS '
+  - term: Gastrointestinal stromal tumor, NOS
     term_id: icdom-89361
   - term: Rectum, NOS
     term_id: icdot-C20.9
@@ -10486,7 +10453,7 @@
     term: Gastrointestinal Stromal Tumor
     term_id: NCIT:C3868
   input:
-  - term: 'Gastrointestinal stromal tumor, NOS '
+  - term: Gastrointestinal stromal tumor, NOS
     term_id: icdom-89361
   - term: Pleura, NOS
     term_id: icdot-C38.4
@@ -10496,7 +10463,7 @@
     term: Gastrointestinal Stromal Tumor
     term_id: NCIT:C3868
   input:
-  - term: 'Gastrointestinal stromal tumor, NOS '
+  - term: Gastrointestinal stromal tumor, NOS
     term_id: icdom-89361
   - term: Mediastinum
     term_id: icdot-C38.9
@@ -10506,7 +10473,7 @@
     term: Gastrointestinal Stromal Tumor
     term_id: NCIT:C3868
   input:
-  - term: 'Gastrointestinal stromal tumor, NOS '
+  - term: Gastrointestinal stromal tumor, NOS
     term_id: icdom-89361
   - term: Autonomic nervous system, NOS
     term_id: icdot-C47.9
@@ -10516,7 +10483,7 @@
     term: Gastrointestinal Stromal Tumor
     term_id: NCIT:C3868
   input:
-  - term: 'Gastrointestinal stromal tumor, NOS '
+  - term: Gastrointestinal stromal tumor, NOS
     term_id: icdom-89361
   - term: Connective, subcutaneous and other soft tissues, NOS
     term_id: icdot-C49.9
@@ -10526,7 +10493,7 @@
     term: Gastrointestinal Stromal Tumor
     term_id: NCIT:C3868
   input:
-  - term: 'Gastrointestinal stromal tumor, NOS '
+  - term: Gastrointestinal stromal tumor, NOS
     term_id: icdom-89361
   - term: vagina and labia
     term_id: icdot-C51.0
@@ -10536,7 +10503,7 @@
     term: Gastrointestinal Stromal Tumor
     term_id: NCIT:C3868
   input:
-  - term: 'Gastrointestinal stromal tumor, NOS '
+  - term: Gastrointestinal stromal tumor, NOS
     term_id: icdom-89361
   - term: abdomen, NOS
     term_id: icdot-C76.2
@@ -10579,7 +10546,7 @@
     term: Gastric Signet Ring Cell Adenocarcinoma
     term_id: NCIT:C5250
   input:
-  - term: 'Mixedtumor,malignant,NOS '
+  - term: Mixedtumor,malignant,NOS
     term_id: icdom-89403
   - term: Stomach, NOS
     term_id: icdot-C16.9
@@ -10589,7 +10556,7 @@
     term: Ovarian Seromucinous Carcinoma
     term_id: NCIT:C40090
   input:
-  - term: 'Mixedtumor,malignant,NOS '
+  - term: Mixedtumor,malignant,NOS
     term_id: icdom-89403
   - term: Ovary
     term_id: icdot-C56.9
@@ -10663,7 +10630,7 @@
     term: Kidney Wilms Tumor
     term_id: NCIT:C40407
   input:
-  - term: 'Nephroblastoma,NOS '
+  - term: Nephroblastoma,NOS
     term_id: icdom-89603
   - term: Kidney, NOS
     term_id: icdot-C64.9
@@ -10741,7 +10708,7 @@
     term: Hepatoblastoma
     term_id: NCIT:C3728
   input:
-  - term: 'Hepatoblastoma '
+  - term: Hepatoblastoma
     term_id: icdom-89703
   - term: Liver
     term_id: icdot-C22.0
@@ -10752,7 +10719,7 @@
     term: Pancreatoblastoma
     term_id: NCIT:C4265
   input:
-  - term: 'Pancreatoblastoma '
+  - term: Pancreatoblastoma
     term_id: icdom-89713
   - term: Pancreas, NOS
     term_id: icdot-C25.9
@@ -10784,7 +10751,7 @@
     term: Carcinosarcoma
     term_id: NCIT:C34448
   input:
-  - term: 'Carcinosarcoma, NOS '
+  - term: Carcinosarcoma, NOS
     term_id: icdom-89803
   - term: Connective, subcutaneous and other soft tissues, NOS
     term_id: icdot-C49.9
@@ -10794,7 +10761,7 @@
     term: Uterine Corpus Carcinosarcoma
     term_id: NCIT:C9180
   input:
-  - term: 'Carcinosarcoma, NOS '
+  - term: Carcinosarcoma, NOS
     term_id: icdom-89803
   - term: fallopian tube
     term_id: icdot-C54.0
@@ -10804,7 +10771,7 @@
     term: Uterine Corpus Carcinosarcoma
     term_id: NCIT:C9180
   input:
-  - term: 'Carcinosarcoma, NOS '
+  - term: Carcinosarcoma, NOS
     term_id: icdom-89803
   - term: Endometrium
     term_id: icdot-C54.1
@@ -10814,7 +10781,7 @@
     term: Uterine Corpus Carcinosarcoma
     term_id: NCIT:C9180
   input:
-  - term: 'Carcinosarcoma, NOS '
+  - term: Carcinosarcoma, NOS
     term_id: icdom-89803
   - term: Fundus uteri
     term_id: icdot-C54.3
@@ -10824,7 +10791,7 @@
     term: Uterine Corpus Carcinosarcoma
     term_id: NCIT:C9180
   input:
-  - term: 'Carcinosarcoma, NOS '
+  - term: Carcinosarcoma, NOS
     term_id: icdom-89803
   - term: Corpus uteri
     term_id: icdot-C54.9
@@ -10839,7 +10806,7 @@
     term: Uterine carcinosarcoma
     term_id: NCIT:C42700
   input:
-  - term: 'Carcinosarcoma, NOS '
+  - term: Carcinosarcoma, NOS
     term_id: icdom-89803
   - term: Uterus, NOS
     term_id: icdot-C55.9
@@ -10856,7 +10823,7 @@
     term: Carcinosarcoma
     term_id: NCIT:C34448
   input:
-  - term: 'Carcinosarcoma, NOS '
+  - term: Carcinosarcoma, NOS
     term_id: icdom-89803
   - term: Ovary
     term_id: icdot-C56.9
@@ -10869,7 +10836,7 @@
   input:
   - term: Myoepithelioma
     term_id: icdom-89820
-  - term: 'Parotid gland '
+  - term: Parotid gland
     term_id: icdot-C07.9
 - equivalents:
   - examples:
@@ -10904,9 +10871,9 @@
     term: Malignant Myoepithelioma
     term_id: NCIT:C7596
   input:
-  - term: 'Malignant myoepithelioma '
+  - term: Malignant myoepithelioma
     term_id: icdom-89823
-  - term: 'Parotid gland '
+  - term: Parotid gland
     term_id: icdot-C07.9
 - equivalents:
   - examples:
@@ -10922,7 +10889,7 @@
     term: Salivary Gland Myoepithelial Carcinoma
     term_id: NCIT:C35700
   input:
-  - term: 'Malignant myoepithelioma '
+  - term: Malignant myoepithelioma
     term_id: icdom-89823
   - term: Major salivary gland, NOS
     term_id: icdot-C08.9
@@ -10932,7 +10899,7 @@
     term: Malignant Myoepithelioma
     term_id: NCIT:C7596
   input:
-  - term: 'Malignant myoepithelioma '
+  - term: Malignant myoepithelioma
     term_id: icdom-89823
   - term: Connective, subcutaneous and other soft tissues, NOS
     term_id: icdot-C49.9
@@ -10984,7 +10951,7 @@
     term: Malignant Breast Phyllodes Tumor
     term_id: NCIT:C4504
   input:
-  - term: 'Phyllodes tumor, malignant '
+  - term: Phyllodes tumor, malignant
     term_id: icdom-90203
   - term: Breast, NOS
     term_id: icdot-C50.9
@@ -10994,7 +10961,7 @@
     term: Synovial Sarcoma
     term_id: NCIT:C3400
   input:
-  - term: 'Synovialsarcoma,NOS '
+  - term: Synovialsarcoma,NOS
     term_id: icdom-90403
   - term: Skin, NOS
     term_id: icdot-C44.9
@@ -11004,7 +10971,7 @@
     term: Synovial Sarcoma
     term_id: NCIT:C3400
   input:
-  - term: 'Synovialsarcoma,NOS '
+  - term: Synovialsarcoma,NOS
     term_id: icdom-90403
   - term: Connective, Subcutaneous and other soft tissues of upper limb and shoulder
     term_id: icdot-C49.1
@@ -11014,7 +10981,7 @@
     term: Synovial Sarcoma
     term_id: NCIT:C3400
   input:
-  - term: 'Synovialsarcoma,NOS '
+  - term: Synovialsarcoma,NOS
     term_id: icdom-90403
   - term: thoracic wall
     term_id: icdot-C49.3
@@ -11028,7 +10995,7 @@
     term: Synovial Sarcoma
     term_id: NCIT:C3400
   input:
-  - term: 'Synovialsarcoma,NOS '
+  - term: Synovialsarcoma,NOS
     term_id: icdom-90403
   - term: Connective, subcutaneous and other soft tissues, NOS
     term_id: icdot-C49.9
@@ -11122,7 +11089,7 @@
     term: Clear Cell Sarcoma of Soft Tissue
     term_id: NCIT:C3745
   input:
-  - term: 'Clearcellsarcoma,NOS '
+  - term: Clearcellsarcoma,NOS
     term_id: icdom-90443
   - term: Connective, subcutaneous and other soft tissues, NOS
     term_id: icdot-C49.9
@@ -11136,7 +11103,7 @@
     term: Malignant Mesothelioma
     term_id: NCIT:C4456
   input:
-  - term: 'Mesothelioma, malignant '
+  - term: Mesothelioma, malignant
     term_id: icdom-90503
   - term: Lung, NOS
     term_id: icdot-C34.9
@@ -11154,7 +11121,7 @@
     term: Pleural Malignant Mesothelioma
     term_id: NCIT:C7376
   input:
-  - term: 'Mesothelioma, malignant '
+  - term: Mesothelioma, malignant
     term_id: icdom-90503
   - term: Pleura, NOS
     term_id: icdot-C38.4
@@ -11164,7 +11131,7 @@
     term: Peritoneal Mesothelioma
     term_id: NCIT:C7633
   input:
-  - term: 'Mesothelioma, malignant '
+  - term: Mesothelioma, malignant
     term_id: icdom-90503
   - term: Peritoneum, NOS
     term_id: icdot-C48.2
@@ -11178,7 +11145,7 @@
     term: Malignant Mesothelioma
     term_id: NCIT:C4456
   input:
-  - term: 'Mesothelioma, malignant '
+  - term: Mesothelioma, malignant
     term_id: icdom-90503
   - term: Connective, subcutaneous and other soft tissues, NOS
     term_id: icdot-C49.9
@@ -11188,7 +11155,7 @@
     term: Mesothelioma
     term_id: NCIT:C3234
   input:
-  - term: 'Mesothelioma, malignant '
+  - term: Mesothelioma, malignant
     term_id: icdom-90503
   - term: Testis, NOS
     term_id: icdot-C62.9
@@ -11237,7 +11204,7 @@
     term: Pleural Sarcomatoid Mesothelioma
     term_id: NCIT:C45663
   input:
-  - term: 'Fibrous mesothelioma, malignant '
+  - term: Fibrous mesothelioma, malignant
     term_id: icdom-90513
   - term: Pleura, NOS
     term_id: icdot-C38.4
@@ -11249,7 +11216,7 @@
     term: Sarcomatoid Mesothelioma
     term_id: NCIT:C45655
   input:
-  - term: 'Fibrous mesothelioma, malignant '
+  - term: Fibrous mesothelioma, malignant
     term_id: icdom-90513
   - term: Connective, subcutaneous and other soft tissues, NOS
     term_id: icdot-C49.9
@@ -11259,7 +11226,7 @@
     term: Epithelioid Mesothelioma
     term_id: NCIT:C7985
   input:
-  - term: 'Epithelioid mesothelioma, malignant '
+  - term: Epithelioid mesothelioma, malignant
     term_id: icdom-90523
   - term: Lung, NOS
     term_id: icdot-C34.9
@@ -11280,7 +11247,7 @@
     term: Pleural Epithelioid Mesothelioma
     term_id: NCIT:C45662
   input:
-  - term: 'Epithelioid mesothelioma, malignant '
+  - term: Epithelioid mesothelioma, malignant
     term_id: icdom-90523
   - term: Pleura, NOS
     term_id: icdot-C38.4
@@ -11290,7 +11257,7 @@
     term: Epithelioid Mesothelioma
     term_id: NCIT:C7985
   input:
-  - term: 'Epithelioid mesothelioma, malignant '
+  - term: Epithelioid mesothelioma, malignant
     term_id: icdom-90523
   - term: Connective, subcutaneous and other soft tissues, NOS
     term_id: icdot-C49.9
@@ -11303,7 +11270,7 @@
     term: Pleural Biphasic Mesothelioma
     term_id: NCIT:C45665
   input:
-  - term: 'Mesothelioma, biphasic, malignant '
+  - term: Mesothelioma, biphasic, malignant
     term_id: icdom-90533
   - term: Pleura, NOS
     term_id: icdot-C38.4
@@ -11341,7 +11308,7 @@
     term: Seminoma
     term_id: NCIT:C9309
   input:
-  - term: 'Seminoma, NOS '
+  - term: Seminoma, NOS
     term_id: icdom-90613
   - term: Testis, NOS
     term_id: icdot-C62.9
@@ -11351,7 +11318,7 @@
     term: Seminoma
     term_id: NCIT:C9309
   input:
-  - term: 'Seminoma, NOS '
+  - term: Seminoma, NOS
     term_id: icdom-90613
   - term: epididymis, spermatic cord, male genital, nos
     term_id: icdot-C63.9
@@ -11414,7 +11381,7 @@
     term: Malignant Testicular Non-Seminomatous Germ Cell Tumor
     term_id: NCIT:C5027
   input:
-  - term: 'Germ cell tumor, nonseminomatous '
+  - term: Germ cell tumor, nonseminomatous
     term_id: icdom-90653
   - term: Testis, NOS
     term_id: icdot-C62.9
@@ -11424,7 +11391,7 @@
     term: Nongerminomatous Germ Cell Tumor
     term_id: NCIT:C121619
   input:
-  - term: 'Germ cell tumor, nonseminomatous '
+  - term: Germ cell tumor, nonseminomatous
     term_id: icdom-90653
   - term: epididymis, spermatic cord, male genital, nos
     term_id: icdot-C63.9
@@ -11434,7 +11401,7 @@
     term: Embryonal Carcinoma
     term_id: NCIT:C3752
   input:
-  - term: 'Embryonal carcinoma, NOS '
+  - term: Embryonal carcinoma, NOS
     term_id: icdom-90703
   - term: Lung, NOS
     term_id: icdot-C34.9
@@ -11444,7 +11411,7 @@
     term: Embryonal Carcinoma
     term_id: NCIT:C3752
   input:
-  - term: 'Embryonal carcinoma, NOS '
+  - term: Embryonal carcinoma, NOS
     term_id: icdom-90703
   - term: Ovary
     term_id: icdot-C56.9
@@ -11457,7 +11424,7 @@
     term: Embryonal Carcinoma
     term_id: NCIT:C3752
   input:
-  - term: 'Embryonal carcinoma, NOS '
+  - term: Embryonal carcinoma, NOS
     term_id: icdom-90703
   - term: Testis, NOS
     term_id: icdot-C62.9
@@ -11467,7 +11434,7 @@
     term: Embryonal Carcinoma
     term_id: NCIT:C3752
   input:
-  - term: 'Embryonal carcinoma, NOS '
+  - term: Embryonal carcinoma, NOS
     term_id: icdom-90703
   - term: Brain, NOS
     term_id: icdot-C71.9
@@ -11477,7 +11444,7 @@
     term: Embryonal Carcinoma
     term_id: NCIT:C3752
   input:
-  - term: 'Embryonal carcinoma, NOS '
+  - term: Embryonal carcinoma, NOS
     term_id: icdom-90703
   - term: Spinal cord
     term_id: icdot-C72.0
@@ -11487,7 +11454,7 @@
     term: Yolk Sac Tumor
     term_id: NCIT:C3011
   input:
-  - term: 'Yolk sac tumor '
+  - term: Yolk sac tumor
     term_id: icdom-90713
   - term: Lung, NOS
     term_id: icdot-C34.9
@@ -11501,7 +11468,7 @@
     term: Yolk Sac Tumor
     term_id: NCIT:C3011
   input:
-  - term: 'Yolk sac tumor '
+  - term: Yolk sac tumor
     term_id: icdom-90713
   - term: Mediastinum
     term_id: icdot-C38.9
@@ -11511,7 +11478,7 @@
     term: Yolk Sac Tumor
     term_id: NCIT:C3011
   input:
-  - term: 'Yolk sac tumor '
+  - term: Yolk sac tumor
     term_id: icdom-90713
   - term: Bones and joints
     term_id: icdot-C40.0
@@ -11521,7 +11488,7 @@
     term: Yolk Sac Tumor
     term_id: NCIT:C3011
   input:
-  - term: 'Yolk sac tumor '
+  - term: Yolk sac tumor
     term_id: icdom-90713
   - term: Uterus, NOS
     term_id: icdot-C55.9
@@ -11534,7 +11501,7 @@
     term: Yolk Sac Tumor
     term_id: NCIT:C3011
   input:
-  - term: 'Yolk sac tumor '
+  - term: Yolk sac tumor
     term_id: icdom-90713
   - term: Testis, NOS
     term_id: icdot-C62.9
@@ -11548,7 +11515,7 @@
     term: Yolk Sac Tumor
     term_id: NCIT:C3011
   input:
-  - term: 'Yolk sac tumor '
+  - term: Yolk sac tumor
     term_id: icdom-90713
   - term: Brain, NOS
     term_id: icdot-C71.9
@@ -11558,7 +11525,7 @@
     term: Yolk Sac Tumor
     term_id: NCIT:C3011
   input:
-  - term: 'Yolk sac tumor '
+  - term: Yolk sac tumor
     term_id: icdom-90713
   - term: Pineal gland
     term_id: icdot-C75.3
@@ -11568,7 +11535,7 @@
     term: Mature Teratoma
     term_id: NCIT:C9015
   input:
-  - term: 'Teratoma, benign '
+  - term: Teratoma, benign
     term_id: icdom-90800
   - term: Bones and joints
     term_id: icdot-C40.0
@@ -11578,7 +11545,7 @@
     term: Mature Teratoma
     term_id: NCIT:C9015
   input:
-  - term: 'Teratoma, benign '
+  - term: Teratoma, benign
     term_id: icdom-90800
   - term: retroperitoneum and peritoneum
     term_id: icdot-C48.9
@@ -11589,7 +11556,7 @@
     term: Mature Teratoma
     term_id: NCIT:C9015
   input:
-  - term: 'Teratoma, benign '
+  - term: Teratoma, benign
     term_id: icdom-90800
   - term: Ovary
     term_id: icdot-C56.9
@@ -11600,7 +11567,7 @@
     term: Mature Teratoma
     term_id: NCIT:C9015
   input:
-  - term: 'Teratoma, benign '
+  - term: Teratoma, benign
     term_id: icdom-90800
   - term: Testis, NOS
     term_id: icdot-C62.9
@@ -11611,7 +11578,7 @@
     term: Mature Teratoma
     term_id: NCIT:C9015
   input:
-  - term: 'Teratoma, benign '
+  - term: Teratoma, benign
     term_id: icdom-90800
   - term: Brain, NOS
     term_id: icdot-C71.9
@@ -11621,7 +11588,7 @@
     term: Mature Teratoma
     term_id: NCIT:C9015
   input:
-  - term: 'Teratoma, benign '
+  - term: Teratoma, benign
     term_id: icdom-90800
   - term: Spinal cord
     term_id: icdot-C72.0
@@ -11631,7 +11598,7 @@
     term: Mature Teratoma
     term_id: NCIT:C9015
   input:
-  - term: 'Teratoma, benign '
+  - term: Teratoma, benign
     term_id: icdom-90800
   - term: Lymph node, NOS
     term_id: icdot-C77.9
@@ -11641,7 +11608,7 @@
     term: Teratoma
     term_id: NCIT:C3403
   input:
-  - term: 'Teratoma, NOS '
+  - term: Teratoma, NOS
     term_id: icdom-90801
   - term: Testis, NOS
     term_id: icdot-C62.9
@@ -11653,7 +11620,7 @@
     term: Immature Teratoma
     term_id: NCIT:C4286
   input:
-  - term: 'Teratoma,malignant,NOS '
+  - term: Teratoma,malignant,NOS
     term_id: icdom-90803
   - term: Mediastinum
     term_id: icdot-C38.9
@@ -11664,7 +11631,7 @@
     term: Immature Teratoma
     term_id: NCIT:C4286
   input:
-  - term: 'Teratoma,malignant,NOS '
+  - term: Teratoma,malignant,NOS
     term_id: icdom-90803
   - term: Bones and joints
     term_id: icdot-C40.0
@@ -11674,7 +11641,7 @@
     term: Immature Teratoma
     term_id: NCIT:C4286
   input:
-  - term: 'Teratoma,malignant,NOS '
+  - term: Teratoma,malignant,NOS
     term_id: icdom-90803
   - term: Bone, NOS
     term_id: icdot-C41.9
@@ -11686,7 +11653,7 @@
     term: Immature Teratoma
     term_id: NCIT:C4286
   input:
-  - term: 'Teratoma,malignant,NOS '
+  - term: Teratoma,malignant,NOS
     term_id: icdom-90803
   - term: Connective, subcutaneous and other soft tissues, NOS
     term_id: icdot-C49.9
@@ -11698,7 +11665,7 @@
     term: Immature Teratoma
     term_id: NCIT:C4286
   input:
-  - term: 'Teratoma,malignant,NOS '
+  - term: Teratoma,malignant,NOS
     term_id: icdom-90803
   - term: Ovary
     term_id: icdot-C56.9
@@ -11712,7 +11679,7 @@
     term: Immature Teratoma
     term_id: NCIT:C4286
   input:
-  - term: 'Teratoma,malignant,NOS '
+  - term: Teratoma,malignant,NOS
     term_id: icdom-90803
   - term: Testis, NOS
     term_id: icdot-C62.9
@@ -11722,7 +11689,7 @@
     term: Immature Teratoma
     term_id: NCIT:C4286
   input:
-  - term: 'Teratoma,malignant,NOS '
+  - term: Teratoma,malignant,NOS
     term_id: icdom-90803
   - term: Kidney, NOS
     term_id: icdot-C64.9
@@ -11734,7 +11701,7 @@
     term: Immature Teratoma
     term_id: NCIT:C4286
   input:
-  - term: 'Teratoma,malignant,NOS '
+  - term: Teratoma,malignant,NOS
     term_id: icdom-90803
   - term: Brain, NOS
     term_id: icdot-C71.9
@@ -11745,7 +11712,7 @@
     term: Immature Teratoma
     term_id: NCIT:C4286
   input:
-  - term: 'Teratoma,malignant,NOS '
+  - term: Teratoma,malignant,NOS
     term_id: icdom-90803
   - term: Pineal gland
     term_id: icdot-C75.3
@@ -11755,7 +11722,7 @@
     term: Immature Teratoma
     term_id: NCIT:C4286
   input:
-  - term: 'Teratoma,malignant,NOS '
+  - term: Teratoma,malignant,NOS
     term_id: icdom-90803
   - term: Unknown primary site
     term_id: icdot-C80.9
@@ -11815,7 +11782,7 @@
     term: Teratoma with Somatic-Type Malignancy
     term_id: NCIT:C4289
   input:
-  - term: 'Teratomawithmalignanttransformation '
+  - term: Teratomawithmalignanttransformation
     term_id: icdom-90843
   - term: Testis, NOS
     term_id: icdot-C62.9
@@ -11825,7 +11792,7 @@
     term: Mixed Germ Cell Tumor
     term_id: NCIT:C4290
   input:
-  - term: 'Mixed germ cell tumor '
+  - term: Mixed germ cell tumor
     term_id: icdom-90853
   - term: Liver
     term_id: icdot-C22.0
@@ -11836,7 +11803,7 @@
     term: Mixed Germ Cell Tumor
     term_id: NCIT:C4290
   input:
-  - term: 'Mixed germ cell tumor '
+  - term: Mixed germ cell tumor
     term_id: icdom-90853
   - term: Lung, NOS
     term_id: icdot-C34.9
@@ -11855,7 +11822,7 @@
     term: Mixed Germ Cell Tumor
     term_id: NCIT:C4290
   input:
-  - term: 'Mixed germ cell tumor '
+  - term: Mixed germ cell tumor
     term_id: icdom-90853
   - term: Mediastinum
     term_id: icdot-C38.9
@@ -11866,7 +11833,7 @@
     term: Mixed Germ Cell Tumor
     term_id: NCIT:C4290
   input:
-  - term: 'Mixed germ cell tumor '
+  - term: Mixed germ cell tumor
     term_id: icdom-90853
   - term: Connective, subcutaneous and other soft tissues, NOS
     term_id: icdot-C49.9
@@ -11877,7 +11844,7 @@
     term: Mixed Germ Cell Tumor
     term_id: NCIT:C4290
   input:
-  - term: 'Mixed germ cell tumor '
+  - term: Mixed germ cell tumor
     term_id: icdom-90853
   - term: Ovary
     term_id: icdot-C56.9
@@ -11892,7 +11859,7 @@
     term: Mixed Germ Cell Tumor
     term_id: NCIT:C4290
   input:
-  - term: 'Mixed germ cell tumor '
+  - term: Mixed germ cell tumor
     term_id: icdom-90853
   - term: Testis, NOS
     term_id: icdot-C62.9
@@ -11902,7 +11869,7 @@
     term: Mixed Germ Cell Tumor
     term_id: NCIT:C4290
   input:
-  - term: 'Mixed germ cell tumor '
+  - term: Mixed germ cell tumor
     term_id: icdom-90853
   - term: Adrenal gland, NOS
     term_id: icdot-C74.9
@@ -11923,7 +11890,7 @@
     term: Gastric choriocarcinoma
     term_id: NCIT:C95749
   input:
-  - term: 'Choriocarcinoma, NOS '
+  - term: Choriocarcinoma, NOS
     term_id: icdom-91003
   - term: Stomach, NOS
     term_id: icdot-C16.9
@@ -11934,7 +11901,7 @@
     term: Choriocarcinoma
     term_id: NCIT:C2948
   input:
-  - term: 'Choriocarcinoma, NOS '
+  - term: Choriocarcinoma, NOS
     term_id: icdom-91003
   - term: Rectum, NOS
     term_id: icdot-C20.9
@@ -11944,7 +11911,7 @@
     term: Choriocarcinoma
     term_id: NCIT:C2948
   input:
-  - term: 'Choriocarcinoma, NOS '
+  - term: Choriocarcinoma, NOS
     term_id: icdom-91003
   - term: Mediastinum
     term_id: icdot-C38.9
@@ -11959,7 +11926,7 @@
     term: Choriocarcinoma
     term_id: NCIT:C2948
   input:
-  - term: 'Choriocarcinoma, NOS '
+  - term: Choriocarcinoma, NOS
     term_id: icdom-91003
   - term: Uterus, NOS
     term_id: icdot-C55.9
@@ -11969,7 +11936,7 @@
     term: Placental Choriocarcinoma
     term_id: NCIT:C8893
   input:
-  - term: 'Choriocarcinoma, NOS '
+  - term: Choriocarcinoma, NOS
     term_id: icdom-91003
   - term: Placenta
     term_id: icdot-C58.9
@@ -11980,7 +11947,7 @@
     term: Choriocarcinoma
     term_id: NCIT:C2948
   input:
-  - term: 'Choriocarcinoma, NOS '
+  - term: Choriocarcinoma, NOS
     term_id: icdom-91003
   - term: ill-defined
     term_id: icdot-C76.9
@@ -12012,7 +11979,7 @@
     term: Angiosarcoma
     term_id: NCIT:C3088
   input:
-  - term: 'Hemangiosarcoma '
+  - term: Hemangiosarcoma
     term_id: icdom-91203
   - term: Bones and joints
     term_id: icdot-C40.0
@@ -12022,7 +11989,7 @@
     term: Angiosarcoma
     term_id: NCIT:C3088
   input:
-  - term: 'Hemangiosarcoma '
+  - term: Hemangiosarcoma
     term_id: icdom-91203
   - term: Skin, NOS
     term_id: icdot-C44.9
@@ -12034,23 +12001,14 @@
     - Angiosarcomas
     - Angiosarcoma
     - Hemangiosarcoma
-    term: Angiosarcoma
-    term_id: NCIT:C3088
-  input:
-  - term: 'Hemangiosarcoma '
-    term_id: icdom-91203
-  - term: Connective, subcutaneous and other soft tissues, NOS
-    term_id: icdot-C49.9
-- equivalents:
-  - examples:
     - ''
     term: Angiosarcoma
     term_id: NCIT:C3088
   input:
-  - term: 'Hemangiosarcoma '
+  - term: Hemangiosarcoma
     term_id: icdom-91203
-  - term: 'Connective, subcutaneous and other soft tissues, NOS '
-    term_id: 'icdot-C49.9 '
+  - term: Connective, subcutaneous and other soft tissues, NOS
+    term_id: icdot-C49.9
 - equivalents:
   - examples:
     - Breast Angiosarcoma
@@ -12063,7 +12021,7 @@
     term: Angiosarcoma
     term_id: NCIT:C3088
   input:
-  - term: 'Hemangiosarcoma '
+  - term: Hemangiosarcoma
     term_id: icdom-91203
   - term: Breast, NOS
     term_id: icdot-C50.9
@@ -12073,7 +12031,7 @@
     term: Angiosarcoma
     term_id: NCIT:C3088
   input:
-  - term: 'Hemangioendothelioma, malignant '
+  - term: Hemangioendothelioma, malignant
     term_id: icdom-91303
   - term: liver
     term_id: icdot-C22.9
@@ -12082,28 +12040,22 @@
     - Epithelioid Hemangioendothelioma
     term: Epithelioid Hemangioendothelioma
     term_id: NCIT:C3800
-  input:
-  - term: 'Hemangioendothelioma, malignant '
-    term_id: icdom-91303
-  - term: Connective, subcutaneous and other soft tissues, NOS
-    term_id: icdot-C49.9
-- equivalents:
   - examples:
     - ''
     term: Angiosarcoma
     term_id: NCIT:C3088
   input:
-  - term: 'Hemangioendothelioma, malignant '
+  - term: Hemangioendothelioma, malignant
     term_id: icdom-91303
-  - term: 'Connective, subcutaneous and other soft tissues, NOS '
-    term_id: 'icdot-C49.9 '
+  - term: Connective, subcutaneous and other soft tissues, NOS
+    term_id: icdot-C49.9
 - equivalents:
   - examples:
     - Intimal Sarcoma
     term: Intimal Sarcoma
     term_id: NCIT:C53677
   input:
-  - term: 'Intimal sarcoma '
+  - term: Intimal sarcoma
     term_id: icdom-91373
   - term: Connective, subcutaneous and other soft tissues, NOS
     term_id: icdot-C49.9
@@ -12124,7 +12076,7 @@
     term: Hemangiopericytoma
     term_id: NCIT:C3087
   input:
-  - term: 'Hemangiopericytoma, NOS '
+  - term: Hemangiopericytoma, NOS
     term_id: icdom-91501
   - term: Connective, subcutaneous and other soft tissues, NOS
     term_id: icdot-C49.9
@@ -12134,7 +12086,7 @@
     term: Meningeal Solitary Fibrous Tumor/Hemangiopericytoma
     term_id: NCIT:C4660
   input:
-  - term: 'Hemangiopericytoma, NOS '
+  - term: Hemangiopericytoma, NOS
     term_id: icdom-91501
   - term: Nervous system, NOS
     term_id: icdot-C72.9
@@ -12180,7 +12132,7 @@
     term: Cerebellar Hemangioblastoma
     term_id: NCIT:C5146
   input:
-  - term: 'Hemangioblastoma '
+  - term: Hemangioblastoma
     term_id: icdom-91611
   - term: Cerebellum
     term_id: icdot-C71.6
@@ -12191,7 +12143,7 @@
     term: Brain Stem Hemangioblastoma
     term_id: NCIT:C5147
   input:
-  - term: 'Hemangioblastoma '
+  - term: Hemangioblastoma
     term_id: icdom-91611
   - term: Brain stem
     term_id: icdot-C71.7
@@ -12201,7 +12153,7 @@
     term: Hemangioblastoma
     term_id: NCIT:C3801
   input:
-  - term: 'Hemangioblastoma '
+  - term: Hemangioblastoma
     term_id: icdom-91611
   - term: Brain, NOS
     term_id: icdot-C71.9
@@ -12212,7 +12164,7 @@
     term: Spinal Hemangioblastoma
     term_id: NCIT:C155948
   input:
-  - term: 'Hemangioblastoma '
+  - term: Hemangioblastoma
     term_id: icdom-91611
   - term: Spinal cord
     term_id: icdot-C72.0
@@ -12222,7 +12174,7 @@
     term: Osteosarcoma
     term_id: NCIT:C9145
   input:
-  - term: 'Osteosarcoma, NOS '
+  - term: Osteosarcoma, NOS
     term_id: icdom-91803
   - term: Pleura, NOS
     term_id: icdot-C38.4
@@ -12236,7 +12188,7 @@
     term: Osteosarcoma
     term_id: NCIT:C9145
   input:
-  - term: 'Osteosarcoma, NOS '
+  - term: Osteosarcoma, NOS
     term_id: icdom-91803
   - term: Bones and joints
     term_id: icdot-C40.0
@@ -12258,7 +12210,7 @@
     term: Secondary Osteosarcoma
     term_id: NCIT:C53704
   input:
-  - term: 'Osteosarcoma, NOS '
+  - term: Osteosarcoma, NOS
     term_id: icdom-91803
   - term: Bone, NOS
     term_id: icdot-C41.9
@@ -12273,7 +12225,7 @@
     term: Osteosarcoma
     term_id: NCIT:C9145
   input:
-  - term: 'Osteosarcoma, NOS '
+  - term: Osteosarcoma, NOS
     term_id: icdom-91803
   - term: Connective, subcutaneous and other soft tissues, NOS
     term_id: icdot-C49.9
@@ -12283,7 +12235,7 @@
     term: Osteosarcoma
     term_id: NCIT:C9145
   input:
-  - term: 'Osteosarcoma, NOS '
+  - term: Osteosarcoma, NOS
     term_id: icdom-91803
   - term: Brain, NOS
     term_id: icdot-C71.9
@@ -12293,7 +12245,7 @@
     term: Osteosarcoma
     term_id: NCIT:C9145
   input:
-  - term: 'Osteosarcoma, NOS '
+  - term: Osteosarcoma, NOS
     term_id: icdom-91803
   - term: Unknown primary site
     term_id: icdot-C80.9
@@ -12304,7 +12256,7 @@
     term: Chondroblastic Osteosarcoma
     term_id: NCIT:C4021
   input:
-  - term: 'Chondroblastic osteosarcoma '
+  - term: Chondroblastic osteosarcoma
     term_id: icdom-91813
   - term: Bones and joints
     term_id: icdot-C40.0
@@ -12316,7 +12268,7 @@
     term: Chondroblastic Osteosarcoma
     term_id: NCIT:C4021
   input:
-  - term: 'Chondroblastic osteosarcoma '
+  - term: Chondroblastic osteosarcoma
     term_id: icdom-91813
   - term: Bone, NOS
     term_id: icdot-C41.9
@@ -12347,7 +12299,7 @@
     term: Small Cell Osteosarcoma
     term_id: NCIT:C4023
   input:
-  - term: 'Small cell osteosarcoma '
+  - term: Small cell osteosarcoma
     term_id: icdom-91853
   - term: Bone, NOS
     term_id: icdot-C41.9
@@ -12405,7 +12357,7 @@
   - term: Chondroma, NOS
     term_id: icdom-92200
   - term: Short bones of upper limb and associated joints
-    term_id: "icdot-C40.1\_"
+    term_id: icdot-C40.1
 - equivalents:
   - examples:
     - Enchondroma [tibia]
@@ -12459,7 +12411,7 @@
     term: Chondrosarcoma
     term_id: NCIT:C2946
   input:
-  - term: 'Chondrosarcoma, NOS '
+  - term: Chondrosarcoma, NOS
     term_id: icdom-92203
   - term: Bones and joints
     term_id: icdot-C40.0
@@ -12477,7 +12429,7 @@
     term: Chondrosarcoma
     term_id: NCIT:C2946
   input:
-  - term: 'Chondrosarcoma, NOS '
+  - term: Chondrosarcoma, NOS
     term_id: icdom-92203
   - term: Bone, NOS
     term_id: icdot-C41.9
@@ -12491,7 +12443,7 @@
     term: Chondrosarcoma
     term_id: NCIT:C2946
   input:
-  - term: 'Chondrosarcoma, NOS '
+  - term: Chondrosarcoma, NOS
     term_id: icdom-92203
   - term: Connective, subcutaneous and other soft tissues, NOS
     term_id: icdot-C49.9
@@ -12501,7 +12453,7 @@
     term: Chondrosarcoma
     term_id: NCIT:C2946
   input:
-  - term: 'Chondrosarcoma, NOS '
+  - term: Chondrosarcoma, NOS
     term_id: icdom-92203
   - term: Unknown primary site
     term_id: icdot-C80.9
@@ -12512,7 +12464,7 @@
     term: Chondroblastoma
     term_id: NCIT:C2945
   input:
-  - term: 'Chondroblastoma, NOS '
+  - term: Chondroblastoma, NOS
     term_id: icdom-92300
   - term: Bone, NOS
     term_id: icdot-C41.9
@@ -12522,7 +12474,7 @@
     term: Myxoid Chondrosarcoma
     term_id: NCIT:C4303
   input:
-  - term: 'Myxoid chondrosarcoma '
+  - term: Myxoid chondrosarcoma
     term_id: icdom-92313
   - term: Bone, NOS
     term_id: icdot-C41.9
@@ -12532,7 +12484,7 @@
     term: Extraskeletal Myxoid Chondrosarcoma
     term_id: NCIT:C27502
   input:
-  - term: 'Myxoid chondrosarcoma '
+  - term: Myxoid chondrosarcoma
     term_id: icdom-92313
   - term: Connective, subcutaneous and other soft tissues, NOS
     term_id: icdot-C49.9
@@ -12542,7 +12494,7 @@
     term: Mesenchymal Chondrosarcoma
     term_id: NCIT:C3737
   input:
-  - term: 'Mesenchymal chondrosarcoma '
+  - term: Mesenchymal chondrosarcoma
     term_id: icdom-92403
   - term: Bone, NOS
     term_id: icdot-C41.9
@@ -12562,7 +12514,7 @@
     term: Dedifferentiated Chondrosarcoma
     term_id: NCIT:C6476
   input:
-  - term: 'Dedifferentiated chondrosarcoma '
+  - term: Dedifferentiated chondrosarcoma
     term_id: icdom-92433
   - term: Bone, NOS
     term_id: icdot-C41.9
@@ -12596,7 +12548,7 @@
     term: Ewing Sarcoma
     term_id: NCIT:C4817
   input:
-  - term: 'Ewing sarcoma '
+  - term: Ewing sarcoma
     term_id: icdom-92603
   - term: Bones and joints
     term_id: icdot-C40.0
@@ -12610,7 +12562,7 @@
     term: Ewing Sarcoma
     term_id: NCIT:C4817
   input:
-  - term: 'Ewing sarcoma '
+  - term: Ewing sarcoma
     term_id: icdom-92603
   - term: Bone, NOS
     term_id: icdot-C41.9
@@ -12620,7 +12572,7 @@
     term: Ewing Sarcoma
     term_id: NCIT:C4817
   input:
-  - term: 'Ewing sarcoma '
+  - term: Ewing sarcoma
     term_id: icdom-92603
   - term: Connective, subcutaneous and other soft tissues, NOS
     term_id: icdot-C49.9
@@ -12630,7 +12582,7 @@
     term: Malignant Odontogenic Neoplasm
     term_id: NCIT:C4812
   input:
-  - term: 'Odontogenic tumor, malignant '
+  - term: Odontogenic tumor, malignant
     term_id: icdom-92703
   - term: Mouth, NOS
     term_id: icdot-C06.9
@@ -12640,7 +12592,7 @@
     term: Malignant Odontogenic Neoplasm
     term_id: NCIT:C4812
   input:
-  - term: 'Odontogenic tumor, malignant '
+  - term: Odontogenic tumor, malignant
     term_id: icdom-92703
   - term: Mandible
     term_id: icdot-C41.1
@@ -12650,7 +12602,7 @@
     term: Clear Cell Odontogenic Carcinoma
     term_id: NCIT:C54300
   input:
-  - term: 'Clear cell odontogenic tumor '
+  - term: Clear cell odontogenic tumor
     term_id: icdom-93411
   - term: Mandible
     term_id: icdot-C41.1
@@ -12660,7 +12612,7 @@
     term: Adamantinomatous Craniopharyngioma
     term_id: NCIT:C4726
   input:
-  - term: 'Craniopharyngioma, adamantinomatous '
+  - term: Craniopharyngioma, adamantinomatous
     term_id: icdom-93511
   - term: Brain, NOS
     term_id: icdot-C71.9
@@ -12691,7 +12643,7 @@
     term: Pineoblastoma
     term_id: NCIT:C9344
   input:
-  - term: 'Pineoblastoma '
+  - term: Pineoblastoma
     term_id: icdom-93623
   - term: cerebrum
     term_id: icdot-C71.0
@@ -12708,7 +12660,7 @@
     term: Pineal Parenchymal Tumor of Intermediate Differentiation
     term_id: NCIT:C6967
   input:
-  - term: 'Pineoblastoma '
+  - term: Pineoblastoma
     term_id: icdom-93623
   - term: Pineal gland
     term_id: icdot-C75.3
@@ -12752,7 +12704,7 @@
     term: Chordoma
     term_id: NCIT:C2947
   input:
-  - term: 'Chordoma, NOS '
+  - term: Chordoma, NOS
     term_id: icdom-93703
   - term: Bones and joints
     term_id: icdot-C40.0
@@ -12766,7 +12718,7 @@
     term: Chordoma
     term_id: NCIT:C2947
   input:
-  - term: 'Chordoma, NOS '
+  - term: Chordoma, NOS
     term_id: icdom-93703
   - term: Bone, NOS
     term_id: icdot-C41.9
@@ -12777,7 +12729,7 @@
     term: Chordoma
     term_id: NCIT:C2947
   input:
-  - term: 'Chordoma, NOS '
+  - term: Chordoma, NOS
     term_id: icdom-93703
   - term: Connective, subcutaneous and other soft tissues, NOS
     term_id: icdot-C49.9
@@ -12789,7 +12741,7 @@
     term: Chordoma
     term_id: NCIT:C2947
   input:
-  - term: 'Chordoma, NOS '
+  - term: Chordoma, NOS
     term_id: icdom-93703
   - term: Spinal cord
     term_id: icdot-C72.0
@@ -12799,7 +12751,7 @@
     term: Malignant Glioma
     term_id: NCIT:C4822
   input:
-  - term: 'Glioma, malignant '
+  - term: Glioma, malignant
     term_id: icdom-93803
   - term: cerebrum
     term_id: icdot-C71.0
@@ -12809,7 +12761,7 @@
     term: Malignant Glioma
     term_id: NCIT:C4822
   input:
-  - term: 'Glioma, malignant '
+  - term: Glioma, malignant
     term_id: icdom-93803
   - term: Ventricle, NOS
     term_id: icdot-C71.5
@@ -12826,7 +12778,7 @@
     term: Malignant Glioma
     term_id: NCIT:C4822
   input:
-  - term: 'Glioma, malignant '
+  - term: Glioma, malignant
     term_id: icdom-93803
   - term: Brain stem
     term_id: icdot-C71.7
@@ -12844,7 +12796,7 @@
     term: Low Grade Glioma
     term_id: NCIT:C132067
   input:
-  - term: 'Glioma, malignant '
+  - term: Glioma, malignant
     term_id: icdom-93803
   - term: Brain, NOS
     term_id: icdot-C71.9
@@ -12874,7 +12826,7 @@
     term: Mixed Glioma
     term_id: NCIT:C3903
   input:
-  - term: 'Mixed glioma '
+  - term: Mixed glioma
     term_id: icdom-93823
   - term: cerebrum
     term_id: icdot-C71.0
@@ -12884,7 +12836,7 @@
     term: Mixed Glioma
     term_id: NCIT:C3903
   input:
-  - term: 'Mixed glioma '
+  - term: Mixed glioma
     term_id: icdom-93823
   - term: frontal lobe
     term_id: icdot-C71.1
@@ -12894,7 +12846,7 @@
     term: Mixed Glioma
     term_id: NCIT:C3903
   input:
-  - term: 'Mixed glioma '
+  - term: Mixed glioma
     term_id: icdom-93823
   - term: temporal lobe
     term_id: icdot-C71.2
@@ -12904,7 +12856,7 @@
     term: Mixed Glioma
     term_id: NCIT:C3903
   input:
-  - term: 'Mixed glioma '
+  - term: Mixed glioma
     term_id: icdom-93823
   - term: parietal lobe
     term_id: icdot-C71.3
@@ -12926,7 +12878,7 @@
     term: Mixed Glioma
     term_id: NCIT:C3903
   input:
-  - term: 'Mixed glioma '
+  - term: Mixed glioma
     term_id: icdom-93823
   - term: Brain, NOS
     term_id: icdot-C71.9
@@ -12971,7 +12923,7 @@
     term: Ependymoma
     term_id: NCIT:C3017
   input:
-  - term: 'Ependymoma, NOS '
+  - term: Ependymoma, NOS
     term_id: icdom-93913
   - term: cerebrum
     term_id: icdot-C71.0
@@ -12982,7 +12934,7 @@
     term: Ependymoma
     term_id: NCIT:C3017
   input:
-  - term: 'Ependymoma, NOS '
+  - term: Ependymoma, NOS
     term_id: icdom-93913
   - term: Ventricle, NOS
     term_id: icdot-C71.5
@@ -12996,7 +12948,7 @@
     term: Ependymoma
     term_id: NCIT:C3017
   input:
-  - term: 'Ependymoma, NOS '
+  - term: Ependymoma, NOS
     term_id: icdom-93913
   - term: Cerebellum
     term_id: icdot-C71.6
@@ -13007,7 +12959,7 @@
     term: Ependymoma
     term_id: NCIT:C3017
   input:
-  - term: 'Ependymoma, NOS '
+  - term: Ependymoma, NOS
     term_id: icdom-93913
   - term: Brain stem
     term_id: icdot-C71.7
@@ -13021,7 +12973,7 @@
     term: Ependymoma
     term_id: NCIT:C3017
   input:
-  - term: 'Ependymoma, NOS '
+  - term: Ependymoma, NOS
     term_id: icdom-93913
   - term: Brain, NOS
     term_id: icdot-C71.9
@@ -13035,7 +12987,7 @@
     term: Ependymoma
     term_id: NCIT:C3017
   input:
-  - term: 'Ependymoma, NOS '
+  - term: Ependymoma, NOS
     term_id: icdom-93913
   - term: Spinal cord
     term_id: icdot-C72.0
@@ -13049,7 +13001,7 @@
     term: Anaplastic Ependymoma
     term_id: NCIT:C4049
   input:
-  - term: 'Ependymoma, anaplastic '
+  - term: Ependymoma, anaplastic
     term_id: icdom-93923
   - term: cerebrum
     term_id: icdot-C71.0
@@ -13063,7 +13015,7 @@
     term: Anaplastic Ependymoma
     term_id: NCIT:C4049
   input:
-  - term: 'Ependymoma, anaplastic '
+  - term: Ependymoma, anaplastic
     term_id: icdom-93923
   - term: Cerebellum
     term_id: icdot-C71.6
@@ -13073,7 +13025,7 @@
     term: Anaplastic Ependymoma
     term_id: NCIT:C4049
   input:
-  - term: 'Ependymoma, anaplastic '
+  - term: Ependymoma, anaplastic
     term_id: icdom-93923
   - term: Brain stem
     term_id: icdot-C71.7
@@ -13087,7 +13039,7 @@
     term: Anaplastic Ependymoma
     term_id: NCIT:C4049
   input:
-  - term: 'Ependymoma, anaplastic '
+  - term: Ependymoma, anaplastic
     term_id: icdom-93923
   - term: Brain, NOS
     term_id: icdot-C71.9
@@ -13097,7 +13049,7 @@
     term: Anaplastic Ependymoma
     term_id: NCIT:C4049
   input:
-  - term: 'Ependymoma, anaplastic '
+  - term: Ependymoma, anaplastic
     term_id: icdom-93923
   - term: Spinal cord
     term_id: icdot-C72.0
@@ -13107,7 +13059,7 @@
     term: Myxopapillary Ependymoma
     term_id: NCIT:C3697
   input:
-  - term: 'Myxopapillary ependymoma '
+  - term: Myxopapillary ependymoma
     term_id: icdom-93941
   - term: Brain stem
     term_id: icdot-C71.7
@@ -13117,7 +13069,7 @@
     term: Myxopapillary Ependymoma
     term_id: NCIT:C3697
   input:
-  - term: 'Myxopapillary ependymoma '
+  - term: Myxopapillary ependymoma
     term_id: icdom-93941
   - term: Brain, NOS
     term_id: icdot-C71.9
@@ -13129,7 +13081,7 @@
     term: Myxopapillary Ependymoma
     term_id: NCIT:C3697
   input:
-  - term: 'Myxopapillary ependymoma '
+  - term: Myxopapillary ependymoma
     term_id: icdom-93941
   - term: Spinal cord
     term_id: icdot-C72.0
@@ -13139,7 +13091,7 @@
     term: Myxopapillary Ependymoma
     term_id: NCIT:C3697
   input:
-  - term: 'Myxopapillary ependymoma '
+  - term: Myxopapillary ependymoma
     term_id: icdom-93941
   - term: Nervous system, NOS
     term_id: icdot-C72.9
@@ -13225,7 +13177,7 @@
     term: Anaplastic Astrocytoma
     term_id: NCIT:C9477
   input:
-  - term: 'Astrocytoma, anaplastic '
+  - term: Astrocytoma, anaplastic
     term_id: icdom-94013
   - term: cerebrum
     term_id: icdot-C71.0
@@ -13235,7 +13187,7 @@
     term: Anaplastic Astrocytoma
     term_id: NCIT:C9477
   input:
-  - term: 'Astrocytoma, anaplastic '
+  - term: Astrocytoma, anaplastic
     term_id: icdom-94013
   - term: frontal lobe
     term_id: icdot-C71.1
@@ -13245,7 +13197,7 @@
     term: Anaplastic Astrocytoma
     term_id: NCIT:C9477
   input:
-  - term: 'Astrocytoma, anaplastic '
+  - term: Astrocytoma, anaplastic
     term_id: icdom-94013
   - term: temporal lobe
     term_id: icdot-C71.2
@@ -13255,7 +13207,7 @@
     term: Anaplastic Astrocytoma
     term_id: NCIT:C9477
   input:
-  - term: 'Astrocytoma, anaplastic '
+  - term: Astrocytoma, anaplastic
     term_id: icdom-94013
   - term: occipital lobe
     term_id: icdot-C71.4
@@ -13269,7 +13221,7 @@
     term: Anaplastic Astrocytoma
     term_id: NCIT:C9477
   input:
-  - term: 'Astrocytoma, anaplastic '
+  - term: Astrocytoma, anaplastic
     term_id: icdom-94013
   - term: Brain, NOS
     term_id: icdot-C71.9
@@ -13334,7 +13286,7 @@
     term: Pilocytic Astrocytoma
     term_id: NCIT:C4047
   input:
-  - term: 'Pilocytic astrocytoma '
+  - term: Pilocytic astrocytoma
     term_id: icdom-94211
   - term: cerebrum
     term_id: icdot-C71.0
@@ -13344,7 +13296,7 @@
     term: Pilocytic Astrocytoma
     term_id: NCIT:C4047
   input:
-  - term: 'Pilocytic astrocytoma '
+  - term: Pilocytic astrocytoma
     term_id: icdom-94211
   - term: Ventricle, NOS
     term_id: icdot-C71.5
@@ -13358,7 +13310,7 @@
     term: Pilocytic Astrocytoma
     term_id: NCIT:C4047
   input:
-  - term: 'Pilocytic astrocytoma '
+  - term: Pilocytic astrocytoma
     term_id: icdom-94211
   - term: Cerebellum
     term_id: icdot-C71.6
@@ -13370,7 +13322,7 @@
     term: Pilocytic Astrocytoma
     term_id: NCIT:C4047
   input:
-  - term: 'Pilocytic astrocytoma '
+  - term: Pilocytic astrocytoma
     term_id: icdom-94211
   - term: Brain stem
     term_id: icdot-C71.7
@@ -13384,7 +13336,7 @@
     term: Pilocytic Astrocytoma
     term_id: NCIT:C4047
   input:
-  - term: 'Pilocytic astrocytoma '
+  - term: Pilocytic astrocytoma
     term_id: icdom-94211
   - term: Brain, NOS
     term_id: icdot-C71.9
@@ -13394,7 +13346,7 @@
     term: Pilocytic Astrocytoma
     term_id: NCIT:C4047
   input:
-  - term: 'Pilocytic astrocytoma '
+  - term: Pilocytic astrocytoma
     term_id: icdom-94211
   - term: Optic chiasm
     term_id: icdot-C72.3
@@ -13404,7 +13356,7 @@
     term: Pilocytic Astrocytoma
     term_id: NCIT:C4047
   input:
-  - term: 'Pilocytic astrocytoma '
+  - term: Pilocytic astrocytoma
     term_id: icdom-94211
   - term: Pineal gland
     term_id: icdot-C75.3
@@ -13415,7 +13367,7 @@
     term: Pleomorphic Xanthoastrocytoma
     term_id: NCIT:C4323
   input:
-  - term: 'Pleomorphic xanthoastrocytoma '
+  - term: Pleomorphic xanthoastrocytoma
     term_id: icdom-94243
   - term: cerebrum
     term_id: icdot-C71.0
@@ -13433,7 +13385,7 @@
     term: Anaplastic Pleomorphic Xanthoastrocytoma
     term_id: NCIT:C129327
   input:
-  - term: 'Pleomorphic xanthoastrocytoma '
+  - term: Pleomorphic xanthoastrocytoma
     term_id: icdom-94243
   - term: Brain, NOS
     term_id: icdot-C71.9
@@ -13443,7 +13395,7 @@
     term: Astroblastoma
     term_id: NCIT:C4324
   input:
-  - term: 'Astroblastoma '
+  - term: Astroblastoma
     term_id: icdom-94303
   - term: cerebrum
     term_id: icdot-C71.0
@@ -13455,7 +13407,7 @@
     term: Astroblastoma
     term_id: NCIT:C4324
   input:
-  - term: 'Astroblastoma '
+  - term: Astroblastoma
     term_id: icdom-94303
   - term: Brain, NOS
     term_id: icdot-C71.9
@@ -13465,7 +13417,7 @@
     term: Pituicytoma
     term_id: NCIT:C94524
   input:
-  - term: 'Pituicytoma '
+  - term: Pituicytoma
     term_id: icdom-94321
   - term: Pituitary gland
     term_id: icdot-C75.1
@@ -13567,7 +13519,7 @@
 - equivalents:
   - examples:
     - glioblastoma [stem cell]
-    - 'glioblastoma [cell line LN-18] '
+    - glioblastoma [cell line LN-18]
     - glioblastoma [xenograft]
     - glioblastoma
     - Glioblastoma
@@ -13618,7 +13570,7 @@
     term: Oligodendroglioma
     term_id: NCIT:C3288
   input:
-  - term: 'Oligodendroglioma, NOS '
+  - term: Oligodendroglioma, NOS
     term_id: icdom-94503
   - term: cerebrum
     term_id: icdot-C71.0
@@ -13628,7 +13580,7 @@
     term: Oligodendroglioma
     term_id: NCIT:C3288
   input:
-  - term: 'Oligodendroglioma, NOS '
+  - term: Oligodendroglioma, NOS
     term_id: icdom-94503
   - term: temporal lobe
     term_id: icdot-C71.2
@@ -13642,7 +13594,7 @@
     term: Oligodendroglioma
     term_id: NCIT:C3288
   input:
-  - term: 'Oligodendroglioma, NOS '
+  - term: Oligodendroglioma, NOS
     term_id: icdom-94503
   - term: Brain, NOS
     term_id: icdot-C71.9
@@ -13652,7 +13604,7 @@
     term: Anaplastic Oligoastrocytoma
     term_id: NCIT:C6959
   input:
-  - term: 'Oligodendroglioma, anaplastic '
+  - term: Oligodendroglioma, anaplastic
     term_id: icdom-94513
   - term: cerebrum
     term_id: icdot-C71.0
@@ -13662,7 +13614,7 @@
     term: Anaplastic Oligoastrocytoma
     term_id: NCIT:C6959
   input:
-  - term: 'Oligodendroglioma, anaplastic '
+  - term: Oligodendroglioma, anaplastic
     term_id: icdom-94513
   - term: frontal lobe
     term_id: icdot-C71.1
@@ -13676,7 +13628,7 @@
     term: Anaplastic Oligodendroglioma
     term_id: NCIT:C4326
   input:
-  - term: 'Oligodendroglioma, anaplastic '
+  - term: Oligodendroglioma, anaplastic
     term_id: icdom-94513
   - term: Brain, NOS
     term_id: icdot-C71.9
@@ -13690,7 +13642,7 @@
     term: Medulloblastoma
     term_id: NCIT:C3222
   input:
-  - term: 'Medulloblastoma, NOS '
+  - term: Medulloblastoma, NOS
     term_id: icdom-94703
   - term: Cerebellum
     term_id: icdot-C71.6
@@ -13700,7 +13652,7 @@
     term: Medulloblastoma
     term_id: NCIT:C3222
   input:
-  - term: 'Medulloblastoma, NOS '
+  - term: Medulloblastoma, NOS
     term_id: icdom-94703
   - term: Brain, NOS
     term_id: icdot-C71.9
@@ -13893,7 +13845,7 @@
     term: Neuroblastoma
     term_id: NCIT:C3270
   input:
-  - term: 'Neuroblastoma, NOS '
+  - term: Neuroblastoma, NOS
     term_id: icdom-95003
   - term: Lung, NOS
     term_id: icdot-C34.9
@@ -13904,7 +13856,7 @@
     term: Neuroblastoma
     term_id: NCIT:C3270
   input:
-  - term: 'Neuroblastoma, NOS '
+  - term: Neuroblastoma, NOS
     term_id: icdom-95003
   - term: Bones and joints
     term_id: icdot-C40.0
@@ -13918,7 +13870,7 @@
     term: Neuroblastoma
     term_id: NCIT:C3270
   input:
-  - term: 'Neuroblastoma, NOS '
+  - term: Neuroblastoma, NOS
     term_id: icdom-95003
   - term: autonomic nervous system
     term_id: icdot-C47.4
@@ -13932,7 +13884,7 @@
     term: Neuroblastoma
     term_id: NCIT:C3270
   input:
-  - term: 'Neuroblastoma, NOS '
+  - term: Neuroblastoma, NOS
     term_id: icdom-95003
   - term: Autonomic nervous system, NOS
     term_id: icdot-C47.9
@@ -13943,7 +13895,7 @@
     term: Neuroblastoma
     term_id: NCIT:C3270
   input:
-  - term: 'Neuroblastoma, NOS '
+  - term: Neuroblastoma, NOS
     term_id: icdom-95003
   - term: cerebrum
     term_id: icdot-C71.0
@@ -13957,7 +13909,7 @@
     term: Neuroblastoma
     term_id: NCIT:C3270
   input:
-  - term: 'Neuroblastoma, NOS '
+  - term: Neuroblastoma, NOS
     term_id: icdom-95003
   - term: Brain, NOS
     term_id: icdot-C71.9
@@ -13971,7 +13923,7 @@
     term: Neuroblastoma
     term_id: NCIT:C3270
   input:
-  - term: 'Neuroblastoma, NOS '
+  - term: Neuroblastoma, NOS
     term_id: icdom-95003
   - term: Nervous system, NOS
     term_id: icdot-C72.9
@@ -13981,7 +13933,7 @@
     term: Adrenal gland neuroblastoma
     term_id: NCIT:C4827
   input:
-  - term: 'Neuroblastoma, NOS '
+  - term: Neuroblastoma, NOS
     term_id: icdom-95003
   - term: Adrenal gland, NOS
     term_id: icdot-C74.9
@@ -13991,7 +13943,7 @@
     term: Neuroblastoma
     term_id: NCIT:C3270
   input:
-  - term: 'Neuroblastoma, NOS '
+  - term: Neuroblastoma, NOS
     term_id: icdom-95003
   - term: ill-defined
     term_id: icdot-C76.9
@@ -14011,7 +13963,7 @@
     term: Primitive Neuroectodermal Tumor
     term_id: NCIT:C3716
   input:
-  - term: 'Neuroepithelioma, NOS '
+  - term: Neuroepithelioma, NOS
     term_id: icdom-95033
   - term: Connective, subcutaneous and other soft tissues, NOS
     term_id: icdot-C49.9
@@ -14021,7 +13973,7 @@
     term: Primitive Neuroectodermal Tumor
     term_id: NCIT:C3716
   input:
-  - term: 'Neuroepithelioma, NOS '
+  - term: Neuroepithelioma, NOS
     term_id: icdom-95033
   - term: Brain, NOS
     term_id: icdot-C71.9
@@ -14033,7 +13985,7 @@
     term: Primitive Neuroectodermal Tumor
     term_id: NCIT:C3716
   input:
-  - term: 'Neuroepithelioma, NOS '
+  - term: Neuroepithelioma, NOS
     term_id: icdom-95033
   - term: Nervous system, NOS
     term_id: icdot-C72.9
@@ -14046,7 +13998,7 @@
     term: Ganglioglioma
     term_id: NCIT:C3788
   input:
-  - term: 'Ganglioglioma, NOS '
+  - term: Ganglioglioma, NOS
     term_id: icdom-95051
   - term: Brain, NOS
     term_id: icdot-C71.9
@@ -14056,7 +14008,7 @@
     term: Anaplastic Ganglioglioma
     term_id: NCIT:C4717
   input:
-  - term: 'Ganglioglioma, anaplastic '
+  - term: Ganglioglioma, anaplastic
     term_id: icdom-95053
   - term: Brain, NOS
     term_id: icdot-C71.9
@@ -14070,7 +14022,7 @@
     term: Central Neurocytoma
     term_id: NCIT:C3791
   input:
-  - term: 'Central neurocytoma '
+  - term: Central neurocytoma
     term_id: icdom-95061
   - term: Brain, NOS
     term_id: icdot-C71.9
@@ -14080,7 +14032,7 @@
     term: Central Neurocytoma
     term_id: NCIT:C3791
   input:
-  - term: 'Central neurocytoma '
+  - term: Central neurocytoma
     term_id: icdom-95061
   - term: Nervous system, NOS
     term_id: icdot-C72.9
@@ -14148,7 +14100,7 @@
     term: Rosette-Forming Glioneuronal Tumor of the Fourth Ventricle
     term_id: NCIT:C67559
   input:
-  - term: 'Central neurocytoma '
+  - term: Central neurocytoma
     term_id: icdom-95091
   - term: Brain stem
     term_id: icdot-C71.7
@@ -14158,7 +14110,7 @@
     term: Papillary Glioneuronal Tumor
     term_id: NCIT:C92554
   input:
-  - term: 'Central neurocytoma '
+  - term: Central neurocytoma
     term_id: icdom-95091
   - term: Brain, NOS
     term_id: icdot-C71.9
@@ -14172,7 +14124,7 @@
     term: Retinoblastoma
     term_id: NCIT:C7541
   input:
-  - term: 'Retinoblastoma, NOS '
+  - term: Retinoblastoma, NOS
     term_id: icdom-95103
   - term: Retina
     term_id: icdot-C69.2
@@ -14182,7 +14134,7 @@
     term: Olfactory Neuroblastoma
     term_id: NCIT:C3789
   input:
-  - term: 'Olfactory neuroblastoma '
+  - term: Olfactory neuroblastoma
     term_id: icdom-95223
   - term: Nasal cavity
     term_id: icdot-C30.0
@@ -14193,7 +14145,7 @@
     term: Olfactory Neuroblastoma
     term_id: NCIT:C3789
   input:
-  - term: 'Olfactory neuroblastoma '
+  - term: Olfactory neuroblastoma
     term_id: icdom-95223
   - term: Olfactory nerve
     term_id: icdot-C72.2
@@ -14207,7 +14159,7 @@
     term: Meningioma
     term_id: NCIT:C3230
   input:
-  - term: 'Meningioma, NOS '
+  - term: Meningioma, NOS
     term_id: icdom-95300
   - term: meninges cerebral, spinal
     term_id: icdot-C70.0
@@ -14220,7 +14172,7 @@
     term: Meningioma
     term_id: NCIT:C3230
   input:
-  - term: 'Meningioma, NOS '
+  - term: Meningioma, NOS
     term_id: icdom-95300
   - term: Meninges, NOS
     term_id: icdot-C70.9
@@ -14230,7 +14182,7 @@
     term: Meningioma
     term_id: NCIT:C3230
   input:
-  - term: 'Meningioma, NOS '
+  - term: Meningioma, NOS
     term_id: icdom-95300
   - term: Brain, NOS
     term_id: icdot-C71.9
@@ -14245,7 +14197,7 @@
     term: Anaplastic (Malignant) Meningioma
     term_id: NCIT:C4051
   input:
-  - term: 'Meningioma, malignant '
+  - term: Meningioma, malignant
     term_id: icdom-95303
   - term: meninges cerebral, spinal
     term_id: icdot-C70.0
@@ -14255,7 +14207,7 @@
     term: Anaplastic (Malignant) Meningioma
     term_id: NCIT:C4051
   input:
-  - term: 'Meningioma, malignant '
+  - term: Meningioma, malignant
     term_id: icdom-95303
   - term: Meninges, NOS
     term_id: icdot-C70.9
@@ -14265,7 +14217,7 @@
     term: Anaplastic (Malignant) Meningioma
     term_id: NCIT:C4051
   input:
-  - term: 'Meningioma, malignant '
+  - term: Meningioma, malignant
     term_id: icdom-95303
   - term: Brain, NOS
     term_id: icdot-C71.9
@@ -14285,7 +14237,7 @@
     term: Atypical Meningioma
     term_id: NCIT:C4723
   input:
-  - term: 'Atypical meningioma '
+  - term: Atypical meningioma
     term_id: icdom-95391
   - term: Meninges, NOS
     term_id: icdot-C70.9
@@ -14365,7 +14317,7 @@
     term: Malignant Peripheral Nerve Sheath Tumor
     term_id: NCIT:C3798
   input:
-  - term: 'Malignant peripheral nerve sheath tumor '
+  - term: Malignant peripheral nerve sheath tumor
     term_id: icdom-95403
   - term: Pancreas, NOS
     term_id: icdot-C25.9
@@ -14376,7 +14328,7 @@
     term: Malignant Peripheral Nerve Sheath Tumor
     term_id: NCIT:C3798
   input:
-  - term: 'Malignant peripheral nerve sheath tumor '
+  - term: Malignant peripheral nerve sheath tumor
     term_id: icdom-95403
   - term: Peripheral nerves and autonomic nervous system of upper limb and shoulder
     term_id: icdot-C47.1
@@ -14390,7 +14342,7 @@
     term: Malignant Peripheral Nerve Sheath Tumor
     term_id: NCIT:C3798
   input:
-  - term: 'Malignant peripheral nerve sheath tumor '
+  - term: Malignant peripheral nerve sheath tumor
     term_id: icdom-95403
   - term: Autonomic nervous system, NOS
     term_id: icdot-C47.9
@@ -14400,7 +14352,7 @@
     term: Malignant Peripheral Nerve Sheath Tumor
     term_id: NCIT:C3798
   input:
-  - term: 'Malignant peripheral nerve sheath tumor '
+  - term: Malignant peripheral nerve sheath tumor
     term_id: icdom-95403
   - term: Retroperitoneum
     term_id: icdot-C48.0
@@ -14410,7 +14362,7 @@
     term: Malignant Peripheral Nerve Sheath Tumor
     term_id: NCIT:C3798
   input:
-  - term: 'Malignant peripheral nerve sheath tumor '
+  - term: Malignant peripheral nerve sheath tumor
     term_id: icdom-95403
   - term: Head, neck
     term_id: icdot-C49.0
@@ -14420,7 +14372,7 @@
     term: Malignant Peripheral Nerve Sheath Tumor
     term_id: NCIT:C3798
   input:
-  - term: 'Malignant peripheral nerve sheath tumor '
+  - term: Malignant peripheral nerve sheath tumor
     term_id: icdom-95403
   - term: Connective, Subcutaneous and other soft tissues of lower limb and hip
     term_id: icdot-C49.2
@@ -14430,7 +14382,7 @@
     term: Malignant Peripheral Nerve Sheath Tumor
     term_id: NCIT:C3798
   input:
-  - term: 'Malignant peripheral nerve sheath tumor '
+  - term: Malignant peripheral nerve sheath tumor
     term_id: icdom-95403
   - term: thoracic wall
     term_id: icdot-C49.3
@@ -14440,7 +14392,7 @@
     term: Malignant Peripheral Nerve Sheath Tumor
     term_id: NCIT:C3798
   input:
-  - term: 'Malignant peripheral nerve sheath tumor '
+  - term: Malignant peripheral nerve sheath tumor
     term_id: icdom-95403
   - term: Connective, Subcutaneous and other soft tissues of trunk, NOS
     term_id: icdot-C49.6
@@ -14451,7 +14403,7 @@
     term: Malignant Peripheral Nerve Sheath Tumor
     term_id: NCIT:C3798
   input:
-  - term: 'Malignant peripheral nerve sheath tumor '
+  - term: Malignant peripheral nerve sheath tumor
     term_id: icdom-95403
   - term: Connective, subcutaneous and other soft tissues, NOS
     term_id: icdot-C49.9
@@ -14461,7 +14413,7 @@
     term: Malignant Peripheral Nerve Sheath Tumor
     term_id: NCIT:C3798
   input:
-  - term: 'Malignant peripheral nerve sheath tumor '
+  - term: Malignant peripheral nerve sheath tumor
     term_id: icdom-95403
   - term: Spinal meninges
     term_id: icdot-C70.1
@@ -14471,7 +14423,7 @@
     term: Malignant Peripheral Nerve Sheath Tumor
     term_id: NCIT:C3798
   input:
-  - term: 'Malignant peripheral nerve sheath tumor '
+  - term: Malignant peripheral nerve sheath tumor
     term_id: icdom-95403
   - term: Nervous system, NOS
     term_id: icdot-C72.9
@@ -14481,7 +14433,7 @@
     term: Schwannoma
     term_id: NCIT:C3269
   input:
-  - term: 'Neurilemoma, NOS '
+  - term: Neurilemoma, NOS
     term_id: icdom-95600
   - term: Peripheral nerves and autonomic nervous system of upper limb and shoulder
     term_id: icdot-C47.1
@@ -14499,7 +14451,7 @@
     term: Schwannoma
     term_id: NCIT:C3269
   input:
-  - term: 'Neurilemoma, NOS '
+  - term: Neurilemoma, NOS
     term_id: icdom-95600
   - term: Autonomic nervous system, NOS
     term_id: icdot-C47.9
@@ -14509,7 +14461,7 @@
     term: Schwannoma
     term_id: NCIT:C3269
   input:
-  - term: 'Neurilemoma, NOS '
+  - term: Neurilemoma, NOS
     term_id: icdom-95600
   - term: orbit and lacrimal gland, excl. retina, eye, nos
     term_id: icdot-C69.0
@@ -14519,7 +14471,7 @@
     term: Schwannoma
     term_id: NCIT:C3269
   input:
-  - term: 'Neurilemoma, NOS '
+  - term: Neurilemoma, NOS
     term_id: icdom-95600
   - term: Spinal cord
     term_id: icdot-C72.0
@@ -14529,7 +14481,7 @@
     term: Cellular Schwannoma
     term_id: NCIT:C4724
   input:
-  - term: 'Neurilemoma, NOS '
+  - term: Neurilemoma, NOS
     term_id: icdom-95600
   - term: Nervous system, NOS
     term_id: icdot-C72.9
@@ -14539,7 +14491,7 @@
     term: Granular Cell Tumor
     term_id: NCIT:C3474
   input:
-  - term: 'Granular cell tumor, NOS '
+  - term: Granular cell tumor, NOS
     term_id: icdom-95800
   - term: Connective, subcutaneous and other soft tissues, NOS
     term_id: icdot-C49.9
@@ -14549,7 +14501,7 @@
     term: Granular Cell Tumor
     term_id: NCIT:C3474
   input:
-  - term: 'Granular cell tumor, NOS '
+  - term: Granular cell tumor, NOS
     term_id: icdom-95800
   - term: Ovary
     term_id: icdot-C56.9
@@ -14561,7 +14513,7 @@
     term: Alveolar Soft Part Sarcoma
     term_id: NCIT:C3750
   input:
-  - term: 'Alveolar soft part sarcoma '
+  - term: Alveolar soft part sarcoma
     term_id: icdom-95813
   - term: Connective, subcutaneous and other soft tissues, NOS
     term_id: icdot-C49.9
@@ -14575,7 +14527,7 @@
     term: Lymphoma
     term_id: NCIT:C3208
   input:
-  - term: 'Malignant lymphoma, NOS '
+  - term: Malignant lymphoma, NOS
     term_id: icdom-95903
   - term: Hematopoietic system, NOS
     term_id: icdot-C42.4
@@ -14585,7 +14537,7 @@
     term: Lymphoma
     term_id: NCIT:C3208
   input:
-  - term: 'Malignant lymphoma, NOS '
+  - term: Malignant lymphoma, NOS
     term_id: icdom-95903
   - term: Skin, NOS
     term_id: icdot-C44.9
@@ -14595,7 +14547,7 @@
     term: Lymphoma
     term_id: NCIT:C3208
   input:
-  - term: 'Malignant lymphoma, NOS '
+  - term: Malignant lymphoma, NOS
     term_id: icdom-95903
   - term: Testis, NOS
     term_id: icdot-C62.9
@@ -14606,7 +14558,7 @@
     term: Lymphoma
     term_id: NCIT:C3208
   input:
-  - term: 'Malignant lymphoma, NOS '
+  - term: Malignant lymphoma, NOS
     term_id: icdom-95903
   - term: Brain, NOS
     term_id: icdot-C71.9
@@ -14621,7 +14573,7 @@
     term: Lymphoma
     term_id: NCIT:C3208
   input:
-  - term: 'Malignant lymphoma, NOS '
+  - term: Malignant lymphoma, NOS
     term_id: icdom-95903
   - term: Lymph node, NOS
     term_id: icdot-C77.9
@@ -14635,7 +14587,7 @@
     term: Non-Hodgkin Lymphoma
     term_id: NCIT:C3211
   input:
-  - term: 'Malignant lymphoma, non-Hodgkin, NOS '
+  - term: Malignant lymphoma, non-Hodgkin, NOS
     term_id: icdom-95913
   - term: Hematopoietic system, NOS
     term_id: icdot-C42.4
@@ -14646,7 +14598,7 @@
     term: Cutaneous B-Cell Non-Hodgkin Lymphoma
     term_id: NCIT:C6858
   input:
-  - term: 'Malignant lymphoma, non-Hodgkin, NOS '
+  - term: Malignant lymphoma, non-Hodgkin, NOS
     term_id: icdom-95913
   - term: Skin, NOS
     term_id: icdot-C44.9
@@ -14667,7 +14619,7 @@
     term: Non-Hodgkin Lymphoma
     term_id: NCIT:C3211
   input:
-  - term: 'Malignant lymphoma, non-Hodgkin, NOS '
+  - term: Malignant lymphoma, non-Hodgkin, NOS
     term_id: icdom-95913
   - term: Lymph node, NOS
     term_id: icdot-C77.9
@@ -14697,7 +14649,7 @@
     term: Classic Hodgkin Lymphoma
     term_id: NCIT:C7164
   input:
-  - term: 'Hodgkin lymphoma, NOS '
+  - term: Hodgkin lymphoma, NOS
     term_id: icdom-96503
   - term: Lymph node, NOS
     term_id: icdot-C77.9
@@ -14707,7 +14659,7 @@
     term: Nodular Lymphocyte Predominant Hodgkin Lymphoma
     term_id: NCIT:C7258
   - examples:
-    - 'Hodgkin lymphoma, nodular lymphocyte predominant '
+    - Hodgkin lymphoma, nodular lymphocyte predominant
     term: THRLBCL-Like Transformation of NLPHL
     term_id: NCIT:C139030
   input:
@@ -14721,7 +14673,7 @@
     term: Small lymphocytic lymphoma
     term_id: NCIT:C7540
   input:
-  - term: 'Malignant lymphoma, small B lymphocytic, NOS '
+  - term: Malignant lymphoma, small B lymphocytic, NOS
     term_id: icdom-96703
   - term: Lymph node, NOS
     term_id: icdot-C77.9
@@ -14731,7 +14683,7 @@
     term: Lymphoplasmacytic Lymphoma
     term_id: NCIT:C3212
   input:
-  - term: 'Malignant lymphoma, lymphoplasmacytic '
+  - term: Malignant lymphoma, lymphoplasmacytic
     term_id: icdom-96713
   - term: Hematopoietic system, NOS
     term_id: icdot-C42.4
@@ -14751,7 +14703,7 @@
     term: Mature B-Cell Neoplasms
     term_id: NCIT:C27910
   input:
-  - term: 'Malignant lymphoma, lymphoplasmacytic '
+  - term: Malignant lymphoma, lymphoplasmacytic
     term_id: icdom-96713
   - term: Lymph node, NOS
     term_id: icdot-C77.9
@@ -14761,7 +14713,7 @@
     term: Mantle Cell Lymphoma
     term_id: NCIT:C4337
   input:
-  - term: 'Mantle cell lymphoma '
+  - term: Mantle cell lymphoma
     term_id: icdom-96733
   - term: Colon, NOS
     term_id: icdot-C18.9
@@ -14771,7 +14723,7 @@
     term: Mantle Cell Lymphoma
     term_id: NCIT:C4337
   input:
-  - term: 'Mantle cell lymphoma '
+  - term: Mantle cell lymphoma
     term_id: icdom-96733
   - term: Spleen
     term_id: icdot-C42.2
@@ -14785,7 +14737,7 @@
     term: Mantle Cell Lymphoma
     term_id: NCIT:C4337
   input:
-  - term: 'Mantle cell lymphoma '
+  - term: Mantle cell lymphoma
     term_id: icdom-96733
   - term: Lymph node, NOS
     term_id: icdot-C77.9
@@ -14846,7 +14798,7 @@
     term: Primary Mediastinal (Thymic) Large B-Cell Lymphoma
     term_id: NCIT:C9280
   input:
-  - term: 'Mediastinal large B-cell lymphoma '
+  - term: Mediastinal large B-cell lymphoma
     term_id: icdom-96793
   - term: Mediastinum, NOS
     term_id: icdot-C38.3
@@ -14857,7 +14809,7 @@
     term: Primary Mediastinal (Thymic) Large B-Cell Lymphoma
     term_id: NCIT:C9280
   input:
-  - term: 'Mediastinal large B-cell lymphoma '
+  - term: Mediastinal large B-cell lymphoma
     term_id: icdom-96793
   - term: Mediastinum
     term_id: icdot-C38.9
@@ -14869,7 +14821,7 @@
   input:
   - term: Malignant lymphoma, large B-cell, diffuse, NOS
     term_id: icdom-96803
-  - term: 'Submandibular gland '
+  - term: Submandibular gland
     term_id: icdot-C08.0
 - equivalents:
   - examples:
@@ -15444,7 +15396,7 @@
   input:
   - term: Marginal zone B-cell lymphoma, NOS
     term_id: icdom-96993
-  - term: 'Parotid gland '
+  - term: Parotid gland
     term_id: icdot-C07.9
 - equivalents:
   - examples:
@@ -15699,15 +15651,6 @@
     - cTNHL
     - Peripheral T-cell lymphoma, not otherwise specified
     - Cutaneous T Cell Lymphoma
-    term: Primary cutaneous T-cell non-Hodgkin lymphoma
-    term_id: NCIT:C3467
-  input:
-  - term: Cutaneous T-cell lymphoma, NOS
-    term_id: icdom-97093
-  - term: Skin, NOS
-    term_id: icdot-C44.9
-- equivalents:
-  - examples:
     - ''
     term: Primary cutaneous T-cell non-Hodgkin lymphoma
     term_id: NCIT:C3467
@@ -15715,7 +15658,7 @@
   - term: Cutaneous T-cell lymphoma, NOS
     term_id: icdom-97093
   - term: Skin, NOS
-    term_id: 'icdot-C44.9 '
+    term_id: icdot-C44.9
 - equivalents:
   - examples:
     - Anaplastic large cell lymphoma, systemic type [ALK neg.]
@@ -16001,7 +15944,7 @@
     term: Plasmablastic lymphoma
     term_id: NCIT:C7224
   input:
-  - term: 'Plasmablastic lymphoma '
+  - term: Plasmablastic lymphoma
     term_id: icdom-97353
   - term: Lymph node, NOS
     term_id: icdot-C77.9
@@ -16011,7 +15954,7 @@
     term: Systemic Mastocytosis
     term_id: NCIT:C9235
   input:
-  - term: 'Malignant mastocytosis '
+  - term: Malignant mastocytosis
     term_id: icdom-97413
   - term: Bone marrow
     term_id: icdot-C42.1
@@ -16065,7 +16008,7 @@
     term: Follicular Dendritic Cell Sarcoma
     term_id: NCIT:C9281
   input:
-  - term: 'Follicular dendritic cell sarcoma '
+  - term: Follicular dendritic cell sarcoma
     term_id: icdom-97583
   - term: Bone, NOS
     term_id: icdot-C41.9
@@ -16075,7 +16018,7 @@
     term: Follicular Dendritic Cell Sarcoma
     term_id: NCIT:C9281
   input:
-  - term: 'Follicular dendritic cell sarcoma '
+  - term: Follicular dendritic cell sarcoma
     term_id: icdom-97583
   - term: Hematopoietic system, NOS
     term_id: icdot-C42.4
@@ -16085,7 +16028,7 @@
     term: Waldenstrom Macroglobulinemia
     term_id: NCIT:C80307
   input:
-  - term: 'Waldenstrom macroglobulinemia '
+  - term: Waldenstrom macroglobulinemia
     term_id: icdom-97613
   - term: Blood
     term_id: icdot-C42.0
@@ -16096,7 +16039,7 @@
     term: Waldenstrom Macroglobulinemia
     term_id: NCIT:C80307
   input:
-  - term: 'Waldenstrom macroglobulinemia '
+  - term: Waldenstrom macroglobulinemia
     term_id: icdom-97613
   - term: Bone marrow
     term_id: icdot-C42.1
@@ -16462,7 +16405,7 @@
     term: Acute Lymphoblastic Leukemia
     term_id: NCIT:C3167
   input:
-  - term: 'Precursor cell lymphoblastic leukemia, NOS '
+  - term: Precursor cell lymphoblastic leukemia, NOS
     term_id: icdom-98353
   - term: Bone marrow
     term_id: icdot-C42.1
@@ -16474,7 +16417,7 @@
     term: Acute Lymphoblastic Leukemia
     term_id: NCIT:C3167
   input:
-  - term: 'Precursor cell lymphoblastic leukemia, NOS '
+  - term: Precursor cell lymphoblastic leukemia, NOS
     term_id: icdom-98353
   - term: Hematopoietic system, NOS
     term_id: icdot-C42.4
@@ -16484,7 +16427,7 @@
     term: Adult T acute lymphoblastic leukemia
     term_id: NCIT:C9142
   input:
-  - term: 'Precursor cell lymphoblastic leukemia, NOS '
+  - term: Precursor cell lymphoblastic leukemia, NOS
     term_id: icdom-98353
   - term: Lymph node, NOS
     term_id: icdot-C77.9
@@ -16519,7 +16462,7 @@
     term: T Acute Lymphoblastic Leukemia
     term_id: NCIT:C3183
   input:
-  - term: 'Precursor T-cell lymphoblastic leukemia '
+  - term: Precursor T-cell lymphoblastic leukemia
     term_id: icdom-98373
   - term: Bone marrow
     term_id: icdot-C42.1
@@ -16529,7 +16472,7 @@
     term: T Lymphoblastic Leukemia/Lymphoma
     term_id: NCIT:C8694
   input:
-  - term: 'Precursor T-cell lymphoblastic leukemia '
+  - term: Precursor T-cell lymphoblastic leukemia
     term_id: icdom-98373
   - term: Spleen
     term_id: icdot-C42.2
@@ -16539,7 +16482,7 @@
     term: T Acute Lymphoblastic Leukemia
     term_id: NCIT:C3183
   input:
-  - term: 'Precursor T-cell lymphoblastic leukemia '
+  - term: Precursor T-cell lymphoblastic leukemia
     term_id: icdom-98373
   - term: Hematopoietic system, NOS
     term_id: icdot-C42.4
@@ -16553,7 +16496,7 @@
     term: Childhood T lymphoblastic lymphoma
     term_id: NCIT:C7210
   input:
-  - term: 'Precursor T-cell lymphoblastic leukemia '
+  - term: Precursor T-cell lymphoblastic leukemia
     term_id: icdom-98373
   - term: Lymph node, NOS
     term_id: icdot-C77.9
@@ -16615,7 +16558,7 @@
     term: Acute Myeloid Leukemia Not Otherwise Specified
     term_id: NCIT:C27753
   input:
-  - term: 'Acute myeloid leukemia, NOS '
+  - term: Acute myeloid leukemia, NOS
     term_id: icdom-98613
   - term: Bone marrow
     term_id: icdot-C42.1
@@ -16633,7 +16576,7 @@
     term: Acute Myeloid Leukemia
     term_id: NCIT:C3171
   input:
-  - term: 'Acute myeloid leukemia, NOS '
+  - term: Acute myeloid leukemia, NOS
     term_id: icdom-98613
   - term: Hematopoietic system, NOS
     term_id: icdot-C42.4
@@ -16647,7 +16590,7 @@
     term: Chronic myelogenous leukemia, BCR-ABL1 positive
     term_id: NCIT:C3174
   input:
-  - term: 'Chronic myeloid leukemia, NOS '
+  - term: Chronic myeloid leukemia, NOS
     term_id: icdom-98633
   - term: Bone marrow
     term_id: icdot-C42.1
@@ -16659,7 +16602,7 @@
     term: Chronic myelogenous leukemia, BCR-ABL1 positive
     term_id: NCIT:C3174
   input:
-  - term: 'Chronic myeloid leukemia, NOS '
+  - term: Chronic myeloid leukemia, NOS
     term_id: icdom-98633
   - term: Hematopoietic system, NOS
     term_id: icdot-C42.4
@@ -16935,7 +16878,7 @@
     term: Polycythemia Vera
     term_id: NCIT:C3336
   input:
-  - term: 'Polycythemia vera '
+  - term: Polycythemia vera
     term_id: icdom-99503
   - term: Bone marrow
     term_id: icdot-C42.1
@@ -16947,7 +16890,7 @@
     term: Polycythemia Vera
     term_id: NCIT:C3336
   input:
-  - term: 'Polycythemia vera '
+  - term: Polycythemia vera
     term_id: icdom-99503
   - term: Hematopoietic system, NOS
     term_id: icdot-C42.4
@@ -16961,7 +16904,7 @@
     term: Myeloproliferative Neoplasm
     term_id: NCIT:C4345
   input:
-  - term: 'Myeloproliferative neoplasm, NOS '
+  - term: Myeloproliferative neoplasm, NOS
     term_id: icdom-99603
   - term: Bone marrow
     term_id: icdot-C42.1
@@ -16979,7 +16922,7 @@
     term: Primary Myelofibrosis
     term_id: NCIT:C2862
   input:
-  - term: 'Primary myelofibrosis '
+  - term: Primary myelofibrosis
     term_id: icdom-99613
   - term: Bone marrow
     term_id: icdot-C42.1
@@ -16992,7 +16935,7 @@
     term: essential thrombocythemia
     term_id: NCIT:C3407
   input:
-  - term: 'Essentialthrombocythemia '
+  - term: Essentialthrombocythemia
     term_id: icdom-99623
   - term: Bone marrow
     term_id: icdot-C42.1
@@ -17022,7 +16965,7 @@
     term: Myeloid Neoplasm
     term_id: NCIT:C9290
   input:
-  - term: 'Myloproliferative neoplasm, unclassifiable '
+  - term: Myloproliferative neoplasm, unclassifiable
     term_id: icdom-99751
   - term: Bone marrow
     term_id: icdot-C42.1
