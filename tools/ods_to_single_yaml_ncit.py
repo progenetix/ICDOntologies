@@ -4,7 +4,7 @@ from pyexcel_ods import get_data
 from tqdm import tqdm
 import yaml
 
-data = get_data("../editing/progenetix_maps.ods")
+data = get_data("../editing/progenetix_maps_ncit.ods")
 
 table = data['Sheet1']
 mapping = {}

@@ -1,0 +1,1260 @@
+- equivalent:
+    term: pituitary gland
+    term_id: UBERON:0000007
+  input:
+    term: pituitary gland
+    term_id: icdot-C75.1
+- equivalent:
+    term: mouth
+    term_id: UBERON:0000165
+  input:
+    term: mouth
+    term_id: icdot-C06.9
+- equivalent:
+    term: blood
+    term_id: UBERON:0000178
+  input:
+    term: Blood
+    term_id: icdot-C42.0
+- equivalent:
+    term: breast
+    term_id: UBERON:0000310
+  input:
+    term: Breast
+    term_id: icdot-C50.9
+- equivalent:
+    term: endocervix
+    term_id: UBERON:0000458
+  input:
+    term: Endocervix
+    term_id: icdot-C53.0
+- equivalent:
+    term: testis
+    term_id: UBERON:0000473
+  input:
+    term: testis
+    term_id: icdot-C62.9
+- equivalent:
+    term: abdomen
+    term_id: UBERON:0000916
+  input:
+    term: abdomen
+    term_id: icdot-C76.2
+- equivalent:
+    term: stomach
+    term_id: UBERON:0000945
+  input:
+    term: stomach
+    term_id: icdot-C16.9
+- equivalent:
+    term: heart
+    term_id: UBERON:0000948
+  input:
+    term: heart
+    term_id: icdot-C38.0
+- equivalent:
+    term: brain
+    term_id: UBERON:0000955
+  input:
+    term: brain
+    term_id: icdot-C71.9
+- equivalent:
+    term: retina
+    term_id: UBERON:0000966
+  input:
+    term: Retina
+    term_id: icdot-C69.2
+- equivalent:
+    term: eye
+    term_id: UBERON:0000970
+  input:
+    term: eye
+    term_id: icdot-C69.9
+- equivalent:
+    term: pleura
+    term_id: UBERON:0000977
+  input:
+    term: pleura
+    term_id: icdot-C38.4
+- equivalent:
+    term: penis
+    term_id: UBERON:0000989
+  input:
+    term: penis
+    term_id: icdot-C60.9
+- equivalent:
+    term: ovary
+    term_id: UBERON:0000992
+  input:
+    term: ovary
+    term_id: icdot-C56.9
+- equivalent:
+    term: uterus
+    term_id: UBERON:0000995
+  input:
+    term: uterus
+    term_id: icdot-C55.9
+- equivalent:
+    term: vagina
+    term_id: UBERON:0000996
+  input:
+    term: Vagina
+    term_id: icdot-C52.9
+- equivalent:
+    term: nervous system
+    term_id: UBERON:0001016
+  input:
+    term: Nervous system
+    term_id: icdot-C72.9
+- equivalent:
+    term: esophagus
+    term_id: UBERON:0001043
+  input:
+    term: esophagus
+    term_id: icdot-C15.9
+- equivalent:
+    term: hypopharynx
+    term_id: UBERON:0001051
+  input:
+    term: Hypopharynx
+    term_id: icdot-C13.9
+- equivalent:
+    term: rectum
+    term_id: UBERON:0001052
+  input:
+    term: Rectum
+    term_id: icdot-C20.9
+- equivalent:
+    term: head of pancreas
+    term_id: UBERON:0001069
+  input:
+    term: Head of pancreas
+    term_id: icdot-C25.0
+- equivalent:
+    term: skin of trunk
+    term_id: UBERON:0001085
+  input:
+    term: Skin of trunk
+    term_id: icdot-C44.5
+- equivalent:
+    term: parathyroid gland
+    term_id: UBERON:0001132
+  input:
+    term: parathyroid gland
+    term_id: icdot-C75.0
+- equivalent:
+    term: body of pancreas
+    term_id: UBERON:0001150
+  input:
+    term: Body of pancreas
+    term_id: icdot-C25.1
+- equivalent:
+    term: tail of pancreas
+    term_id: UBERON:0001151
+  input:
+    term: Tail of pancreas
+    term_id: icdot-C25.2
+- equivalent:
+    term: ascending colon
+    term_id: UBERON:0001156
+  input:
+    term: Ascending colon
+    term_id: icdot-C18.2
+- equivalent:
+    term: transverse colon
+    term_id: UBERON:0001157
+  input:
+    term: Transverse colon
+    term_id: icdot-C18.4
+- equivalent:
+    term: descending colon
+    term_id: UBERON:0001158
+  input:
+    term: Descending colon
+    term_id: icdot-C18.6
+- equivalent:
+    term: fundus of stomach
+    term_id: UBERON:0001160
+  input:
+    term: Fundus of stomach
+    term_id: icdot-C16.1
+- equivalent:
+    term: body of stomach
+    term_id: UBERON:0001161
+  input:
+    term: Body of stomach
+    term_id: icdot-C16.2
+- equivalent:
+    term: lesser curvature of stomach
+    term_id: UBERON:0001163
+  input:
+    term: Lesser curvature of stomach
+    term_id: icdot-C16.5
+- equivalent:
+    term: adrenal cortex
+    term_id: UBERON:0001235
+  input:
+    term: adrenal cortex
+    term_id: icdot-C74.0
+- equivalent:
+    term: urinary bladder
+    term_id: UBERON:0001255
+  input:
+    term: Urinary bladder
+    term_id: icdot-C67.0
+- equivalent:
+    term: pancreas
+    term_id: UBERON:0001264
+  input:
+    term: Pancreas
+    term_id: icdot-C25.9
+- equivalent:
+    term: endometrium
+    term_id: UBERON:0001295
+  input:
+    term: endometrium
+    term_id: icdot-C54.1
+- equivalent:
+    term: myometrium
+    term_id: UBERON:0001296
+  input:
+    term: Myometrium
+    term_id: icdot-C54.2
+- equivalent:
+    term: olfactory nerve
+    term_id: UBERON:0001579
+  input:
+    term: Olfactory nerve
+    term_id: icdot-C72.2
+- equivalent:
+    term: mandible
+    term_id: UBERON:0001684
+  input:
+    term: Mandible
+    term_id: icdot-C41.1
+- equivalent:
+    term: external ear
+    term_id: UBERON:0001691
+  input:
+    term: External ear
+    term_id: icdot-C44.2
+- equivalent:
+    term: nasal cavity
+    term_id: UBERON:0001707
+  input:
+    term: Nasal cavity
+    term_id: icdot-C30.0
+- equivalent:
+    term: tongue
+    term_id: UBERON:0001723
+  input:
+    term: tongue
+    term_id: icdot-C01.9
+- equivalent:
+    term: nasopharynx
+    term_id: UBERON:0001728
+  input:
+    term: nasopharynx
+    term_id: icdot-C11.9
+- equivalent:
+    term: oropharynx
+    term_id: UBERON:0001729
+  input:
+    term: Oropharynx
+    term_id: icdot-C10.9
+- equivalent:
+    term: submandibular gland
+    term_id: UBERON:0001736
+  input:
+    term: Submandibular gland
+    term_id: icdot-C08.0
+- equivalent:
+    term: larynx
+    term_id: UBERON:0001737
+  input:
+    term: Larynx
+    term_id: icdot-C32.9
+- equivalent:
+    term: ciliary body
+    term_id: UBERON:0001775
+  input:
+    term: Ciliary body
+    term_id: icdot-C69.4
+- equivalent:
+    term: parotid gland
+    term_id: UBERON:0001831
+  input:
+    term: parotid gland
+    term_id: icdot-C07.9
+- equivalent:
+    term: lip
+    term_id: UBERON:0001833
+  input:
+    term: Lip
+    term_id: icdot-C00.9
+- equivalent:
+    term: temporal lobe
+    term_id: UBERON:0001871
+  input:
+    term: Temporal lobe
+    term_id: icdot-C71.2
+- equivalent:
+    term: parietal lobe
+    term_id: UBERON:0001872
+  input:
+    term: Parietal lobe
+    term_id: icdot-C71.3
+- equivalent:
+    term: placenta
+    term_id: UBERON:0001987
+  input:
+    term: placenta
+    term_id: icdot-C58.9
+- equivalent:
+    term: occipital lobe
+    term_id: UBERON:0002021
+  input:
+    term: Occipital lobe
+    term_id: icdot-C71.4
+- equivalent:
+    term: cerebellum
+    term_id: UBERON:0002037
+  input:
+    term: cerebellum
+    term_id: icdot-C71.6
+- equivalent:
+    term: thyroid gland
+    term_id: UBERON:0002046
+  input:
+    term: Thyroid gland
+    term_id: icdot-C73.9
+- equivalent:
+    term: lung
+    term_id: UBERON:0002048
+  input:
+    term: Overlapping lesion of lung
+    term_id: icdot-C34.8
+- equivalent:
+    term: spleen
+    term_id: UBERON:0002106
+  input:
+    term: Spleen
+    term_id: icdot-C42.2
+- equivalent:
+    term: liver
+    term_id: UBERON:0002107
+  input:
+    term: Liver
+    term_id: icdot-C22.0
+- equivalent:
+    term: small intestine
+    term_id: UBERON:0002108
+  input:
+    term: Small intestine
+    term_id: icdot-C17.9
+- equivalent:
+    term: kidney
+    term_id: UBERON:0002113
+  input:
+    term: kidney
+    term_id: icdot-C64.9
+- equivalent:
+    term: jejunum
+    term_id: UBERON:0002115
+  input:
+    term: Jejunum
+    term_id: icdot-C17.1
+- equivalent:
+    term: main bronchus
+    term_id: UBERON:0002182
+  input:
+    term: Main bronchus
+    term_id: icdot-C34.0
+- equivalent:
+    term: spinal cord
+    term_id: UBERON:0002240
+  input:
+    term: Spinal cord
+    term_id: icdot-C72.0
+- equivalent:
+    term: peritoneum
+    term_id: UBERON:0002358
+  input:
+    term: Peritoneum
+    term_id: icdot-C48.2
+- equivalent:
+    term: prostate gland
+    term_id: UBERON:0002367
+  input:
+    term: prostate gland
+    term_id: icdot-C61.9
+- equivalent:
+    term: thymus
+    term_id: UBERON:0002370
+  input:
+    term: Thymus
+    term_id: icdot-C37.9
+- equivalent:
+    term: bone marrow
+    term_id: UBERON:0002371
+  input:
+    term: Bone marrow
+    term_id: icdot-C42.1
+- equivalent:
+    term: tonsil
+    term_id: UBERON:0002372
+  input:
+    term: tonsil
+    term_id: icdot-C09.9
+- equivalent:
+    term: hematopoietic system
+    term_id: UBERON:0002390
+  input:
+    term: Hematopoietic system
+    term_id: icdot-C42.4
+- equivalent:
+    term: trachea
+    term_id: UBERON:0003126
+  input:
+    term: trachea
+    term_id: icdot-C33.9
+- equivalent:
+    term: hard palate
+    term_id: UBERON:0003216
+  input:
+    term: Hard palate
+    term_id: icdot-C05.0
+- equivalent:
+    term: extrahepatic bile duct
+    term_id: UBERON:0003703
+  input:
+    term: Extrahepatic bile duct
+    term_id: icdot-C24.0
+- equivalent:
+    term: mediastinum
+    term_id: UBERON:0003728
+  input:
+    term: mediastinum
+    term_id: icdot-C38.9
+- equivalent:
+    term: fallopian tube
+    term_id: UBERON:0003889
+  input:
+    term: fallopian tube
+    term_id: icdot-C57.0
+- equivalent:
+    term: spermatic cord
+    term_id: UBERON:0005352
+  input:
+    term: Spermatic cord
+    term_id: icdot-C63.1
+- equivalent:
+    term: pharynx
+    term_id: UBERON:0006562
+  input:
+    term: pharynx
+    term_id: icdot-C14.0
+- equivalent:
+    term: anterior mediastinum
+    term_id: UBERON:0008820
+  input:
+    term: Anterior mediastinum
+    term_id: icdot-C38.1
+- equivalent:
+    term: frontal lobe
+    term_id: UBERON:0016525
+  input:
+    term: Frontal lobe
+    term_id: icdot-C71.1
+- equivalent:
+    term: splenic flexure of colon
+    term_id: UBERON:0022276
+  input:
+    term: Splenic flexure of colon
+    term_id: icdot-C18.5
+- equivalent:
+    term: hepatic flexure of colon
+    term_id: UBERON:0022277
+  input:
+    term: Hepatic flexure of colon
+    term_id: icdot-C18.3
+- equivalent:
+    term: posterior wall of oropharynx
+    term_id: UBERON:0035240
+  input:
+    term: Posterior wall of oropharynx
+    term_id: icdot-C10.3
+- equivalent:
+    term: upper outer quadrant of breast
+    term_id: UBERON:0035328
+  input:
+    term: Upper-outer quadrant of breast
+    term_id: icdot-C50.4
+- equivalent:
+    term: lower outer quadrant of breast
+    term_id: UBERON:0035365
+  input:
+    term: Lower-outer quadrant of breast
+    term_id: icdot-C50.5
+- equivalent:
+    term: lower inner quadrant of breast
+    term_id: UBERON:0035477
+  input:
+    term: Lower-inner quadrant of breast
+    term_id: icdot-C50.3
+- equivalent:
+    term: upper inner quadrant of breast
+    term_id: UBERON:0035542
+  input:
+    term: Upper-inner quadrant of breast
+    term_id: icdot-C50.2
+- equivalent:
+    term: rectosigmoid junction
+    term_id: UBERON:0036214
+  input:
+    term: Rectosigmoid junction
+    term_id: icdot-C19.9
+- equivalent:
+    term: lymph node
+    term_id: UBERON:0000029
+  input:
+    term: Lymph nodes
+    term_id: icdot-C77.9
+- equivalent:
+    term: uterine cervix
+    term_id: UBERON:0000002
+  input:
+    term: cervix uteri
+    term_id: icdot-C53.9
+- equivalent:
+    term: connective tissue
+    term_id: UBERON:0002384
+  input:
+    term: connective and soft tissue
+    term_id: icdot-C49.9
+- equivalent:
+    term: cerebral hemisphere
+    term_id: UBERON:0001869
+  input:
+    term: cerebrum
+    term_id: icdot-C71.0
+- equivalent:
+    term: lung
+    term_id: UBERON:0002048
+  input:
+    term: lung and bronchus
+    term_id: icdot-C34.9
+- equivalent:
+    term: female reproductive system
+    term_id: UBERON:0000474
+  input:
+    term: other female genital
+    term_id: icdot-C57.9
+- equivalent:
+    term: skeletal element
+    term_id: UBERON:0004765
+  input:
+    term: bones and joints
+    term_id: icdot-C40.0
+- equivalent:
+    term: colon
+    term_id: UBERON:0001155
+  input:
+    term: large intestine, excl. rectum and rectosigmoid junction
+    term_id: icdot-C18.9
+- equivalent:
+    term: spinal nerve
+    term_id: UBERON:0001780
+  input:
+    term: peripheral nervs incl. Autonomous
+    term_id: icdot-C47.9
+- equivalent:
+    term: zone of skin
+    term_id: UBERON:0000014
+  input:
+    term: Skin
+    term_id: icdot-C44.9
+- equivalent:
+    term: meningeal branch of spinal nerve
+    term_id: UBERON:0017641
+  input:
+    term: meninges cerebral, spinal
+    term_id: icdot-C70.0
+- equivalent:
+    term: anus
+    term_id: UBERON:0001245
+  input:
+    term: anal canal and anus
+    term_id: icdot-C21.9
+- equivalent:
+    term: pineal tract
+    term_id: UBERON:0034715
+  input:
+    term: pineal gland
+    term_id: icdot-C75.3
+- equivalent:
+    term: retroperitoneal space
+    term_id: UBERON:0003693
+  input:
+    term: retroperitoneum and peritoneum
+    term_id: icdot-C48.9
+- equivalent:
+    term: cardiac ventricle
+    term_id: UBERON:0002082
+  input:
+    term: Ventricle
+    term_id: icdot-C71.5
+- equivalent:
+    term: brainstem
+    term_id: UBERON:0002298
+  input:
+    term: brain stem
+    term_id: icdot-C71.7
+- equivalent:
+    term: bone element
+    term_id: UBERON:0001474
+  input:
+    term: bone
+    term_id: icdot-C41.9
+- equivalent:
+    term: colon
+    term_id: UBERON:0001155
+  input:
+    term: sigmoid incl. rectosigmoid junction
+    term_id: icdot-C18.7
+- equivalent:
+    term: optic chiasma
+    term_id: UBERON:0000959
+  input:
+    term: Optic chiasm
+    term_id: icdot-C72.3
+- equivalent:
+    term: mouth floor
+    term_id: UBERON:0003679
+  input:
+    term: floor of mouth
+    term_id: icdot-C04.9
+- equivalent:
+    term: intrahepatic bile duct
+    term_id: UBERON:0003704
+  input:
+    term: intrahepatic bile ducts
+    term_id: icdot-C22.1
+- equivalent:
+    term: lacrimal gland
+    term_id: UBERON:0001817
+  input:
+    term: orbit and lacrimal gland, excl. retina, eye
+    term_id: icdot-C69.0
+- equivalent:
+    term: thoracic segment of trunk
+    term_id: UBERON:0000915
+  input:
+    term: thorax
+    term_id: icdot-C76.1
+- equivalent:
+    term: genital labium
+    term_id: UBERON:0004084
+  input:
+    term: vagina and labia
+    term_id: icdot-C51.0
+- equivalent:
+    term: constrictor vulvae muscle
+    term_id: UBERON:0011387
+  input:
+    term: vulva
+    term_id: icdot-C51.9
+- equivalent:
+    term: manual acropodium region
+    term_id: UBERON:0012355
+  input:
+    term: nasal cavity including nasal cartilage
+    term_id: icdot-C30.9
+- equivalent:
+    term: cecum mucosa
+    term_id: UBERON:0000314
+  input:
+    term: cecum
+    term_id: icdot-C18.0
+- equivalent:
+    term: salivary gland epithelium
+    term_id: UBERON:0004809
+  input:
+    term: salivary gland
+    term_id: icdot-C08.9
+- equivalent:
+    term: adrenal gland
+    term_id: UBERON:0002369
+  input:
+    term: adrenal glands
+    term_id: icdot-C74.9
+- equivalent:
+    term: digestive system
+    term_id: UBERON:0001007
+  input:
+    term: unspecified digest. Organs
+    term_id: icdot-C26.9
+- equivalent:
+    term: renal pelvis/ureter
+    term_id: UBERON:0036295
+  input:
+    term: Renal pelvis, ureter
+    term_id: icdot-C65.9
+- equivalent:
+    term: mucosa of gallbladder
+    term_id: UBERON:0005033
+  input:
+    term: gallbladder
+    term_id: icdot-C23.9
+- equivalent:
+    term: extrahepatic bile duct
+    term_id: UBERON:0003703
+  input:
+    term: extrahepatic and unspecified bile ducts
+    term_id: icdot-C24.9
+- equivalent:
+    term: upper lobe of lung
+    term_id: UBERON:0008948
+  input:
+    term: Upper lobe, lung
+    term_id: icdot-C34.1
+- equivalent:
+    term: lower esophagus
+    term_id: UBERON:0013473
+  input:
+    term: Lower third of esophagus
+    term_id: icdot-C15.5
+- equivalent:
+    term: anatomical entity
+    term_id: UBERON:0001062
+  input:
+    term: Unknown primary site
+    term_id: icdot-C80.9
+- equivalent:
+    term: lymph node of head
+    term_id: UBERON:0015870
+  input:
+    term: Lymph nodes of head, face and neck
+    term_id: icdot-C77.0
+- equivalent:
+    term: bladder organ
+    term_id: UBERON:0018707
+  input:
+    term: Bladder
+    term_id: icdot-C67.9
+- equivalent:
+    term: hip connective tissue
+    term_id: UBERON:0003576
+  input:
+    term: Connective, Subcutaneous and other soft tissues of lower limb and hip
+    term_id: icdot-C49.2
+- equivalent:
+    term: retroperitoneal space
+    term_id: UBERON:0003693
+  input:
+    term: Retroperitoneum
+    term_id: icdot-C48.0
+- equivalent:
+    term: choroidal gland
+    term_id: UBERON:0013398
+  input:
+    term: Choroid
+    term_id: icdot-C69.3
+- equivalent:
+    term: pyloric antrum
+    term_id: UBERON:0001165
+  input:
+    term: Gastric antrum
+    term_id: icdot-C16.3
+- equivalent:
+    term: buccal mucosa
+    term_id: UBERON:0006956
+  input:
+    term: Cheeck mucosa
+    term_id: icdot-C06.0
+- equivalent:
+    term: lower lobe of lung
+    term_id: UBERON:0008949
+  input:
+    term: Lower lobe, lung
+    term_id: icdot-C34.3
+- equivalent:
+    term: trunk connective tissue
+    term_id: UBERON:0003586
+  input:
+    term: Connective, Subcutaneous and other soft tissues of trunk
+    term_id: icdot-C49.6
+- equivalent:
+    term: omentum
+    term_id: UBERON:0003688
+  input:
+    term: Specified parts of peritoneum
+    term_id: icdot-C48.1
+- equivalent:
+    term: fundus of urinary bladder
+    term_id: UBERON:0006082
+  input:
+    term: Dome of bladder
+    term_id: icdot-C67.1
+- equivalent:
+    term: middle lobe of lung
+    term_id: UBERON:0008955
+  input:
+    term: Middle lobe, lung
+    term_id: icdot-C34.2
+- equivalent:
+    term: ocular adnexa
+    term_id: UBERON:0035639
+  input:
+    term: Overlapping lesion of eye and adnexa
+    term_id: icdot-C69.8
+- equivalent:
+    term: wall of urinary bladder
+    term_id: UBERON:0001256
+  input:
+    term: Posterior wall of bladder
+    term_id: icdot-C67.4
+- equivalent:
+    term: gingiva
+    term_id: UBERON:0001828
+  input:
+    term: Gum
+    term_id: icdot-C03.9
+- equivalent:
+    term: middle part of esophagus
+    term_id: UBERON:0013474
+  input:
+    term: Middle third of esophagus
+    term_id: icdot-C15.4
+- equivalent:
+    term: wall of urinary bladder
+    term_id: UBERON:0001256
+  input:
+    term: Lateral wall of bladder
+    term_id: icdot-C67.2
+- equivalent:
+    term: cardia of stomach
+    term_id: UBERON:0001162
+  input:
+    term: Cardia
+    term_id: icdot-C16.0
+- equivalent:
+    term: lymph node of upper limb
+    term_id: UBERON:0016399
+  input:
+    term: Lymph nodes of axilla or arm
+    term_id: icdot-C77.3
+- equivalent:
+    term: thoracic segment connective tissue
+    term_id: UBERON:0003837
+  input:
+    term: Connective, Subcutaneous and other soft tissues of thorax
+    term_id: icdot-C49.3
+- equivalent:
+    term: pelvis connective tissue
+    term_id: UBERON:0003594
+  input:
+    term: Connective, Subcutaneous and other soft tissues of pelvis
+    term_id: icdot-C49.5
+- equivalent:
+    term: shoulder connective tissue
+    term_id: UBERON:0003579
+  input:
+    term: Connective, Subcutaneous and other soft tissues of upper limb and shoulder
+    term_id: icdot-C49.1
+- equivalent:
+    term: body of uterus
+    term_id: UBERON:0009853
+  input:
+    term: Fundus uteri
+    term_id: icdot-C54.3
+- equivalent:
+    term: cavity of pharynx
+    term_id: UBERON:0001731
+  input:
+    term: Overlapping lesion of lip, oral cavity and pharynx
+    term_id: icdot-C14.8
+- equivalent:
+    term: inguinal lymph node
+    term_id: UBERON:0001542
+  input:
+    term: Lymph nodes of inguinal region or leg
+    term_id: icdot-C77.4
+- equivalent:
+    term: wall of urinary bladder
+    term_id: UBERON:0001256
+  input:
+    term: Anterior wall of bladder
+    term_id: icdot-C67.3
+- equivalent:
+    term: skin of hip
+    term_id: UBERON:0001554
+  input:
+    term: Skin of lower limb and hip
+    term_id: icdot-C44.7
+- equivalent:
+    term: abdominal lymph node
+    term_id: UBERON:0002507
+  input:
+    term: Intra-abdominal lymph nodes
+    term_id: icdot-C77.2
+- equivalent:
+    term: abdomen connective tissue
+    term_id: UBERON:0003567
+  input:
+    term: Connective, Subcutaneous and other soft tissues of abdomen
+    term_id: icdot-C49.4
+- equivalent:
+    term: gingiva of lower jaw
+    term_id: UBERON:0011602
+  input:
+    term: Lower gum
+    term_id: icdot-C03.1
+- equivalent:
+    term: pelvic lymph node
+    term_id: UBERON:0015876
+  input:
+    term: Pelvic lymph nodes
+    term_id: icdot-C77.5
+- equivalent:
+    term: skin of scalp
+    term_id: UBERON:8300000
+  input:
+    term: Skin of scalp and neck
+    term_id: icdot-C44.4
+- equivalent:
+    term: skin of shoulder
+    term_id: UBERON:0001483
+  input:
+    term: Skin of upper limb and shoulder
+    term_id: icdot-C44.6
+- equivalent:
+    term: upper esophagus
+    term_id: UBERON:0013472
+  input:
+    term: Upper third of esophagus
+    term_id: icdot-C15.3
+- equivalent:
+    term: head connective tissue
+    term_id: UBERON:0003566
+  input:
+    term: Connective, Subcutaneous and other soft tissues of head, face, and neck
+    term_id: icdot-C49.0
+- equivalent:
+    term: anus
+    term_id: UBERON:0001245
+  input:
+    term: Overlapping lesion of rectum, anus and anal canal
+    term_id: icdot-C21.8
+- equivalent:
+    term: body of uterus
+    term_id: UBERON:0009853
+  input:
+    term: Isthmus uteri
+    term_id: icdot-C54.0
+- equivalent:
+    term: supraglottic part of larynx
+    term_id: UBERON:0036263
+  input:
+    term: Supraglottis
+    term_id: icdot-C32.1
+- equivalent:
+    term: head bone
+    term_id: UBERON:0003457
+  input:
+    term: Bones of skull and face and associated joints
+    term_id: icdot-C41.0
+- equivalent:
+    term: skin of face
+    term_id: UBERON:1000021
+  input:
+    term: Skin of other and unspecified parts of face
+    term_id: icdot-C44.3
+- equivalent:
+    term: ureteral orifice
+    term_id: UBERON:0012303
+  input:
+    term: Bladder neck
+    term_id: icdot-C67.5
+- equivalent:
+    term: connective tissue
+    term_id: UBERON:0002384
+  input:
+    term: Overlapping lesion of connective, subcutaneous and other soft tissues
+    term_id: icdot-C49.8
+- equivalent:
+    term: body of uterus
+    term_id: UBERON:0009853
+  input:
+    term: Corpus uteri
+    term_id: icdot-C54.9
+- equivalent:
+    term: adrenal medulla
+    term_id: UBERON:0001236
+  input:
+    term: Medulla of adrenal gland
+    term_id: icdot-C74.1
+- equivalent:
+    term: pelvic cavity
+    term_id: UBERON:0008203
+  input:
+    term: Pelvis
+    term_id: icdot-C76.3
+- equivalent:
+    term: meningeal branch of spinal nerve
+    term_id: UBERON:0017641
+  input:
+    term: Spinal meninges
+    term_id: icdot-C70.1
+- equivalent:
+    term: mouth floor
+    term_id: UBERON:0003679
+  input:
+    term: Anterior floor of mouth
+    term_id: icdot-C04.0
+- equivalent:
+    term: limb long bone
+    term_id: UBERON:0003606
+  input:
+    term: Long bones of lower limb and associated joints
+    term_id: icdot-C40.2
+- equivalent:
+    term: paraganglion (generic)
+    term_id: UBERON:0034978
+  input:
+    term: Aortic body and other paraganglia
+    term_id: icdot-C75.5
+- equivalent:
+    term: gingiva of upper jaw
+    term_id: UBERON:0011601
+  input:
+    term: Upper Gum
+    term_id: icdot-C03.0
+- equivalent:
+    term: thoracic part of esophagus
+    term_id: UBERON:0035216
+  input:
+    term: Thoracic esophagus
+    term_id: icdot-C15.1
+- equivalent:
+    term: retromolar space
+    term_id: UBERON:0013471
+  input:
+    term: Retromolar area
+    term_id: icdot-C06.2
+- equivalent:
+    term: thoracic lymph node
+    term_id: UBERON:0007644
+  input:
+    term: Intrathoracic lymph nodes
+    term_id: icdot-C77.1
+- equivalent:
+    term: autonomic nervous system
+    term_id: UBERON:0002410
+  input:
+    term: Peripheral nerves and autonomic nervous system of upper limb and shoulder
+    term_id: icdot-C47.1
+- equivalent:
+    term: ectocervix
+    term_id: UBERON:0012249
+  input:
+    term: Exocervix
+    term_id: icdot-C53.1
+- equivalent:
+    term: short bone
+    term_id: UBERON:0013630
+  input:
+    term: Short bones of lower limb and associated joints
+    term_id: icdot-C40.3
+- equivalent:
+    term: roof of mouth
+    term_id: UBERON:0007375
+  input:
+    term: Palate
+    term_id: icdot-C05.9
+- equivalent:
+    term: somite border
+    term_id: UBERON:0015178
+  input:
+    term: Border of tongue
+    term_id: icdot-C02.1
+- equivalent:
+    term: surface of tongue
+    term_id: UBERON:0007367
+  input:
+    term: Ventral surface of tongue
+    term_id: icdot-C02.2
+- equivalent:
+    term: ureteral orifice
+    term_id: UBERON:0012303
+  input:
+    term: Ureteric orifice
+    term_id: icdot-C67.6
+- equivalent:
+    term: head
+    term_id: UBERON:0000033
+  input:
+    term: Head, face or neck
+    term_id: icdot-C76.0
+- equivalent:
+    term: anatomical entity
+    term_id: UBERON:0001062
+  input:
+    term: ill-defined
+    term_id: icdot-C76.9
+- equivalent:
+    term: spermatic cord
+    term_id: UBERON:0005352
+  input:
+    term: epididymis, spermatic cord, male genital
+    term_id: icdot-C63.9
+- equivalent:
+    term: renal system
+    term_id: UBERON:0001008
+  input:
+    term: other urinary organs
+    term_id: icdot-C68.0
+- equivalent:
+    term: middle ear
+    term_id: UBERON:0001756
+  input:
+    term: middle and inner ear
+    term_id: icdot-C30.1
+- equivalent:
+    term: intestine
+    term_id: UBERON:0000160
+  input:
+    term: Intestinal tract
+    term_id: icdot-C26.0
+- equivalent:
+    term: meningeal cluster
+    term_id: UBERON:0010743
+  input:
+    term: Meninges
+    term_id: icdot-C70.9
+- equivalent:
+    term: short bone
+    term_id: UBERON:0013630
+  input:
+    term: Short bones of upper limb and associated joints
+    term_id: icdot-C40.1
+- equivalent:
+    term: bony pelvis
+    term_id: UBERON:0001270
+  input:
+    term: Pelvic bones, sacrum, coccyx and associated joints
+    term_id: icdot-C41.4
+- equivalent:
+    term: stomach
+    term_id: UBERON:0000945
+  input:
+    term: Overlapping lesion of stomach
+    term_id: icdot-C16.8
+- equivalent:
+    term: brain
+    term_id: UBERON:0000955
+  input:
+    term: Brain
+    term_id: icdot-C71
+- equivalent:
+    term: hypopharynx
+    term_id: UBERON:0001051
+  input:
+    term: Hypopharynx
+    term_id: icdot-C13
+- equivalent:
+    term: renal pelvis
+    term_id: UBERON:0001224
+  input:
+    term: Renal pelvis
+    term_id: icdot-C65
+- equivalent:
+    term: tongue
+    term_id: UBERON:0001723
+  input:
+    term: Tongue, NOS
+    term_id: icdot-C02.9
+- equivalent:
+    term: liver
+    term_id: UBERON:0002107
+  input:
+    term: liver
+    term_id: icdot-C22.9
+- equivalent:
+    term: duodenum
+    term_id: UBERON:0002114
+  input:
+    term: Duodenum
+    term_id: icdot-C17.0
+- equivalent:
+    term: bone marrow
+    term_id: UBERON:0002371
+  input:
+    term: Bone marrow
+    term_id: icdot-C42.15
+- equivalent:
+    term: autonomic nervous system
+    term_id: UBERON:0002410
+  input:
+    term: autonomic nervous system
+    term_id: icdot-C47.4
+- equivalent:
+    term: mediastinum
+    term_id: UBERON:0003728
+  input:
+    term: Mediastinum, NOS
+    term_id: icdot-C38.3
+- equivalent:
+    term: pancreatic duct
+    term_id: UBERON:0007329
+  input:
+    term: Pancreatic duct
+    term_id: icdot-C25.3
+- equivalent:
+    term: orbit of skull
+    term_id: UBERON:0001697
+  input:
+    term: Orbit, NOS
+    term_id: icdot-C69.6
+- equivalent:
+    term: vermiform appendix
+    term_id: UBERON:0001154
+  input:
+    term: Appendix
+    term_id: icdot-C18.1
+- equivalent:
+    term: intrahepatic bile duct
+    term_id: UBERON:0003704
+  input:
+    term: Liver and intrahepatic bile ducts
+    term_id: icdot-C22.9
+- equivalent:
+    term: aryepiglottic fold
+    term_id: UBERON:0014385
+  input:
+    term: Hypopharyngeal aspect of aryepiglottic fold
+    term_id: icdot-C13.1
+- equivalent:
+    term: hepatopancreatic ampulla
+    term_id: UBERON:0004913
+  input:
+    term: Ampulla of Vater
+    term_id: icdot-C24.1
+- equivalent:
+    term: breast
+    term_id: UBERON:0000310
+  input:
+    term: Overlapping lesion of breast
+    term_id: icdot-C50.8
+- equivalent:
+    term: pancreas
+    term_id: UBERON:0001264
+  input:
+    term: Overlapping lesion of pancreas
+    term_id: icdot-C25.8
+- equivalent:
+    term: brain
+    term_id: UBERON:0000955
+  input:
+    term: Overlapping lesion of brain
+    term_id: icdot-C71.8
